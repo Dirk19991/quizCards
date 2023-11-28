@@ -14,8 +14,14 @@ export const QuestionCard = ({ questionNumber, setQuestionNumber }: CardProps) =
 
   const length = clues.length;
 
-  const setPrevious = () => setQuestionNumber((prev) => (prev - 1 < 0 ? prev : prev - 1));
-  const setNext = () => setQuestionNumber((prev) => (prev + 1 >= length ? prev : prev + 1));
+  const setPrevious = () => {
+    setQuestionNumber((prev) => (prev - 1 < 0 ? prev : prev - 1));
+    setAnswerShown(false);
+  };
+  const setNext = () => {
+    setQuestionNumber((prev) => (prev + 1 >= length ? prev : prev + 1));
+    setAnswerShown(false);
+  };
 
   const answer = Object.keys(clues[questionNumber])[0];
   const question =
