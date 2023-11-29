@@ -406,4 +406,189 @@ export const questions: Question[] = [
     'Красная книга':
       'манускрипт психолога и философа Карла Густава Юнга, созданный им в период между 1914 и 1930 годами и насчитывающий 205 страниц, некоторые из которых иллюстрированы автором. ',
   },
+  {
+    'Toru Takemitsu':
+      'Stravinsky took this composer out to lunch after hearing his Requiem for Strings. For ten points, name this Messiaen-inspired classical Japanese composer.',
+  },
+  {
+    'Colombian Cumbia':
+      'This style and its relative porro are the primary music types heard at the Carnaval de Barranquilla. For ten points, name this style of music and dance from Colombia. ',
+  },
+  {
+    'Komitas Vardapet':
+      'This composer may have been romantically interested in Margarit Babayan, despite being ordained as a vardapet at Etchmiadzin. For ten points, name this folk music collector who suffered from PTSD after the Armenian genocide.',
+  },
+  {
+    Erhu: 'This is the most popular instrument in a family whose distinguishing features include a python skin-covered soundbox. This instrument is tuned between the zhonghu and gaohu. For ten points, name this traditional Chinese two-stringed spike fiddle. ',
+  },
+  {
+    'Umm Kulthum':
+      'This singer’s (*) “It’s Been a Long Time, O Weapon of Mine” was made the national anthem of her country, and she worked with the composer Abd al-Wahhab on songs such as “Enta Omry”. For ten points, what contralto is revered as the “Star of the East” in Egypt? ',
+  },
+  {
+    'Alberto Ginastera':
+      'In his (*) Objective Nationalist phase, this composer of Don Rodrigo included a Danza del Gaucho Matrero at the end of a piano suite depicting his home country. For ten points, name this composer of Danzas Argentinas. ',
+  },
+  {
+    abjad:
+      'Unlike alphabets, these writing systems do not have graphemes for vowels. For ten points, Hebrew and Arabic are an “impure” sort of what type of writing system comprised of only consonants? ',
+  },
+  {
+    'Здзислав Бексиньский':
+      'In one of his paintings, thousands of bugs are depicted crawling into the open mouth of a nose-less face, while in another, a humanoid spider-like figure with a red emblem for a face crawls amidst a post-apocalyptic background. For 10 points, name this surrealist “nightmare artist.” ',
+  },
+  {
+    'Felix Gonzalez-Torres':
+      'This artist’s Doubles series includes (*) “Untitled” (Perfect Lovers), which depicts two clocks in sync. This artist described the medium of one of his installations as being in “endless supply,” and invited visitors to take individual pieces of the work. For 10 points, name this Cuban-American artist who produced one of his “candy works” to commemorate Ross Laycock, his lover who passed away due to AIDS. ',
+  },
+  {
+    'Elinor Ostrom':
+      'This creator of the IAD framework and author of “Collective Action and the Evolution of Social Norms” used the examples of farmers in the Swiss Alps and fishers in Maine to dispute Garret Hardin’s conclusions about resource management. For 10 points, name this author of Governing the Commons, the first female Nobel laureate for economics.',
+  },
+  {
+    Knoll:
+      'This company names an organizational method in which objects are arranged at 90-degree angles on a flat surface.  For 10 points, modern office design was pioneered by what furniture company that shares its name with a synonym for “hillock”?',
+  },
+  {
+    'Эффект основателя':
+      'This phenomenon occurs when a small group breaks off from the main body and forms a new population. Since the sample size is small, the new population could have a very different genetic ratio than the original one. ',
+  },
+  {
+    'bottleneck effect':
+      'Similar to the founder effect, this is a reduction of the population’s gene pool when a small subset of the population survives the widespread elimination of the species',
+  },
+  {
+    'Emilio Segre':
+      'He studied under Enrico Fermi in Rome and was head of the radioactivity group at the Manhattan project. Together with Owen Chamberlain, he shared the Nobel Prize for discovering the antiproton. ',
+  },
+  {
+    'The Iron Gates':
+      'a gorge on the river Danube. It forms part of the boundary between Serbia (to the south) and Romania (north). In the broad sense it encompasses a route of 134 km (83 mi); in the narrow sense it only encompasses the last barrier on this route, just beyond the Romanian city of Orșova, that contains two hydroelectric dams',
+  },
+  {
+    'Charles Demuth (The painting is I Saw the Figure 5 in Gold.)':
+      'A group of art patrons admire Brâncuși’s phallic sculpture Princess X in this artist’s Distinguished Air. Another painting by this artist is based on a William Carlos Williams poem about witnessing a speeding fire truck. ',
+  },
+  {
+    'Kara Walker':
+      'For 10 points, name this African-American artist who is noted for her exploration of race and gender through silhouettes',
+  },
+  {
+    'The Slav Epic (Славянская эпопея)':
+      'This series consists of 20 canvases, and was composed over a period of 18 years. For 10 points, name this cycle of paintings depicting the history of its titular peoples by Alphonse Mucha. ',
+  },
+  {
+    'David Byrne (Talking Heads)':
+      'Classical Japanese theater inspired the ridiculously large suit worn by this man during the song “Girlfriend Is Better” in a Jonathan Demme film. For 10 points, name this singer who appears in the concert film Stop Making Sense. ',
+  },
+  {
+    'Anna Karina':
+      'This actor’s husband fictionalized their rocky relationship in the film Contempt. Coco Chanel helped this actor come up with her Tolstoy-inspired stage name. For 10 points, name this star of many 1960s films by JeanLuc Godard, including Alphaville and Vivre sa vie. ',
+  },
+  {
+    'Lin-Manuel Miranda':
+      'Eighteen people have completed an EGOT (i.e. winning an Emmy, Grammy, Oscar, and Tony). Falling just short, having not yet won an Oscar, is which American entertainer, best known for creating the Broadway musicals In The Heights and Hamilton? ',
+  },
+  {
+    TSUNDOKU:
+      'Which Japanese word means leaving a book unread after buying it, typically piled up with other unread books? ',
+  },
+  {
+    DANEGELD:
+      'Which land tax, last enforced in 1162, was raised to pay tribute or protection money to Viking raiders to save a land being ravaged? Prominent from the ninth to the eleventh century, it was used both to buy off attackers, and pay defensive mercenaries. ',
+  },
+  {
+    'BAR LEV LINE':
+      'Fortified defense line east of the Suez Canal, erected by Israel after Egypt began shelling its troops in 1968. It withstood Egyptian artillery attacks during the War of Attrition but was breached by Egyptian troops during Operation Badr in 1973. ',
+  },
+  {
+    'CATHERINE of Siena ':
+      'Since 1970, the Roman Catholic Church has recognized four female saints as “Doctors of the Church” for their scholastic contributions. What 14th-century Tuscan laywoman was the second woman given this honour? She was instrumental in persuading Gregory XI to return the papacy from Avignon to Rome. ',
+  },
+  {
+    'CORN LAWs (Хлебные законы)':
+      'By what two-word name are the collection of tariffs and restrictions on the importing of cereal grains into the United Kingdom, in effect between 1815 and 1846, commonly known? ',
+  },
+  {
+    'Cori “Coco” GAUFF':
+      'First coming to prominence as a Wimbledon wild card beating Venus Williams in 2019, which American tennis player won the women’s singles title at the 2023 US Open? ',
+  },
+  {
+    'NOLI ME TANGERE':
+      'What three-word Latin phrase meaning “touch me not” links the words said by Jesus to Mary Magdalene after the resurrection, paintings by Titian and Correggio [core-EDGE-o] and a novel by José Rizal? ',
+  },
+  {
+    'AVEDON, RICHARD':
+      'A photographer for more than 60 years, he has photographed more fashion models than any of his contemporaries alive today.',
+  },
+  {
+    'BERTIN, ROSE':
+      'The first known fashion designer, who designed clothing for Queen Marie Antoinette of France during the 1770s.',
+  },
+  {
+    BIRKENSTOCK:
+      "In 1964, BLANK's son Karl designed the first Birkenstock sandal. Two years later, American Margot Fraser discovered the health benefits of the sandal while in Germany. Fraser brought the sandal back to California, where she founded her company, the BLANK Footprint Sandals Inc. Today, there are more than 300 styles based on the original comfort icon concept.",
+  },
+  {
+    'ERTÉ, ROMAIN DE TIRTOFF ':
+      '(1892–1990). Born into an aristocratic family in St. Petersburg, Russia, his interests were art and theater. He is recognized as one of the most notable fashion illustrators and costume designers. His work is easily identified by its stylized designs, exotic fabrics, and strands of beads and ornaments, together with towering and dramatic headwear. In 1912, his family moved to Paris. It was there that he illustrated for Paul Poiret and designed costumes, his most notable being for the famous exotic dancer, Dutch-born Mata Hari. ',
+  },
+  {
+    'LÉOTARD, JULES':
+      'A French aerial gymnast who invented the flying trapeze in 1859 and who is the creator of a one-piece garment, known as a maillot, which was later named after him.',
+  },
+  {
+    'REARD, LOUIS': 'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
+  },
+  {
+    Дзиндзя: 'синтоистское святилище, вместе с территорией вокруг.',
+  },
+  {
+    Kojiki:
+      'an early Japanese chronicle of myths, legends, hymns, genealogies, oral traditions, and semi-historical accounts concerning the origin of the Japanese archipelago, the kami, and the Japanese imperial line. It is claimed in its preface to have been composed by Ō no Yasumaro at the request of Empress Genmei in the early 8th century (711–712), and thus is usually considered to be the oldest extant literary work in Japan.',
+  },
+  {
+    Catenary:
+      'the curve that an idealized hanging chain or cable assumes under its own weight when supported only at its ends in a uniform gravitational field. ',
+  },
+  {
+    Tirthankara:
+      'In Jainism, what name is given to a spiritual teacher who has conquered the cycle of births and rebirths and makes a path for others to follow? ',
+  },
+  {
+    'Aufbau Principle':
+      'Its name originates from the German word for ‘construction’, what principle in quantum mechanics states that in the ground state of an atom, electrons fill subshells of the lowest available energy, before filling subshells of higher available energy? ',
+  },
+  {
+    'The Laugh of the Medusa':
+      'an essay by French feminist critic Hélène Cixous. It was (after she revised it) translated into English by Paula Cohen and Keith Cohen in 1976. In the essay, Cixous issues an ultimatum: that women can either read and choose to stay trapped in their own bodies by a language that does not allow them to express themselves, or they can use the body as a way to communicate. She describes a writing style, écriture féminine, that she says attempts to move outside of the conventional rules found in patriarchal systems.',
+  },
+  {
+    Wojtek:
+      'Though originally from Iran, this bear fought with the Free Polish Forces during World War II, often being used to carry ammunition. Following the war he retired to the zoo in Edinburgh, where he died in 1963. ',
+  },
+  {
+    'Jozef Pilsudski':
+      'After Poland regained its independence following World War I, this military strongman was the de facto (and often de jure) leader of Poland from 1918 until his death in 1935. As a general, this man is famous for defeating the much larger Soviet Union in the Soviet-Polish War of 1920. This man has many fans in Poland to this day.',
+  },
+  {
+    Gniezno:
+      'Now a sleepy town of 68,000 people, this city in central Poland was the first recorded capital of Poland. The bishop of this city is still the highest-ranking Catholic bishop in Poland, enjoying the title of "Primate of Poland".',
+  },
+  {
+    'Malbork Castle':
+      "Though it was built not by Poles, but by German Teutonic Knights, which castle in northern Poland is both a UNESCO World Heritage Site and one of Poland's most-visited touirist attractions?",
+  },
+  {
+    Pellagra:
+      'Diarrhoea, dermatitis, dementia, and death are the 4 "D"s that characterize which disease caused by deficiency of Niacin (vitamin B3)? ',
+  },
+  {
+    'Soutine (Chaim)':
+      'Which Russian expressionist artist (1893-1943), a friend of the ill-fated Amedeo Modigliani features in a Roald Dahl short story called "Skin"? He is best known for still-life paintings such as "Carcass of beef", and when he kept the rotting subject matter of the famous painting series in his room,  he lectured the Police on the importance of Art over hygiene when they were called to investigate the stench. ',
+  },
+  {
+    'Rudisha (David)':
+      "Which Kenyan middle distance runner is the 2012 and 2016 Olympic champion and World Record holder in the Men's 800m? ",
+  },
 ];
