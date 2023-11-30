@@ -82,7 +82,8 @@ export const questions: Question[] = [
       'also known as the "prolonged sunspot minimum", was a period around 1645 to 1715 during which sunspots became exceedingly rare. During a 28-year period (1672–1699) within the minimum, observations revealed fewer than 50 sunspots. This contrasts with the typical 40,000–50,000 sunspots seen in modern times over a similar timespan',
   },
   {
-    "Charli D'Amelio": 'This 18-year-old dancer has 145 million followers on TikTok',
+    "Charli D'Amelio":
+      'This 18-year-old dancer has 145 million followers on TikTok',
   },
   {
     Dobro:
@@ -104,7 +105,8 @@ export const questions: Question[] = [
     UFC: 'This event began in 1993 as a multi-match tournament, with jiu jitsu master Royce Gracie winning the first 2 titles',
   },
   {
-    'Carl Sandburg': 'In "Chicago Poems" he got civic with poems like "Halsted Street Car" & "Clark Street Bridge"',
+    'Carl Sandburg':
+      'In "Chicago Poems" he got civic with poems like "Halsted Street Car" & "Clark Street Bridge"',
   },
   {
     'Trung sisters (Сестры Чынг)':
@@ -136,7 +138,7 @@ export const questions: Question[] = [
   },
   {
     'Francisco de Orellana':
-      "Spanish explorer and conquistador. In one of the most improbably successful voyages in known history, Orellana managed to sail the length of the Amazon, arriving at the river's mouth on 24 August 1542. He and his party sailed along the Atlantic coast until reaching Cubagua Island, near the coast of Venezuela. He founded the city of Guayaquil in what is now Ecuador, and died during a second expedition on the Amazon.",
+      "Spanish explorer and conquistador. In one of the most improbably successful voyages in known history, he managed to sail the length of the Amazon, arriving at the river's mouth on 24 August 1542. He and his party sailed along the Atlantic coast until reaching Cubagua Island, near the coast of Venezuela. He founded the city of Guayaquil in what is now Ecuador, and died during a second expedition on the Amazon.",
   },
   {
     'Juan Ponce de León':
@@ -191,7 +193,8 @@ export const questions: Question[] = [
       'богато иллюстрированная рукописная книга, созданная ирландскими (кельтскими) монахами примерно в 800 году. Это одна из самых щедро украшенных изящными миниатюрами и орнаментами средневековых рукописей среди всех дошедших до нас. ',
   },
   {
-    Кана́ки: 'коренные народы Меланезии, проживающие в Новой Каледонии, где составляют 41,2 % населения.',
+    Кана́ки:
+      'коренные народы Меланезии, проживающие в Новой Каледонии, где составляют 41,2 % населения.',
   },
   {
     'Охвостье (Rump Parliament)':
@@ -234,7 +237,8 @@ export const questions: Question[] = [
       'трактат об идеальных пропорциях в природе, науке и искусстве, созданный выдающимся итальянским математиком, монахом францисканского ордена Лукой Пачоли. Издан в Венеции в 1509 году.',
   },
   {
-    'Госпожа Чжэн': 'китайская морская разбойница, которая снискала славу самой успешной пиратки в истории.',
+    'Госпожа Чжэн':
+      'китайская морская разбойница, которая снискала славу самой успешной пиратки в истории.',
   },
   {
     Sokoban:
@@ -260,14 +264,16 @@ export const questions: Question[] = [
     Чаупхрая: "It's the river flowing beneath Bangkok's Rama VI Bridge",
   },
   {
-    Fermin: 'Each year at a festival in Pamplona comes the religious procession honoring this saint',
+    Fermin:
+      'Each year at a festival in Pamplona comes the religious procession honoring this saint',
   },
   {
     Endometriosis:
       "Only identified around 1920, this condition of uterine lining growing where it shouldn't affects as many as one woman in 10",
   },
   {
-    'Claddagh ring': 'From Ireland, one of these rings; the crown symbolized loyalty, the heart-love, and friendship',
+    'Claddagh ring':
+      'From Ireland, one of these rings; the crown symbolized loyalty, the heart-love, and friendship',
   },
   {
     'pink-collar worker ':
@@ -384,7 +390,8 @@ export const questions: Question[] = [
       'архипелаг к юго-востоку от острова Понпеи в Тихом океане, состоящий из более чем сотни искусственных островков из базальтовых монолитов и коралловых блоков, связанных системой каналов. Известен также как «Тихоокеанская Венеция».',
   },
   {
-    'Алекса́ндр Алекса́ндров': 'Автор музыки Гимна СССР и положенного на ту же мелодию Гимна Российской Федерации.',
+    'Алекса́ндр Алекса́ндров':
+      'Автор музыки Гимна СССР и положенного на ту же мелодию Гимна Российской Федерации.',
   },
   {
     'Ка́рстен Бо́рхгревинк':
@@ -527,7 +534,7 @@ export const questions: Question[] = [
   },
   {
     BIRKENSTOCK:
-      "In 1964, BLANK's son Karl designed the first Birkenstock sandal. Two years later, American Margot Fraser discovered the health benefits of the sandal while in Germany. Fraser brought the sandal back to California, where she founded her company, the BLANK Footprint Sandals Inc. Today, there are more than 300 styles based on the original comfort icon concept.",
+      "In 1964, BLANK's son Karl designed the first BLANK sandal. Two years later, American Margot Fraser discovered the health benefits of the sandal while in Germany. Fraser brought the sandal back to California, where she founded her company, the BLANK Footprint Sandals Inc. Today, there are more than 300 styles based on the original comfort icon concept.",
   },
   {
     'ERTÉ, ROMAIN DE TIRTOFF ':
@@ -538,7 +545,8 @@ export const questions: Question[] = [
       'A French aerial gymnast who invented the flying trapeze in 1859 and who is the creator of a one-piece garment, known as a maillot, which was later named after him.',
   },
   {
-    'REARD, LOUIS': 'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
+    'REARD, LOUIS':
+      'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
   },
   {
     Дзиндзя: 'синтоистское святилище, вместе с территорией вокруг.',
@@ -590,5 +598,1015 @@ export const questions: Question[] = [
   {
     'Rudisha (David)':
       "Which Kenyan middle distance runner is the 2012 and 2016 Olympic champion and World Record holder in the Men's 800m? ",
+  },
+  {
+    'Триада Макдональда':
+      'Набор из трёх поведенческих характеристик — зоосадизм, пиромания и энурез, который он связал с предрасположенностью к совершению особо жестоких преступлений',
+  },
+  {
+    'Kone ':
+      'финская компания, специализирующаяся на производстве лифтов, кранов, эскалаторов, траволаторов и пассажирских подъемников. ',
+  },
+  {
+    'Пакт Бриа́на — Ке́ллога':
+      'договор об отказе от войны в качестве орудия внешней политики; получил название по именам инициаторов — министра иностранных дел Франции  и госсекретаря США. Подписан 27 августа 1928 года ',
+  },
+  {
+    Дарваза́:
+      'газовый кратер в Туркменистане. Местные жители и путешественники называют его «Дверью в преисподнюю», или «Вратами ада» ',
+  },
+  {
+    'Joe Louis':
+      "After getting KO'd by Max Schmeling in 1936, this African-American heavyweight took just 2 minutes & 4 seconds to win the rematch ",
+  },
+  {
+    Hoovervilles:
+      'Shantytowns that sprang up during the Great Depression were given this presidential nickname ',
+  },
+  {
+    Balto:
+      "There's a statue in Central Park of this heroic sled dog for helping run a diphtheria antitoxin to remote Alaskans in 1925",
+  },
+  {
+    'Maya Lin':
+      'Best known for her design of the Vietnam Veterans Memorial, she was honored with a Presidential Medal of Freedom in 2016',
+  },
+  {
+    Taft: 'This man\'s 1909-1913 administration practiced "Dollar Diplomacy", trying to create stability abroad to help U.S. businesses',
+  },
+  {
+    'Mosul ':
+      'a major city in northern Iraq, serving as the capital of Nineveh Governorate. The city is considered the second largest city in Iraq in terms of population and area after the capital Baghdad, with a population of over 3.7 million. It encloses the ruins of the ancient Assyrian city of Nineveh – once the largest city in the world – on its east side.',
+  },
+  {
+    'Ужасный волк':
+      'This large, hypercarnivorous canine was another major predator of the Ice Age. It is perhaps most famous for its highly fictionalized appearnce in the Song of Ice and Fire books (aka the Game of Thrones books). ',
+  },
+  {
+    'New Zealand':
+      "This island nation was once home to a giant flightless bird known as the Moa and a giant eagle known as the Haast's Eagle that may have hunted it. ",
+  },
+  {
+    'Narmer ':
+      'Around 3100 BC, this man unified upper and lower Egypt and became the first Pharaoh. His accomplishment was recorded on a famous artifact known as this man\'s "palette". ',
+  },
+  {
+    Kush: 'This Nubian kingdom, located south of Egypt, conquered Egypt for a time during the 25th Dynasty. The pyramids built by rulers of this kingdom can be found at Meroe in what is now the Sudan.',
+  },
+  {
+    Karnak:
+      'Another major attraction near Luxor is the ruins of this temple, once the most sacred place in all of Egypt. Divided into three precincts named for three different gods, this temple is famous for its impressive Great Hypostyle Hall. ',
+  },
+  {
+    Papiamento:
+      'The islands of Aruba, Curacao, and Bonaire are part of the Netherlands: but many of the people who live there speak not Dutch, but this Portuguese-based creole language. ',
+  },
+  {
+    Piraha:
+      'The speakers of this language, who live deep in the Amazon basin, are allegedly incapable of counting past four due to the lack of numerals in their language. Daniel Everett, a former Christian missionary who is now an atheist linguistics professor, claims that this language lacks recursion, which if true would be devastating to the theories of Noam Chomsky. These claims are controversial. ',
+  },
+  {
+    Ladino:
+      'Also known as Judeo-Spanish, this language closely related to Old Spanish was once widely spoken by Sephardic Jews. Some speakers of this language are actually found in the Balkans and Turkey, where speakers of this language settled after being expelled from Spain. ',
+  },
+
+  {
+    'Bone Wars':
+      'During the late 19th century, the American paleontologists Edward Cope and Othniel Marsh engaged in a fierce rivalry to see who could discover more dinosaurs in the American west. That conflict between Cope and Marsh is usually given this name.',
+  },
+  {
+    'Carlos Filipe Ximenes Belo':
+      'Timor Leste’s constitution offers equal status to all religions but recognises the Catholic Church’s role in the liberation struggle. Which head of the Catholic Church in Timor Leste won the 1996 Nobel Peace Prize for forging a peaceful road to freedom from Indonesian occupation, but has recently faced allegations of sexual abuse of minors?',
+  },
+  {
+    'Erik Bruhn':
+      'In her later career, Alicia Markova developed a dance partnership with which Danish dancer, 18 years her junior, first performing a televised version of Giselle in 1955? This dancer, described as the “greatest classical dancer of his generation” is also known for his partnership with Carla Fracci, and long romantic relationship with Rudolf Nureyev.',
+  },
+  {
+    'Humboldt current':
+      'The Benguela current can be seen as an analogue of which cold current that flows north along the western coast of South America and is responsible for the aridity of the Atacama desert?',
+  },
+  {
+    'Sengoku period':
+      'The Ōnin War, a large-scale civil war triggered by a dispute between an official of the Ashikaga shogunate and a number of daimyo, is often considered as the start of which period in Japanese history? Its name roughly translates as “Warring States”.',
+  },
+  {
+    'La Tosca':
+      'Mucha’s first poster for Sarah Bernhardt depicted her in Victorien Sardou’s play Gismonda. He also produced a poster of Bernhardt in which of Sardou’s other plays, which depicts an opera singer and was later adapted into an opera by Puccini.',
+  },
+  {
+    'Johann Gottfried Herder (Вдохновитель бури и натиска)':
+      'Another thinker influenced by Winckelmann was what German ‘father of cultural nationalism’ and author of Abhandlung über den Ursprung der Sprache (Treatise on the Origin of Language) who believed that all nations have a distinctive Volkgeist? This man collected folk songs and was among the first to argue that thought is shaped in part by the language a person speaks.',
+  },
+  {
+    Kano: 'Which is the largest city in the north of Nigeria? It has been a diverse city throughout its history due to its location on the trans-Saharan trade routes, and is today the largest Hausa-speaking city in the world and the cultural hub for Hausa film and literature.',
+  },
+  {
+    'Shah Abbas the Great':
+      'Which Safavid Shah, who reigned from 1588 until 1629, undertook many military reforms, enabling him to regain territories in the Caucasus that had been lost to the Ottoman Empire? Regarded as one of the most powerful leaders in Iranian history, he also retook Hormuz from the Portuguese and Kandahar from the Mughals, and he shares his name with a follower of Muhammad who founded a namesake Caliphate.',
+  },
+  {
+    'Johann Joachim Winckelmann':
+      'Which German art historian and ‘father of modern archaeology’ wrote the 1764 work Geschichte der Kunst des Alterthums (History of Ancient Art), which was a decisive influence on the Neoclassical movement? His enormous influence on subsequent German scholars has been described as ‘the tyranny of Greece over Germany’. ',
+  },
+  {
+    'Safavid dynasty':
+      'Ismail I founded which Iranian dynasty in 1501? This dynasty controlled much of Greater Iran throughout the Early Modern period and was the first native Persian dynasty to rule since the Muslim conquest of the Sassanians in the 7th century. ',
+  },
+  {
+    Tokelau:
+      'With a name meaning ‘north wind’, which dependent territory of New Zealand, made up of three atolls, became, in 2012, the world’s first 100% solar powered territory? ',
+  },
+  {
+    'Brazil (Война Фаррапус)':
+      'Prior to his efforts to reunify Italy, Giuseppe Garibaldi left Europe in order to support the rebels in which South American country’s Ragamuffin War (1835-45)? ',
+  },
+  {
+    Orinoco:
+      "An enormous river delta in eastern Venezuela is created where which major river empties into the Gulf of Paría? The world's fourth largest river by discharge volume, this river forms several hundred kilometres of the border between Venezuela and Colombia. ",
+  },
+  {
+    'Rudisha (David)':
+      'Herder intervened in an argument between Winckelmann and this man on the question of whether poetry or sculpture is expressively superior, and this man criticised Winckelmann in his 1767 work Laokoön: oder über die Grenzen der Malerei und Poesie (Laocoön: An Essay on the Limits of Painting and Poetry). This is which author and dramaturg who helped free German drama from Classical influences with works such as Miss Sara Sampson, the first major domestic tragedy in German literature? ',
+  },
+  {
+    'Gotthold Ephraim Lessing':
+      'Herder intervened in an argument between Winckelmann and this man on the question of whether poetry or sculpture is expressively superior, and this man criticised Winckelmann in his 1767 work Laokoön: oder über die Grenzen der Malerei und Poesie (Laocoön: An Essay on the Limits of Painting and Poetry). This is which author and dramaturg who helped free German drama from Classical influences with works such as Miss Sara Sampson, the first major domestic tragedy in German literature? ',
+  },
+  {
+    Ibadan:
+      'Which city was the largest in Nigeria at the time of its independence, although it has since been surpassed by Lagos and Kano? It is the capital of Oyo state and lies in the centre of the Yoruba homeland. ',
+  },
+  {
+    Sfax: "A transportation hub and a market for the phosphates of the Gafsa region, which large port on the Gulf of Gabès [gah-bes] is also noted for olive and nut processing and for its fish industry? This port is considered Tunisia's second city. ",
+  },
+  {
+    Benghazi:
+      "Banking, the oil industry, salt processing, and the production of cement are among the major commercial considerations of which city on the Gulf of Sidra? This major seaport is considered Libya's second city. ",
+  },
+  {
+    'Mobutu Sese Seko (DRC)':
+      'Known as ‘the Versailles of the Jungle’, Gbadolite was a palace-city built south of the Ubangi River by which military dictator? The palaces were looted after this man was overthrown in 1997 and are now overrun with vegetation. ',
+  },
+  {
+    Welwitschia:
+      'Consisting of just two leaves and perhaps living up to 2,000 years, W. mirabilis is endemic to the Namib desert and absorbs much of its water, via its leaves, from the desert’s plentiful fog. Commonly referred to as a living fossil, this plant is a member of which genus? Please give the scientific name of this genus. ',
+  },
+  {
+    'Professor Unrat (Учитель Гнус)':
+      'Among the best-known works of Heinrich Mann, elder brother of Thomas, is which 1905 novel - about a reclusive schoolteacher and his strained relationship with both his past and present students - that was successfully adapted to film in 1930 by Josef von Sternberg under the title Der blaue Engel (The Blue Angel)? The book is sometimes (especially in its abridged form) now translated with the title The Blue Angel but we are looking for the original title. ',
+  },
+  {
+    'Дзяды ':
+      'духи предков. Обряд их почитания совершался на седьмой день после Пасхи (семуха, весенняя радуница или пасха усопших) или осенью (большие осенины, дедова неделя). В эти дни в жертву покойникам приносили пищу. Жертвенную пищу относили на кладбище или приглашали их на угощение в дом и посвящали им первую ложку или первый стакан, выливая их под стол или ставя за окно.',
+  },
+  {
+    'Даждьбог ':
+      'древнерусский бог, связываемый с солнцем. Считался покровителем и родоначальником русских племен.',
+  },
+  {
+    Герсилия:
+      'римская героиня, одна из похищенных римлянами сабинянок, ставшая женой Ромула.',
+  },
+  {
+    Гекатонхейры:
+      '«сторукие» — пятидесятиглавые и сторукие великаны, могучие сыновья Урана и Геи — Бриарей, Котт и Гиес. Во время битвы с титанами боги Олимпа воззвали к Г. и сих помощью одержали победу.',
+  },
+  {
+    Гекатомба:
+      'от «сто» — жертвоприношение ста быков (или иных животных). В переносном смысле — любое большое жертвоприношение, огромные жертвы (войны, террора, эпидемии).',
+  },
+  {
+    Геб: 'бог земли, сын Шу и Тефнут. Согласно мифу он поссорился со своей женой и сестрой Нут («небо») из-за того, что она ежедневно рождала детей (небесные светила), а затем поедала их. Шу разъединил супругов — его он оставил лежать внизу, а Нут поднял вверх. Детьми его были также Осирис, Сет, Исида, Нефтида.',
+  },
+  {
+    'Ма́рко Ма́рулич':
+      'хорватский средневековый поэт и гуманист, известный как «отец хорватского ренессанса» и «отец хорватской литературы».',
+  },
+  {
+    'the Barbary States (Варварийский берег)':
+      'Morocco, Tunis, Algiers & Tripoli were these "States" that acted as a haven for pirates until the French took over in 1830 ',
+  },
+  {
+    '(Captain) Phillips':
+      'In 2009 he was the captain of the first U.S.-flagged ship taken by pirates in more than 200 years',
+  },
+  {
+    'Большой цирк':
+      'With seating for 250,000 to watch the chariot races, this "biggest ring" was the largest Roman arena Circus Maximus',
+  },
+  {
+    'Dunedin ':
+      'the second-largest city in the South Island of New Zealand (after Christchurch), and the principal city of the Otago region. ',
+  },
+  {
+    'Monterrey ':
+      'the capital and largest city of the northeastern state of Nuevo León, Mexico, and the second largest city in Mexico behind Mexico City. ',
+  },
+  {
+    'Fallujah ':
+      'a city in the Iraqi province of Al Anbar, located roughly 69 km west of Baghdad on the Euphrates. The city became a major center of resistance against the Iraqi government during the Iraqi insurgency and the city was the scene of fierce fighting ',
+  },
+  {
+    'Jean Froissart':
+      'The play Edward III may have been a collaboration between William Shakespeare and Thomas Kyd. It draws some of its storylines from the Chronicles of which Frenchspeaking author from the Low Countries who documented the 100 Years War?',
+  },
+  {
+    'Belt and Road Initiative':
+      'Since 2016, the Pakistani port of Gwadar has been leased by a Chinese company as a key part of which Chinese Government strategy that aims to build land infrastructure in central Asia and maritime infrastructure on Indo-Pacific sea routes? ',
+  },
+  {
+    'Marcel Breuer':
+      "Aalto's Paimio chair was inspired by which designer's Wassily chair? This Hungarianborn architect of the UNESCO headquarters in Paris also designed the Cesca chair and collaborated with textile designer Gunta Stözl on the African chair.",
+  },
+  {
+    'A.J. (Alfred Jules) Ayer':
+      'Which philosopher is widely held to have imported logical positivism, and the verification principle, into the English-speaking world in his 1936 work Language, Truth, and Logic? ',
+  },
+  {
+    'Grimké family':
+      'A Black member of this family co-founded The Guardian. Two sisters from this family became well-known abolitionists and embarked on speaking tours in the Northeast.',
+  },
+  {
+    Тепуи:
+      'Roraima, Kukenán, and Cerro Sarisariñama are examples of these mesas in the Guiana Shield. These sandstone table-top mountains have been called “islands above the rainforest” due to their isolated biodiversity. ANSWER: ',
+  },
+  {
+    Teotihuacán:
+      'Tatiana Proskouriakoff was the first to propose that this city’s lord Spearthrower Owl conquered Tikal in an event called the entrada, or the “arrival of strangers.” This city’s ruins contain the Pyramids of the Sun and Moon.',
+  },
+  {
+    'Prozac Nation':
+      'Which 1994 autobiography by Elizabeth Wurtzel chronicles her struggles with mental health problems, and incorporates into its title the commercial trade name of the medication Fluoxetine?',
+  },
+  {
+    'Hans Bellmer':
+      'Which German artist is best known for the life-sized (and grotesque) pubescent female dolls he produced in the mid-1930s? ',
+  },
+  {
+    'François-André Danican Philidor':
+      'Which French 18th century composer who wrote the opera Tom Jones was also the Strongest Chess Master of the 18th Century pioneering simultaneous blindfolded chess matches (he was name-checked in The Queen’s Gambit). ',
+  },
+  {
+    'Richard Jewell':
+      'Sticking with the theme about suspects: What was the name of the security guard who discovered the bomb planted by Eric Rudolph at the 1996 Summer Olympics in Atlanta? First hailed as a hero, he was later suspected to be the one who planted it, and, although he was eventually cleared, this led to several libel lawsuits against various parties. ',
+  },
+  {
+    'Strait of Bonifacio':
+      'Yes, the strait that separates Corsica from Sardinia has a name. ',
+  },
+  {
+    'Palk Strait':
+      'This strait, famously crossed in the Ramayana, separates India from Sri Lanka. ',
+  },
+  {
+    'Lajos Kossuth':
+      "This man led the unsuccessful Hungarian Revolution of 1848, and the rebellion is often named for him. He managed to escape alive, and later became a popular speaker in the UK and US. It is not unusual for American cities that were being settled in the mid-1800's to have streets or other landmarks named for him.",
+  },
+  {
+    Sigurimi:
+      'The Albanian communist regime led by the correct answer to the above question (as well as his successor Ramiz Alia) depended heavily on this state security and secret police agency, which was abolished in 1991. ',
+  },
+  {
+    'salami tactics':
+      'Perhaps appropriately given his nickname, Rakosi is famous for coining which two-word phrase (still used in game theory), that describes his strategy of slowly destroying his opposition one piece at a time, much like slicing the titular cured meat popular in Hungary? ',
+  },
+  {
+    'Ernst Thalmann':
+      'Which man, who led the Communist Party of Germany during the Weimar Republic, was killed in Buchenwald in 1944 and later became a national hero in East Germany, where many streets, factories, and the East German young pioneer organization were named for him? ',
+  },
+  {
+    'Arrow Cross Party':
+      "For the last year of World War II, Hungary was led by the fascist Ferenc Szalasi, the leader of this fascist political party. This party's namesake symbol is now banned in Hungary. ",
+  },
+  {
+    Lusotropicalism:
+      "First articulated by the Brazilian sociologist Gilberto Freyre and adopted by the regime of Antonio Salazar, this is the belief that because of Portugal's warm climate and history as a multi-ethnic state, Portuguese colonialism was more humane and friendly than other forms of European colonialism. Adherents of this ideology unsuccessfully opposed the breakup of Portugal's global empire. ",
+  },
+  {
+    Sarmatism:
+      'This ideology holds that members of the Polish nobility (but not other Poles) were descended from the namesake Persian tribe. During the Polish-Lithuanian Commonwealth, this ideology was not only used to justify ridiculous outfits for nobles, but also used to justify Polish nobles feeling superior to the peasants they oppressed and the kings they refused to obey. ',
+  },
+  {
+    senet:
+      "This board game is attested in Egypt from at least the third dynasty and continued to be played until Roman times. The theme of this board game appears to have been the soul's journey to the afterlife. ",
+  },
+  {
+    Kaur: 'Just as all male Sikhs are expected to take the name Singh as a middle name or last name, Sikh women are expected to take which name, meaning ‘princess’?',
+  },
+  {
+    'Ben-Day dots':
+      "In his best-known works, Roy Lichtenstein commonly used an exaggerated form of a printing technique in which small, coloured dots are variously spaced and combined to create colour and shading. The 'dots' used in this technique are given what name after the illustrator who created the process in 1879?  ",
+  },
+  {
+    'Bab-el-Mandeb':
+      "Separating Yemen on the Arabian Peninsula from the Horn of Africa, which strait that connects the Red Sea to the Gulf of Aden has a name derived from the Arabic for 'Gate of Lamentation'?",
+  },
+  {
+    'A Masked Ball (Густав 3, убит Анкастремом)':
+      'Joan Sutherland’s first starring role was in which opera by Giuseppe Verdi? She took the role of Amelia, who is in love with her husband’s friend, Gustavo, the King of Sweden. Another performance of this opera saw Marian Anderson cast as Ulrica to become the first African-American opera singer to perform with the Metropolitan Opera.',
+  },
+  {
+    'unit cell (Элементарная ячейка )':
+      'What two-word term* is used to define the smallest repeating section of a crystal that contains its full symmetry, such that it is possible to build up the entire crystal by translation of this constituent part? *one compound word in Dutch, German, Norwegian, and Swedish',
+  },
+  {
+    'sonic boom (Звуковой удар )':
+      'What name is given to the explosive noise associated with shock waves created when an object travels through the air faster than the speed of sound?',
+  },
+  {
+    Durga:
+      'Many Hindus choose to fast during various festivals, such as Navaratri, a nine- or tenday festival observed in the honour of which goddess, an aspect of the mother goddess Mahadevi or force Shakti? She is often depicted as riding a tiger and fighting evils such as the buffalo demon Mahishasura.',
+  },
+  {
+    'Lucia di Lammermoor':
+      'The Australian soprano Joan Sutherland is perhaps most associated with the title role in which opera by Gaetano Donizetti based on a novel by Walter Scott? Her performance of ‘Il dolce suono’, commonly referred to as ‘the Mad Scene’, once earned her a twelve-minute ovation at the Metropolitan Opera.',
+  },
+  {
+    opal: 'Červenica in Slovakia is the only European source of which gemstone? The Australian town of Coober Pedy is the world’s largest supplier of this gemstone.',
+  },
+  {
+    'Effi Briest':
+      'The physicist Manfred von Ardenne, who worked on the Soviet atomic bomb programme, is the grandson of Elisabeth von Ardenne, the inspiration for the title character of which German realist novel by Theodor Fontane, which concerns a young woman who marries into the aristocracy?',
+  },
+  {
+    'Papa Legba':
+      'Which cigar-smoking Lwa of Haitian Vodou is often depicted with a cane and straw hat? This Lwa is associated with crossroads because he opens and closes the gate between Earth and the realm of the gods.',
+  },
+  {
+    'The Sultanate of Women':
+      'Following Suleiman the Magnificent’s ascent to the throne in 1520, the Ottoman Empire saw a rise in the number of influential and powerful women controlling affairs within the imperial palace. What name is usually given to this period that lasted around 150 years?',
+  },
+  {
+    Loas: 'The serpent Damballa is among the best-known of which spirits of Haitian Vodou who act as intermediaries between the creator god Bondyé and humans? These spirits are analogous to the orishas of Cuban Santería and the Yoruba religion, and are sometimes described as equivalents of, and syncretized with, Roman Catholic saints.',
+  },
+  {
+    Zambezi:
+      'Lake Kariba is the world’s largest reservoir by volume. It is formed by a namesake dam on which river, which passes through six countries before emptying into the Indian Ocean in Mozambique?',
+  },
+  {
+    'Jack Nicklaus':
+      'Though there was more than a decade to go, in 1988 golf magazine named him "Golfer of the Century" ',
+  },
+  {
+    'Jack Johnson':
+      'In 1908 he defeated Tommy Burns to become the first African-American world heavyweight boxing champ ',
+  },
+  {
+    "Goodhart's law ":
+      'an adage often stated as, "When a measure becomes a target, it ceases to be a good measure"',
+  },
+  {
+    'Montpelier ':
+      "the capital city of the U.S. state of Vermont and the seat of Washington County. The site of Vermont's state government, it is the least populous state capital in the United States. As of the 2020 census, the population was 8,074. ",
+  },
+  {
+    'Tyre ':
+      "a city in Lebanon, one of the oldest continually inhabited cities in the world, though in medieval times for some centuries by just a tiny population. It was one of the earliest Phoenician metropolises and the legendary birthplace of Europa, her brothers Cadmus and Phoenix, as well as Carthage's founder Dido (Elissa). ",
+  },
+  {
+    'Oak Ridge ':
+      'was established in 1942 as a production site for the Manhattan Project—the massive American, British, and Canadian operation that developed the atomic bomb.',
+  },
+  {
+    'Krampus ':
+      'a horned, anthropomorphic figure in the Central and Eastern Alpine folklore of Europe who, during the Advent season, scares children who have misbehaved. Assisting Saint Nicholas, or Santa Claus, the pair visit children on the night of 6 December, with Saint Nicholas rewarding the well-behaved children with gifts such as oranges, dried fruit, walnuts and chocolate, while the badly behaved ones only receive punishment from him with birch rods.',
+  },
+  {
+    'Bataan Death March':
+      'In which April 1942 incident were approximately 75,000 Filipino and American troops forced to make an arduous 65-mile march to prison camps in the Philippines? The intense heat, starvation, and harsh treatment by Japanese guards led to only 54,000 prisoners surviving the trek to the camp.',
+  },
+  {
+    'Isamu Noguchi':
+      'Which Japanese designer is notable for his namesake coffee table that consists of a glass top resting on two identical curved wooden pieces? He also designed the set for Martha Graham’s ballet Appalachian Spring and the gardens at the UNESCO headquarters. ',
+  },
+  {
+    'Santa Ana winds':
+      "Another example of a katabatic wind are which downslope winds best-known for their role in fanning wildfires in southern California and northern Baja [bah-ha] California? Occasionally called 'devil winds', their better-known name is thought to derive from the name of a canyon in Orange County.",
+  },
+  {
+    'AL AHLY':
+      'Which Egyptian football club, whose name literally translates “The National Club”, is often considered the greatest football club in Africa? At the 2020 FIFA Club World Cup, this team won match for third place against Palmeiras. ',
+  },
+  {
+    'Andreas Gursky':
+      'This photographer showed aisles of products at a California superstore in his 99 Cent series. For 10 points, name this German photographer of the most expensive photograph ever sold, Rhein II. ',
+  },
+  {
+    'Anthony Powell (‘A Dance to the Music of Time’, painting by Nicolas Poussin)':
+      'The painting shown in Picture C, a notable work by a 17th-century French Baroque artist, inspired WHICH ENGLISH NOVELIST to produce a twelve-volume work of the same name that was published between 1951 and 1975? ',
+  },
+  {
+    Theia:
+      'According to the Giant Impact Hypothesis, our Moon was formed after an impact from a Mars-sized planet which hit Earth about 4.5 billion years ago. What name, derived from the mother of Selene (the moon goddess in Greek mythology), is given to this ancient planet? ',
+  },
+  {
+    Talaria:
+      ' What name is given to the winged sandals of the Greek god Hermes, said to be made by the god Hephaestus of imperishable gold and they flew the god as swift as any bird? ',
+  },
+  {
+    Gitanjali:
+      "What is name is given to the collection of 157 poems by Bengali poet Rabindranath Tagore, which translates as 'Song Offerings' that led to him winning the Nobel Prize for Literature in 1913?",
+  },
+  {
+    Shiva:
+      'Also known as coherent catastrophism, the hypothesis based on pioneering work by Napier and Clube was named in the 1990s by Rampino and Haggerty after which religious deity? It postulates that global catastrophes happen at regular intervals because of the periodic motion of the Sun in relation to the Milky Way galaxy, and is said to have inspired the Nemesis theory',
+  },
+  {
+    UTRECHT:
+      'In which Dutch city were treaties signed between April 1713 and September 1714 which brought an end to the War of the Spanish Succession?',
+  },
+  {
+    ADELAIDE:
+      'The Ghan passenger train takes 54 hours to travel between Darwin and which city in South Australia?',
+  },
+  {
+    Duffer:
+      'What is the last name of the twin brothers Matt and Ross, who have been the showrunners of the science-fiction series Stranger Things since 2016?',
+  },
+  {
+    'Isaias Afwerki':
+      'With slight difference in spelling, what first/ given name is shared by the following people : The philosopher who wrote the 1953 essay ‘The Hedgehog and the Fox’; the point-guard that led the ‘Bad Boys’ to back-to-back NBA championships in the late 1980s and the politician who has been the president of Eritrea since its independence in 1993?',
+  },
+  {
+    'The Plastic People of the Universe':
+      "Which pop group, named for a track on the album 'Absolutely Free' by the Mothers of Invention, was banned in Czechoslovakia and played a key role in that country's Velvet Revolution?",
+  },
+  {
+    'Faroe Islands':
+      'Streymoy is the main island of which island group in the Atlantic, which is also where the main town is located?',
+  },
+  {
+    Идунн:
+      'With a task similar to Hesperides, which Norse goddess guards the apples of eternal youth without which the Æsir and the Vanir would become shrivelled, grey, and old? She shares the task with her husband Bragi, the god of poetry.',
+  },
+  {
+    'Фимбулвинтер. Комментарий : апокалиптическая трёхлетняя зима, предшествующая Рагнарёку в германо-скандинавской мифологии.':
+      'Некоторые исследователи отмечают, что после НЕЁ корабль не сможет прибыть на поля Вигрид, а приедет туда по льду как на санях. Ответ: ',
+  },
+  {
+    Leitha:
+      'Until 1919, which river was traditionally seen as the border between Austria and Hungary? ',
+  },
+  {
+    Szekesfehervar:
+      'Most Hungarian kings from 1000 - 1526 were crowned and buried in this city, located about 40 miles / 65 kilometers southwest of Budapest. Its very long name translates to something like "white city with a chair in it", referring to the royal throne. ',
+  },
+  {
+    'Battle of Lechfeld (Битва на реке Лех )':
+      'In this 955 battle near Augsburg, German Emperor Otto I defeated the Hungarians and ended their raids into Western Europe, forcing them back into Pannonia where they remain to this day. ',
+  },
+  {
+    turul:
+      'This mythical bird, which resembles a large falcon or hawk, is a national symbol of Hungary, and a large statue of it can be found at Tatabanya. Pagan Hungarians may or may not have believed that their royal dynasty descended from this bird. ',
+  },
+  {
+    'Seychelles (Сейшельская пальма, Изображена на гербе Сейшельских Островов)':
+      'The mysterious Coco de Mer fruit, a type of coconut, grows only in this island nation. ',
+  },
+  {
+    Angola:
+      "This country was home to Isabel dos Santos, the first female billionaire in Africa. Coincidentally (or not) she is the daughter of this country's former long-time president, Jose Eduardo dos Santos. After her father's death, she fled to the United Arab Emirates, and the current government of this country is trying to confiscate her assets. ",
+  },
+  {
+    Burundi:
+      "It's not Rwanda, but this country is also mostly inhabited by Hutu and Tutsi people. This country's president Cyprien Ntaryamira was killed in the 1994 plane crash that sparked the Rwandan genocide. ",
+  },
+  {
+    Zambia:
+      'Copper mining makes up 60% of this nation\'s economy, and it even has a province called "Copperbelt" that is home to most of its copper deposits. ',
+  },
+  {
+    Mali: 'Separatists in the northern part of this country wish to form a new country they call Azawad. ',
+  },
+  {
+    'Sierra Leone':
+      "The Krio ethnic group accounts for just 2% of this country's population, but the Krio language (an English-based creole) is spoken by 90% of the population. ",
+  },
+  {
+    Togo: "In 1850, a young Brazilian sailor named Francisco Olympio arrived in what is now this small country. He became extremely wealthy as a merchant, and had 21 children with seven wives. His descendants went on to be some of this country's most illustrious citizens and leaders: his son, Octaviano Olympio, founded this nation's capital city, and another descendant, Sylvanus Olympio, was this country's first post-independence president. Despite the strong ties to Brazil, this is not a Lusophone country.",
+  },
+  {
+    'Янош Хуньяди':
+      'This ethnic Romanian became one of the most celebrated generals in Hungarian history during the mid-1400\'s and was given the title of "Athlete of Christ" by the Pope for his many campaigns against the Ottoman Turks, including the Long Campaign. ',
+  },
+  {
+    'Matthias Corvinus':
+      "This man, the son of the correct answer to #21, was elected King of Hungary in 1458 and is generally considered the greatest King of Hungary. He is usually known not by his father's family name, but by a nickname derived from the Latin word for a crow, an animal that appeared on his coat of arms. Due to his Romanian ancestry, he is also popular in Romania, and is even mentioned in the Romanian national anthem. ",
+  },
+  {
+    Mohacs:
+      'The correct answer to #29 soundly defeated the Hungarian army at this 1526 battle, marking the end of Hungarian independence until the 20th century. ',
+  },
+  {
+    asthenosphere:
+      'Which highly viscous, mechanically weak region of the upper mantle of the Earth lies directly below the lithosphere, at depths between 100 and 200 km below the surface?',
+  },
+  {
+    'Rosicrucianism or Order of the Rose Cross':
+      'Published anonymously in Kassel, Germany, in 1614, Fama fraternitatis is a manifesto introducing which esoteric, spiritual order? The order is supposedly named after its likely apocryphal German founder who achieved mystical insight following a pilgrimage to the Middle East.',
+  },
+  {
+    'Calligrammes ':
+      "What is the title of Guillaume Apollinaire's posthumously published 1918 collection of poems in which the poems are arranged typographically in order that the words appear in the shape of an object that is meaningful to the poem? One notable poem appears in the shape of a horse while another forms the shape of the Eiffel Tower. ANS: ",
+  },
+  {
+    'sign language  ':
+      'A language isolate found in Nicaragua is commonly abbreviated in Spanish to ISN and is of particular interest to linguists because of the ability it affords them to study an entirely new language. Thought to have developed spontaneously in Nicaraguan schools during the 1980s, ISN is what particular form of language? ',
+  },
+  {
+    'Ланцетник  ':
+      'What fish-like invertebrate chordate is the most distantly related ancestor to share the same olfactory receptors with humans? Named after its resemblance to a weapon used by cavalry soldiers*, this primitive filter feeder can be found buried in the sand with only the mouth end projecting. *Another common name in many languages (as well as its scientific name) references its pointed shape more directly. ',
+  },
+  {
+    'Satanic verses ':
+      'What term is used in academic literature to refer to verses which were once purportedly taken to be a part of the Quran, but which were later denounced by the Prophet Muhammad and removed? This term names a noted Salman Rushdie novel.',
+  },
+  {
+    'Zelda Fitzgerald ':
+      '"Z" by Therese Anne Fowler is a fictionalized memoir of this Jazz Age woman called the first flapper ',
+  },
+  {
+    'Купол скалы  ':
+      'Completed in 691, this shrine was built in Jerusalem by Caliph Abd al-Malik',
+  },
+  {
+    'ethics ':
+      'basic approaches in this field are deontology (an act is inherently good or bad) & teleology (depends on the result) ',
+  },
+  {
+    'spectrum ':
+      'Shine a light into a gas in a magnetic field to see the Zeeman effect, the resplitting of lines in this arrangement of colors',
+  },
+  {
+    'Edirne, formerly known as Adrianople or Hadrianopolis  ':
+      'a city in Turkey, in the northwestern part of the province of Edirne in Eastern Thrace. Situated 7 km from the Greek and 20 km from the Bulgarian borders, Edirne was the second capital city of the Ottoman Empire from 1369 to 1453, before Constantinople became its capital.',
+  },
+  {
+    'The 15-minute city  ':
+      'an urban planning concept in which most daily necessities and services, such as work, shopping, education, healthcare, and leisure can be easily reached by a 15-minute walk or bike ride from any point in the city.',
+  },
+  {
+    'McMurdo Station  ':
+      'a United States Antarctic research station on the south tip of Ross Island. The station is the largest community in Antarctica, capable of supporting up to 1,200 residents, and serves as one of three year-round United States Antarctic science facilities.',
+  },
+  {
+    'mokele-mbembe  ':
+      'mythical water-dwelling entity that supposedly lives in the Congo River Basin, sometimes described as a living creature, sometimes as a spirit. Descriptions vary widely among those who claim to have seen the creature, but it is often described as a large quadrupedal herbivore with smooth skin, a long neck and a single tooth or horn.',
+  },
+  {
+    'David Graeber ':
+      'Which American anthropologist and activist, who died in 2020, argues that early human societies were more diverse and complex than is popularly supposed in the posthumous 2021 work The Dawn of Everything, co-written with David Wengrow? Other works by this thinker include Debt: The First 5000 Years and Bullshit Jobs. ',
+  },
+  {
+    'Albertus PICTOR ':
+      'Became an inspiration for the film The Seventh Seal, "Death Playing Chess" is the late 15th-century painting created by which Swedish artist? ',
+  },
+  {
+    'Alexander ALEKHINE ':
+      'Which former Chess World Champion choked to death on a piece of meat on March 24, 1946, in Estoril, Portugal? ',
+  },
+  {
+    'Benjamin WEST (best known as author of "The Death of General Wolfe) ':
+      'Which American artist (1738—1820) also painted The Death of Nelson, 21st October 1805, "The Death of Socrates", and "Death on the Pale Horse"?',
+  },
+  {
+    'AFGHANISTAN ':
+      'Which modern country was founded in 1747 after Ahmad Shah Durrani unified the Pashtun tribes? This country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. ',
+  },
+  {
+    'Avery BRUNDAGE ':
+      'Held the office between 1952 and 1972, what is the only American to be the President of the International Olympic Committee? ',
+  },
+  {
+    'Leidenfrost effect ':
+      'Named after a German physician, what is the name of an effect of water drops bouncing on a hot surface, which can be observed on a hot stove top, for example?',
+  },
+  {
+    'Лудён  ':
+      'What French city was the site of a 1634 hysteria and witch trial over the supposed mass possession of a convent of Ursuline nuns by the Devil?',
+  },
+  {
+    'HMS Birkenhead (Построение Биркенхеда)':
+      'Which iron-hulled troopship, which sunk in 1852 off Cape Colony, gives its name to the maritime principle that women and children leave a sinking ship first?, ',
+  },
+  {
+    'NICOTINIC ACID/ NIACIN ':
+      'Which vitamin is also referred to as Vitamin B3 because it was the third of the B vitamins to be discovered? It has historically been referred to as "vitamin PP". That name was derived from the term "pellagra-preventing factor", because the disease pellagra is due to a deficiency of it in the diet.',
+  },
+  {
+    'Болезнь Тея — Сакса ':
+      'First described and named after by a British ophtalmologist who noticed red spot on the retina and an American neurologist who noticed increased rate of this disease in Ashkenazi Jews, which genetic disorder is caused by genetic mutation on chromosome 15 and usually attacks infants? First symptoms are inability to turn over, sit or crawl, then seizures, hearing loss and inability to move at all with death usually occuring around the age of five.',
+  },
+  {
+    'RAGA ':
+      'What do we call a subgenre of rock or pop music with a heavy Indian influence, either in its construction, its timbre, or its use of instrumentation, such as the sitar and tabla? More recently, scholars have included British rock music from the 1960s and 1970s that utilises South Asian musical materials and instruments and Western ideas of South Asia.',
+  },
+  {
+    'Oscar Swahn ':
+      'Which Swedish shooter became the oldest ever Olympic gold medallist, doing so in 1908 at the age of 60? He is also the oldest ever contestant, in 1920 at the age of 72.',
+  },
+  {
+    'Lumbini ':
+      'Now a Buddhist pilgrimage site and UNESCO World Heritage Site, which town in Nepal was the birthplace of the Buddha?',
+  },
+  {
+    'Collatz conjecture ':
+      'Which mathematician problem, also known as the “3x + 1 problem” is named after a German mathematician, one of the founders of the field of spectral graph theory?',
+  },
+  {
+    'Luciana Aymar ':
+      'Nicknamed “La Maga” (The Magician), which Argentinian is the only woman to win the Field Hockey World Player of the Year Award eight times? She won two world cups in 2002 and 2010 and earned four Olympic medals',
+  },
+  {
+    Соумайа:
+      'The modernist project for the new museum building at Plaza Carso in Mexico City, the construction of which was completed in 2011, was entrusted by entrepreneur Carlos Slim to his son-in-law Fernando Romero. What was the name of Slim’s deceased wife, after whom the museum complex was named?',
+  },
+  {
+    'kelpie ':
+      'shape-shifting spirit inhabiting lochs in Irish and Scottish folklore. It is usually described as a black horse-like creature, able to adopt human form.',
+  },
+  {
+    'Фуртреккеры  ':
+      'What Afrikaans name, often translated as “pioneers”, is given to the Boers who left the British-controlled Cape Colony from the mid-1830s onwards and migrated into the interior of what is now South Africa, settling north of the Orange river? ',
+  },
+  {
+    'Nara ':
+      'Empress Genmei established which city as the Japanese capital in 710 CE? Located less than 40 km from both Kyoto and Osaka, it is home to several historical monuments that collectively form a UNESCO World Heritage Site. You may answer with either the historical name for this city, or its modern name, which is also used for the historical period during which it was the capital. ',
+  },
+  {
+    'Кляйнмайстеры ':
+      'Barthel and Hans Sebald Beham, Heinrich Aldegrever and Albrecht Altdorfer were among a group of German printmakers of the early 16th century, about a generation after the great Albrecht Dürer. They were known for making very detailed but small engravings. What name is given to this group of artists? ',
+  },
+  {
+    'Mumbai  ':
+      'Often referred to as the world’s largest slum, Dharavi is a community in which city? Dharavi was established on a namesake island that is now part of the island of Salsette. ',
+  },
+  {
+    'Minamoto clan OR Kamakura ':
+      'As a result of the Battle of Dan-no-ura in 1185, a man named Yoritomo established himself as the first shogun of Japan and founded a shogunate that lasted for 150 years. Name EITHER the clan name of Yoritomo and his immediate successors OR the capital city, the name of which is used for both the shogunate and the historical period. ',
+  },
+  {
+    'Marc GIRARDELLI ':
+      'Which legendary alpine ski racer was ineligible to compete in the 1980 or 1984 Winter Olympics because he retained Austrian citizenship while skiing for Luxembourg? He won five World Cup between 1985- 1993 and became a two-time Olympics silver medalist in 1992. ',
+  },
+  {
+    'ISLE OF MAN ':
+      'Located at the mouth of the namesake river, the town of Douglas is the capital and largest town of which self-governing British Crown dependency? ',
+  },
+  {
+    'YESTERDAY, TODAY, TOMORROW ':
+      'Which film starring Sophia Loren and Marcello Mastroianni won the Academy Award for Best Foreign Language Film in 1965? This film contains three tales of very different women using their sexuality as a means to getting what they want. ',
+  },
+  {
+    'Yī Yī (Один и два) ':
+      'This 2000 film was its director’s last, following his film A Brighter Summer Day, which is also set in Taiwan. For 10 points, name this Edward Yang film with a repetitive Mandarin title. ',
+  },
+  {
+    'Bartolomé de las Casas ':
+      'This member of the School of Salamanca contributed to the “Black Legend” in a debate against Juan Ginés de Sepúlveda (“hwan hee-NESS day seh-POOL-veh-dah”); that debate in Valladolid (“vah-yah-doh-LEED”) caused Charles V to pass the New Laws. For 10 points, name this Dominican friar and author of A Short Account of the Destruction of the Indies. ',
+  },
+  {
+    'Muddy Waters ':
+      'The father of the Chicago blues, McKinley Morganfield, whose hit gave name to The Rolling Stones, is better known by what nickname which he earned by playing in the creeks of the Mississippi?',
+  },
+  {
+    'Macedonia (Вергинская звезда ) ':
+      'The Vergina Sun is the emblem of which traditional Greek region?',
+  },
+  {
+    'Lei ':
+      'The wreath of flowers that is placed around guests’ necks as a sign of hospitality in Hawaii has what three-lettered name?',
+  },
+  {
+    'Pool ':
+      'Although the USA is considered the home of the sport, everyone will name Efren Manalang Reyes as the best player in the history.',
+  },
+  {
+    'Autofiction ':
+      'Some of the more famous examples are the works of Maggie Nelson, Sheila Heti, Ben Lerner, Jenny Offill, Tao Lin, Karl Ove Knausgaard, as well as most of the opus of the Nobel laureate Annie Ernaux. What narrative form is also the name of Hitomi Kanehara’s novel?',
+  },
+  {
+    'Marlborough ':
+      '"Blenheim", "Cloudy Bay", "Renwick" and "Seddon" are all towns located in which wine growing region in New Zealand? It is by far New Zealand\'s largest wine growing region, accounting for three quarters of the country\'s wine population.',
+  },
+  {
+    'ШÁННОН ':
+      'наиболее значительная река в Ирландии. Дл. 368 км, пл. бас. 15, 7 тыс. км². ',
+  },
+  {
+    'ЦУГÁРУ  ':
+      'между островами Хонсю и Хоккайдо (Япония). Соединяет Японское море с Тихим океаном.',
+  },
+  {
+    'ШКÓДЕР  ':
+      'озеро на Балканском полуострове, в Черногории и Албании. Пл. 391 км², в период сезонного подъёма уровня достигает 530 км². Глуб. до 60 м. Зап. и северо-зап. берега крутые, скалистые, вост. – равнинные, заболоченные. Впадает 6 рек, наибольшая из которых – Мораца. ',
+  },
+  {
+    'Астротурфинг  ':
+      'practice of hiding the sponsors of a message or organization (e.g., political, advertising, religious, or public relations) to make it appear as though it originates from, and is supported by, grassroots participants.  ',
+  },
+  {
+    'Великая отставка или большой уход  ':
+      'an ongoing economic trend in which employees have voluntarily resigned from their jobs en masse, beginning in early 2021 in the wake of the COVID-19 pandemic. ',
+  },
+  {
+    'Saudi Vision 2030  ':
+      "is a strategic framework to reduce Saudi Arabia's dependence on oil, diversify its economy, and develop public service sectors such as health, education, infrastructure, recreation, and tourism. Key goals include reinforcing economic and investment activities, increasing non-oil international trade. It also consists of increasing government spending on the military, as well as manufacturing equipment and ammunition.",
+  },
+  {
+    'keiretsu  ':
+      "a set of companies with interlocking business relationships and shareholdings that have dominated the Japanese economy since the second half of the 20th century. In the legal sense, it is a type of informal business group that are loosely organized alliances within the social world of Japan's business community. It rose up to replace the zaibatsu system that was dissolved in the Occupation of Japan following the Second World War, and, though their influence has shrunk since the late 20th century, they continue to be important forces in Japan's economy in the early 21st century.",
+  },
+  {
+    'Исследовательский треугольник  ':
+      'nicknames for a metropolitan area in the Piedmont region of the U.S. state of North Carolina in the United States, anchored by the cities of Raleigh, Durham and Chapel Hill, and home to three major research universities: North Carolina State University, Duke University, and the University of North Carolina at Chapel Hill, respectively.',
+  },
+  {
+    'Maria Goeppert Mayer  ':
+      '(June 28, 1906 – February 20, 1972) was a German-born American theoretical physicist, and Nobel laureate in Physics for proposing the nuclear shell model of the atomic nucleus. She was the second woman to win a Nobel Prize in physics, the first being Marie Curie.',
+  },
+  {
+    'Calamity Jane ':
+      "American frontierswoman, sharpshooter, and storyteller. In addition to many exploits she was known for being an acquaintance of Wild Bill Hickok. Late in her life, she appeared in Buffalo Bill's Wild West show and at the 1901 Pan-American Exposition. She is said to have exhibited compassion to others, especially to the sick and needy.",
+  },
+  {
+    'William Archibald Spooner  ':
+      '(22 July 1844 – 29 August 1930) was a British clergyman and long-serving Oxford don. He was most notable for his absent-mindedness, and for supposedly mixing up the syllables in a spoken phrase, with unintentionally comic effect. ',
+  },
+  {
+    'Kordylewski clouds  ':
+      'large concentrations of dust that exist at the and Lagrangian points of the Earth–Moon system. ',
+  },
+  {
+    'Messalina  ':
+      'third wife of Roman emperor Claudius. She was a paternal cousin of Emperor Nero, a second cousin of Emperor Caligula, and a great-grandniece of Emperor Augustus. A powerful and influential woman with a reputation for promiscuity, she allegedly conspired against her husband and was executed on the discovery of the plot. Her notorious reputation probably resulted from political bias, but works of art and literature have perpetuated it into modern times.',
+  },
+  {
+    'Karl Guthe Jansky  ':
+      '(October 22, 1905 – February 14, 1950) was an American physicist and radio engineer who in April 1933 first announced his discovery of radio waves emanating from the Milky Way in the constellation Sagittarius. He is considered one of the founding figures of radio astronomy.',
+  },
+  {
+    'Will Rogers phenomenon, also called the Okie Paradox ':
+      'when moving an observation from one group to another increases the average of both groups. ',
+  },
+  {
+    'Proteus effect  ':
+      'a phenomenon in which the behavior of an individual, within virtual worlds, is changed by the characteristics of their avatar',
+  },
+  {
+    "Dunbar's number  ":
+      'suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.',
+  },
+  {
+    'Saba  ':
+      'a Caribbean island and the smallest special municipality (officially "public body") of the Netherlands. It consists largely of the active volcano Mount Scenery, which at 887 m is the highest point of the entire Kingdom of the Netherlands. Together with Bonaire and Sint Eustatius it forms the BES islands, also known as the Caribbean Netherlands.',
+  },
+  {
+    'Kangaroo Island ':
+      "Australia's third-largest island, after Tasmania and Melville Island. It lies in the state of South Australia, 112 km southwest of Adelaide.",
+  },
+  {
+    'Gotland  ':
+      "Sweden's largest island. The population is 61,001, of which about 23,600 live in Visby, the main town.",
+  },
+  {
+    'Heisei era  ':
+      'the period of Japanese history corresponding to the reign of Emperor Emeritus Akihito from 8 January 1989 until his abdication on 30 April 2019. ',
+  },
+  {
+    'Greenwashing  ':
+      "form of advertising or marketing spin in which green PR and green marketing are deceptively used to persuade the public that an organization's products, aims and policies are environmentally friendly. ",
+  },
+  {
+    'Thomas Bowdler ':
+      "an English physician known for publishing The Family Shakespeare, an expurgated edition of William Shakespeare's plays edited by his sister ",
+  },
+  {
+    'Giuseppe Meazza  ':
+      '(23 August 1910 – 21 August 1979) was an Italian football manager and player. Throughout his career, he played mainly for Inter Milan in the 1930s, scoring 242 goals in 365 games for the club, and winning three Serie A titles, as well as the Coppa Italia; he later also played for local rivals Milan, as well as Turin rivals Juventus, in addition to his spells with Varese and Atalanta. At international level, he led Italy to win two consecutive World Cups: in 1934 on home soil, and in 1938 as captain, being named to the All-star Team.',
+  },
+  {
+    "Kipp's apparatus ":
+      'an apparatus designed for preparation of small volumes of gases. It was invented around 1844 by the Dutch pharmacist.',
+  },
+  {
+    'Hayflick limit ':
+      'number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells. ',
+  },
+  {
+    'Adolphe Quetelet (Кетле) ':
+      '(22 February 1796 – 17 February 1874) was a Belgian astronomer, mathematician, statistician and sociologist who founded and directed the Brussels Observatory and was influential in introducing statistical methods to the social sciences. He also founded the science of anthropometry and developed the body mass index (BMI) scale',
+  },
+  {
+    'Leo  Baekeland  ':
+      '(November 14, 1863 – February 23, 1944) was a Belgian chemist. He is best known for the inventions of Velox photographic paper in 1893, and BLANK in 1907. He has been called "The Father of the Plastics Industry" for his invention of BLANK, an inexpensive, non-flammable and versatile plastic, which marked the beginning of the modern plastics industry.',
+  },
+  {
+    'Belt of Venus  ':
+      'atmospheric phenomenon visible shortly before sunrise or after sunset, during civil twilight. It is a pinkish glow that surrounds the observer, extending roughly 10–20° above the horizon. It appears opposite to the afterglow, which it also reflects. ',
+  },
+  {
+    'Carlism  ':
+      'Traditionalist and Legitimist political movement in Spain aimed at establishing an alternative branch of the Bourbon dynasty – one descended from Don Carlos, Count of Molina (1788–1855) – on the Spanish throne',
+  },
+  {
+    Agrippina:
+      'Roman empress from 49 to 54 AD, the fourth wife and niece of Emperor Claudius, and the mother of Nero. ',
+  },
+  {
+    'Fujita scale (F-Scale; ), or Fujita–Pearson scale (FPP scale)':
+      'a scale for rating tornado intensity, based primarily on the damage tornadoes inflict on human-built structures and vegetation',
+  },
+  {
+    'Diedrich Knickerbocker  ':
+      "American literary character who originated from Washington Irving's first novel, A History of New-York from the Beginning of the World to the End of the Dutch Dynasty. He is a Dutch-American historian who is dressed in a specific type of baggy-kneed trousers. The word knickerbocker is also used to refer to people who live in Manhattan, and was adopted in a shortened form as the Knicks by the city's NBA professional basketball team.",
+  },
+  {
+    'Johan Ludvig Runeberg  ':
+      '(5 February 1804 – 6 May 1877) was a Finnish priest, lyric and epic poet. He wrote exclusively in Swedish. He is considered a national poet of Finland. He is the author of the lyrics to Vårt land (Our Land, Maamme in Finnish) which became an unofficial Finnish national anthem.',
+  },
+  {
+    'УИ́ТНИ ':
+      'вершина в хребте Сьерра-Невада, высшая точка «смежных» штатов США (4418 м). Расположена на оси хребта, нависая над находящейся к В. от него линейной впадиной Оуэнс.',
+  },
+  {
+    'ФУМАРÓЛЫ ':
+      'сравнительно небольшие отверстия и трещинки, по которым поднимаются струи горячих паров воды и газов, выделяющиеся из магмы ',
+  },
+  {
+    'ХАЙБÉРСКИЙ ПРОХÓД ':
+      'перевал в хребте Сафедкох, на границе Афганистана и Пакистана, единственный удобный путь сообщения между странами. Находится к Ю. от долины р. Кабул, которая в этом месте представляет собой непроходимое ущелье.',
+  },
+  {
+    'Алый первоцвет, баронесса Орци  ':
+      'In which 1905 novel, the first in a series set during the French Revolution, does the Englishman Percy Blakeney rescue condemned aristocrats before they can be sent to the guillotine? ',
+  },
+  {
+    ' El Alemein ':
+      'Four hours west of Cairo is a war cemetery, containing the graves of about 8,000 Allied soldiers killed in World War II. The cemetery is located in which small Egyptian town (whose population is about the same as the number of graves in the cemetary), which was the scene of a massive battle in World War II?',
+  },
+  {
+    'Hargeisa ':
+      'If you meet somebody who says they visited Somalia, odds are that they spent most or all of their time in this relatively safe city, the capital of the unrecognized state of Somaliland. ',
+  },
+  {
+    'Татавин ':
+      'Multiple Star Wars movies were partially filmed in this Tunisian city, famous for the cave-like dwellings in which its Bedouins live. ',
+  },
+  {
+    'Ambazonia ':
+      'The former German colonial center of Buea (which is still home to the Bismarck well, pictured) is today the capital of which autonomous English-speaking region of Cameroon, which occasionally seeks independence from the French-speaking majority? ',
+  },
+  {
+    'Fula ':
+      "Traditionally living as pastoralists, this ethnic group is one of the largest in the Sahel. Nearly 98% of this ethnic group's members are Muslims, and they launched a series of namesake jihads in the 18th and 19th century. ",
+  },
+  {
+    'Afar (Французская территория афар и исса ) ':
+      'This ethnic group forms 35% of the population of Djbouti. They lend their name to a triangular region of northeastern Ethiopia, as well as to a depression within the Great Rift Valley that includes Lake Assal, the lowest point in Africa. ',
+  },
+  {
+    'Epic of Sundiata ':
+      'In many parts of west Africa, you can find a griot capable of reciting this epic poem, about the founder of the Mali Empire. ',
+  },
+  {
+    'Gao ': 'This other city in Mali was the capital of the Songhai Empire.',
+  },
+  {
+    'CORK ':
+      'Now a classic material for the soles of summery wedge heels, Salvatore Ferragamo began using what lightweight natural product due to an inability to afford steel during World War II? ',
+  },
+  {
+    'FLAUTAs  ':
+      'The Mexican state of Sinaloa is well known for what dish, similar if not equivalent to a flour-tortilla taquito but named for the Spanish word for an orchestral instrument? Yes, sometimes this dish has corn tortillas too. ',
+  },
+  {
+    'Pola Negri ':
+      'This Polish actress was a major silent film star in both Germany and the United States, though her career dissipated with the introduction of talkies. ',
+  },
+  {
+    'Stanislaw Ulam (Еще метод Монте-Карло) ':
+      'This Polish physicist was part of the Manhattan Project, and along with his colleague Edward Teller he designed the American hydrogen bomb. ',
+  },
+  {
+    'Jan Tinbergen ':
+      'One of the founding fathers of econometrics, which Dutch economist was awarded the first Nobel Prize in Economics in 1969, which he shared with Ragnar Frisch? ',
+  },
+  {
+    'Aage Bohr ':
+      'What was the name of Neils Bohr’s son, who shared the Nobel Prize in Physics in 1975 with Ben Mottelson and James Rainwater for their model of the nucleus? ',
+  },
+  {
+    'Medea hypothesis ':
+      "What hypothesis developed by paleontologist Peter Ward contests the Gaia hypothesis and proposes that multicellular life may be self-destructive or suicidal? It is a metaphor that refers to a mythological mother who kills her own children. She figures in the myth of Jason and the Argonauts and is the subject of Euripides's tragedy of the same name",
+  },
+  {
+    'Hyderabad ':
+      'Literally meaning “four minarets”, the Charminar seen here is a monument and mosque that was constructed in 1591 and that has become the landmark symbol of which Indian city? It is listed among the most recognized structures in India.',
+  },
+  {
+    'Deadnaming ':
+      'What term is given to the act of referring to a trans person by their pre-transition name, rather than their affirmed name?',
+  },
+  {
+    'Kathleen Hanna ':
+      'The 2013 documentary The Punk Singer is about which riot grrrl pioneer? She fronted bands including Bikini Kill and Le Tigre, and she also (albeit unintentionally) named the Nirvana song Smells Like Teen Spirit.',
+  },
+  {
+    'PENTIMENTO ':
+      'The word is Italian for repentance, what do we call an alteration in a painting, evidenced by traces of previous work, showing that the artist has changed his or her mind as to the composition during the process of painting?',
+  },
+  {
+    'Detroit Red Wings ':
+      '  The Russian Five is a documentary about a unit of five Russian ice hockey players from the USSR who played for which NHL franchise and helped them win the 1997 Stanley Cup Finals after a drought of more than 40 years?',
+  },
+  {
+    'PHNOM PENH ':
+      'Chronicling the genocide between 1975 and 1979 in which an estimated one and a half to three million people died, Tuol Sleng Genocide Museum is to be found in which Asian capital city?',
+  },
+  {
+    'Сигетварская битва ':
+      'Called by French statesman Cardinal Richelieu "the battle that saved civilisation." The siege of which fortress in Hungary during 1566, helped block Suleiman\'s advance towards Vienna? Although the Ottoman would win the battle, the bloody fighting halted their advance to Vienna and the city would not be threatened for another 100 years.,',
+  },
+  {
+    'Adamstown  ':
+      'the capital of the Pitcairn Islands, and the only settlement on the Pitcairn Islands, the only British Overseas Territory that is located in the Pacific Ocean. As of January 2020, it has a population of 47, which is the entire population of the Pitcairn Islands.',
+  },
+  {
+    'Malé  ':
+      'the capital and most populous city of the Maldives. With a population of 252,768 including other districts and an area of 8.30 km2, it is also one of the most densely populated cities in the world.',
+  },
+  {
+    'Santa Clara  ':
+      'The town located in the center of Silicon Valley and is home to the headquarters of companies such as Intel, Advanced Micro Devices, and Nvidia',
+  },
+  {
+    'China ':
+      'Initiated in 1899, the Open Door Policy was based on the U.S. & other nations all having equal access to this Asian country ',
+  },
+  {
+    'prions ':
+      'Discovered around 1980, these nasty proteins (hence the "pr" in the word) are a cause of fatal brain diseases ',
+  },
+  {
+    'G. E. Moore (Here is one hand, And here is another. There are at least two external objects in the world.Therefore, an external world exists.) ':
+      'Wittgenstein’s Tractatus only adopted its now-famous Latin title when translated into English. The change was suggested by which English philosopher as an homage to Spinoza’s Tractatus Theologico-Politicus? This man wrote the Principia Ethica and A Defence of Common Sense, in the latter of which he attacked philosophical scepticism with his famous “Here is one hand” argument. ',
+  },
+  {
+    'Голубые горы  ':
+      'Which mountain range and natural UNESCO World Heritage site in New South Wales, Australia, gets its name from its apparent colour to human eyes? This effect is due to the evaporation of eucalyptus essential oil in the air, causing sunlight to scatter and allow shorter-wavelengths to propagate more easily. ',
+  },
+  {
+    'trilobite  ':
+      'This marine arthropod was among the first creatures in the fossil record to develop the sense of sight and lived for 270 million years until its extinction at the end of the Permian about 252 million years ago. Which extinct creature is so named because the back of its body was uniquely divided into three distinct sections? ',
+  },
+  {
+    'Sudan ':
+      'Very few tourists visit this country, but the ones who do often see the pyramids of Meroe. ',
+  },
+  {
+    'ksar ':
+      'Which native term refers to a type of small fortified city commonly found in Berber areas of North Africa? These were often stopping points on trade routes and frequently contained communal granneries called ghorfa.',
+  },
+  {
+    'highlife ':
+      'This genre of music originated in Ghana, and combines European instruments with the traditional songs of the Akan people. For much of its history it had a jazz-like sound with heavy use of horns, and recently it has incorporated syntheziers. ',
+  },
+  {
+    'Cecil the Lion ':
+      'In 2015, a dentist from the United States shot and killed this famous lion in Zimbabwe. It led to outrage, almost exclusively in the United States and Europe, and led to regulations making it harder for American citizens to hunt lions overseas. Many Zimbabweans interviewed by the media said either that they had never heard of this lion, or that they supported lion hunting because lions sometimes kill humans in Zimbabwe. ',
+  },
+  {
+    'Убийство ожерельем  ':
+      'The above organization was known to kill people by putting a tire around their neck, filling it with petrol, and lighting it on fire, a practice known as this. This method of extrajudicial execution was used primarily against South African blacks who collaborated with the apartheid government, or were seen as traitors to the anti-apartheid cause. ',
+  },
+  {
+    'Господня армия сопротивления  ':
+      'Founded by former internet celebrity Joseph Kony, this terrorist group famous for its use of child soldiers continues to fight against the government of Uganda. ',
+  },
+  {
+    'Kingdom of Kongo ':
+      'This native kingdom of central Africa, which lasted from 1390 to 1857, was heavily influenced by contact with the Portuguese, so much so that its rulers took Portuguese names like João I Nzinga a Nkuwu and Afonso I Nzinga Mbemba. ',
+  },
+  {
+    'Джанджавид  ':
+      "These Arab militias aligned with the Sudanese government fought against native tribesmen in the Darfur region of the Sudan during the early 2000's, and have been accused of genocide and other atrocities against the Darfur natives. ",
+  },
+  {
+    'Stefan Batory ':
+      'From 1576 to 1586, this ethnic Hungarian from Transylvania was the King of Poland. He defeated Ivan the Terrible in the Livonian War, but his most lasting accomplishment may have been his reform of the Polish cavalry',
+  },
+  {
+    'Oder-Niesse Line ':
+      'Following the end of World War II, a new border between Germany and Poland was established at this line, named for two rivers. It remains the border between Poland and Germany today. ',
+  },
+  {
+    'Жемчужная река  ':
+      'Guangzhou, Hong Kong, and Macau are all found in a region named for the delta of which major river of south China? ',
+  },
+  {
+    'ROTOSCOPING ':
+      'Using Max Fleischer’s modernized invention of the same name, what animation technique was used to make A-ha’s Take On Me and Dire Straits Money for Nothing videos, as well as Richard Linklater’s films Waking Life and Scanner Darkly?,',
   },
 ];

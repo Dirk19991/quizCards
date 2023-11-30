@@ -8,9 +8,12 @@ interface CardProps {
   setQuestionNumber: Dispatch<SetStateAction<number>>;
 }
 
-export const QuestionCard = ({ questionNumber, setQuestionNumber }: CardProps) => {
+export const QuestionCard = ({
+  questionNumber,
+  setQuestionNumber,
+}: CardProps) => {
   const [answerShown, setAnswerShown] = useState(false);
-  const [clues, setClues] = useState(questions);
+  const [clues, setClues] = useState(() => shuffleArray(questions));
 
   const length = clues.length;
 
@@ -25,7 +28,8 @@ export const QuestionCard = ({ questionNumber, setQuestionNumber }: CardProps) =
 
   const answer = Object.keys(clues[questionNumber])[0];
   const question =
-    Object.values(clues[questionNumber])[0][0].toUpperCase() + Object.values(clues[questionNumber])[0].slice(1);
+    Object.values(clues[questionNumber])[0][0]?.toUpperCase() +
+    Object.values(clues[questionNumber])[0].slice(1);
   const toggleAnswer = () => setAnswerShown((prev) => !prev);
 
   return (
