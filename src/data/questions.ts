@@ -1609,4 +1609,301 @@ export const questions: Question[] = [
     'ROTOSCOPING ':
       'Using Max Fleischer’s modernized invention of the same name, what animation technique was used to make A-ha’s Take On Me and Dire Straits Money for Nothing videos, as well as Richard Linklater’s films Waking Life and Scanner Darkly?,',
   },
+  {
+    'Karl BARTH ':
+      'Which Swiss Reformed theologian (1886-1968) is most well-known for his landmark commentary The Epistle to the Romans (1921), his involvement in the Confessing Church, and authorship of the Barmen Declaration? His influence expanded well beyond the academic realm to mainstream culture, leading him to be featured on the cover of Time on 20 April 1962. ',
+  },
+  {
+    'SENNHEISER ':
+      ' With its logo seen here, which German audio company founded in 1945 by Prof. Dr. Fritz __________ specializes in the design and production of a wide range of high fidelity products, including microphones, headphones, telephone accessories and aviation headsets for personal, professional and business applications?	',
+  },
+  {
+    ' Palk Strait':
+      ' Which strait lies between India and the island nation of Sri Lanka?	',
+  },
+  {
+    ' Sakoku':
+      ' Lasting from the 1630s to the 1850s, what was the name of the isolationist foreign policy of the Tokugawa shogunate that effectively banned foreigners from entering Japan? Its name can be obtained by changing the second and third letters in the answer to the previous question.	',
+  },
+  {
+    ' Перцовый берег':
+      'What name was given by European traders to the coastal area of western Africa, between Cape Mesurado and Cape Palmas? The region that is now part of Liberia was named after the cardamom-like spice "the grains of paradise" that came from there. ',
+  },
+  {
+    'Trdelnik ':
+      ' Beginning with the letter T,  What is the name of this Slovak-Czech pastry made from dough, sugar and walnuts? This variant of the chimney cake is often seen for sale on the streets of Prague.	',
+  },
+  {
+    'Эйген Блейлер ':
+      'To which Zurich psychiatrist do we owe the introduction of the terms schizophrenia and autism into the psychiatric vocabulary? ',
+  },
+  {
+    ' Crêpe Suzette':
+      ' Which French dessert consists of a thin flour pancake served with a sauce of caramelized sugar and butter, tangerine juice, zest, and Grand Marnier or orange Curaçao liqueur on top, served flambé?',
+  },
+  {
+    ' Telophase':
+      'With a name literally meaning ‘end stage’ in Greek, which is the final stage in both mitosis and meiosis?	 ',
+  },
+  {
+    'P versus NP Problem ':
+      'One of the seven Millennium Prize Problems selected by the Clay Mathematics Institute, which major unsolved problem in computer science asks whether every problem whose solution can be quickly verified can also be solved quickly?	 ',
+  },
+  {
+    ' Tanuki':
+      "What is the Japanese name for the country's subspecies of Asian raccoon dog (Nyctereutes procyonoides viverrinus) which plays a prominent role as a shape-shifting trickster in Japanese folklore? These creatures are often represented in art with enormous testicles which they can use as raincoats, weapons, or drums. ",
+  },
+  {
+    ' Порабощенный разум':
+      'What is the title of the 1953 non-fiction work by the Polish Nobel Laureate Czesław Miłosz in which he appraises Stalinism and explains its perplexing allure? ',
+  },
+  {
+    'Milton Glaser ':
+      "DC Comic's famous 'bullet' logo (in use between 1977 and 2005) was created by which American graphic designer, best-known for the I Love New York logo? ",
+  },
+  {
+    ' Battle of Red Cliffs ':
+      'Sometimes considered the largest naval battle in history (in terms of numbers involved), which battle of the winter of 208–9 CE was fought at the end of the Han dynasty by an alliance of the southern warlords Sun Quan, Liu Bei, and Liu Qi against the forces of the northern warlord Cao Cao? ',
+  },
+  {
+    ' Vaalbara':
+      "Hypothesized as (one of) the earliest of Earth's supercontinents, which landmass - dating from 2.7 to 3.6 billion years ago - has a name that derives from the names of the two portions of continental crust (one in Africa and one in Australia) that remain of it? ",
+  },
+  {
+    'Brian Jones ':
+      'Ousted from the band a few months earlier, which former Rolling Stones member died in 1969, again aged 27?	 ',
+  },
+  {
+    ' Миклош Рожа':
+      ' Which composer, who was born in Hungary in 1907 but later took US citizenship, is best remembered for his film scores, which included collaborations in the 1940s with Billy Wilder and Alfred Hitchcock? His scores for Spellbound and Ben-Hur both won the Academy Award for Best Score.',
+  },
+  {
+    'In medias res ':
+      "Which three-word Latin term, literally meaning 'in the middle of things', is used to describe a narrative work that opens in the middle of events, with gaps in the plot generally being filled in as the work proceeds? Examples include Hamlet and The Usual Suspects. ",
+  },
+  {
+    'Tapioca ':
+      'Bubble tea (or boba, or pearl milk tea) includes balls made of what substance?	 ',
+  },
+  {
+    'Cava ':
+      ' Mainly produced in Catalonia, which popular Spanish sparkling wine is made with macabeo or parellada [PARREH-YADA] grapes? ',
+  },
+  {
+    'Festschrift ':
+      ' Literally meaning ‘celebration publication’ or ‘celebratory writing’, which German word describes a book or collection of writings presented as an honour to an academic during his or her lifetime? ',
+  },
+  {
+    ' Iman ':
+      'Her name meaning ‘faith’ in Arabic, which Somali model, actress, and entrepreneur married David Bowie in 1992?  ',
+  },
+  {
+    'Jean Moulin ':
+      'Perhaps the best-known emblem of the French Resistance was of which doomed resistance fighter wearing his iconic fedora hat and scarf?  ',
+  },
+  {
+    Manx: ' Ned Maddrell, who died in 1974, was the last native speaker of which language of the British Isles?',
+  },
+  {
+    'ENDOR ':
+      ' Being the home of a race of furry aliens called Ewoks, which fictional moon in the Star Wars universe was the site of a pivotal battle depicted in Return of the Jedi?	 ',
+  },
+  {
+    'Джеймс Кэвизел ':
+      ' Which actor played Jesus Christ in Mel Gibson’s 2004 The Passion of the Christ?	 ',
+  },
+  {
+    'SPAMALOT ':
+      ' “Sir Lancelot, the Homicidally Brave”, “Sir Robin, the Not-Quite-So-Brave-as-Sir-Lancelot”, “Sir Dennis Galahad, the Dashingly Handsome”, “Sir Bedevere, the Strangely Flatulent”, and “Patsy, King Arthur’s trusty servant/steed and constant companion” are just some of the characters listed in the synopsis of which hit musical that premiered in 2004 in Chicago?',
+  },
+  {
+    'bell hooks ':
+      " The oeuvre of what U.S. writer and professor, born gloria jean watkins, includes Ain't I a Woman?: Black Women and Feminism and We Real Cool: Black Men and Masculinity?",
+  },
+  {
+    'Стрелок И ':
+      " What archer in Chinese mythology, the husband of moon goddess Chang'e, shot down nine of the ten suns that were, all at once, scorching the earth? The remaining sun was frightened into rising and setting on time.	 ",
+  },
+  {
+    'Ne Win ':
+      ' What Burmese miltiary dictator who ruled from 1962 until his 1988 ouster promulgated a "Burmese Way to Socialism"? ',
+  },
+  {
+    'Joaquin Rodrigo ':
+      " Side one of Miles Davis' 1960 LP Sketches of Spain begins with an extended version of the second movement of what composer's Concierto de Aranjuez? ",
+  },
+  {
+    'Десять процентов ':
+      ' Sigourney Weaver, Jean Reno, Charlotte Gainsbourg, Jean Dujardin, and Juliette Binoche are just some of the actors to have appeared in which popular French television series - that debuted in 2015 - that follows the running of the Agence Samuel Kerr talent agency?	 ',
+  },
+  {
+    'Chiang Mai ':
+      " With a name meaning 'new city' because it became the new capital of the Lan Na kingdom when it was founded in 1296, which is the largest and most culturally significant city in Northern Thailand, serving as the region's unofficial capital? ",
+  },
+  {
+    'César Chávez ':
+      ' His birthday, on 31st March, is celebrated as a holiday in eight US states. Which Mexican-American labour leader and civil rights activist co-founded the National Farm Workers Association with Dolores Huerta in 1962? ',
+  },
+  {
+    'Roche Limit ':
+      ' After the French astronomer who first calculated it in 1848, what name is given to the minimum distance a satellite can orbit its planet and remain intact before being torn apart by the planet’s tidal forces?',
+  },
+  {
+    'Murray Gell-Mann ':
+      ' What was the name of the American physicist who named the fundamental particles ‘quarks’ after a line in a James Joyce novel?',
+  },
+  {
+    'Operation Husky ':
+      ' What was the codename of the World War II campaign that saw the Allies take Sicily from the Axis Powers in the summer of 1943?',
+  },
+  {
+    'James Earl Jones ':
+      ' Although David Prowse provided the body, which actor provided the voice of Darth Vader in the original Star Wars films?',
+  },
+  {
+    'Tetum ':
+      ' The official languages of East Timor are Portuguese and which Austronesian language spoken only on the island of Timor? ',
+  },
+  {
+    'Emil von Behring ':
+      ' Which German scientist won the first ever Nobel Prize in Physiology or Medicine for his discovery of a diphtheria antitoxin? ',
+  },
+  {
+    'Gordon Banks':
+      'Which legendary goalkeeper played for England in the 1966 World Cup Final against West Germany?',
+  },
+  {
+    'Lake Vänern':
+      'At 5,655 square km, which is the largest lake in the European Union?  ',
+  },
+  {
+    'William Wilberforce':
+      'The testimony of the former slave known as Gustavus Vassa helped inspire which Yorkshire MP to become the leading voice of the British parliamentary movement to abolish the slave trade?',
+  },
+  {
+    'Daley Thompson':
+      'Which British legend won the decathlon gold medal at the 1980 and 1984 Olympics?',
+  },
+  {
+    Ивреа:
+      'The Battle of the Oranges is an Italian festival in which participants throw oranges at one another for the sheer fun of it. In which small town near the city of Turin does the festival take place?',
+  },
+  {
+    Кеш: "What is the name of the first and most important of the 5 Ks of Sikhism? It refers to the practice of allowing one's hair to grow naturally as a symbol of respect for the perfection of God's creation.",
+  },
+  {
+    'Shaun White (Летающий помидор)':
+      'Winning Olympic gold medals in 2006 and 2010, which legendary American snowboarder and skateboarder holds the record for the most gold medals won at the Winter X-Games?',
+  },
+  {
+    Cadenza:
+      "With a name deriving ultimately from the Latin for ‘a falling’, what is the musical term for a solo passage typically inserted towards the end of a concerto in order to display a performer's virtuoso technique? ",
+  },
+  {
+    'Claudette Colbert':
+      'You will no doubt be aware that Clark Gable won the Oscar for Best Actor for his role in It Happened One Night. But which French woman won the Oscar for Best Actress for her role in the same film?',
+  },
+  {
+    'Капелла Скровеньи  ':
+      'The Italian painter Giotto is best-known for his masterful fresco cycle adorning which chapel in Padua?',
+  },
+  {
+    '[Teófilo] CUBILLAS':
+      'At the 1978 World Cup, which Peruvian footballer scored five goals, second only to Mario Kempes? He is also one of only three players to score five or more goals in two different World Cups, the other two being Miroslav Klose and Thomas Müller. ',
+  },
+  {
+    'Игры непокорённых':
+      'What international sporting event was founded by Prince Harry for wounded, injured, and sick servicemen and women, both active and veterans? In its logo, the letter I in the first word is highlighted and the letters AM are highlighted in the second word.',
+  },
+  {
+    '[Ingemar] JOHANSSON ':
+      'Which Swedish boxer was rejected for his passivity in the heavyweight final against Ed Sanders at the 1952 Summer Games? Seven years later, he would win the heavyweight title, defeating Floyd Patterson at Yankee Stadium.',
+  },
+  {
+    'SUDIRMAN CUP':
+      'Which international mixed team badminton competition, founded in 1989, is named after a former Indonesian badminton player and founder of the Indonesian Badminton Association? The tournament has never been won by a non-Asian country, Denmark being the only European country to come close to winning, in 1999 and 2011.',
+  },
+  {
+    ' [Ingemar] STENMARK ':
+      'Which Swedish alpine ski racer, who is usually regarded as the greatest slalom and giant slalom specialist of all time, still holds the record for the biggest win-margin in a World Cup alpine race?',
+  },
+  {
+    'FORMULA E':
+      "Which single-seater motorsport championship was conceived by Jean Todt, president of the Fédération Internationale de l'Automobile, and presented to Alejandro Agag, Antonio Tajani, and Theo Teocoli in March 2011? Tajani was focused on reducing carbon dioxide emissions from racing.",
+  },
+  {
+    CANASTA:
+      'Which card game in the rummy family of games was invented by lawyer Segundo Sanchez Santos and his bridge partner Alberto Serrato in Montevideo, Uruguay, in 1939 in an attempt to develop a time-efficient game that would be as exciting as bridge?',
+  },
+  {
+    'Literally known as "girl chasing," which equestrian traditional sport among Turkic peoples, such as the Azerbaijanis, Kazakhs, and Kyrgyz, shows elements of horse racing, but is often referred to as a "kissing game"?':
+      'Кыз куумай',
+  },
+  {
+    'KETTLE WAR (Война супника)  ':
+      'What name is given to the military conflict between the Holy Roman Empire and the Republic of the Seven Netherlands in October 1784? The name came from a kitchen item, which was the only victim of the confrontation.',
+  },
+  {
+    'HYPERLOOP ':
+      'Which high-speed transportation system, described by Elon Musk as the "Fifth Mode of Transport", was first presented in July 2012?',
+  },
+  {
+    'MAJURO ':
+      'What city is the capital and the largest city of the Marshall Islands? It is also a large coral atoll which was the site of the declaration by the Pacific Islands Forum signed in 2013, to make a unified action on climate change adaptation and international aid.',
+  },
+  {
+    'RAPPLER ':
+      'Journalist Maria Ressa has been an outspoken critic of former president of the Philippines Rodrigo Duterte, and was charged and convicted in the Philippines in 2019 for her work with what online news site, which she co-founded with other Filipino journalists? In 2021, her work was recognized when she was awarded the Nobel Peace Prize.',
+  },
+  {
+    'SANIA MIRZA':
+      'The first woman from India to be ranked World #1 in any sport, this tennis superstar finished her spectacular career, that has included 6 Grand Slam titles in doubles/mixed-doubles, on a high note by reaching the Australian Open mixed doubles finals earlier this year. Name her.',
+  },
+  {
+    'RAYA AND THE LAST DRAGON':
+      "Malaysian-American producer and screenwriter Adele Lim had a long career in TV until transitioning to film with 2018's Crazy Rich Asians. Her next screenwriting project was which 2021 animated film that featured an almost all-Asian cast, including Kelly Marie Tran, Awkwafina and Gemma Chan?",
+  },
+  {
+    CHESS:
+      'Hou Yifan, born in China in 1994, is the top-ranked woman in the world in her field of competition. As of July 2023, she has 64 points more than the next woman in the rankings, fellow Chinese competitor Ju Wenjun. In what endeavor do they compete?',
+  },
+  {
+    'Цзян Цин':
+      'Born in Zhucheng, China as Li Shumeng, she later chose the stage name Lan Ping during her brief acting career. Though Western journalists would come to call her "Madame Mao," Chinese women don\'t typically take their husband\'s surnames, so what is the name she was most famously known as during her years of political involvement, including forming the radical alliance known as the Gang of Four?',
+  },
+  {
+    'Всем парням, которых я любила раньше':
+      'Anna Cathcart, a Canadian actress of Chinese Irish descent, had a featured role in all the films in a series of literary adaptations of popular Young Adult novels by author Jenny Han. She received so much praise for her work in the original three Netflix movies that she now stars as the same character in a recently released spinoff series called XO, Kitty. Name any of the movies of the original trilogy that she was featured in.',
+  },
+  {
+    BANANA:
+      'The author of twelve novels, including her popular 1988 debut Kitchen, Mahoko Yoshimoto uses a pen name where she pairs her surname Yoshimoto with the given name ばなな. Phonetically the same in Japanese and English, what is this name, which she chose because she loves the flowers of a certain tropical fruit\'s plant, and because as a name it is "purposefully androgynous"?',
+  },
+  {
+    'ANNA MAY WONG':
+      'What Notable Woman of Asia, as the first Chinese American Hollywood star, was celebrated as a fashion icon of the 1920s and 1930s? Her most notorious encounter with the racism in the Hollywood movie industry was when MGM refused to cast her as the lead in the 1935 film The Good Earth (a story set in China and filled with Chinese characters) because the lead actor would be a white actor in yellowface, so the Hays code required that the lead actress be white as well. ',
+  },
+  {
+    KIRIBATI:
+      'What country\'s name comes from the Gilbertese language rendering for, well, "Gilberts", and is thus named after the 18th century British sea captain Thomas Gilbert? (The final two letters in the country\'s name, oddly enough for English speakers, are pronounced like an "s".)',
+  },
+  {
+    'GENERAL TSO (Цыплёнок генерала Цо)':
+      'Many foods are named for people, from Caesar salad to the humble sandwich. But few inspire entire movies about their eponyms. A 2014 documentary film titled "The Search for [redacted]" explores various theories about what 19th century military man, who certainly wasn\'t chicken when he crushed the Dungan Revolt? (Include both his military rank and name in your answer.)',
+  },
+  {
+    DUNE: 'In this series, the desert-dwelling Fremen believe that the Shai-Hulud, or sandworm, is a living manifestation of their creator.',
+  },
+  {
+    MIDICHLORIANS:
+      'One famous user of a particular power claims that it is "an energy field created by all living things". However, the creator of the series in which it appears later retconned that power to be controlled by the presence of these beings inside the cells of users.',
+  },
+  {
+    'DISMAS (второй – Гестас)':
+      "We lack important biographical details for many early saints. Often tradition and folklore have stepped in to provide some of these details. What name has Roman Catholic tradition assigned to the penitent thief who was crucified (with some justice, according to his own words) at Christ's side?",
+  },
+  {
+    LAHARS:
+      'What are the deadly, fast-moving mudflows spawned by volcanoes called? More than 20,000 people were killed by them in Armero, Colombia in 1985.',
+  },
 ];
