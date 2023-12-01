@@ -55,7 +55,7 @@ export const questions: Question[] = [
   },
   {
     'James Ellroy':
-      'American crime fiction writer and essayist. Ellroy has become known for a telegrammatic prose style in his most recent work, wherein he frequently omits connecting words and uses only short, staccato sentences, and in particular for the novels The Black Dahlia (1987) and L.A. Confidential (1990).',
+      'American crime fiction writer and essayist. He has become known for a telegrammatic prose style in his most recent work, wherein he frequently omits connecting words and uses only short, staccato sentences, and in particular for the novels The Black Dahlia (1987) and L.A. Confidential (1990).',
   },
   {
     'Nathanael West':
@@ -82,8 +82,7 @@ export const questions: Question[] = [
       'also known as the "prolonged sunspot minimum", was a period around 1645 to 1715 during which sunspots became exceedingly rare. During a 28-year period (1672–1699) within the minimum, observations revealed fewer than 50 sunspots. This contrasts with the typical 40,000–50,000 sunspots seen in modern times over a similar timespan',
   },
   {
-    "Charli D'Amelio":
-      'This 18-year-old dancer has 145 million followers on TikTok',
+    "Charli D'Amelio": 'This 18-year-old dancer has 145 million followers on TikTok',
   },
   {
     Dobro:
@@ -105,8 +104,7 @@ export const questions: Question[] = [
     UFC: 'This event began in 1993 as a multi-match tournament, with jiu jitsu master Royce Gracie winning the first 2 titles',
   },
   {
-    'Carl Sandburg':
-      'In "Chicago Poems" he got civic with poems like "Halsted Street Car" & "Clark Street Bridge"',
+    'Carl Sandburg': 'In "Chicago Poems" he got civic with poems like "Halsted Street Car" & "Clark Street Bridge"',
   },
   {
     'Trung sisters (Сестры Чынг)':
@@ -193,8 +191,7 @@ export const questions: Question[] = [
       'богато иллюстрированная рукописная книга, созданная ирландскими (кельтскими) монахами примерно в 800 году. Это одна из самых щедро украшенных изящными миниатюрами и орнаментами средневековых рукописей среди всех дошедших до нас. ',
   },
   {
-    Кана́ки:
-      'коренные народы Меланезии, проживающие в Новой Каледонии, где составляют 41,2 % населения.',
+    Кана́ки: 'коренные народы Меланезии, проживающие в Новой Каледонии, где составляют 41,2 % населения.',
   },
   {
     'Охвостье (Rump Parliament)':
@@ -237,8 +234,7 @@ export const questions: Question[] = [
       'трактат об идеальных пропорциях в природе, науке и искусстве, созданный выдающимся итальянским математиком, монахом францисканского ордена Лукой Пачоли. Издан в Венеции в 1509 году.',
   },
   {
-    'Госпожа Чжэн':
-      'китайская морская разбойница, которая снискала славу самой успешной пиратки в истории.',
+    'Госпожа Чжэн': 'китайская морская разбойница, которая снискала славу самой успешной пиратки в истории.',
   },
   {
     Sokoban:
@@ -264,16 +260,14 @@ export const questions: Question[] = [
     Чаупхрая: "It's the river flowing beneath Bangkok's Rama VI Bridge",
   },
   {
-    Fermin:
-      'Each year at a festival in Pamplona comes the religious procession honoring this saint',
+    Fermin: 'Each year at a festival in Pamplona comes the religious procession honoring this saint',
   },
   {
     Endometriosis:
       "Only identified around 1920, this condition of uterine lining growing where it shouldn't affects as many as one woman in 10",
   },
   {
-    'Claddagh ring':
-      'From Ireland, one of these rings; the crown symbolized loyalty, the heart-love, and friendship',
+    'Claddagh ring': 'From Ireland, one of these rings; the crown symbolized loyalty, the heart-love, and friendship',
   },
   {
     'pink-collar worker ':
@@ -390,8 +384,7 @@ export const questions: Question[] = [
       'архипелаг к юго-востоку от острова Понпеи в Тихом океане, состоящий из более чем сотни искусственных островков из базальтовых монолитов и коралловых блоков, связанных системой каналов. Известен также как «Тихоокеанская Венеция».',
   },
   {
-    'Алекса́ндр Алекса́ндров':
-      'Автор музыки Гимна СССР и положенного на ту же мелодию Гимна Российской Федерации.',
+    'Алекса́ндр Алекса́ндров': 'Автор музыки Гимна СССР и положенного на ту же мелодию Гимна Российской Федерации.',
   },
   {
     'Ка́рстен Бо́рхгревинк':
@@ -545,8 +538,7 @@ export const questions: Question[] = [
       'A French aerial gymnast who invented the flying trapeze in 1859 and who is the creator of a one-piece garment, known as a maillot, which was later named after him.',
   },
   {
-    'REARD, LOUIS':
-      'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
+    'REARD, LOUIS': 'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
   },
   {
     Дзиндзя: 'синтоистское святилище, вместе с территорией вокруг.',
@@ -620,8 +612,7 @@ export const questions: Question[] = [
       "After getting KO'd by Max Schmeling in 1936, this African-American heavyweight took just 2 minutes & 4 seconds to win the rematch ",
   },
   {
-    Hoovervilles:
-      'Shantytowns that sprang up during the Great Depression were given this presidential nickname ',
+    Hoovervilles: 'Shantytowns that sprang up during the Great Depression were given this presidential nickname ',
   },
   {
     Balto:
@@ -761,12 +752,10 @@ export const questions: Question[] = [
       'духи предков. Обряд их почитания совершался на седьмой день после Пасхи (семуха, весенняя радуница или пасха усопших) или осенью (большие осенины, дедова неделя). В эти дни в жертву покойникам приносили пищу. Жертвенную пищу относили на кладбище или приглашали их на угощение в дом и посвящали им первую ложку или первый стакан, выливая их под стол или ставя за окно.',
   },
   {
-    'Даждьбог ':
-      'древнерусский бог, связываемый с солнцем. Считался покровителем и родоначальником русских племен.',
+    'Даждьбог ': 'древнерусский бог, связываемый с солнцем. Считался покровителем и родоначальником русских племен.',
   },
   {
-    Герсилия:
-      'римская героиня, одна из похищенных римлянами сабинянок, ставшая женой Ромула.',
+    Герсилия: 'римская героиня, одна из похищенных римлянами сабинянок, ставшая женой Ромула.',
   },
   {
     Гекатонхейры:
@@ -852,12 +841,10 @@ export const questions: Question[] = [
       'Sticking with the theme about suspects: What was the name of the security guard who discovered the bomb planted by Eric Rudolph at the 1996 Summer Olympics in Atlanta? First hailed as a hero, he was later suspected to be the one who planted it, and, although he was eventually cleared, this led to several libel lawsuits against various parties. ',
   },
   {
-    'Strait of Bonifacio':
-      'Yes, the strait that separates Corsica from Sardinia has a name. ',
+    'Strait of Bonifacio': 'Yes, the strait that separates Corsica from Sardinia has a name. ',
   },
   {
-    'Palk Strait':
-      'This strait, famously crossed in the Ramayana, separates India from Sri Lanka. ',
+    'Palk Strait': 'This strait, famously crossed in the Ramayana, separates India from Sri Lanka. ',
   },
   {
     'Lajos Kossuth':
@@ -953,8 +940,7 @@ export const questions: Question[] = [
       'In 1908 he defeated Tommy Burns to become the first African-American world heavyweight boxing champ ',
   },
   {
-    "Goodhart's law ":
-      'an adage often stated as, "When a measure becomes a target, it ceases to be a good measure"',
+    "Goodhart's law ": 'an adage often stated as, "When a measure becomes a target, it ceases to be a good measure"',
   },
   {
     'Montpelier ':
@@ -1017,8 +1003,7 @@ export const questions: Question[] = [
       'In which Dutch city were treaties signed between April 1713 and September 1714 which brought an end to the War of the Spanish Succession?',
   },
   {
-    ADELAIDE:
-      'The Ghan passenger train takes 54 hours to travel between Darwin and which city in South Australia?',
+    ADELAIDE: 'The Ghan passenger train takes 54 hours to travel between Darwin and which city in South Australia?',
   },
   {
     Duffer:
@@ -1045,8 +1030,7 @@ export const questions: Question[] = [
       'Некоторые исследователи отмечают, что после НЕЁ корабль не сможет прибыть на поля Вигрид, а приедет туда по льду как на санях. Ответ: ',
   },
   {
-    Leitha:
-      'Until 1919, which river was traditionally seen as the border between Austria and Hungary? ',
+    Leitha: 'Until 1919, which river was traditionally seen as the border between Austria and Hungary? ',
   },
   {
     Szekesfehervar:
@@ -1127,8 +1111,7 @@ export const questions: Question[] = [
       '"Z" by Therese Anne Fowler is a fictionalized memoir of this Jazz Age woman called the first flapper ',
   },
   {
-    'Купол скалы  ':
-      'Completed in 691, this shrine was built in Jerusalem by Caliph Abd al-Malik',
+    'Купол скалы  ': 'Completed in 691, this shrine was built in Jerusalem by Caliph Abd al-Malik',
   },
   {
     'ethics ':
@@ -1271,8 +1254,7 @@ export const questions: Question[] = [
       'The father of the Chicago blues, McKinley Morganfield, whose hit gave name to The Rolling Stones, is better known by what nickname which he earned by playing in the creeks of the Mississippi?',
   },
   {
-    'Macedonia (Вергинская звезда ) ':
-      'The Vergina Sun is the emblem of which traditional Greek region?',
+    'Macedonia (Вергинская звезда ) ': 'The Vergina Sun is the emblem of which traditional Greek region?',
   },
   {
     'Lei ':
@@ -1291,12 +1273,10 @@ export const questions: Question[] = [
       '"Blenheim", "Cloudy Bay", "Renwick" and "Seddon" are all towns located in which wine growing region in New Zealand? It is by far New Zealand\'s largest wine growing region, accounting for three quarters of the country\'s wine population.',
   },
   {
-    'ШÁННОН ':
-      'наиболее значительная река в Ирландии. Дл. 368 км, пл. бас. 15, 7 тыс. км². ',
+    'ШÁННОН ': 'наиболее значительная река в Ирландии. Дл. 368 км, пл. бас. 15, 7 тыс. км². ',
   },
   {
-    'ЦУГÁРУ  ':
-      'между островами Хонсю и Хоккайдо (Япония). Соединяет Японское море с Тихим океаном.',
+    'ЦУГÁРУ  ': 'между островами Хонсю и Хоккайдо (Япония). Соединяет Японское море с Тихим океаном.',
   },
   {
     'ШКÓДЕР  ':
@@ -1562,8 +1542,7 @@ export const questions: Question[] = [
       'This marine arthropod was among the first creatures in the fossil record to develop the sense of sight and lived for 270 million years until its extinction at the end of the Permian about 252 million years ago. Which extinct creature is so named because the back of its body was uniquely divided into three distinct sections? ',
   },
   {
-    'Sudan ':
-      'Very few tourists visit this country, but the ones who do often see the pyramids of Meroe. ',
+    'Sudan ': 'Very few tourists visit this country, but the ones who do often see the pyramids of Meroe. ',
   },
   {
     'ksar ':
@@ -1618,8 +1597,7 @@ export const questions: Question[] = [
       ' With its logo seen here, which German audio company founded in 1945 by Prof. Dr. Fritz __________ specializes in the design and production of a wide range of high fidelity products, including microphones, headphones, telephone accessories and aviation headsets for personal, professional and business applications?	',
   },
   {
-    ' Palk Strait':
-      ' Which strait lies between India and the island nation of Sri Lanka?	',
+    ' Palk Strait': ' Which strait lies between India and the island nation of Sri Lanka?	',
   },
   {
     ' Sakoku':
@@ -1682,8 +1660,7 @@ export const questions: Question[] = [
       "Which three-word Latin term, literally meaning 'in the middle of things', is used to describe a narrative work that opens in the middle of events, with gaps in the plot generally being filled in as the work proceeds? Examples include Hamlet and The Usual Suspects. ",
   },
   {
-    'Tapioca ':
-      'Bubble tea (or boba, or pearl milk tea) includes balls made of what substance?	 ',
+    'Tapioca ': 'Bubble tea (or boba, or pearl milk tea) includes balls made of what substance?	 ',
   },
   {
     'Cava ':
@@ -1709,8 +1686,7 @@ export const questions: Question[] = [
       ' Being the home of a race of furry aliens called Ewoks, which fictional moon in the Star Wars universe was the site of a pivotal battle depicted in Return of the Jedi?	 ',
   },
   {
-    'Джеймс Кэвизел ':
-      ' Which actor played Jesus Christ in Mel Gibson’s 2004 The Passion of the Christ?	 ',
+    'Джеймс Кэвизел ': ' Which actor played Jesus Christ in Mel Gibson’s 2004 The Passion of the Christ?	 ',
   },
   {
     'SPAMALOT ':
@@ -1769,20 +1745,17 @@ export const questions: Question[] = [
       ' Which German scientist won the first ever Nobel Prize in Physiology or Medicine for his discovery of a diphtheria antitoxin? ',
   },
   {
-    'Gordon Banks':
-      'Which legendary goalkeeper played for England in the 1966 World Cup Final against West Germany?',
+    'Gordon Banks': 'Which legendary goalkeeper played for England in the 1966 World Cup Final against West Germany?',
   },
   {
-    'Lake Vänern':
-      'At 5,655 square km, which is the largest lake in the European Union?  ',
+    'Lake Vänern': 'At 5,655 square km, which is the largest lake in the European Union?  ',
   },
   {
     'William Wilberforce':
       'The testimony of the former slave known as Gustavus Vassa helped inspire which Yorkshire MP to become the leading voice of the British parliamentary movement to abolish the slave trade?',
   },
   {
-    'Daley Thompson':
-      'Which British legend won the decathlon gold medal at the 1980 and 1984 Olympics?',
+    'Daley Thompson': 'Which British legend won the decathlon gold medal at the 1980 and 1984 Olympics?',
   },
   {
     Ивреа:
@@ -1836,8 +1809,8 @@ export const questions: Question[] = [
       'Which card game in the rummy family of games was invented by lawyer Segundo Sanchez Santos and his bridge partner Alberto Serrato in Montevideo, Uruguay, in 1939 in an attempt to develop a time-efficient game that would be as exciting as bridge?',
   },
   {
-    'Literally known as "girl chasing," which equestrian traditional sport among Turkic peoples, such as the Azerbaijanis, Kazakhs, and Kyrgyz, shows elements of horse racing, but is often referred to as a "kissing game"?':
-      'Кыз куумай',
+    'Кыз куумай ':
+      'Literally known as "girl chasing," which equestrian traditional sport among Turkic peoples, such as the Azerbaijanis, Kazakhs, and Kyrgyz, shows elements of horse racing, but is often referred to as a "kissing game"?',
   },
   {
     'KETTLE WAR (Война супника)  ':
@@ -1905,5 +1878,431 @@ export const questions: Question[] = [
   {
     LAHARS:
       'What are the deadly, fast-moving mudflows spawned by volcanoes called? More than 20,000 people were killed by them in Armero, Colombia in 1985.',
+  },
+  {
+    Lido: '11 km barrier island in the Venetian Lagoon, northern Italy; it is home to about 20,400 residents. The Venice Film Festival takes place at the Lido late August/early September.',
+  },
+  {
+    Funafuti:
+      'capital of the island nation of Tuvalu. It has a population of 6,320 people (2017 census), and so it has more people than the rest of Tuvalu combined, with approximately 60% of the population.',
+  },
+  {
+    ТИБÉСТИ: 'нагорье в центральной части Сахары (Чад). Активный вулкан Эмми-Куси (3415 м) – высшая точка Сахары.',
+  },
+  {
+    СТАЛАГНÁТЫ:
+      'натёчно-капельные образования в виде колонн, образующиеся в карстовых пещерах при срастании сталагмитов и сталактитов.',
+  },
+  {
+    ТÓНГА: 'глубоководный жёлоб в юго-восточной части Тихого океана. Макс. глуб. 10 800 м. ',
+  },
+  {
+    СОКÓТРА:
+      'группа островов (с одноимённым, самым крупным островом) в Индийском океане, к востоку от мыса Гвардафуй; принадлежат Йемену.',
+  },
+  {
+    'СИХОТЭ́-АЛИ́НЬ':
+      'горная система на Дальнем Востоке (Хабаровский и Приморский кр.). Служит водоразделом рек бас. Амура и Японского моря. Протяжённость в субмеридиональном направлении более чем на 1000 км, шир. до 250 км, выс. 800–1000 м, высшая точка – г. Тардоки-Янги (2090 м).',
+  },
+  {
+    'САЛУИ́Н ':
+      'река в Юго-Восточной Азии (в Китае и Мьянме), частично служит границей между Мьянмой и Таиландом. Дл. ок. 3200 км, пл. бас. ок. 325 тыс. км². Берёт начало из ледников хр. Тангла в центр. части Тибетского нагорья, на выс. ок. 5000 м.',
+  },
+  {
+    СÁВА: 'река на юге Центральной Европы (Словения, Хорватия, Босния и Сербия), правый приток Дуная. Города: Любляна, Загреб, Белград (в устье).',
+  },
+  {
+    ТАХУМУ́ЛЬКО:
+      'вулкан на гребне Вулканической Сьерры. Самая высокая точка Гватемалы и Центр. Америки (4220 м). Конус сложен андезитами, имеет две вершины. Восточная – остаток древнего кратерного вала, западная – активный молодой конус с кратером. Последнее извержение в 1863 г.',
+  },
+  {
+    ТÁТРЫ:
+      'самый высокий горный массив в Карпатах, на границе Польши и Словакии. Дл. 60 км, высшая точка г. Герлаховски-Штит (2655 м).',
+  },
+  {
+    'ТАР ':
+      'пустынная и полупустынная область в Индии и Пакистане. Протяжённость (с С.-В. на Ю.-З.) 850 км, пл. 200–300 тыс. км².',
+  },
+  {
+    СОНÓРА:
+      'пустыня в Северной Америке (США и Мексика), одна из самых красивых на Земле. Занимает низовья р. Колорадо, территории восточнее Калифорнийского залива и практически весь Калифорнийский п-ов (Нижняя Калифорния). Пл. св. 355 тыс. км².',
+  },
+  {
+    РЕГИСТÁН:
+      'пустыня на Иранском нагорье, самая засушливая часть Афганистана. Находится к В. и Ю. от р. Гильменд и её притока Аргандаба, севернее гор Чаган и западнее Кветто-Пишинского плоскогорья. Протяжённость по широте более 200 км, по меридиану до 200 км. Пл. ок. 40 тыс. км',
+  },
+  {
+    'Lake Turkana':
+      "a lake in the Kenyan Rift Valley, in northern Kenya, with its far northern end crossing into Ethiopia.[2] It is the world's largest permanent desert lake and the world's largest alkaline lake. By volume it is the world's fourth-largest salt lake[3] after the Caspian Sea, Issyk-Kul, and Lake Van (passing the shrinking South Aral Sea), and among all lakes it ranks 24th.",
+  },
+  {
+    РУВЕНЗÓРИ:
+      'горный массив в Восточной Африке, на границе Демократической Респ. Конго и Уганды. Открыт в 1876 г. исследователем Африки Г. М. Стэнли. Сводогорстовое поднятие дл. 120 км, выс. до 5109 м (пик Маргерита).',
+  },
+  {
+    'РУБ-ЭЛЬ-ХÁЛИ':
+      'пустыня на юго-востоке Аравийского полуострова, в Саудовской Аравии, Омане и Йемене. Одна из самых засушливых и мало исследованных областей мира, о чём свидетельствует её название (в переводе с арабского – «пустое место»).',
+  },
+  {
+    'РОСС (Ross) Джеймс Кларк ':
+      '(1800–1862), английский моряк, контр-адмирал, исследователь Арктики, один из первооткрывателей Антарктики. На судах «Эребус» и «Террор» в 1839–43 гг. совершил три плавания в Антарктику, открыл названные в его честь море и ледяной барьер, который проследил почти по всей длине.',
+  },
+  {
+    'Christine de Pizan ':
+      '(September 1364 – c. 1430), was an Italian-born French poet and court writer for King Charles VI of France and several French dukes. Considered to be some of the earliest feminist writings, her work includes novels, poetry, and biography, and she also penned literary, historical, philosophical, political, and religious reviews and analyses. Her best known works are The Book of the City of Ladies and The Treasure of the City of Ladies, both written when she worked for John the Fearless of Burgundy.',
+  },
+  {
+    'Elwyn Brooks White ':
+      "(July 11, 1899 – October 1, 1985) was an American writer. He was the author of several highly popular books for children, including Stuart Little (1945), Charlotte's Web (1952), and The Trumpet of the Swan (1970). In a 2012 survey of School Library Journal readers, Charlotte's Web came in first in their poll of the top one hundred children's novels.",
+  },
+  {
+    'Jeff Lindsay':
+      'American playwright and crime novelist best known for his novels about sociopathic Miami Police Department forensic analyst and serial killer-killing vigilante Dexter Morgan.',
+  },
+  {
+    'Liane Moriarty ':
+      '(born 15 November 1966) is an Australian author. She has written nine novels, including the New York Times best sellers Big Little Lies and Nine Perfect Strangers, which were adapted into television series for HBO and Hulu, respectively.',
+  },
+  {
+    'Shigeru Miyamoto ':
+      'creator of some of the most acclaimed and best-selling game franchises of all time, including Mario, The Legend of Zelda, Donkey Kong, Star Fox and Pikmin.',
+  },
+  {
+    'Mark Rutte ':
+      "(born 14 February 1967) is a Dutch politician who has served as Prime Minister of the Netherlands between 2010 and 2023. He is also the Leader of the People's Party for Freedom and Democracy (VVD) since 2006.",
+  },
+  {
+    'Deloitte ':
+      'the largest professional services network by revenue and number of professionals in the world and is considered one of the Big Four accounting firms along with EY, KPMG and PwC.',
+  },
+  {
+    'Tim Cook ':
+      "(born November 1, 1960) is an American business executive who has been the chief executive officer of Apple Inc. since 2011. Cook previously served as the company's chief operating officer under its co-founder Steve Jobs. He is the first CEO of any Fortune 500 company who is openly gay.",
+  },
+  {
+    'Elizabeth Holmes ':
+      "(born February 3, 1984) is an American former biotechnology entrepreneur who, in 2022, was convicted of fraud in connection to her blood-testing company, Theranos. The company's valuation soared after it claimed to have revolutionized blood testing by developing methods that needed only very small volumes of blood, such as from a fingerprick.",
+  },
+  {
+    'Майк Джадж - Бивис и Баттхед, Царь горы ':
+      '1999 American satirical black comedy film written and directed by Mike Judge. It satirizes the worklife of a typical 1990s software company, focusing on a handful of individuals weary of their jobs. ',
+  },
+  {
+    'Pierre Omidyar ':
+      'A technology entrepreneur, software engineer, and philanthropist, he is the founder of eBay, where he served as chairman from 1998 to 2015.',
+  },
+  {
+    'Five whys ':
+      "iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem. The primary goal of the technique is to determine the root cause of a defect or problem by repeating the question 'Why?' five times. The answer to the fifth why should reveal the root cause of the problem. The technique was described by Taiichi Ohno at Toyota Motor Corporation. ",
+  },
+  {
+    'Менталитет краба ': "a way of thinking best described by the phrase 'if I can't have it, neither can you'",
+  },
+  {
+    'Jean Brillat-Savarin ':
+      '(2 April 1755 – 2 February 1826) was a French lawyer and politician, who, as the author of Physiologie du goût (in English, The Physiology of Taste) became celebrated for his culinary reminiscences and reflections on the craft and science of cookery and the art of eating.',
+  },
+  {
+    'Sue Grafton ':
+      "(April 24, 1940 – December 28, 2017) was an American author of detective novels. She is best known as the author of the 'alphabet series' ('A' Is for Alibi, etc.) featuring private investigator Kinsey Millhone in the fictional city of Santa Teresa, California.",
+  },
+  {
+    'Луи́ Риэ́ль ':
+      'один из важнейших канадских политических деятелей, один из основателей провинции Манитоба, а также самый известный лидер канадских метисов, вставший на борьбу с англоязычными колонизаторами Северо-Западных территорий. Главный организатор серии восстаний метисов, закончившихся его казнью.',
+  },
+  {
+    'Кэ́дмон ':
+      'один из самых первых английских поэтов, чье полное имя не известно. Он является одним из двенадцати англосаксонских поэтов, представляющих средневековую литературу. ',
+  },
+  {
+    'Blue Marble ':
+      'фотография планеты Земля, сделанная 7 декабря 1972 года экипажем космического корабля «Аполлон-17» с расстояния примерно в от поверхности Земли. Находится в открытом доступе и, как работа НАСА, является общественным достоянием. Изображает полностью освещённую Землю (Солнце находилось позади астронавтов). Фотография использовалась во множестве произведений для изображения Земли из космоса. ',
+  },
+  {
+    'Агнер Эрланг ':
+      '1 января 1878, Лонборг, Дания — 3 февраля, 1929) — датский математик, статистик и инженер, основатель научного направления по изучению трафика в телекоммуникационных системах и теории массового обслуживания. Им была получена формула для расчета доли вызовов, получающих обслуживание на сельской телефонной станции и кому придётся ожидать пока делаются внешние вызовы. ',
+  },
+  {
+    'Транзи́ ':
+      'вид скульптурных надгробий, которые выполнены в виде частично разложившегося трупа. Такие надгробия создавались в Европе в период позднего Средневековья и в эпоху Возрождения. ',
+  },
+  {
+    'Хайрам Бингем ':
+      'американский и политик, обессмертивший себя открытием «затерянного города инков» Мачу-Пикчу. В 1911 году Бингем возглавил экспедицию, снаряжённую Йельским университетом на поиски затерянного города инков, который не смогли отыскать испанские конкистадоры. Из письменных источников по цивилизации инков следовало, что город имеет смысл искать в окрестностях Куско, в краю неприступных горных вершин.',
+  },
+  {
+    'Алавиты ': 'правящая династия в Марокко. Султаны с 1666 года, короли с 1957 года. ',
+  },
+  {
+    'Джамбатти́ста Бази́ле ':
+      'неаполитанский поэт и писатель-сказочник. Его написанная в стиле барокко «Сказка сказок» является первым в истории европейской литературы сборником сказочного фольклора. Некоторые из этих сказок позже стали хрестоматийными в обработках Шарля Перро и братьев Гримм (например, «Спящая красавица», «Золушка», «Кот в сапогах»). Родился 15 февраля 1566 года в небольшом городке Джульяно-ин-Кампанья',
+  },
+  {
+    'Сезар Бальдаччини ':
+      'французский скульптор. Наибольшую известность ему принесли произведения из металлолома, в 1960-х он получил мировое признание благодаря скульптурам из остовов разбитых машин. Художник использовал своё имя в качестве творческого псевдонима. В честь него была названа французская кинопремия, для которой он создал золотой приз.',
+  },
+  {
+    'Гилберт и Джордж ':
+      'британские художники-авангардисты, работают в жанре перформанса и фотографии. Прославились благодаря стилю «живой скульптуры» — художники изображали самих себя. ',
+  },
+  {
+    'Прялка Дженни':
+      'механическая прядильная машина, сконструированная Джеймсом Харгривсом в 1764 году. Считается одним из важнейших изобретений своего времени, ознаменовавшим начало промышленного переворота. ',
+  },
+  {
+    'Хун Сюцюа́нь ':
+      '(предположительно январь 1813 — 1 июня 1864) — лидер Тайпинского восстания и провозглашённого тайпинами «Небесного государства великого благоденствия».',
+  },
+  {
+    'Мария-Луиза Лашапель ':
+      'французская акушерка. Автор книги по женской физиологии, гинекологии и акушерству. Выступала против использования акушерских щипцов, способствовала распространению практики естественных родов. Считается матерью современного акушерства.',
+  },
+  {
+    'Э́рик Аха́риус ':
+      'шведский ботаник, миколог , «отец лихенологии». Разработал и установил систематику лишайников. В 1773 поступил в Упсальский университет и был одним из последних студентов великого Карла Линнея.',
+  },
+  {
+    'Мерино́с ':
+      'одна из наиболее исторически значимых и экономически влиятельных пород овец, высоко ценимая за шерсть. Эта порода была выведена и улучшена в Эстремадуре, на юго-западе Испании, примерно в XII веке; с конца XVIII-го века она была дополнительно усовершенствована в Новой Зеландии и Австралии, что привело к появлению современного мериноса.',
+  },
+  {
+    'Зоил ':
+      'всегда злословил о людях, только и делал, что наживал себе врагов и был удивительно придирчив. Однажды кто-то из философов спросил его, почему он всех хулит. «Потому, — был ответ, — что не могу, как мне того хочется, причинить им зло». (Пёстрые рассказы, книга 11, 10) За насмешки и издевательство над Гомером он был прозван «Бичом Гомера» ; называли его также «собакой красноречия».',
+  },
+  {
+    'Арага́ц ':
+      'изолированный горный массив на западе Армении, четвёртый по высоте в Армянском нагорье и самый высокий в современной Армении. Высота горы составляет 4090 метров ',
+  },
+  {
+    'John Newbery ':
+      "(9 July 1713 – 22 December 1767), considered 'The Father of Children's Literature', was an English publisher of books who first made children's literature a sustainable and profitable part of the literary market. He also supported and published the works of Christopher Smart, Oliver Goldsmith and Samuel Johnson. In recognition of his achievements the Medal was named after him in 1922.",
+  },
+  {
+    'Julius Streicher ':
+      'a member of the Nazi Party, the Gauleiter (regional leader) of Franconia and a member of the Reichstag, the national legislature. He was the founder and publisher of the virulently antisemitic newspaper Der Stürmer, which became a central element of the Nazi propaganda machine.',
+  },
+  {
+    'Вьяса ': 'легендарный индийский мудрец, считавшийся составителем вед и пуран, а также автором «Махабхараты».',
+  },
+  {
+    'Alcmena ':
+      'wife of Amphitryon by whom she bore two children, Iphicles and Laonome. She is best known as the mother of Heracles, whose father was the god Zeus.',
+  },
+  {
+    'Халлю или Korean Wave':
+      'cultural phenomenon in which the global popularity of South Korean popular culture has dramatically risen since the 1990s.',
+  },
+  {
+    'Горгонейон ':
+      'a special apotropaic amulet showing the Gorgon head, used by the Olympian deities Athena and Zeus: both are said to have worn it as a protective pendant, and often are depicted wearing it. It established their descent from earlier deities considered to remain powerful.',
+  },
+  {
+    'Герман Бургаве ':
+      "(  1668 –  1738 ) was a Dutch botanist, chemist, Christian humanist, and physician of European fame. He is regarded as the founder of clinical teaching and of the modern academic hospital and is sometimes referred to as 'the father of physiology,' along with Venetian physician Santorio Santorio (1561–1636). ",
+  },
+  {
+    'Emil von Škoda': 'Bohemian engineer and industrialist, founder of BLANK Works',
+  },
+  {
+    'Herman Snellen ':
+      'Snellen (1834 – 1908) was a Dutch ophthalmologist who introduced the chart to study visual acuity (1862).',
+  },
+  {
+    'Шляпа охотника за оленями ':
+      "a type of cap that is typically worn in rural areas, often for hunting, especially deer stalking. Because of the cap's popular association with the fictional detective Sherlock Holmes, it has become stereotypical headgear for a detective, especially in comical drawings or cartoons along with farcical plays and films.",
+  },
+  {
+    'Выбор Хобсона':
+      'кажущаяся свобода выбора при отсутствии реальной альтернативы. Это английское выражение используется для описания ситуации, когда человеку предоставляется иллюзия выбора, но на самом деле он может либо взять то, что дают, либо не брать вообще ничего. Считается, что возникновение выражения связано с ... (1544—1631), владельцем конюшни в Кембридже, который предлагал клиентам выбрать лошадь из ближнего ко входу стойла или не брать лошадь вообще.',
+  },
+  {
+    Селадон:
+      "a term for pottery denoting both wares glazed in the jade green celadon color, also known as greenware or 'green ware' (the term specialists now tend to use), and a type of transparent glaze, often with small cracks, that was first used on greenware, but later used on other porcelains.",
+  },
+  {
+    'Эффект Бецольда ':
+      'an optical illusion, named after a German professor of meteorology, who discovered that a color may appear different depending on its relation to adjacent colors.',
+  },
+  {
+    'Bradley effect ':
+      'a theory concerning observed discrepancies between voter opinion polls and election outcomes in some United States government elections where a white candidate and a non-white candidate run against each other.',
+  },
+  {
+    'Busby Berkeley ':
+      '(November 29, 1895 – March 14, 1976) was an American film director and musical choreographer. He devised elaborate musical production numbers that often involved complex geometric patterns. His works used large numbers of showgirls and props as fantasy elements in kaleidoscopic on-screen performances.',
+  },
+  {
+    'José  Artigas':
+      '(June 19, 1764 – September 23, 1850) was a soldier and statesman who is regarded as a national hero in Uruguay and the father of Uruguayan nationhood. ',
+  },
+  {
+    'Николя́ Фуке́': `суперинтендант финансов Франции в ранние годы правления Людовика XIV с 1653 по 1661 год, один из самых могущественных и богатых людей Франции. В 1661 году по приказу короля был арестован и остаток жизни провёл в заточении. `,
+  },
+  {
+    'Дарфурский конфликт ': `межэтнический конфликт в суданском регионе, вылившийся с 25 февраля 2003 года в вооружённое противостояние между центральным правительством, неформальными проправительственными арабскими вооружёнными отрядами «Джанджавид» и повстанческими группировками местного негроидного населения. `,
+  },
+  {
+    Бандейранты: `участники экспедиций XVI—XVIII веков на удаленные от побережья территории португальских колоний в Америке. Первоначально их интересовали исключительно рабы, однако позднее их походы в основном имели целью разведку золота, серебра, алмазов или других полезных ископаемых. В ходе этих походов были исследованы земли от Тордесильясской черты до современных границ Бразилии. `,
+  },
+  {
+    Лёсс: `осадочная горная порода, неслоистая, суглинисто-супесчаная, имеет светло-жёлтый или палевый цвет, сложена преимущественно пылеватыми зёрнами. Залегает в виде покрова от нескольких метров до 50—100 м — на водоразделах, склонах и древних террасах долин. `,
+  },
+  {
+    'Tom Selleck ': `(born January 29, 1945) is an American actor. His breakout role was playing private investigator Thomas Magnum in the television series Magnum, P.I. (1980–1988), for which he received five Emmy Award nominations for Outstanding Lead Actor in a Drama Series, winning in 1985. `,
+  },
+  {
+    'Simonetta Vespucci ': `Italian noblewoman from Genoa, the wife of Marco Vespucci of Florence and the cousin-in-law of Amerigo Vespucci. She was known as the greatest beauty of her age in Italy, and was allegedly the model for many paintings by Sandro Botticelli, Piero di Cosimo, and other Florentine painters. `,
+  },
+  {
+    'Репродуцирование запрещено': `is a painting by the Belgian surrealist René Magritte. The work depicts a man standing in front of a mirror, but whereas the book on the mantelpiece is reflected correctly, the man's reflection also shows him from behind.
+
+      `,
+  },
+  {
+    'Таджин ': `блюдо из мяса и овощей, популярное в странах Магриба, а также специальная посуда для приготовления этого блюда.  `,
+  },
+  {
+    'Иога́нн  Э́ккерман ': ` немецкий литератор, поэт. Известен своими исследованиями творчества И. В. Гёте, другом и секретарём которого он был.`,
+  },
+  {
+    'Наксалиты ': ` неофициальное название вооружённых коммунистических, преимущественно маоистских, группировок в Индии. Название происходит от местности, где произошли первые выступления. Значительная часть терактов наксалитов приводит к человеческим жертвам: в 2010 году в Индии наксалиты осуществили 2212 терактов, унесших жизни 1003 человек. `,
+  },
+  {
+    'Маражо́ ': `крупнейший остров Бразилии. Длина острова составляет 220 км, ширина до 150 км. Площадь — 40 100 км². Это 34-й по величине остров мира, размер которого сравним со Швейцарией и Московской областью. Нередко его называют самым большим в мире речным островом. Строго говоря, это неверно — северо-восточная часть острова омывается Атлантическим океаном.  `,
+  },
+  {
+    'Рене Фавалоро ': `(1923—2000) — аргентинский врач, работавший частично и в США. В 1967 году на базе Кливлендской клиники впервые в мире выполнил аортокоронарное шунтирование, используя аутовенозные шунты.  `,
+  },
+  {
+    'Дробильщики камня': `картина французского художника Гюстава Курбе, написанная в 1849 году. Хранилась в дрезденской галерее. Была уничтожена в 13 февраля 1945 года, когда во время перевозки 154 картин в Крепость Кёнигштайн, транспорт попал в район бомбардировки союзными войсками. На картине изображены двое мужчин в натуральную величину, занятых тяжелым, изнуряющим трудом, на фоне темного холма. `,
+  },
+  {
+    'Монта́нь-Пеле́ ': ` вулкан в северной части острова Мартиника (Малые Антильские острова) и её высшая точка. Высота 1397 м, диаметр основания 15 км. Кратер овальной формы, размером 1000 на 750 метров. Печально знаменит из-за извержения 1902 г., когда раскалённая туча из пепла и газа (пирокластический поток) уничтожила город Сен-Пьер, где погибло около 30 тысяч человек. Извержение такого типа относят к пелейским.`,
+  },
+  {
+    'Харамбе ': `17-летний самец западной равнинной гориллы, ставший известным благодаря нападению на ребёнка 28 мая 2016 года в зоопарке Цинциннати. Тогда трёхлетний ребёнок упал в вольер с гориллами, где, по свидетельствам очевидцев, его увидел Харамбе, горилла не делала вреда ребенку, просто таскала его из угла в угол. Опасаясь за жизнь ребёнка, сотрудники зоопарка застрелили гориллу. Инцидент, снятый на видео, вызвал бурную реакцию и широкое обсуждение о том, стоило ли убивать животное.`,
+  },
+  {
+    Сентенарио: ` футбольный стадион в городе Монтевидео, Уругвай. Построенный специально к чемпионату мира 1930 года, он вмещал тогда до 100 тысяч зрителей. `,
+  },
+  {
+    'Го́мруль ': ` движение за автономию Ирландии на рубеже XIX—XX веках. Предполагало собственный парламент и органы самоуправления при сохранении над островом британского суверенитета, то есть статус, аналогичный статусу доминиона.`,
+  },
+  {
+    'У́кко ': `верховный бог, громовержец в карело-финской мифологии. Представлялся стариком с седой бородой, разъезжающим по небу на колеснице, мечущим молнии и производящим гром. Известен как покровитель скота и урожая. `,
+  },
+  {
+    'То́рресов проли́в ': `пролив, отделяющий Австралию от острова Новая Гвинея. Пролив соединяет Тихий и Индийский океаны (соответственно Коралловое и Арафурское моря).  `,
+  },
+  {
+    'Такби́р ': `возвеличивание Аллаха словами «Алла́ху А́кбар»  `,
+  },
+  {
+    'Ним Чимпский ': `(19 ноября 1973 года — 10 марта 2000 года) — шимпанзе, который был предметом расширенного изучения возможности усвоения животными языка жестов при Колумбийском университете. Проект не был успешен: он усвоил гораздо меньше слов, чем даже объект другого подобного проекта — шимпанзе Уошо. `,
+  },
+  {
+    'Орёл Саладина ': `геральдическая фигура, используемая как символ арабского национализма, а также как отличительный знак в вооруженных силах ряда арабских государств. С 1952 года используется как государственный символ Египта. С 1963 года этот образ принят в символике Ирака. `,
+  },
+  {
+    'Коачелла ': `Один из крупнейших, самых известных и самых прибыльных музыкальных фестивалей в Соединенных Штатах и во всем мире. Впервые мероприятие состоялось в 1999 году. В число выступающих включены группы различной жанровой направленности — инди-рок, хип-хоп, электронная и поп-музыка; в рамках фестиваля также проходят художественные и скульптурные выставки. Фестиваль, основанный на искусстве музыки, а не на её популярности, получила звание «анти-Вудсток». `,
+  },
+  {
+    'Джузеппе Мадзини ': ` ( 1805 — 1872) — итальянский политик, писатель и философ, сыгравший важную роль в ходе первого этапа движения за национальное освобождение и либеральные реформы в XIX веке.`,
+  },
+  {
+    'Рикка́рдо Патре́зе ': ` (17 апреля 1954, Падуя, Венеция) — итальянский автогонщик, пилот Формулы-1 с по. Был обладателем рекорда по числу проведённых гонок Формулы-1, до того как в мае 2008 Рубенс Баррикелло превзошёл его достижение. Пришёл на подиум в 37 Гран-при — больше, чем любой другой итальянский пилот Формулы-1, из них выиграл 6. Вице-чемпион мира Формулы-1`,
+  },
+  {
+    'Артур Филлип ': `адмирал Королевского флота Англии, губернатор штата Новый Южный Уэльс — первой европейской колонии на австралийском континенте. Иногда называется «отцом современной Австралии». Основан Сидней `,
+  },
+  {
+    'МКULTRA ': `кодовое название секретной программы американского ЦРУ, имевшей целью поиск и изучение средств манипулирования сознанием, например, для вербовки агентов или для извлечения сведений на допросах, в частности с помощью использования психотропных химических веществ (оказывающих воздействие на сознание человека). По имеющимся сведениям, программа существовала с начала 1950-х годов и, по крайней мере, до конца 1960-х годов, а по ряду косвенных признаков продолжалась и позже.  `,
+  },
+  {
+    'Сиемреа́п ': `город в Камбодже. Население города — 171 800 чел. (2009). Он был деревней, когда первые французские исследователи в XIX веке заново открыли Ангкор. С переходом города под французскую юрисдикцию в 1907 году, он стал расти за счёт туризма. `,
+  },
+  {
+    'Да́вид По́пович ': ` (род. 15 сентября 2004) — румынский пловец, специализирующийся в плавании вольным стилем. На чемпионате мира по водным видам спорта 2022 года Попович завоевал золотые медали в двух заплывах вольным стилем (на дистанциях 100 и 200 метров). Попович является действующим мировым рекордсменом на дистанции 100 метров вольным стилем.`,
+  },
+  {
+    'Ворота Европы': `башни-близнецы в Мадриде, в административном округе Чамартин. Высота башен составляет 114 м, тем самым среди башен-близнецов они в Испании уступают по высоте лишь башням Торрес-де-Санта-Крус в Санта-Крус-де-Тенерифе.  `,
+  },
+  {
+    'Eino Leino ': ` (6 July 1878 – 10 January 1926) was a Finnish poet and journalist who is considered one of the pioneers of Finnish poetry and a national poet of Finland. His poems combine modern and Finnish folk elements. Much of his work is in the style of the Kalevala and folk songs in general.`,
+  },
+  {
+    'Мариеха́мн ': `главный город Аландских островов, автономной территории в составе Финляндии. Один из главных портов Архипелагового моря. В городе проживает более половины всего населения архипелага — 11 186 человек.  `,
+  },
+  {
+    'МУЛАСÉН ': `высочайшая вершина Пиренейского полуострова (3478 м). Находится в Юж. Испании, в Андалусских горах, в гл. цепи хр. Сьерра-Невада. `,
+  },
+  {
+    'Аск и Эмбла ': ` «ясень» и «ива» — первые люди, мужчина и женщина, которых в виде древесных прообразов скандинавские боги Один, Лодур и Хёнир (вариант: Один, Вили и Be) нашли на берегу моря, доделали и оживили.`,
+  },
+  {
+    'Аудумла ': `мифическая корова, которая возникла из инея, наполнявшего мировую бездну, и выкормила великана Имира — первое человекоподобное существо. `,
+  },
+  {
+    'Louis-Antoine, Comte de Bougainville ': `(12 November 1729 – 31 August 1811) was a French admiral and explorer. A contemporary of the British explorer James Cook, he took part in the Seven Years' War in North America and the American Revolutionary War against Britain. He later gained fame for his expeditions, including a circumnavigation of the globe in a scientific expedition in 1763, the first recorded settlement on the Falkland Islands, and voyages into the Pacific Ocean.  `,
+  },
+  {
+    'Жёлтый малыш': ` American comic strip character that appeared from 1895 to 1898 in Joseph Pulitzer's New York World, and later William Randolph Hearst's New York Journal. Use of word balloons in it influenced the basic appearance and use of balloons in subsequent newspaper comic strips and comic books.`,
+  },
+  {
+    'Charles Blondin ': `(28 February 1824 – 22 February 1897) was a French tightrope walker and acrobat. He toured the United States and was known for crossing the 1100 ft Niagara Gorge on a tightrope. His name became synonymous with tightrope walking. `,
+  },
+  {
+    'Жан Болланд': ` фламандский историк церкви, агиограф, священнослужитель, иезуит. Известен тем, что положил начало монументальному критическому изданию житий святых — Acta sanctorum, продолжающемуся до настоящего времени. `,
+  },
+  {
+    'Anna Karenina principle ': `Diamond uses this principle to illustrate why so few wild animals have been successfully domesticated throughout history, as a deficiency in any one of a great number of factors can render a species undomesticable. Therefore, all successfully domesticated species are not so because of a particular positive trait, but because of a lack of any number of possible negative traits. `,
+  },
+  {
+    'Antoine-Augustin Parmentier ': `(12 August 1737 – 13 December 1813) was a French pharmacist and agronomist, best remembered as a vocal promoter of the potato as a food source for humans in France and throughout Europe. His many other contributions to nutrition and health included establishing the first mandatory smallpox vaccination campaign (under Napoleon beginning in 1805, when he was Inspector-General of the Health Service) and pioneering the extraction of sugar from sugar beets.`,
+  },
+  {
+    'Чистая линия ': `style of drawing created and pioneered by Hergé, the Belgian cartoonist and creator of The Adventures of Tintin. It uses clear strong lines sometimes of varied width and no hatching, while contrast is downplayed as well. Cast shadows are often illuminated, and the style often features strong colours and a combination of cartoonish characters against a realistic background. `,
+  },
+  {
+    'Буденновская лошадь ': ` breed of horse from Russia. It was bred as a military horse after the Russian Revolution of 1917; in the twenty-first century it is used as an all-purpose competition horse and for driving. `,
+  },
+  {
+    'Anton syndrome': `a rare symptom of brain damage occurring in the occipital lobe. Those who have it are cortically blind, but affirm, often quite adamantly and in the face of clear evidence of their blindness, that they are capable of seeing. Failing to accept being blind, people with this syndrome dismiss evidence of their condition and employ confabulation to fill in the missing sensory input. `,
+  },
+  {
+    'Четки Бейли ': ` features of total and annular solar eclipses. Although caused by the same phenomenon, they are two distinct events during these types of solar eclipses. As the Moon covers the Sun during a solar eclipse, the rugged topography of the lunar limb allows beads of sunlight to shine through in some places while not in others. `,
+  },
+  {
+    'The Sigil of Baphomet ': `official insignia of the Church of Satan, first appearing on the cover of The Satanic Mass album in 1968, and adorning the cover of The Satanic Bible the following year. The sigil has been called a "material pentagram" representational of carnality and earthy principles.  `,
+  },
+  {
+    'Alice in Wonderland syndrome ': `a neurological disorder that distorts perception. People may experience distortions in their visual perception of objects, such as appearing smaller (micropsia) or larger (macropsia), or appearing to be closer (pelopsia) or farther (teleopsia) than they are.  `,
+  },
+  {
+    'Bilderberg Meeting ': ` annual off-the-record forum established in 1954 to foster dialogue between Europe and North America. `,
+  },
+  {
+    'Чав ': `унизительное прозвище определённой группы молодых людей в Великобритании. Под словом ... чаще всего понимают белых подростков, выходцев из рабочих семей, которые отличаются антисоциальным, агрессивным поведением и нередко привлекаются к ответственности за распитие спиртного в общественных местах, нарушения, связанные с наркотиками, драки и другие формы подростковой преступности. `,
+  },
+  {
+    Оли́мпия: ` парагвайский футбольный клуб из Асунсьона. Один из самых титулованных клубов мира, старейшая и самая титулованная команда страны: трижды завоёвывала Кубок Либертадорес и однажды — Межконтинентальный кубок. Единственный парагвайский клуб, выигрывавший международные турниры под эгидой КОНМЕБОЛ.`,
+  },
+  {
+    'Кибера ': ` поселение в кенийской провинции Найроби, пригород города Найроби, располагается в 5 километрах от центра столицы. Крупнейшие трущобы Кении, а также крупнейшие городские трущобы в Африке. `,
+  },
+  {
+    'Гомстед-акт ': `федеральный закон, принятый 20 мая 1862 года в США, разрешивший передачу в собственность гражданам США незанятых земель на западе страны за небольшую плату.  `,
+  },
+  {
+    'Женщины для утешения ': ` эвфемизм, вошедший в употребление в годы Второй мировой войны для обозначения женщин, вынужденных быть сексуальными рабынями для обслуживания солдат и офицеров Императорской армии Японии в оккупированных странах и территориях до и во время Второй мировой войны. `,
+  },
+  {
+    'У́зел Соломóна ': `общее имя для традиционного декоративного украшения, используемого с древних времён и найденного во многих культурах. Вопреки названию, это, с точки зрения теории узлов, зацепление, а не узел. Он состоит из двух замкнутых петель, которые дважды переплетены.  `,
+  },
+  {
+    'Эффект Бенджамина Франклина ': `психологический эффект, заключающийся в том, что человек, сделавший что-то хорошее для другого человека, с большей вероятностью ещё раз поможет этому человеку, нежели если бы он получил помощь от него. Объяснением этому может быть то, что наш мозг видит причину, по которой мы помогли, в том, что этот человек нам симпатичен. `,
+  },
+  {
+    'Дунганское восстание ': `восстание в 1862—69 годах. Примерно в то же время восстали и мусульмане Юньнаня на юго-западе Китая. Унеся жизни от 8 до 15 миллионов человек, это восстание стало одним из самых кровопролитных военных конфликтов в истории.`,
   },
 ];
