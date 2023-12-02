@@ -7,7 +7,10 @@ function App() {
 
   return (
     <div className={styles.wrapper}>
-      <QuestionCard setQuestionNumber={setQuestionNumber} questionNumber={questionNumber} />
+      <QuestionCard
+        setQuestionNumber={setQuestionNumber}
+        questionNumber={questionNumber}
+      />
     </div>
   );
 }
