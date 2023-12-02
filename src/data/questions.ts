@@ -2527,6 +2527,281 @@ export const questions: Question[] = [
   {
     Ravenna: `In AD 526	Theodoric the Great dies, and construction begins on the Basilica of San Vitale. Both of these events take place in [BLANK], a city in northern Italy known for its Byzantine mosaics and early Christian structures, eight of which are part of a UNESCO World Heritage Site.`,
   },
+
+  {
+    Tribonian: `In AD 539	The Byzantine Empire is now governed by the Corpus Juris Civilis, or the Justinian Code, a code of laws compiled by [BLANK], a nobleman and lawyer serving the Emperor Justinian.`,
+  },
+  {
+    Суй: `In AD 589	Meanwhile, China has been reunited by Emperor Wen, who founds the short-lived [BLANK] dynasty. He will be one of only two emperors from this dynasty.	`,
+  },
+  {
+    'Chichen Itza': `The Mayan City of [BLANK] in the Yucatan peninsula becomes a major power. It is famous for its pyramid called "El Castillo" (Пирамида Кукулькана) and is often visited by tourists from nearby Cancun. Indeed, so many tourists visit the ruins of this city today that it briefly had its own international airport.	`,
+  },
+  {
+    'Augustine of Canterbury (первый архиепископ Кентерберийский. Вошёл в историю как «апостол англичан» и основатель Церкви Англии)': `In AD 597	[BLANK] becomes the first Archbishop of Canterbury, having been sent to convert the heathen English by Pope Gregory the Great (of Gregorian Chant fame).`,
+  },
+  {
+    Кахокия: `In AD 800	Approximte time that Native Americans begin building mounds at [BLANK], an archaeological site near the modern-day American city of St. Louis. It is by far the most famous site of the Mississippian Culture.`,
+  },
+
+  {
+    'Париж горит': `We'll start off by naming this 1990 documentary, in which Jennie Livingston explores the drag community of New York City.`,
+  },
+  {
+    Бестолковые: `If you're not feeling up to an action movie, you could instead watch this Amy Heckerling movie, in which Alicia Silverstone wears fashionable clothes while being a virgin who can't drive.`,
+  },
+  {
+    "Jennifer's Body": `We'll end with this 2009 Karyn Kusama film, in which Megan Fox is transformed into a demon and proceeds to kill a lot of men for personal reasons. This film is notable for its Diablo Cody dialogue.`,
+  },
+  {
+    'Эйлин Уорнос': `Charlize Theron won the Academy Award for Best Actress for her portrayal of this serial killer in Patty Jenkins' Monster.`,
+  },
+  {
+    'Полоса Аузу': ` Highlighted here in red is what "A" strip of land disputed between Chad and Libya?`,
+  },
+  {
+    'Слёйсское морское сражение': `One of the first major engagements of the Hundred Years War was what 1340 naval battle near Zeeland where 190 French ships were lost, captured, or destroyed? The losses from this battle crippled France's navy and inhibited any future prospects of an invasion of England.`,
+  },
+  {
+    'Хейке Камерлинг-Оннес': `What Dutch physicist and Nobel laureate discovered, in 1911, the phenomenon of superconductivity by using liquid helium to cool mercury below its critical temperature?`,
+  },
+  {
+    Malawi: `The kwacha is the primary monetary unit of Zambia and what other country on Zambia's eastern border?`,
+  },
+  {
+    Вуссуар: `What French loan word, derived from Latin for "to roll", describes a wedge-shaped or tapered stone used to construct an arch?`,
+  },
+  {
+    Тинвальд: `What legislature of the Isle of Man claims to be the oldest continuous parliamentary body in the world? This legislature includes a directly-elected lower body called the House of Keys.`,
+  },
+  {
+    'Империя Маурьев': `Chandragupta, Bindusara, and Asoka were the first three emperors of what empire that ruled in South Asia between 322-184 BC?`,
+  },
+  {
+    Заветы: `What 2019 novel by Margaret Atwood is set 15 years after the events of The Handmaid's Tale?`,
+  },
+  {
+    'Hendrik Lorentz (Сольвеевские конгрессы, в честь предпринимателя Эрнеста Сольве)': `Which Dutch physicist chaired the first Solvay conference? In 1902 he had won a Nobel prize for providing a theoretical explanation for the Zeeman effect.`,
+  },
+  {
+    'Federico Garcia Lorca': `The 1932 play “Blood Wedding” is a tragedy written by which Spanish playwright who is thought to have been executed at the start of the Spanish Civil War in 1936, although his remains have never been found?`,
+  },
+  {
+    Cassiopeia: `Which Aethiopian queen bragged that she was more beautiful than the Nereids, an action which resulted in her daughter Andromeda being chained to a rock as a sacrifice to the sea monster Cetus?`,
+  },
+  {
+    'Nizami Ganjavi': `Which Persian Sunni Muslim poet, who died in 1209, is best-remembered for a set of five long narrative poems known collectively as the Khamsa? One of those poems, Layla and Majnun (Лейли и Маджнун), was called "the Romeo and Juliet of the East" by Lord Byron and inspired Eric Clapton to write the Derek and the Dominos' hit Layla.`,
+  },
+  {
+    'Nan Goldin': `The Ballad of Sexual Dependency (Баллада о сексуальной зависимости) (1986), which documents New York's gay subculture, is perhaps the best-known work of which American photographer?	`,
+  },
+  {
+    'Christa Luding-Rothenburger (Криста Лудинг-Ротенбургер)': `The first female to win a medal in both the Summer and Winter Games, and the first athlete of either sex to win Winter and Summer Olympic medals in the same year, which German won gold and silver medals in speed skating at the 1988 Winter Olympics and a silver medal in track cycling at that year's Summer Olympics?	`,
+  },
+  {
+    'Лердальский тоннель (Тоннель стал самым длинным автомобильным тоннелем в мире, превзойдя Готардский автомобильный тоннель на 8 километров.)': `At an astonishing 15 miles (24.5 km) long, this Norwegian Tunnel is the world’s longest road tunnel. Costing 1 billion Norwegian kroner to build (that's about USD $110 million) the tunnel connects its namesake community and Aurland. What is the name of this tunnel?`,
+  },
+  {
+    'Zora Neale Hurston': `This woman was a novelist and folklorist who was part of the Harlem Renaissance. In addition to her influential novel Their Eyes Were Watching God (Их глаза видели Бога), she was an early filmmaker, taking ethnographic footage of black people's lives in the 1920s South. Who was this woman, whose book Mules and Men is thought to be the first collection of African-American folk tales by an African-American?`,
+  },
+  {
+    'Magnavox Odyssey': `This was the first commercial home video game console. The hardware was designed by a small team led by Ralph H. Baer at Sanders Associates, while its namesake completed development and released it in the United States in September 1972 and overseas the following year. What was the name of this home video game console?`,
+  },
+  {
+    'Laguna del Carbon': `Argentina is a land of extremes, as it boasts the highest literacy rate in South America and the highest point in the Southern Hemisphere - Mount Aconcagua (6,962 metres) which lies in Argentina’s Province of Mendoza; and the lowest point, in the Province of Santa Cruz. What is the name of this lake, that is the lowest point in South America, and sounds a lot like a chemical element?`,
+  },
+  {
+    'Nicholas Pileggi (Умник - Славные парни, еще Казино)': `An adaptation of Wiseguy, Goodfellas chronicles the life of young Mafia mobster Henry Hill as he ruthlessly climbs his way to the top, oblivious to the effects his actions have on others and on himself. But who wrote the book Wiseguy?`,
+  },
+  {
+    'Richard Garfield': `This is an American mathematician, inventor, and game designer, whocreated Magic: The Gathering, which is considered to be the first modern collectible card game (CCG). Who is this man, whose name is the same as that of a former American president?`,
+  },
+  {
+    'Fernando Meirelles': `This Brazilian film director's biographical drama "The two Popes" takes viewers behind the walls of the Vatican, telling the story of how Pope Benedict and Pope Francis had to come together to create a new vision for the modern Catholic Church. Who is this film director?`,
+  },
+  {
+    'Fabian Gottlieb von Bellingshausen': `JANUARY 28 2021: Estonians celebrated the 200th anniversary of the discovery of Alexander Island (Земля Александра I), Antarctica's largest, by this Baltic cartographer and naval officer who now gives his name to the sea where the said island lies.	`,
+  },
+  {
+    'Speciesism (Видовая дискриминация, спешисизм)': `JANUARY 27 2021: Animal rights group PETA posted a tweet saying that "Using animals as insults perpetuates..." this, the practice of treating individuals differently based on their taxonomic rank.	`,
+  },
+  {
+    'Собор Святого Бавона': `The Ghent Altarpiece (or The Adoration of the Mystic Lamb), completed in 1432 by Hubert and Jan van Eyck, is displayed in which cathedral that is named after a 7th century Roman Catholic and Eastern Orthodox saint?	`,
+  },
+  {
+    NEUM: `What is the only town to be situated along Bosnia and Herzegovina's 20 km of coastline on the Adriatic? It separates the area around Dubrovnik from the rest of Croatia.	`,
+  },
+  {
+    'Бриан Бору (Объединил ирландские королевства под своей властью. В 1014 году разбил датчан при Клонтарфе и остановил их вторжение на территорию Ирландии. В этой битве Бриан Бору погиб. После его смерти Ирландия вновь распалась.)': `Who was the High King of Ireland, killed at the Battle of Clontarf in 1014?`,
+  },
+  {
+    'Turning Torso': `What is the two word alliterative name of a 190m tall twisted skyscraper in Malmo, Sweden designed by Santiago Calatrava?	`,
+  },
+  {
+    'Hollinghurst, Alan': `Who won the 2004 Booker prize for his novel The Line of Beauty (Линия красоты), with its description of a post-graduate student's life amongst opulent upper class friends as HIV strikes at the heart of the 1980's gay community in London?`,
+  },
+  {
+    'Delibes (Leo)': `Which French composer and church organist is best known for his ballets Sylvia (1876) and Coppelia (1870), and for his opera Lakmé (1883)?	`,
+  },
+  {
+    'Nacho Libre (Суперначо)': `Based on the life of a real life monk/wrestler Fray Tormenta ("Friar Storm") and directed by Jared Hess, which 2006 Sports comedy film stars Jack Black as a Mexican monk who earns money for the orphanage where he works a cook by moonlighting secretly as a luchador (wrestler)?`,
+  },
+  {
+    Йентл: `Which 1983 musical film, with a score composed by Michael Legrand and featuring the song "Papa Can You Hear Me", stars Barbara Streisand as a Polish girl who decides to dress and live like a boy after her father dies, so that she can receive an education in Talmudic Law?	`,
+  },
+  {
+    Ятрогения: `the causation of a disease, a harmful complication, or other ill effect by any medical activity, including diagnosis, intervention, error, or negligence. First used in this sense in 1924,[1] the term was introduced to sociology in 1976 by Ivan Illich, alleging that industrialized societies impair quality of life by overmedicalizing life. `,
+  },
+  {
+    'Edwards (Jonathan)': `Which British athlete still holds the World Record for the Triple jump, set in Gothenburg in 1995 at the World Championships?	`,
+  },
+  {
+    Khepri: `Which ancient Egyptian god, associated with the movement of the sun and rebirth, had the head of a scarab beetle? In China Miéville's Perdido Street Station, Lin is this type of insect-like humanoid.	`,
+  },
+  {
+    'Fritz Haber': `For which German Nobel Prize winner in Chemistry is the industrial process of synthetic Nitrogen fixation to make ammonia named, along with his fellow Nobel Laureate Carl Bosch? He also pioneered the weaponization of Chlorine gas in the first World War, which is thought to have been a factor in his wife's suicide.`,
+  },
+  {
+    'Juan de Fuca': `Born on the island of Cephalonia, who is best known for exploring the strait between Vancouver Island and the Olympic Peninsula while in the service of Phillip II of Spain?`,
+  },
+  {
+    'Maurice Bishop': `Leader of the Marxist-Leninist New Jewel Movement, who led the People's Revolutionary Government of Grenada from 1979 to 1983?	`,
+  },
+  {
+    Обрамление: `Present in works such as One Thousand and One Nights and Bocaccio's Decameron, what literary device is the use of a unifying story within which other tales are related?  `,
+  },
+  {
+    'Heathers (Смертельное влечение)': `The script of which 1989 teen black comedy film starring Winona Ryder uses a specially constructed slang which has passed into common usage, resulting in many citations in the OED? Examples include the use of 'very' as an adjective, 'perfecto', and 'cow tipping'.	`,
+  },
+  {
+    'Theravada (другая – Махаяна)': `Prevalent in Myanmar, Thailand, Cambodia, Laos and Sri Lanka, which school of Buddhism has a name which translates as 'way of the elders'?	`,
+  },
+  {
+    Резолют: `Also known as the Hayes desk after its original recipient, which desk was constructed from timbers of a British Arctic exploration ship and currently sits in the Oval Office?	`,
+  },
+  {
+    'Francis Galton': `Which English polymath coined the phrase "nature versus nurture"? Called "the father of eugenics", University College London dropped his name from a building named after him in 2020.	`,
+  },
+  {
+    'Steve Kerr': `Which current basketball coach (born 1965 in Beirut, Lebanon) has won 8 NBA championships in total? He won 5 as a player (3 with Chicago Bulls, 2 with San Antonio Spurs) between 1996 and 2003 and has won 4 since 2015 as the head coach of Golden State Warriors.	`,
+  },
+  {
+    'Gianni Schicchi': `“O Mio Babbino Caro” is a popular aria from which Puccini opera? It is sung by Lauretta, daughter of the title character (a historical figure who appears in Dante’s “Inferno”). This aria was a signature piece of Maria Callas and has been performed by numerous opera and classical crossover singers.`,
+  },
+  {
+    'Безэховая камера': `What term describes a room that has been designed to absorb reflections of either sound or electromagnetic waves? Sound made in these rooms does not reverberate at all, giving the effect that the room is infinitely large and incredibly quiet.	 `,
+  },
+  {
+    'Bette Davis  (Psycho-biddy - популярный жанр фильмов ужасов 1960-1970х годов, благодаря которому, у пожилых женщин были вакансии в Голливуде.)': `Finally, this actress of Dangerous and Jezebel spent a good part of her late career playing 'psycho-biddy' roles, in films like The Nanny, Dead Ringer, and the film that started the genre, What Ever Happened to Baby Jane?	`,
+  },
+  {
+    'Patria o Muerte, Venceremos': `official national motto of Cuba, adopted in 1960.
+
+The origin of the motto was derived from a speech by revolutionary leader Fidel Castro to commemorate the workers and soldiers who died in the La Coubre explosion on March 5, 1960 at the harbour in Havana. 
+`,
+  },
+  {
+    'Leon Battista Alberti': `Treatises on painting, sculpture, and architecture respectively, De pictura, De statua, and De re aedificatoria were works by which 15th century Italian Renaissance Man whose architectural works include the unfinished Tempio Malatestiano in Rimini and the Santa Maria Novella in Florence?`,
+  },
+  {
+    'Matthias Sindelar': `Nicknamed "The Mozart of football", which Austrian centre-forward captained his country at the 1934 World Cup and was voted the best Austrian footballer of the 20th century in a 1999 poll by the International Federation of Football History and Statistics? He died in mysterious circumstances in 1939 after refusing to play for Germany following Austria's annexation by Nazi Germany.	`,
+  },
+  {
+    'Birutė Galdikas': `The 'Trimates' was the collective name Louis Leakey gave to the three women he chose to study hominids in their natural environments. Jane Goodall and Dian Fossey were sent to study chimpanzees and gorillas, respectively, but which German-born Lithuanian-Canadian anthropologist, primatologist, conservationist, ethologist, and author was posted to South-East Asia to study orangutans?	`,
+  },
+  {
+    'My Name is Red': `A dog, a tree, a gold coin, and a corpse are among the many unusual narrators in which 1998 novel by Orhan Pamuk that opens with the murder of a miniaturist in 1591?	`,
+  },
+  {
+    Voortrekkers: `Meaning ‘pioneers’ in both Afrikaans and Dutch, what name is given to the Dutch emigrants who, during the 1830s and 1840s, left the Cape Colony to move into the interior of what is now South Africa?	`,
+  },
+  {
+    Kismet: `Which word, derived from the Arabic for 'fate', is the title of both a musical based upon the works of Alexander Borodin and a Marvel Comics superheroine (pictured) who has alternatively been known as Paragon, Her, and Ayesha?	`,
+  },
+  {
+    'Бюро (легенд)': `What French television series starring Mathieu Kassovitz and Sara Giraudeau is based on real accounts by former spies at France's Directorate-General for External Security?	`,
+  },
+  {
+    'Suryavarman II': `What King of the Khmer Empire (1113-1150) built Angkor Wat as the empire's state temple?	`,
+  },
+  {
+    'Battle of Gaugamela': `Alexander the Great completed his conquest of Darius III's Persian Empire at what decisive October 1, 331 BC battle also called the Battle of Arbela?	`,
+  },
+  {
+    'Florence Foster Jenkins': `The French film Marguerite (2015) and the play "Colorature - Mrs x and her pianist" are inspired by the sadly comic career of probably the worst singer in the history of music. Who was this American soprano?	`,
+  },
+  {
+    'Чинкве-Терре': `This Italian national park is often mentioned like it’s just one spot, but it’s actually a collection of five villages. What is the name of this national park in the La Spezia Province?	`,
+  },
+  {
+    '«Чёртов остров»': `Рене Бельбёнуа украл несколько жемчужин и в 1920 году был приговорён к восьми годам лишения свободы на этом острове у берегов Гвианы. Отсидев, выпустил книгу мемуаров «Сухая гильотина».
+
+`,
+  },
+  {
+    Чемульпо: `Бой крейсера «Варяг» и канонерской лодки «Кореец» с японской эскадрой 27 января 1904 года состоялся близ корейского города, который ныне называется Инчхон. А как этот город назывался в 1904 году?
+
+`,
+  },
+  {
+    'Ангел Златые Власы': `На этой иконе новгородской школы из собрания Русского музея волосы Архангела Гавриила действительно выложены сусальным золотом.
+
+`,
+  },
+  {
+    Дыхтау: `Эта вторая после Эльбруса вершина Кавказа и России достигает высоты 5 204 метра.
+ 
+`,
+  },
+  {
+    '«Письмо с фронта» (Нифонтов был учеником А. И. Лактионова и позировал ему для фигуры солдата)': `На надгробном камне художника Владимира Нифонтова, прошедшего всю Великую Отечественную, изображена репродукция этой знаменитой картины Александра Лактионова.
+
+`,
+  },
+  {
+    'Португальский и испанский языки': `Людей, говорящих на портуньоле — смеси этих двух языков, — можно встретить, например, в приграничных районах Бразилии.
+
+`,
+  },
+  {
+    'Гоплиты (щит назывался гоплон)': `Своё название эти древнегреческие тяжеловооружённые пехотинцы получили от круглых выпуклых щитов.
+
+`,
+  },
+  {
+    'Император Шив Палпатин': `Этот уроженец города Тид на планете Набу создал и возглавил Галактическую империю.
+
+`,
+  },
+  {
+    'Правильный ответ: Оттон I Великий': `В 962 году папа римский короновал этого короля Германии как императора, что дало начало Священной Римской империи.
+
+`,
+  },
+  {
+    Feijoada: `The Brazilian national dish is a black bean stew with dried, salted, and smoked meat. What is the name of this dish?`,
+  },
+  {
+    Карача́й: `This Lake in Russia is the most polluted place in the world. The lake is near the largest nuclear facility in Russia, the Mayak Production Association, which has had many nuclear meltdowns and leaks into the Techa River that flows into Lake. What is the name of this lake, that sounds a lot like a city in Pakistan?	`,
+  },
+  {
+    Kaffa: `This was a province on the southwestern side of Ethiopia, and its capital city was Bonga. It was named after the namesake former kingdom, and the etymology of it is thought to be from the Arabic word meaning "a drink from berries", an etymology which it shares with the English word coffee. What former region is this?	`,
+  },
+  {
+    'Battle of Ayacucho': `This painting by Daniel Hernández Morillo depicts José de Canterac signing the final capitulation of the Spanish Royalist army to the Independentist forces, led by Antonio de Sucre, following which December 1824 battle that secured the independence of Peru?	`,
+  },
+  {
+    Пропилеи: `Now giving its name to any monumental gateway to a Classical building, which gateway serves as the entrance to the Acropolis in Athens?	`,
+  },
+  {
+    Umbria: `Which region of Italy, with its capital at Perugia, contains Lake Trasimeno (В 217 году до нашей эры произошла битва при Тразименском озере, в которой карфагенский полководец Ганнибал разбил римские войска) and Marmore Falls, and is crossed by the River Tiber? 	`,
+  },
+  {
+    Thoth: `With the head of the Ibis and the body of man, and said to be borne out of the forehead of Set, who accidentally swallowed the semen of Horus, which Egyptian deity, "the Reckoner of Time and Of Seasons" was the god of writing, magic and the moon? 	`,
+  },
+  {
+    Салуин: `Situated between the Irrawaddy and Brahmaputra river systems on the west and the Mekong system on the east, and sharing a shorter boundary with the Yangtze system to the north, which river flows from the Tibetan Plateau south into the Andaman Sea, through southern China and Myanmar, forming part of the border between the latter and Thailand?	`,
+  },
 ];
 
 // {"": ``},
