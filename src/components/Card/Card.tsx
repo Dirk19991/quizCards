@@ -1,19 +1,22 @@
 import styles from './Card.module.scss';
-import { questions } from '../../data/questions';
-import { Dispatch, SetStateAction, useState } from 'react';
+import { useState } from 'react';
 import { shuffleArray } from '../../utils/shuffle';
+import { Link } from 'react-router-dom';
+import { useLocalStorage } from 'usehooks-ts';
+import { Question } from '../../data/questions';
 
 interface CardProps {
-  questionNumber: number;
-  setQuestionNumber: Dispatch<SetStateAction<number>>;
+  questions: Question[];
+  storageKey: string;
 }
 
-export const QuestionCard = ({
-  questionNumber,
-  setQuestionNumber,
-}: CardProps) => {
+export const QuestionCard = ({ storageKey, questions }: CardProps) => {
+  const [questionNumber, setQuestionNumber] = useLocalStorage(
+    storageKey + 'number',
+    0
+  );
   const [answerShown, setAnswerShown] = useState(false);
-  const [clues, setClues] = useState(() => shuffleArray(questions));
+  const [clues, setClues] = useLocalStorage(storageKey, questions);
 
   const totalQuestions = clues.length;
 
@@ -26,7 +29,16 @@ export const QuestionCard = ({
     setAnswerShown(false);
   };
 
-  const answer = Object.keys(clues[questionNumber])[0];
+  const mixClues = () => {
+    setClues(shuffleArray(clues));
+    setQuestionNumber(0);
+  };
+
+  console.log(clues);
+
+  const trimmedAnswer = Object.keys(clues[questionNumber])[0].trim();
+  const answer = trimmedAnswer[0]?.toUpperCase() + trimmedAnswer.slice(1);
+
   const trimmedQuestion = Object.values(clues[questionNumber])[0].trim();
   const question = trimmedQuestion[0]?.toUpperCase() + trimmedQuestion.slice(1);
   const toggleAnswer = () => setAnswerShown((prev) => !prev);
@@ -35,6 +47,7 @@ export const QuestionCard = ({
     <div className={styles.wrapper}>
       <div className={styles.card}>
         <div className={styles.content}>{answerShown ? answer : question}</div>
+
         <div className={styles.showAnswer} onClick={toggleAnswer}>
           {answerShown ? 'Show question' : 'Show answer'}
         </div>
@@ -49,9 +62,15 @@ export const QuestionCard = ({
       </div>
       <div className={styles.totalMix}>
         <div>
-          Total: {totalQuestions} / Current: {questionNumber + 1}
+          {questionNumber + 1} / {totalQuestions}
         </div>
-        <div onClick={() => setClues(shuffleArray(clues))}>MIX</div>
+        <Link
+          className={styles.togglePage}
+          to={storageKey === 'general' ? 'js' : `/`}
+        >
+          {storageKey === 'general' ? 'JS questions' : `Quiz questions`}
+        </Link>
+        <div onClick={mixClues}>MIX</div>
       </div>
     </div>
   );

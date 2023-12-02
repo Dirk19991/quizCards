@@ -1,16 +1,19 @@
 import { QuestionCard } from './components/Card/Card';
 import styles from './App.module.scss';
-import { useState } from 'react';
+import { useLocation } from 'react-router-dom';
+import { questions } from './data/questions';
+import { questionsJs } from './data/questions-js';
 
 function App() {
-  const [questionNumber, setQuestionNumber] = useState(0);
+  const location = useLocation();
+  const includesJs = location.pathname === '/js';
 
   return (
     <div className={styles.wrapper}>
-      <QuestionCard
-        setQuestionNumber={setQuestionNumber}
-        questionNumber={questionNumber}
-      />
+      {includesJs && <QuestionCard storageKey='js' questions={questionsJs} />}
+      {!includesJs && (
+        <QuestionCard storageKey='general' questions={questions} />
+      )}
     </div>
   );
 }
