@@ -82,7 +82,8 @@ export const questions: Question[] = [
       'also known as the "prolonged sunspot minimum", was a period around 1645 to 1715 during which sunspots became exceedingly rare. During a 28-year period (1672–1699) within the minimum, observations revealed fewer than 50 sunspots. This contrasts with the typical 40,000–50,000 sunspots seen in modern times over a similar timespan',
   },
   {
-    "Charli D'Amelio": 'This 18-year-old dancer has 145 million followers on TikTok',
+    "Charli D'Amelio":
+      'This 18-year-old dancer has 145 million followers on TikTok',
   },
   {
     Dobro:
@@ -104,7 +105,8 @@ export const questions: Question[] = [
     UFC: 'This event began in 1993 as a multi-match tournament, with jiu jitsu master Royce Gracie winning the first 2 titles',
   },
   {
-    'Carl Sandburg': 'In "Chicago Poems" he got civic with poems like "Halsted Street Car" & "Clark Street Bridge"',
+    'Carl Sandburg':
+      'In "Chicago Poems" he got civic with poems like "Halsted Street Car" & "Clark Street Bridge"',
   },
   {
     'Trung sisters (Сестры Чынг)':
@@ -191,7 +193,8 @@ export const questions: Question[] = [
       'богато иллюстрированная рукописная книга, созданная ирландскими (кельтскими) монахами примерно в 800 году. Это одна из самых щедро украшенных изящными миниатюрами и орнаментами средневековых рукописей среди всех дошедших до нас. ',
   },
   {
-    Кана́ки: 'коренные народы Меланезии, проживающие в Новой Каледонии, где составляют 41,2 % населения.',
+    Кана́ки:
+      'коренные народы Меланезии, проживающие в Новой Каледонии, где составляют 41,2 % населения.',
   },
   {
     'Охвостье (Rump Parliament)':
@@ -234,7 +237,8 @@ export const questions: Question[] = [
       'трактат об идеальных пропорциях в природе, науке и искусстве, созданный выдающимся итальянским математиком, монахом францисканского ордена Лукой Пачоли. Издан в Венеции в 1509 году.',
   },
   {
-    'Госпожа Чжэн': 'китайская морская разбойница, которая снискала славу самой успешной пиратки в истории.',
+    'Госпожа Чжэн':
+      'китайская морская разбойница, которая снискала славу самой успешной пиратки в истории.',
   },
   {
     Sokoban:
@@ -260,14 +264,16 @@ export const questions: Question[] = [
     Чаупхрая: "It's the river flowing beneath Bangkok's Rama VI Bridge",
   },
   {
-    Fermin: 'Each year at a festival in Pamplona comes the religious procession honoring this saint',
+    Fermin:
+      'Each year at a festival in Pamplona comes the religious procession honoring this saint',
   },
   {
     Endometriosis:
       "Only identified around 1920, this condition of uterine lining growing where it shouldn't affects as many as one woman in 10",
   },
   {
-    'Claddagh ring': 'From Ireland, one of these rings; the crown symbolized loyalty, the heart-love, and friendship',
+    'Claddagh ring':
+      'From Ireland, one of these rings; the crown symbolized loyalty, the heart-love, and friendship',
   },
   {
     'pink-collar worker ':
@@ -384,7 +390,8 @@ export const questions: Question[] = [
       'архипелаг к юго-востоку от острова Понпеи в Тихом океане, состоящий из более чем сотни искусственных островков из базальтовых монолитов и коралловых блоков, связанных системой каналов. Известен также как «Тихоокеанская Венеция».',
   },
   {
-    'Алекса́ндр Алекса́ндров': 'Автор музыки Гимна СССР и положенного на ту же мелодию Гимна Российской Федерации.',
+    'Алекса́ндр Алекса́ндров':
+      'Автор музыки Гимна СССР и положенного на ту же мелодию Гимна Российской Федерации.',
   },
   {
     'Ка́рстен Бо́рхгревинк':
@@ -538,7 +545,8 @@ export const questions: Question[] = [
       'A French aerial gymnast who invented the flying trapeze in 1859 and who is the creator of a one-piece garment, known as a maillot, which was later named after him.',
   },
   {
-    'REARD, LOUIS': 'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
+    'REARD, LOUIS':
+      'a French mechanical engineer who designed the “bikini” bathing suit in Paris, in 1946.',
   },
   {
     Дзиндзя: 'синтоистское святилище, вместе с территорией вокруг.',
@@ -612,7 +620,8 @@ export const questions: Question[] = [
       "After getting KO'd by Max Schmeling in 1936, this African-American heavyweight took just 2 minutes & 4 seconds to win the rematch ",
   },
   {
-    Hoovervilles: 'Shantytowns that sprang up during the Great Depression were given this presidential nickname ',
+    Hoovervilles:
+      'Shantytowns that sprang up during the Great Depression were given this presidential nickname ',
   },
   {
     Balto:
@@ -752,10 +761,12 @@ export const questions: Question[] = [
       'духи предков. Обряд их почитания совершался на седьмой день после Пасхи (семуха, весенняя радуница или пасха усопших) или осенью (большие осенины, дедова неделя). В эти дни в жертву покойникам приносили пищу. Жертвенную пищу относили на кладбище или приглашали их на угощение в дом и посвящали им первую ложку или первый стакан, выливая их под стол или ставя за окно.',
   },
   {
-    'Даждьбог ': 'древнерусский бог, связываемый с солнцем. Считался покровителем и родоначальником русских племен.',
+    'Даждьбог ':
+      'древнерусский бог, связываемый с солнцем. Считался покровителем и родоначальником русских племен.',
   },
   {
-    Герсилия: 'римская героиня, одна из похищенных римлянами сабинянок, ставшая женой Ромула.',
+    Герсилия:
+      'римская героиня, одна из похищенных римлянами сабинянок, ставшая женой Ромула.',
   },
   {
     Гекатонхейры:
@@ -841,10 +852,12 @@ export const questions: Question[] = [
       'Sticking with the theme about suspects: What was the name of the security guard who discovered the bomb planted by Eric Rudolph at the 1996 Summer Olympics in Atlanta? First hailed as a hero, he was later suspected to be the one who planted it, and, although he was eventually cleared, this led to several libel lawsuits against various parties. ',
   },
   {
-    'Strait of Bonifacio': 'Yes, the strait that separates Corsica from Sardinia has a name. ',
+    'Strait of Bonifacio':
+      'Yes, the strait that separates Corsica from Sardinia has a name. ',
   },
   {
-    'Palk Strait': 'This strait, famously crossed in the Ramayana, separates India from Sri Lanka. ',
+    'Palk Strait':
+      'This strait, famously crossed in the Ramayana, separates India from Sri Lanka. ',
   },
   {
     'Lajos Kossuth':
@@ -940,7 +953,8 @@ export const questions: Question[] = [
       'In 1908 he defeated Tommy Burns to become the first African-American world heavyweight boxing champ ',
   },
   {
-    "Goodhart's law ": 'an adage often stated as, "When a measure becomes a target, it ceases to be a good measure"',
+    "Goodhart's law ":
+      'an adage often stated as, "When a measure becomes a target, it ceases to be a good measure"',
   },
   {
     'Montpelier ':
@@ -1003,7 +1017,8 @@ export const questions: Question[] = [
       'In which Dutch city were treaties signed between April 1713 and September 1714 which brought an end to the War of the Spanish Succession?',
   },
   {
-    ADELAIDE: 'The Ghan passenger train takes 54 hours to travel between Darwin and which city in South Australia?',
+    ADELAIDE:
+      'The Ghan passenger train takes 54 hours to travel between Darwin and which city in South Australia?',
   },
   {
     Duffer:
@@ -1030,7 +1045,8 @@ export const questions: Question[] = [
       'Некоторые исследователи отмечают, что после НЕЁ корабль не сможет прибыть на поля Вигрид, а приедет туда по льду как на санях. Ответ: ',
   },
   {
-    Leitha: 'Until 1919, which river was traditionally seen as the border between Austria and Hungary? ',
+    Leitha:
+      'Until 1919, which river was traditionally seen as the border between Austria and Hungary? ',
   },
   {
     Szekesfehervar:
@@ -1111,7 +1127,8 @@ export const questions: Question[] = [
       '"Z" by Therese Anne Fowler is a fictionalized memoir of this Jazz Age woman called the first flapper ',
   },
   {
-    'Купол скалы  ': 'Completed in 691, this shrine was built in Jerusalem by Caliph Abd al-Malik',
+    'Купол скалы  ':
+      'Completed in 691, this shrine was built in Jerusalem by Caliph Abd al-Malik',
   },
   {
     'ethics ':
@@ -1254,7 +1271,8 @@ export const questions: Question[] = [
       'The father of the Chicago blues, McKinley Morganfield, whose hit gave name to The Rolling Stones, is better known by what nickname which he earned by playing in the creeks of the Mississippi?',
   },
   {
-    'Macedonia (Вергинская звезда ) ': 'The Vergina Sun is the emblem of which traditional Greek region?',
+    'Macedonia (Вергинская звезда ) ':
+      'The Vergina Sun is the emblem of which traditional Greek region?',
   },
   {
     'Lei ':
@@ -1273,10 +1291,12 @@ export const questions: Question[] = [
       '"Blenheim", "Cloudy Bay", "Renwick" and "Seddon" are all towns located in which wine growing region in New Zealand? It is by far New Zealand\'s largest wine growing region, accounting for three quarters of the country\'s wine population.',
   },
   {
-    'ШÁННОН ': 'наиболее значительная река в Ирландии. Дл. 368 км, пл. бас. 15, 7 тыс. км². ',
+    'ШÁННОН ':
+      'наиболее значительная река в Ирландии. Дл. 368 км, пл. бас. 15, 7 тыс. км². ',
   },
   {
-    'ЦУГÁРУ  ': 'между островами Хонсю и Хоккайдо (Япония). Соединяет Японское море с Тихим океаном.',
+    'ЦУГÁРУ  ':
+      'между островами Хонсю и Хоккайдо (Япония). Соединяет Японское море с Тихим океаном.',
   },
   {
     'ШКÓДЕР  ':
@@ -1542,7 +1562,8 @@ export const questions: Question[] = [
       'This marine arthropod was among the first creatures in the fossil record to develop the sense of sight and lived for 270 million years until its extinction at the end of the Permian about 252 million years ago. Which extinct creature is so named because the back of its body was uniquely divided into three distinct sections? ',
   },
   {
-    'Sudan ': 'Very few tourists visit this country, but the ones who do often see the pyramids of Meroe. ',
+    'Sudan ':
+      'Very few tourists visit this country, but the ones who do often see the pyramids of Meroe. ',
   },
   {
     'ksar ':
@@ -1597,7 +1618,8 @@ export const questions: Question[] = [
       ' With its logo seen here, which German audio company founded in 1945 by Prof. Dr. Fritz __________ specializes in the design and production of a wide range of high fidelity products, including microphones, headphones, telephone accessories and aviation headsets for personal, professional and business applications?	',
   },
   {
-    ' Palk Strait': ' Which strait lies between India and the island nation of Sri Lanka?	',
+    ' Palk Strait':
+      ' Which strait lies between India and the island nation of Sri Lanka?	',
   },
   {
     ' Sakoku':
@@ -1660,7 +1682,8 @@ export const questions: Question[] = [
       "Which three-word Latin term, literally meaning 'in the middle of things', is used to describe a narrative work that opens in the middle of events, with gaps in the plot generally being filled in as the work proceeds? Examples include Hamlet and The Usual Suspects. ",
   },
   {
-    'Tapioca ': 'Bubble tea (or boba, or pearl milk tea) includes balls made of what substance?	 ',
+    'Tapioca ':
+      'Bubble tea (or boba, or pearl milk tea) includes balls made of what substance?	 ',
   },
   {
     'Cava ':
@@ -1686,7 +1709,8 @@ export const questions: Question[] = [
       ' Being the home of a race of furry aliens called Ewoks, which fictional moon in the Star Wars universe was the site of a pivotal battle depicted in Return of the Jedi?	 ',
   },
   {
-    'Джеймс Кэвизел ': ' Which actor played Jesus Christ in Mel Gibson’s 2004 The Passion of the Christ?	 ',
+    'Джеймс Кэвизел ':
+      ' Which actor played Jesus Christ in Mel Gibson’s 2004 The Passion of the Christ?	 ',
   },
   {
     'SPAMALOT ':
@@ -1745,17 +1769,20 @@ export const questions: Question[] = [
       ' Which German scientist won the first ever Nobel Prize in Physiology or Medicine for his discovery of a diphtheria antitoxin? ',
   },
   {
-    'Gordon Banks': 'Which legendary goalkeeper played for England in the 1966 World Cup Final against West Germany?',
+    'Gordon Banks':
+      'Which legendary goalkeeper played for England in the 1966 World Cup Final against West Germany?',
   },
   {
-    'Lake Vänern': 'At 5,655 square km, which is the largest lake in the European Union?  ',
+    'Lake Vänern':
+      'At 5,655 square km, which is the largest lake in the European Union?  ',
   },
   {
     'William Wilberforce':
       'The testimony of the former slave known as Gustavus Vassa helped inspire which Yorkshire MP to become the leading voice of the British parliamentary movement to abolish the slave trade?',
   },
   {
-    'Daley Thompson': 'Which British legend won the decathlon gold medal at the 1980 and 1984 Olympics?',
+    'Daley Thompson':
+      'Which British legend won the decathlon gold medal at the 1980 and 1984 Olympics?',
   },
   {
     Ивреа:
@@ -1887,14 +1914,16 @@ export const questions: Question[] = [
       'capital of the island nation of Tuvalu. It has a population of 6,320 people (2017 census), and so it has more people than the rest of Tuvalu combined, with approximately 60% of the population.',
   },
   {
-    ТИБÉСТИ: 'нагорье в центральной части Сахары (Чад). Активный вулкан Эмми-Куси (3415 м) – высшая точка Сахары.',
+    ТИБÉСТИ:
+      'нагорье в центральной части Сахары (Чад). Активный вулкан Эмми-Куси (3415 м) – высшая точка Сахары.',
   },
   {
     СТАЛАГНÁТЫ:
       'натёчно-капельные образования в виде колонн, образующиеся в карстовых пещерах при срастании сталагмитов и сталактитов.',
   },
   {
-    ТÓНГА: 'глубоководный жёлоб в юго-восточной части Тихого океана. Макс. глуб. 10 800 м. ',
+    ТÓНГА:
+      'глубоководный жёлоб в юго-восточной части Тихого океана. Макс. глуб. 10 800 м. ',
   },
   {
     СОКÓТРА:
@@ -1996,7 +2025,8 @@ export const questions: Question[] = [
       "iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem. The primary goal of the technique is to determine the root cause of a defect or problem by repeating the question 'Why?' five times. The answer to the fifth why should reveal the root cause of the problem. The technique was described by Taiichi Ohno at Toyota Motor Corporation. ",
   },
   {
-    'Менталитет краба ': "a way of thinking best described by the phrase 'if I can't have it, neither can you'",
+    'Менталитет краба ':
+      "a way of thinking best described by the phrase 'if I can't have it, neither can you'",
   },
   {
     'Jean Brillat-Savarin ':
@@ -2031,7 +2061,8 @@ export const questions: Question[] = [
       'американский и политик, обессмертивший себя открытием «затерянного города инков» Мачу-Пикчу. В 1911 году Бингем возглавил экспедицию, снаряжённую Йельским университетом на поиски затерянного города инков, который не смогли отыскать испанские конкистадоры. Из письменных источников по цивилизации инков следовало, что город имеет смысл искать в окрестностях Куско, в краю неприступных горных вершин.',
   },
   {
-    'Алавиты ': 'правящая династия в Марокко. Султаны с 1666 года, короли с 1957 года. ',
+    'Алавиты ':
+      'правящая династия в Марокко. Султаны с 1666 года, короли с 1957 года. ',
   },
   {
     'Джамбатти́ста Бази́ле ':
@@ -2082,7 +2113,8 @@ export const questions: Question[] = [
       'a member of the Nazi Party, the Gauleiter (regional leader) of Franconia and a member of the Reichstag, the national legislature. He was the founder and publisher of the virulently antisemitic newspaper Der Stürmer, which became a central element of the Nazi propaganda machine.',
   },
   {
-    'Вьяса ': 'легендарный индийский мудрец, считавшийся составителем вед и пуран, а также автором «Махабхараты».',
+    'Вьяса ':
+      'легендарный индийский мудрец, считавшийся составителем вед и пуран, а также автором «Махабхараты».',
   },
   {
     'Alcmena ':
@@ -2101,7 +2133,8 @@ export const questions: Question[] = [
       "(  1668 –  1738 ) was a Dutch botanist, chemist, Christian humanist, and physician of European fame. He is regarded as the founder of clinical teaching and of the modern academic hospital and is sometimes referred to as 'the father of physiology,' along with Venetian physician Santorio Santorio (1561–1636). ",
   },
   {
-    'Emil von Škoda': 'Bohemian engineer and industrialist, founder of BLANK Works',
+    'Emil von Škoda':
+      'Bohemian engineer and industrialist, founder of BLANK Works',
   },
   {
     'Herman Snellen ':
@@ -2285,10 +2318,10 @@ export const questions: Question[] = [
     'Чав ': `унизительное прозвище определённой группы молодых людей в Великобритании. Под словом ... чаще всего понимают белых подростков, выходцев из рабочих семей, которые отличаются антисоциальным, агрессивным поведением и нередко привлекаются к ответственности за распитие спиртного в общественных местах, нарушения, связанные с наркотиками, драки и другие формы подростковой преступности. `,
   },
   {
-    Оли́мпия: ` парагвайский футбольный клуб из Асунсьона. Один из самых титулованных клубов мира, старейшая и самая титулованная команда страны: трижды завоёвывала Кубок Либертадорес и однажды — Межконтинентальный кубок. Единственный парагвайский клуб, выигрывавший международные турниры под эгидой КОНМЕБОЛ.`,
+    Оли́мпия: `парагвайский футбольный клуб из Асунсьона. Один из самых титулованных клубов мира, старейшая и самая титулованная команда страны: трижды завоёвывала Кубок Либертадорес и однажды — Межконтинентальный кубок. Единственный парагвайский клуб, выигрывавший международные турниры под эгидой КОНМЕБОЛ.`,
   },
   {
-    'Кибера ': ` поселение в кенийской провинции Найроби, пригород города Найроби, располагается в 5 километрах от центра столицы. Крупнейшие трущобы Кении, а также крупнейшие городские трущобы в Африке. `,
+    'Кибера ': `поселение в кенийской провинции Найроби, пригород города Найроби, располагается в 5 километрах от центра столицы. Крупнейшие трущобы Кении, а также крупнейшие городские трущобы в Африке. `,
   },
   {
     'Гомстед-акт ': `федеральный закон, принятый 20 мая 1862 года в США, разрешивший передачу в собственность гражданам США незанятых земель на западе страны за небольшую плату.  `,
@@ -2305,4 +2338,197 @@ export const questions: Question[] = [
   {
     'Дунганское восстание ': `восстание в 1862—69 годах. Примерно в то же время восстали и мусульмане Юньнаня на юго-западе Китая. Унеся жизни от 8 до 15 миллионов человек, это восстание стало одним из самых кровопролитных военных конфликтов в истории.`,
   },
+  {
+    Типперери: `В ЭТОМ ИРЛАНДСКОМ ГОРОДЕ установлена статуя, на которой указано расстояние до ряда других, довольно далёких от него, городов.`,
+  },
+  {
+    '[Мэри] Рид (пиратка)': `ОНА в титрах последней серии сериала «Чёрные паруса»  указана под именем Марк, которым в реальности действительно пользовалась. `,
+  },
+  {
+    '[Людевит] Гай. Комментарий: хорватский лингвист, создатель латинского алфавита для сербохорватского языка (гаевицы), и один из идеологов движения иллиризма, призывавшего к объединению и независимости южнославянских народов в Австрийской Империи (и потенциально — всех южных славян).': `В 1835 году ЭТОТ ПАРЕНЬ основал журнал «Danica ilirska» [даница илирска].`,
+  },
+  {
+    'Джек Фрост или Ледяной Джек ': `персонаж англо-саксонского и германо-скандинавского фольклора, олицетворяющий собой зиму и все её проявления — мороз, лёд, снег и холод. Согласно традициям, он оставляет морозные узоры на окнах холодным зимним утром и щиплет конечности в холодную погоду`,
+  },
+  {
+    'Снега кающихся': `своеобразные образования на поверхности снеговых и фирновых полей в виде наклонных игл или пирамид высотой до 6 метров в высокогорьях тропиков и субтропиков, издали производящие впечатление толпы коленопреклоненных монахов. На леднике Кхумбу горы Эверест обнаружены «кающиеся монахи» высотой до 30 м.`,
+  },
+  {
+    '[Том] Паркер.': `В конце 1920-х ОН организовывал бродячие цирки, а позже переключился на работу с музыкантами. В 1946 году ОН был посвящён в “полковники”, что было почётным титулом на Юге США.`,
+  },
+  {
+    'Гимн Словении': `В 1989 году ЕГО текстом стала строфа из стихотворения Франце́ Преше́рна (1800-1849).`,
+  },
+  {
+    'хопи. Комментарий: Бенджамин Уорф утверждал, что хопи представляют себе время не так, как европейцы, и это отражается, в том числе, и в их языке; это было одним из аргументов в пользу гипотезы лингвистической относительности (также известной как гипотеза Сепира — Уорфа). С утверждениями Уорфа многие не согласились': `В 1983 году Экхарт Малотки опубликовал подробное исследование одной из грамматических категорий ЭТОГО ЯЗЫКА, опровергавшее заявления, сделанные сорока годами ранее.`,
+  },
+  {
+    'Золотая легенда': `ЕЁ популярность была такова, что до наших дней дошло более тысячи копий, переписанных от руки. Благодаря своей занимательности и насыщенности деталями ЕЁ также называют энциклопедией средневековой жизни. `,
+  },
+  {
+    'Камень Красноречия (Камень Бла́рни)': `Стена жвачки — достопримечательность Сиэтла, покрытая слоем использованной жвачки. В 2009 году Стена жвачки была признана второй самой негигиеничной достопримечательностью — первой стал ОН.`,
+  },
+  {
+    '(Барбара) Такман. Комментарий: Американская историк и лауреатка Пулитцеровской премии 1962го года за книжку «Августовские пушки», посвящённой анализу причин и началу Первой Мировой Войны. Такман была внучкой американского посла в Османской Империи и невольно стала свидетелницей первого крупной морского столкновения этой страшной войны.': `В возрасте двух лет, 10 августа 1914го года, ОНА стала свидетельницей одного из первых эпизодов Первой Мировой Войны – преследования немецких кораблей Гебен и Бреслау английским флотом в Средиземном море. В ЕЁ семье впоследствии часто вспоминали клубы дыма от пушечных выстрелов, заметные с борта пассажирского корабля, направлявшегося в Константинополь.`,
+  },
+  {
+    'Американ Макги Комментарий: Джон Кармак – знаковая личность в игровой индустрии, разработчик Дума и Квэйка. Американ Макги работал с Кармаком над Думом, а также выпустил пару своих игр, самая известная из которых – Американ Макги Элис.': `В 1992 году ОН подружился со своим соседом Джоном Кармаком.`,
+  },
+  {
+    'Последней буквой В НЁМ является Уго Григоретти, с 1950-х работавший автором программ канала RAI.': `РоГоПаГ`,
+  },
+  {
+    'секвойядендрон. Гигантские секвойядендроны — это род растений, к которым относятся, например, знаменитые «Генерал Шерман» и «Генерал Грант».': `В середине 20-го века многие люди специально приезжали в Калифорнию, чтобы сфотографироваться на фоне «Мамонта». Мамонт — это «гигантский ОН». Восстановите в исходном виде слово, в котором мы спилили 12 букв.`,
+  },
+  {
+    '[Тони] Бриттен Комментарий: композитор, который создал гимн лиги чемпионов УЕФА в 1992-ом, вскоре после ЧМ по футболу в Италии(1990-ый год). Этот гимн как известно многое позаимствовал из “Садок-священник” Генделя.': `В 2013-ом году в одном интервью ОН признавался: “...у меня заказали написать что-то похожее на гимн, потому что после «Трех теноров» на чемпионате мира по футболу в Италии классическая музыка была в моде…. мне нравится думать, что это был не полный грабеж”`,
+  },
+  {
+    Funko: `американская компания, производящая виниловые фигурки, плюшевые игрушки и другие товары, посвящённые героям фильмов, сериалов, комиксов, мультфильмов, игр и аниме. Каждая фигурка имеет свой специальный узнаваемый стиль.`,
+  },
+  {
+    'золгенсма Комментарий: речь о самом дорогом лекарстве мира, которое способно вылечивать спинальную мышечную атрофию или СМА. Как и подобает фармацевтическим гигантам, продавать золгенсма по доступным ценам, Novartis не хочется': `В 2019 компанию Novartis раскритиковали за лотерею, где около 100 человек в год могли получить ЕГО бесплатно. ЕГО стоимость в несколько миллионов компания объясняет высокой ценой альтернативной генной терапии. `,
+  },
+  {
+    'Куахог ': `Согласно истории, рассказанной в одной из серий , ЭТОТ ГОРОД штата Род-Айленд был основан Майлзом «Пустомелей» Мушкетом и волшебной устрицей.`,
+  },
+  {
+    'Автопортрет в зеленом Бугатти': `ЭТА КАРТИНА 1929 года была заказана для обложки немецкого журнала Die Dame [дай дем], который определил женщину как символ освобождения. `,
+  },
+  {
+    'Дыр бул щыл': `Давид Бурлюк писал, что ЭТИ ТРИ СЛОВА означают «дырой будет уродное лицо счастливых олухов».`,
+  },
+  {
+    Шиваджи: `What 17th century warrior-king, the first Chhatrapati (ruler) of the Maratha Empire, is the namesake of Mumbai's major international airport?`,
+  },
+  {
+    Sankofa: `What term from the Akan Twi and Fante languages of Ghana meaning "go back and get it" is usually represented by a bird with its feet facing forward and its head turned backwards?  Symbols like this (two birds forming a heart) can be found on gates all over Brooklyn, New York.`,
+  },
+  {
+    'Frantz Fanon': `What political philosopher from Martinique is known for his seminal work Black Skin, White Masks (Черная кожа, белые маски), a critique of racism and colonial domination?`,
+  },
+  {
+    'Природный ядерный реактор в Окло': `What mine in Gabon is believed to be the only site on earth where natural self-sustaining nuclear fission reactions are thought to have occurred? These reactions are estimated to have taken place approximately 1.7 billion years ago. `,
+  },
+  {
+    Vimana: `The most cited example of what "v" flying palaces of Hindu and Sanskrit texts is the Pushpaka one stolen from Lord Kubera by Ravana?`,
+  },
+  {
+    'Карлуш Бе́лу': `Photographed here is what East Timorese Roman Catholic bishop who shared the 1996 Nobel Peace Prize with politician Jose Ramos Horta for "working towards a just and peaceful solution to the conflict in East Timor"?  `,
+  },
+  {
+    'Yesterday, Today, and Tomorrow': `What 1963 comedy anthology film directed by Vittorio De Sica stars Sophia Loren and Marcello Mastroianni in a trio of short stories set in different parts of Italy?`,
+  },
+  {
+    'Apollonius of Rhodes': `What ancient Greek writer's Argonautica is the only surviving epic poem of the Hellenistic period?`,
+  },
+  {
+    'Blue Origin': `Jeff Bezos announced last week he was stepping down later this year of CEO of Amazon. Bezos intends to shift focus to what space venture he founded in 2000?`,
+  },
+  {
+    'Орекьетте ': `The name of what disc-shaped pasta seen here comes from Italian for "little ear"?`,
+  },
+  {
+    'Johannes Brahms': `Conductor Hans von Bulow called what composer's 1876 Symphony No. 1 in C minor "Beethoven's Tenth"? This composer claimed the symphony took him nearly 21 years to complete.`,
+  },
+  {
+    'Bunker Hill': `The name of the Massachusetts town of Billerica reflects the presence of denizens of Billericay on the Mayflower. The Billerica native Asa Pollard was the first man to be killed at which battle fought on 17 June 1775?`,
+  },
+  {
+    'Kushan Empire': `Reigning from 127 to 151 CE, Kanishka was the best-known ruler of which empire, originally formed in the territories of ancient Bactria on either side of the middle course of the Oxus River in what is now northern Afghanistan, and southern Tajikistan and Uzbekistan, before expanding rapidly across the northern part of the Indian subcontinent?`,
+  },
+  {
+    Prana: `Comparable to the Chinese notion of Qi, and with a name deriving from the Sanskrit for ‘breath’, which vital force sustains the life of animate beings in Hindu philosophy?`,
+  },
+  {
+    Тахо: `Fannette Island is the only island in which major body of water that lies on the border between California and Nevada?`,
+  },
+  {
+    'Max Havelaar': `Used to certify that a product qualifies as ‘Fairtrade’, this logo is named after which Dutch literary character, created by Multatuli in 1860?`,
+  },
+  {
+    'Изюминка на Солнце': `Its title taken from Langston Hughes’ poem Harlem, which Lorraine Hansbury play - describing a few weeks in the life of an African-American family living in Chicago's Southside - was adapted into a 1961 film starring Sidney Poitier?`,
+  },
+  {
+    'John Cazale (муж Мэрил Стрип)': `Before his death in 1978, which American actor appeared in only five films with all five being nominated for the Academy Award for Best Picture? The five films in question are The Godfather, The Godfather Part II, Dog Day Afternoon, The Conversation, and The Deer Hunter.`,
+  },
+  {
+    Han: `Which East Asian ethnic group constitutes around 92% of the population of mainland China? This is also the name of the second imperial dynasty of China, established by the rebel leader Liu Bang in 202 BCE.`,
+  },
+  {
+    'Charles M. Schultz (Peanuts, мальчик Чарли Браун и собака Снупи)': `Which cartoonist had his studio at One Snoopy Place in Santa Rosa?`,
+  },
+  {
+    'Ephron (Nora)': `Which American writer and film director is known for her Romantic comedies Sleepless in Seattle (1993),  You've Got Mail (1998) and for writing the screenplays for When Harry Met Sally (1989) and Silkwood (1983)`,
+  },
+  {
+    'Exxon Valdez': `Which Supertanker ran aground off the coast of Alaska in Prince William Sound in 1989, spilling 12 000 000 gallons of crude oil over a few days and causing massive environmental damage to the habitat of salmon, seals, otters and seabirds?`,
+  },
+  {
+    'Эрик Карл': `A co-author of Brown Bear, Brown Bear, What do you see?(1967) who is the American graphic designer (1929-) and illustrator also responsible for the children's book The Very Hungry Caterpillar (1969) (Очень голодная гусеница), which has sold over 50 million copies worldwide?`,
+  },
+  {
+    "Brooks's law": `an observation about software project management that "Adding manpower to a late software project makes it later."[1][2] It was coined by in 1975 book The Mythical Man-Month. According to the author, under certain conditions, an incremental person when added to a project makes it take more, not less time.`,
+  },
+  {
+    "Parkinson's law": `A humorous 1955 article in The Economist proposed what "law", the observation that work expands to fill the amount of time allotted for its completion?`,
+  },
+  {
+    'Fredrick Taylor': `What American father of so-called "scientific management" ran dubious experiments that allegedly greatly increased the efficiency of pig iron laborers at a Bethlehem Steel plant?`,
+  },
+  {
+    'Ida Lupino': `In 1953, this woman became the first woman to direct a mainstream American film noir with The Hitch-Hiker (Попутчик) — a tense drama in which a fishing trip becomes a car ride from hell for two friends held hostage by an escaped convict. Who are we looking for?`,
+  },
+  {
+    Neom: `For this question we're looking for a planned cross-border city in the Tabuk Province of Saoudi Arabia. t is planned to incorporate smart city technologies and also function as a tourist destination. What is the name of this project?`,
+  },
+  {
+    Arpanet: `The first version of the internet is over 50 years old. In 1969, the U.S. Department of Defense Advanced Research Projects Agency created a computer network, the first internet prototype, albeit a more limited one. It only connected mainframes at universities, government buildings, and defense contractor facilities, motivating the development of a faster, more comprehensive mobile network, like the modern internet. What was the name of this mobile network?`,
+  },
+  {
+    Garavani: `This Italian fashion designer, made red dresses just as famous as Coco Chanel’s Little Black Dress. His red dress has gained so much popularity that it has earned the nickname "Valentino Red". But what was his surname?	`,
+  },
+  {
+    'Спенсер Туник': `This American is internationally known for organizing and photographing massive nude gatherings in public spaces, including parks, streets, and squares. His work has generated great controversies regarding the juxtaposition of public space, nudity, and art. Who is he?`,
+  },
+  {
+    'Ed Gein': `It takes one particularly terrifying creep to inspire Hannibal Lecter, Norman Bates, and Leatherface, but that's the legacy left by this horrifying serial killer. When he was finally caught and his house of horrors in Plainfield, Wisconsin, discovered, police found masks and lampshades made from human skin, among plenty of other atrocitie. Who was this serial killer?`,
+  },
+  {
+    'Гривистый волк': `This Chrysocyon brachyurus is the largest canine in South America, with a weight between 20 and 30 kg (44 lbs and 73 lbs), and reaches up to 90 cm (35 in) at the withers. Its long, thin legs and dense reddish coat give it an unmistakable appearance. What animal that mainly lives in open and semi-open habitats, especially grasslands with scattered bushes and trees, are we looking for?`,
+  },
+  {
+    AstraZeneca: `This is a multinational pharmaceutical and biopharmaceutical company with its headquarters in Cambridge, England. It has a portfolio of products for major disease areas including cancer, cardiovascular, gastrointestinal, infection, respiratory and inflammation, but nowadays its more famous because it has produced one of the vaccines for Covid 19. What's the name of this company?`,
+  },
+  {
+    'Sutton Hoo ': `In AD 624	Raedwald, King of East Anglia, dies. Many scholars believe that he is buried inside of the ship discovered in 1938 at [BLANK] in Suffolk, one of the most sensational archaeological finds in British history. The sword and helmet found there are in the British Museum.`,
+  },
+  {
+    'Karbala (Битва при Кербеле)': `In AD 681	At the Battle of [BLANK], the followers of Husayn, grandson of Ali, are defeated by forces loyal to the Umayyad Caliphate. The split between Shia and Sunni Muslims is traditionally dated to this battle.`,
+  },
+  {
+    'Charles Martel': `In AD 732	The Frankish general [BLANK] defeats a Muslim army at the Battle of Tours (sometimes confusingly called the Battle of Poitiers). Though modern historians dispute the battle's macrohistorical importance, the battle has traditionally been seen as saving Western Europe from Islamic domination.`,
+  },
+  {
+    Боробудур: `In AD 750	On the island of Java in what is now Indonesia, [BLANK], the largest Buddhist temple in the world, is built. It is still a major tourist attraction today.`,
+  },
+  {
+    'An Lushan': `In AD 756	China is being devastated by civil war, sparked when a Turkish general named [BLANK] and his friend (and eventual successor) Shi Siming rebelled against the Emperor the previous year.`,
+  },
+  {
+    Алкуин: `In AD 786	The English priest [BLANK] is active at the Palace School of Charlemagne in Aachen (or Aix-la-Chapelle). He is by far the leading scholar of his time in Western Europe, and is credited with standardizing the way that Latin is written and pronounced during the European Middle Ages.`,
+  },
+  {
+    'Период Хэйан': `In AD 794 The Japanese capital is moved to modern-day Kyoto. This is the beginning of the [BLANK] period of Japanese history, named for a shrine in Kyoto. Tale of Genji would be written during this era.`,
+  },
+  {
+    Lindisfarne: `In AD 794	The Viking Age has started in the British Isles, having formally commenced the previous year when Viking raiders attacked the monastery at [BLANK], located on an island off the coast of Northumberland, killing or enslaving most of the monks in an act that shocks the Christian West.`,
+  },
+  {
+    Ravenna: `In AD 526	Theodoric the Great dies, and construction begins on the Basilica of San Vitale. Both of these events take place in [BLANK], a city in northern Italy known for its Byzantine mosaics and early Christian structures, eight of which are part of a UNESCO World Heritage Site.`,
+  },
 ];
+
+// {"": ``},
+// {"": ``},
+// {"": ``},
