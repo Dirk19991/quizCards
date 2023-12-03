@@ -2802,6 +2802,253 @@ The origin of the motto was derived from a speech by revolutionary leader Fidel 
   {
     Салуин: `Situated between the Irrawaddy and Brahmaputra river systems on the west and the Mekong system on the east, and sharing a shorter boundary with the Yangtze system to the north, which river flows from the Tibetan Plateau south into the Andaman Sea, through southern China and Myanmar, forming part of the border between the latter and Thailand?	`,
   },
+  {
+    Демаве́нд: `спящий стратовулкан в горном хребте Эльбурс, на севере Ирана, в южной части остана Мазендеран. Достигает 5610 метров над уровнем моря и имеет диаметр в основании около 20 километров. На вершине располагается кратер диаметром 400 метров с небольшим озером. Является наивысшей точкой Ирана и всего Ближнего Востока, также является самым высоким вулканом в Азии `,
+  },
+  { 'Шибальба́ ': `название преисподней у майя, находящейся под землёй. ` },
+  {
+    'Колонна Нельсона ': `монумент, расположенный в центре Трафальгарской площади в Лондоне Англия Колонна была построена в период с 1840 по 1843 год в память об адмирале, погибшем в Трафальгарском сражении в 1805 году. `,
+  },
+  {
+    'Мари́на  Вязо́вская ': `украинский математик.  Лауреат Филдсовской премии (2022).`,
+  },
+  {
+    'Наполео́н О́рда ': `(11 февраля 1807, деревня Вороцевичи, Пинский уезд, Минская губерния — 26 апреля 1883, Варшава) — белорусский, литовский и польский литератор, музыкант, композитор, художник, скульптор, педагог.`,
+  },
+  {
+    'Барри-спасатель': `(1800—1814) — собака породы, впоследствии ставшей известной как Сенбернар, которая работала в качестве собаки-спасателя в Швейцарии при монастыре Святого Бернарда. Является самым известным из описанных сенбернаров — за свою жизнь он спас как минимум сорок человек.`,
+  },
+  {
+    'Румспри́нга ': `обряд инициации в некоторых общинах амишей (одно из направлений анабаптизма): подросток в возрасте от 14—16 лет получает выбор: принять крещение и стать членом церкви в общине амишей либо покинуть общину. Подавляющее большинство выбирает крещение и остаётся в лоне церкви. `,
+  },
+  {
+    'Медаль Волластона ': `высшее отличие Геологического общества Лондона, которым отмечают учёных, внесших наибольший вклад в развитие геологии. Вручается с 1831 года, названа в честь английского учёного (1766—1828), изготовляется ныне из открытого им палладия`,
+  },
+  {
+    'Капсула Боумена': `a cup-like sac at the beginning of the tubular component of a nephron in the mammalian kidney that performs the first step in the filtration of blood to form urine. `,
+  },
+  {
+    'A Son of Sam law ': `an American English term for any law designed to keep criminals from profiting from the publicity of their crimes, for instance by selling their stories to publishers. Such laws often authorize the state to seize money earned from deals such as book/movie biographies and paid interviews and use it to compensate the criminal's victims. These laws have been criticized as violating the free-speech guarantee of the First Amendment to the United States Constitution.`,
+  },
+  {
+    'Eliezer Ben Yehuda ': `(7 January 1858 – 16 December 1922) was a Hebrew linguist, grammarian, and journalist, renowned as the lexicographer of the first Hebrew dictionary, and the editor of HaZvi, one of the first Hebrew newspapers published in the Land of Israel. He was the main driving force behind the revival of the Hebrew language.`,
+  },
+  {
+    'Андромаха ': `супруга Гектора, мать Астианакта. После гибели Гектора и падения Трои была взята в плен сыном Ахилла Неоптолемом, от которого имела трех сыновей, в том числе Пергама. После гибели Неоптолема она вышла замуж за Елена, брата Гектора. Когда Елен умер, она с Пергамом переселилась в Малую Азию, где ее сын основал город, названный его именем.`,
+  },
+  {
+    'Антигона ': `дочь фиванского царя Эдипа и Иокасты, сопровождавшая своего слепого отца во время изгнания. После смерти Эдипа она вернулась в Фивы, как раз к началу осады города семью вождями. Когда ее брат Полиник, воевавший против Фив, погиб в единоборстве с Этеоклом, она нарушила запрет своего дяди царя Креонта и предала тело брата погребению. За это она была заживо замурована в пещеру, где покончила с собой.`,
+  },
+  {
+    'Апоп ': `огромный змей, олицетворяющий мрак и зло, извечный враг бога солнца Ра. Обитает в глубине земли, где и происходит его борьба с Ра. `,
+  },
+  {
+    МОЛДОВЯ́НУ: `гора в Южных Карпатах, в массиве Фэгэраш; высшая точка Румынии (2543 м), расположена в центральной части страны.`,
+  },
+  {
+    'МÁТОЧКИН ШАР': `пролив между Северным и Южным островами Новой Земли, соединяющий Баренцево море с Карским. `,
+  },
+  {
+    'Sisu ': `Finnish concept described as stoic determination, tenacity of purpose, grit, bravery, resilience, and hardiness, and is held by Finns themselves to express their national character.`,
+  },
+  {
+    'Candace Bushnell ': `(born December 1, 1958) is an American author, journalist, and television producer. She wrote a column for The New York Observer (1994–96) that was adapted into the bestselling Sex and the City anthology.`,
+  },
+  {
+    'Jamie Uys': `a South African film director, best known for directing the 1980 comedy film The Gods Must Be Crazy and its 1989 sequel The Gods Must Be Crazy II.`,
+  },
+  {
+    'Glauber Rocha ': `(14 March 1939 – 22 August 1981) was a Brazilian film director, actor and screenwriter. He was one of the most influential moviemakers of Brazilian cinema and a key figure of Cinema Novo. His films Black God, White Devil (Бог и дьявол на земле солнца) and Entranced Earth (Земля в трансе) are often considered to be two of the greatest achievements in Brazilian cinematic history, being selected by Abraccine as, respectively, the second and fifth best Brazilian films of all-time.`,
+  },
+  {
+    'Принце́сса Уко́ка (Алтайская принцесса)': `данное журналистами и жителями Республики Алтай название мумии молодой женщины возрастом примерно 28-30 лет, найденной в ходе археологических раскопок на могильнике Ак-Алаха урочища Укок в 1993 году. Причиной смерти женщины был рак молочной железы`,
+  },
+  {
+    'lacuna ': `a gap in a manuscript, inscription, text, painting, or musical work. A manuscript, text, or section suffering from gaps is said to be "lacunose" or "lacunulose". Weathering, decay, and other damage to old manuscripts or inscriptions are often responsible for lacunae - words, sentences, or whole passages that are missing or illegible. Palimpsests are particularly vulnerable. To reconstruct the original text, the context must be considered. In papyrology and textual criticism, this may lead to competing reconstructions and interpretations.`,
+  },
+  {
+    'Вирунга ': `национальный парк на территории Демократической Республики Конго, один из старейших в Африке. Парк расположен около границы с Угандой и имеет площадь 7 800 км². Со стороны Уганды местность, прилегающая к горам Рувензори, также охраняется, там находится национальный парк «Горы Рувензори». `,
+  },
+  {
+    Кума́ри: `живое индуистское божество в Непале. Ею становится девочка, не достигшая половой зрелости, выбираемая из касты Шакья народа неваров. Хотя она и индуистское божество, она почитается по всей стране и индуистами, и буддистами. `,
+  },
+  {
+    'Но́й Уэ́бстер ': `американский лексикограф, языковед, составитель «Американского словаря английского языка». Родился в 1758 году в Уэст-Хартфорде, штат Коннектикут, в семье фермера. В 1778 году он окончил Йельский университет, после чего работал школьным учителем. `,
+  },
+  {
+    'У́тёйа ': `остров на озере Тюрифьорд в коммуне Хуле фюльке Бускеруд (Норвегия). Расположен в 35 км к северо-западу от Осло. Размеры острова около 500 × 300 метров. Ближайший берег находится на расстоянии около 600 метров. Остров принадлежит норвежской Рабочей молодёжной лиге, которая устраивает на нём летний лагерь. Остров стал печально известен после произошедшего 22 июля 2011 года нападения на молодёжный лагерь, совершённого Андерсом Брейвиком, в результате которого погибли 69 человек.`,
+  },
+  {
+    'Вириат ': `(? — 139 год до н. э.) — предводитель племени лузитанов в Лузитанской войне против римлян.`,
+  },
+  {
+    'Санджовезе ': `наиболее распространённый в Италии сорт чёрного винного (технического) винограда. Его название происходит от латинского «sanguis Jovis» («кровь Юпитера»). За пределами Италии известен как основной компонент знаменитых вин Брунелло и Кьянти. `,
+  },
+  {
+    'Эле́ктрум ': `минерал, разновидность самородного золота; представляет собой сплав серебра с золотом (Ag, Au). Содержание серебра 15-50 %. `,
+  },
+  {
+    'Энри́ко Чекке́тти ': `итальянский танцовщик-виртуоз, балетмейстер и педагог. Известен как автор методики обучения искусству танца. В 1877—82 годах выступал в России.`,
+  },
+  {
+    'Гунгнир ': `в германо-скандинавской мифологии копьё Одина. Копьё было изготовлено двумя карликами-свартальвами, сыновьями Ивальди (в некоторых источниках упоминается гном Двалин), чтобы показать богам мастерство подземного народа.`,
+  },
+  {
+    'Джеймс Линд ': `врач британского флота. В то время (1753 год) моряки очень часто умирали в экспедициях из-за цинги. Он доказал, что лимоны и апельсины предотвращают цингу. Благодаря открытию на его корабле никто не умер от цинги, что было большим успехом.`,
+  },
+  {
+    'Том Ху́пер ': `(род. 1 октября 1972, Лондон) — британский кинорежиссёр, снявший фильмы «Проклятый „Юнайтед“», «Отверженные», «Король говорит!» и «Девушка из Дании». Лауреат премии «Оскар» в номинации «Лучшая режиссура» за фильм «Король говорит!». `,
+  },
+  {
+    'Обезьянья лапка': `рассказ Уильяма Уаймарка Джекобса в жанре сверхъестественного хоррора, впервые опубликованный в Англии в 1902 году в сборнике «». В истории владельцу обезьяньей лапки даются три желания, но за их исполнение и вмешательство в судьбу приходится платить огромную цену.`,
+  },
+  {
+    'Шха́ра ': `горная вершина в центральной части Главного Кавказского (Водораздельного) хребта, является его высочайшей точкой, также высочайшая точка Грузии. Высота главной вершины — 5193,2 м`,
+  },
+  {
+    'Банана́л ': `речной остров, расположенный в среднем течении реки Арагуая. Площадь острова — 19 162 км², что немногим меньше площади такой страны, как Словения, и более чем в два раза превышает площадь Кипра. Остров имеет до 300 км в длину и до 160 — в ширину. Он считается крупнейшим речным островом в мире (остров Маражо формально не считается речным островом, так как омывается и Атлантическим океаном).`,
+  },
+  {
+    'Иван Моторин ': `(1660 — 17 августа 1735) — русский литейщик, колокольных и артиллерийских дел мастер. Под его руководством был отлит знаменитый Царь-колокол.`,
+  },
+  {
+    'Коридор Силигури': `узкая полоса индийской территории, соединяющая северо-восточные штаты Индии с остальной частью Индии. Ширина коридора составляет от 21 до 40 километра, на севере проходит граница с Непалом, на юге — с Бангладеш. `,
+  },
+  {
+    'Битва за Санта Клару ': `серия вооруженных столкновений, приведших в конце декабря 1958 к взятию кубинского города ... революционерами под командованием Эрнесто Че Гевары. Битва стала решающей победой повстанцев, боровшихся против режима президента Фульхенсио Батисты: через 12 часов после взятия города Батиста бежал с Кубы, и войска Фиделя Кастро одержали окончательную победу.`,
+  },
+  {
+    'Тремби́та ': `одна из разновидностей альпийского рога, род обёрнутой берестой деревянной трубы. Является народным музыкальным инструментом украинских горцев — гуцулов, которые проживают в основном на Западной Украине, а также в Восточной Польше, Словакии и северной Румынии. Представляет собой деревянную трубу длиной до четырёх метров и диаметром около 30 мм, расширяющуюся в раструбе. Не имеет вентилей и клапанов.`,
+  },
+  {
+    'Ги Лалиберте́ ': `(род. 2 сентября 1959, город Квебек, Канада) — основатель и руководитель компании Cirque du Soleil (Цирк Солнца).`,
+  },
+  {
+    '«Ведьмы» (Häxan) ': `немой фильм 1922 года, снятый датским режиссёром Беньямином Кристенсеном. Сочетает элементы документального и игрового кино. Фильм состоит из 7 частей. Некоторые из них являются чисто документальными, некоторые чисто игровыми, некоторые сочетают элементы обоих жанров.`,
+  },
+  {
+    Тифарити: `город-оазис на северо-востоке Западной Сахары, центр северной части Свободной зоны, контролируемой силами ПОЛИСАРИО. Фактическая временная столица Сахарской Арабской Демократической Республики`,
+  },
+  {
+    'Жизнь Иисуса': `книга Эрнеста Ренана, посвящённая Иисусу из Назарета. Опубликована в 1863 году. Входит в «Историю происхождения христианства» («История первых веков христианства», 1864—1907), состоящую из семи книг. `,
+  },
+  {
+    'Ла Виоле́нсия ': `вооружённый конфликт в Колумбии, происходивший с 1948 по 1958 год, катализатором которого стало противостояние Либеральной и Консервативной партий Колумбии. Некоторые историки расходятся во мнениях относительно дат начала конфликта: некоторые из них утверждают, что война началась в 1946 году, когда консерваторы вернулись в правительство, и на региональном уровне руководство полиции и городских советов перешло в руки консерваторов, поддерживаемых крестьянами. Но традиционно большинство историков считают, что война началась со смерти Хорхе Гайтана.`,
+  },
+  {
+    'Хайди: годы странствий и учёбы ': `повесть о событиях в жизни маленькой девочки, живущей на попечении своего деда в Швейцарских Альпах. Как указала на титульном листе в 1880 году автор, швейцарская писательница Иоханна Спири, повесть написана для детей и тех, кто любит детей.`,
+  },
+  {
+    'Танграм ': `головоломка, состоящая из семи плоских фигур, которые складывают определённым образом для получения другой, более сложной, фигуры (изображающей человека, животное, предмет домашнего обихода, букву или цифру и т. д.). Фигура, которую необходимо получить, при этом обычно задаётся в виде силуэта или внешнего контура. При решении головоломки требуется соблюдать два условия: первое — необходимо использовать все семь фигур, и второе — фигуры не должны накладываться друг на друга.`,
+  },
+  {
+    'Мануэ́ль Эстиа́рте ': `испанский ватерполист, олимпийский чемпион 1996 года и чемпион мира 1998 года. Считается лучшим игроком в истории водного поло, семь лет подряд избирался лучшим ватерполистом мира (1986, 1987, 1988, 1989, 1990, 1991 и 1992). `,
+  },
+  {
+    'Анасирма ': `жест, заключающийся в подъеме юбки или килта. Он используется в религиозных ритуалах, в связи с эротизмом и непристойными шутками (см. баубо). Термин используется при описании произведений искусства. Она отличается от обнажения ягодиц в эксгибиционизме, тем, что эксгибиционист стремится получить сексуальное возбуждение, тогда как анасирма делается только для воздействия на зрителей. `,
+  },
+  {
+    'Принцип Поллианны ': `психологический феномен, согласно которому люди склонны соглашаться в первую очередь с положительными утверждениями, которые относятся к ним же самим. Это явление имеет много общего с эффектом Барнума. Термин был заимствован от названия книги культовой американской детской писательницы Элеанор Портер `,
+  },
+  {
+    'Adult Swim ': `блок на телеканале Cartoon Network, работающий с 20:00 до 5:00 по тихоокеанскому/восточному времени и транслирующий мультсериалы и live-action шоу для взрослых. По субботам, в рамках отдельного блока, также показываются некоторые аниме-сериалы. `,
+  },
+  {
+    'Лобно́р ': `высохшее бессточное озеро на западе Китая, в юго-восточной части Кашгарской (Таримской) равнины, на территории Синьцзян-Уйгурского автономного района (СУАР), на высоте около 780 метров выше уровня моря. Некогда являясь крупным солёным озером, как и Аральское море, он постепенно уменьшался и засолонялся вследствие хозяйственной деятельности человека.`,
+  },
+  {
+    'Мэ́ри ': `азиатская слониха, выступавшая в американском цирке братьев Спаркс (Sparks World Famous Shows). Получила известность после того, как была повешена за убийство человека. `,
+  },
+  {
+    'Сэ́ндфорд Фле́минг  ': ` инженер, создавший железнодорожную сеть Канады. Благодаря ему мир стал поделён на часовые пояса`,
+  },
+  {
+    'Кантарелла  ': `легендарный яд (смертельное отравляющее вещество, вызывающее смерть в течение суток), которым пользовались средневековые отравители. Скорее всего речь идёт о кантаридине, убивающем при соприкосновении с кожей человека веществе, выделяемом шпанской мушкой (cantharis), жуком-навозником и некоторыми другими видами насекомых. В больших дозах он вызывает летальный исход, а в умеренных издавна использовался как мужской афродизиак. В массовой культуре распространена легенда, что этот яд использовался домом Борджиа, в частности Лукрецией Борджиа. `,
+  },
+  {
+    'Гипотеза Хокни — Фалько  ': `theory of art history, advanced by artist David Hockney and physicist Charles M. Falco. Both argued that advances in realism and accuracy in the history of Western art since the Renaissance were primarily the result of optical instruments such as the camera obscura, camera lucida, and curved mirrors, rather than solely due to the development of artistic technique and skill.  `,
+  },
+  {
+    'The Elephant Celebes  ': `1921 painting by the German Dadaist and surrealist Max Ernst. It is among the most famous of Ernst's early surrealist works and "undoubtedly the first masterpiece of Surrealist painting in the de Chirico tradition." It combines the vivid dreamlike atmosphere of Surrealism with the collage aspects of Dada.  `,
+  },
+  {
+    'МАКАСÁРСКИЙ ПРОЛИ́В ': `Пролив между островами Калимантан и Сулавеси, входящими в Малайский архипелаг (Индонезия). Соединяет море Сулавеси (Целебесское) на С. с Яванским морем на Ю.  `,
+  },
+  {
+    ' PIPA': ` Which traditional Chinese musical instrument, belonging to the plucked category of instruments, reached a height of popularity during the Tang Dynasty, and was a principal musical instrument in the imperial court? `,
+  },
+  {
+    ' LOITUMA': `Released in 1928, the popular Finnish song "Ievan polkka" became famous after a cappella performance by which Finnish quartet? It was first released on their debut album of the same name in 1995.  `,
+  },
+  {
+    'PAGERANK ': `What is the name of the algorithm used by the Google search engine to rank web pages in search results? Its name plays on the name of the developer, as well as on the concept of hypertext documents on the World Wide Web.  `,
+  },
+  {
+    'John Cleland  ': `(c. 1709, baptised – 23 January 1789) was an English novelist best known for his fictional Fanny Hill: or, the Memoirs of a Woman of Pleasure, whose eroticism led to his arrest. `,
+  },
+  {
+    'John  Avildsen  ': `(December 21, 1935 – June 16, 2017) was an American film director. He is best known for directing Rocky (1976), which earned him the Academy Award for Best Director. He is also renowned for directing the first three films in The Karate Kid franchise (1984–1989). `,
+  },
+  {
+    'Stefán  Stefánsson  ': `(10 July 1975 – 21 August 2018) was an Icelandic actor and singer. He was best known for portraying Robbie Rotten, the antagonist of the children's television series LazyTown. `,
+  },
+  {
+    ' Omar Sy ': `(20 January 1978) is a French actor, best known in France for his sketches with Fred Testot on the Service après-vente des émissions television show on Canal+ (2005–2012). He gained wider recognition for his role in the 2011 comedy-drama film Intouchables, which earned him the César Award for Best Actor, making him the first Black recipient of the award. `,
+  },
+  {
+    'Martin Landau  ': ` (June 20, 1928 – July 15, 2017) was an American actor. His career breakthrough came with leading roles in the television series Mission: Impossible (1966–1969) and Space: 1999 (1975–1977). Landau earned Academy Award nominations for his performances in Tucker: The Man and His Dream (1988) and Woody Allen's Crimes and Misdemeanors (1989). He won the Academy Award for Best Supporting Actor as well as the Screen Actors Guild Award and a Golden Globe Award for his portrayal of Bela Lugosi in Ed Wood (1994).`,
+  },
+  {
+    ' Idrissa Ouédraogo ': ` (21 January 1954 – 18 February 2018) was a Burkinabé filmmaker. His work often explored the conflict between rural and city life and tradition and modernity in his native Burkina Faso and elsewhere in Africa. He is best known for his feature film Tilaï (Закон), which won the Grand Prix at the 1990 Cannes Film Festival and Samba Traoré (1993), which was nominated for the Silver Bear award at the 43rd Berlin International Film Festival.`,
+  },
+  {
+    ' Ġgantija ': ` megalithic temple complex from the Neolithic era (c. 3600–2500 BC), on the Mediterranean island of Gozo in Malta. `,
+  },
+  {
+    ' mastaba ': ` a type of ancient Egyptian tomb in the form of a flat-roofed, rectangular structure with inward sloping sides, constructed out of mudbricks. These edifices marked the burial sites of many eminent Egyptians during Egypt's Early Dynastic Period and Old Kingdom. In the Old Kingdom epoch, local kings began to be buried in pyramids instead of in mastabas, although`,
+  },
+  {
+    ' Mummy brown': `rich brown bituminous pigment with good transparency, sitting between burnt umber and raw umber in tint. Suppliers ceased to offer it by the middle of the twentieth century. `,
+  },
+  {
+    'Carmina Burana (Макаронизм, макароническая поэзия ) ': ` a manuscript of 254 poems and dramatic texts mostly from the 11th or 12th century, although some are from the 13th century. The pieces are mostly bawdy, irreverent, and satirical. They were written principally in Medieval Latin, a few in Middle High German and old Arpitan. Some are macaronic, a mixture of Latin and German or French vernacular.`,
+  },
+  {
+    'Pasargadae  ': `the capital of the Achaemenid Empire under Cyrus the Great (559–530 BC). Today it is an archaeological site located just north of the town of Madar-e-Soleyman and about 90 km to the northeast of the modern city of Shiraz. It is one of Iran's UNESCO World Heritage Sites. It is considered to be the location of the Tomb of Cyrus. The city remained the Achaemenid capital until Darius moved it to Persepolis. `,
+  },
+  {
+    'Солнечный крест ': ` solar symbol consisting of an equilateral cross inside a circle. The design is frequently found in the symbolism of prehistoric cultures, particularly during the Neolithic to Bronze Age periods of European prehistory. `,
+  },
+  {
+    'Эль-Аю́н  ': `город в Марокко, является крупнейшим городом Западной Сахары, территории со спорным статусом на северо-западе Африки. Находится под контролем марокканской администрации.  `,
+  },
+  {
+    'А́мпулы Лоренци́ни  ': ` орган чувств у нескольких отрядов рыб, отвечающий за электрорецепцию и достигающий наибольшего развития у хрящевых рыб (акул, скатов и химер). Позволяет улавливать электрические поля и замечать чрезвычайно малые изменения в их напряженности. `,
+  },
+  {
+    'Маранелло  ': ` итальянский город с 17 693 жителями в провинции Модена в области Эмилии-Романья, расположенной к северу от столицы. С 1943 года здесь находится штаб-квартира завода Ferrari, престижного автопроизводителя, основанного Энцо Феррари из Модены.`,
+  },
+  {
+    'Анита  Экберг  ': `(29 сентября 1931, Мальмё — 11 января 2015, Рокка-ди-Папа) — шведская актриса и фотомодель. Наиболее известна ролью Сильвии в фильме Федерико Феллини «Сладкая жизнь» 1960 года и считается одним из секс-символов итальянского кино 60-х годов.  `,
+  },
+  {
+    'Рут Хэндлер  ': ` (4 ноября 1916, Денвер, Колорадо, США — 27 апреля 2002, Лос-Анджелес, Калифорния, США) — американский предприниматель, президент компании Mattel, создательница куклы Барби.`,
+  },
+  {
+    ' Бир-Тави́ль ': `территория, граничащая с севера с Египтом, а с запада, юга и востока — с Суданом. Своё название получила по имени местного источника воды (ныне не существующего). Обе страны отказываются от своих претензий на него; таким образом, он является terra nullius — «ничейной территорией».  `,
+  },
+  {
+    '«Квир-лев» («Голубой лев») ': `специальная награда Венецианского кинофестиваля, вручаемая с 2007 года лучшим фильмам, посвященным теме гомосексуальности и квир-культуры.  `,
+  },
+  {
+    'Полуденные сети ': `американский 14-минутный экспериментальный немой фильм, снятый Майей Дерен и в 1943 году. Считается вехой в истории артхаусного кинематографа в США. Фильм был включён в Национальный реестр фильмов на второй год после создания реестра, в 1990 году. Обе роли в фильме сыграли Хаммид и Дерен, которые во время его создания состояли в браке. Следующий муж Дерен, японский композитор, в 1959 году написал музыку к фильму. Фильм построен на круговращении фабулы, состоящей в том, что, следуя за фигурой в чёрной накидке с зеркалом вместо лица героиня возвращается к себе в дом, садится в кресло, закрывает глаза и видит, как она идёт к дому за фигурой с цветком в руке, останавливает проигрыватель, садится в кресло.  `,
+  },
+  {
+    ' Жан Юбе́р ': `швейцарский художник и силуэтист, известный серией работ, изображающих Вольтера. `,
+  },
+  {
+    'Оксфордские калькуляторы ': ` группа английских философов XIV века, связанных с Мертон-колледжем в Оксфорде. В эту группу входили Томас Брадвардин, Уильям Хейтсбери, Ричард Суайнсхед, Джон Дамблтон. Этими мыслителями была развита особая дисциплина — «учение об интенсии и ремиссии качеств», ставшее одной из наиболее ярких страниц в средневековом учении о движении.`,
+  },
 ];
 
 // {"": ``},
