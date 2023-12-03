@@ -3049,6 +3049,156 @@ The origin of the motto was derived from a speech by revolutionary leader Fidel 
   {
     'Оксфордские калькуляторы ': ` группа английских философов XIV века, связанных с Мертон-колледжем в Оксфорде. В эту группу входили Томас Брадвардин, Уильям Хейтсбери, Ричард Суайнсхед, Джон Дамблтон. Этими мыслителями была развита особая дисциплина — «учение об интенсии и ремиссии качеств», ставшее одной из наиболее ярких страниц в средневековом учении о движении.`,
   },
+  {
+    'Драупнир ': `в германо-скандинавской мифологии волшебное золотое кольцо. Было подарено Одину гномами Синдри и Броком. Согласно легендам это кольцо каждую девятую ночь приносило своему владельцу ещё восемь точно таких же (видимо имелось в виду золотых, но не волшебных), опоясавшись поясом из этих колец, он становится неуязвимым.`,
+  },
+  {
+    'Манитулин ': `остров на озере Гурон, самый большой остров мира, расположенный в пресном озере. Административно остров относится к канадской провинции Онтарио, а в рамках неё — к одноимённому себе округу. Население Манитулина составляет 12,6 тыс. жителей (2007). `,
+  },
+  {
+    'Фирн ': `плотно слежавшийся, зернистый и частично перекристаллизованный, обычно многолетний снег, точнее — промежуточная стадия между снегом и глетчерным льдом.`,
+  },
+  {
+    'Кладограмма ': `одно из основных понятий в современной биологической систематике — древовидный граф, отражающий отношения сестринского родства между таксонами. `,
+  },
+  {
+    'Сандхи ': `в лингвистике — изменение звуков в зависимости от их места в отрезке текста (в слове или предложении). Термин введён древнеиндийскими грамматиками, предположительно — Панини. Примеры в русском языке — морфонологическое чередование ч/щ в суффиксе -чик/-щик`,
+  },
+  {
+    'Папа Вемба ': `конголезский эстрадный и фолк-певец, композитор, один из крупнейших музыкальных деятелей Африки XX века и популяризаторов африканской музыки, имевший прозвище «короля румбы» `,
+  },
+
+  {
+    'Библия Тиндейла ': `перевод Библии на английский язык. Считается первым английским переводом еврейских и греческих текстов. `,
+  },
+  {
+    'Ваянг ': `различные виды традиционного народного театра в Индонезии и Малайзии. Термин используется как для обозначения самого театра, так и для названия кукол, используемых в постановках. В Индонезии наиболее широко распространён на островах Ява и Бали. `,
+  },
+  {
+    'Кайтэн ': `название нескольких типов торпед, управляемых пилотами-смертниками (тэйсинтай). Применялись японским Императорским флотом для поражения противника в конце Второй мировой войны. `,
+  },
+
+  {
+    'Триста́нский пастушо́к ': `вид птиц семейства пастушковых, эндемик острова Инаксессибл, самая маленькая на Земле нелетающая птица. В 2004 году численность популяции составляла примерно 8 тысяч особей. `,
+  },
+  {
+    'Weber–Fechner laws ': `two related hypotheses in the field of psychophysics, known as Weber's law and Fechner's law. Both laws relate to human perception, more specifically the relation between the actual change in a physical stimulus and the perceived change. This includes stimuli to all senses: vision, hearing, taste, touch, and smell. `,
+  },
+  {
+    'Apophenia ': `the tendency to perceive meaningful connections between unrelated things. `,
+  },
+
+  {
+    'El Greco fallacy ': `perceptive fallacy, where it is assumed that particular perceptual abnormalities will influence interactions with the world of a similar nature. It is named after an erroneous explanation for the vertically distorted painting style of ..., which held that the artist must have seen the world as distorted by a peculiar astigmatism, and thus painted this distorted world. This theoretical astigmatism cannot explain ...'s style though, as he would have seen his canvases distorted in the same way, and painting onto them would have cancelled out any distortion. `,
+  },
+  {
+    'Tom Collins ': `cocktail made from gin, lemon juice, sugar, and carbonated water. First memorialized in writing in 1876 by Jerry Thomas, "the father of American mixology", this "gin and sparkling lemonade" drink is typically served over ice.`,
+  },
+  {
+    "Wendy's ": `American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio. Its headquarters moved to Dublin, Ohio, on January 29, 2006. As of December 31, 2018, it was the world's third-largest hamburger fast-food chain with 6,711 locations, following Burger King and McDonald's.`,
+  },
+
+  {
+    'Mortadella ': `large Italian sausage or luncheon meat (salume ) made of finely hashed or ground meat-cured pork, which incorporates at least 15% small cubes of pork fat (principally the hard fat from the neck of the pig). `,
+  },
+  {
+    Пулькоги: `Korean-style grilled or roasted dish) made of thin, marinated slices of meat, most commonly beef, grilled on a barbecue or on a stove-top griddle. It is also often stir-fried in a pan in home cooking. Sirloin, rib eye or brisket are frequently used cuts of beef for the dish.`,
+  },
+  {
+    'Teppanyaki ': `post-World War II style of Japanese cuisine that uses an iron griddle to cook food. `,
+  },
+
+  {
+    Посоле: `traditional soup or stew from Mexican cuisine. It is made from hominy with meat (typically chicken or pork), and can be seasoned and garnished with shredded lettuce or cabbage, chilli peppers, onion, garlic, radishes, avocado, salsa or limes. Known in Mesoamerica since the pre-Columbian era, today the stew is common across Mexico and neighboring countries, and is served both as a day-to-day meal and as a festive dish.`,
+  },
+  {
+    'pimento ': `variety of large, red, heart-shaped chili pepper (Capsicum annuum) that measures 3 to 4 in (7 to 10 cm) long and 2 to 3 in (5 to 7 cm) wide (medium, elongate). `,
+  },
+  {
+    'Ray Kroc ': `(October 5, 1902 – January 14, 1984) was an American businessman. He purchased the fast food company McDonald's in 1961 from the McDonald brothers and was its CEO from 1967 to 1973. He is credited with the global expansion of McDonald's, turning it into the most successful fast food corporation in the world by revenue`,
+  },
+
+  {
+    'jalapeño ': `Spanish for "from Xalapa", the capital city of Veracruz, Mexico, where the pepper was traditionally cultivated.`,
+  },
+  {
+    'Mondelez International ': `manufactures chocolate, cookies, biscuits, gum, confectionery, and powdered beverages. Belvita, Oreo,  Milka, Côte d'Or, Toblerone, Cadbury, and Alpen Gold;`,
+  },
+  {
+    "Dunkin' Donuts ": `American multinational coffee and doughnut company, as well as a quick service restaurant. `,
+  },
+  {
+    Капоколло: `essentially the pork counterpart of the air-dried, cured beef bresaola.`,
+  },
+  {
+    'Gumbo ': `hearty stew popular in the U.S. state of Louisiana, and is the official state cuisine. It consists primarily of a strongly flavored stock, meat or shellfish (or sometimes both), a thickener, and the Creole "holy trinity" ― celery, bell peppers, and onions.`,
+  },
+  {
+    'Furikake ': `dry Japanese condiment sprinkled on top of cooked rice, vegetables, and fish, or used as an ingredient in. It typically consists of a mixture of dried fish, sesame seeds, chopped seaweed, sugar, salt, and monosodium glutamate. Other ingredients in such as (sometimes indicated on the package as bonito), or (bonito flakes moistened with soy sauce and dried again), freeze-dried salmon particles,, egg, powdered miso and vegetables are often added to the mix.`,
+  },
+  {
+    'Diageo ': `British multinational alcoholic beverage company, with its headquarters in London, England. Distilleries owned by Diageo, produce 40% of all Scotch whisky with over 24 brands, such as Johnnie Walker, J&B and Vat 69. Its leading brands include Johnnie Walker, Guinness, Smirnoff, Baileys liqueur, Captain Morgan rum and Tanqueray and Gordon's gin.`,
+  },
+  {
+    'Soju ': `clear and colorless distilled alcoholic beverage popular in the Korean Peninsula. It is usually consumed neat. Its alcohol content varies from about 12.9% to 53% alcohol by volume (ABV)`,
+  },
+  {
+    'Lidl ': `German international discount retailer chain that operates over 12,000 stores across Europe and the United States. It is the chief competitor of the similar German discount chain Aldi in several markets. `,
+  },
+  {
+    'bottle episode ': `Episode produced cheaply and restricted in scope to use as few regular cast members, effects and sets as possible. `,
+  },
+  {
+    'Throwback Thursday ': `internet trend used among social media platforms such as Instagram, Twitter and Facebook. On a Thursday, users will post nostalgia-inducing pictures – from a different era of their life`,
+  },
+  {
+    'Flying while Muslim ': `sardonic description of problems that Muslim passengers have faced on airplanes, during stopovers, or at airports in the aftermath of the September 11 attacks. It is a snowclone inspired by "driving while black", which similarly satirizes racial profiling of African Americans by police and other law enforcement. `,
+  },
+  {
+    'Chimerica ': `neologism and portmanteau coined by Niall Ferguson and Moritz Schularick describing the symbiotic relationship between China and the United States, with incidental reference to the legendary chimera. Though the term is largely in reference to economics, there is also a political element. `,
+  },
+  {
+    'Cool Britannia ': `name for the period of increased pride in the culture of the United Kingdom throughout the mid and second half of the 1990s, inspired by Swinging London from 1960s pop culture. This loosely coincided with John Major's conservative government and the 1997 United Kingdom general election where Tony Blair's New Labour government won in a landslide. The success of Britpop and musical acts such as the Spice Girls, Blur, and Oasis led to a renewed feeling of optimism in the United Kingdom following the tumultuous years of the 1970s and 1980s. The name is a pun on the title of the British patriotic song "Rule, Britannia!"`,
+  },
+  {
+    womances: `Films like In Her Shoes (2005), Baby Mama (2008), The Women (2008), Bride Wars (2009), The Sisterhood of the Travelling Pants (2005)`,
+  },
+  {
+    'ghost skin ': `white supremacist who refrains from openly displaying their racist beliefs for the purpose of blending into wider society and surreptitiously furthering their agenda. The term has been used in particular to refer to the entryism of racist activists in law enforcement.`,
+  },
+  {
+    'Mx ': `English-language neologistic honorific that does not indicate gender. Developed as an alternative to gendered honorifics (such as Mr. and Ms.) in the late 1970s, it is the most common gender-neutral title among non-binary people and people who do not wish to imply a gender in their titles.`,
+  },
+  {
+    'Взгляд на две тысячи ярдов': `несфокусированный взгляд, часто наблюдаемый у солдат, перенёсших боевую психическую травму. `,
+  },
+  {
+    'Ниста́гм ': `непроизвольные колебательные движения глаз высокой частоты (до нескольких сотен в минуту). `,
+  },
+  {
+    'Эротомания Клерамбо ': `разновидность эротомании, при которой больной убеждён, что он любим человеком с более высоким социальным положением, чем его собственное. Подобный вид бреда часто возникает при психозах, особенно при шизофрении и маниакальной фазе биполярного расстройства. Больной верит, что объект эротомании проявляет своё отношение к нему посредством особых знаков, тайных сигналов, телепатически, либо зашифрованными сообщениями в СМИ. Как правило, он отвечает на эти «сообщения» ответным выражением привязанности посредством писем, телефонных звонков, подарков и личных визитов. Когда объект иллюзорной любви отрицает её существование, пациент интерпретирует это как часть тайной стратегии, скрывающей их секретные отношения от внешнего мира.`,
+  },
+  {
+    'Симпто́м Фре́голи ': `бредовая убеждённость в том, что мнимый преследователь постоянно меняет свою внешность до неузнаваемости, предстаёт в самых разных обликах: мужчины, женщины, старика, ребёнка, животного и даже неодушевлённого объекта для того, чтобы остаться неузнанным. Данный феномен встречается у лиц, страдающих бредом преследования. Он считается разновидностью симптома ложного узнавания (входит в синдром Капгра, наряду с бредом положительного двойника, бредом отрицательного двойника и бредом интерметаморфозы). Название  происходит от имени итальянского актёра, славившегося своим умением менять внешность по ходу действия.`,
+  },
+  {
+    'Маска Гиппократа': `признак тяжелых заболеваний органов брюшной полости (перитонита, перфорации язвы желудка и двенадцатиперстной кишки и т. д.), а также истощения, хронической бессонницы — или же, то есть при отсутствии подобных симптомов, признак предстоящей смерти (в этом случае обычно сопутствуется агонией): запавшие глаза, впавшие щёки, заострившийся нос, синевато-бледная кожа, покрытая каплями холодного пота. `,
+  },
+  {
+    "Caran d'Ache ": `pseudonym of the 19th century French satirist and political cartoonist Emmanuel Poiré (6 November 1858 – 25 February 1909). While his first work glorified the Napoleonic era, he went on to create "stories without words" and as a contributor to newspapers such as the Le Figaro, he is sometimes hailed as one of the precursors of comic strips.`,
+  },
+  {
+    'Paul-Émile Lecoq de Boisbaudran': `French chemist known for his discoveries of the chemical elements gallium, samarium and dysprosium. `,
+  },
+  {
+    'Zeeman effect ': `effect of splitting of a spectral line into several components in the presence of a static magnetic field. It is analogous to the Stark effect, the splitting of a spectral line into several components in the presence of an electric field`,
+  },
+  {
+    'Bass Strait ': `strait separating the island state of Tasmania from the Australian mainland (more specifically the coast of Victoria, with the exception of the land border across Boundary Islet). `,
+  },
+  {
+    'Batesian mimicry ': `form of mimicry where a harmless species has evolved to imitate the warning signals of a harmful species directed at a predator of them both. `,
+  },
 ];
 
 // {"": ``},
