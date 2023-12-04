@@ -2,197 +2,227 @@ import { Question } from './questions';
 
 export const questions: Question[] = [
   {
-    'Koch (Marita)': `Which German former track and field athlete's World record of 47.60 in the Women's 400 metres was set on 6 October 1985 and still stands?	`,
+    'Blanquism ': `conception of revolution that holds that socialist revolution should be carried out by a relatively small group of highly organised and secretive conspirators. Having seized power, the revolutionaries would then use the power of the state to introduce socialism. It is considered a particular sort of "putschism"—that is, the view that political revolution should take the form of a putsch or coup d'état.`,
   },
   {
-    'Pietro Torrigiano': `This terracotta bust of Henry VII was made by which Italian sculptor, famous for having assaulted Michelangelo and breaking his nose?`,
+    'Bambi effect': `an objection against the killing of animals that are perceived as "cute" or "adorable", such as deer, while there may be little or no objection to the suffering of animals that are perceived as somehow repulsive or less than desirable, such as pigs or other woodland creatures.`,
   },
   {
-    'Флейта из Дивье Бабе': `Considered to the oldest known musical instrument in the world, this artefact, discovered in 1995, is estimated to be more than 40,000 years old and made from the thigh bone of a cave bear. Part of the National Museum of Slovenia, by what three word term is it known?`,
+    'Полоса Александра ': `optical phenomenon associated with rainbows which was named after Alexander of Aphrodisias. The dark band occurs due to the deviation angles of the primary and secondary rainbows.`,
   },
   {
-    'Wounded Knee': `On December 29, 1890, the US 7th Cavalry Regiment massacred hundreds of Native American Sioux people near which location in South Dakota? The location is mentioned in the title of Dee Brown's 1970 book with the subtitle "An Indian History of the American West."`,
+    'Kevin Mitnick ': `(born August 6, 1963) is an American computer security consultant, author, and convicted hacker. He is best known for his high-profile 1995 arrest and five years in prison for various computer and communications-related crimes.`,
   },
   {
-    'David Lagercrantz': `Which Swedish author was commissioned by the publisher to continue Stieg Larsson's Millennium trilogy? This author has since written The Girl in the Spider's Web, The Girl Who Takes an Eye for an Eye and The Girl Who Lived Twice.`,
+    affogato: `Italian coffee-based dessert. It usually takes the form of a scoop of plain milk-flavored (fior di latte) or vanilla gelato or ice cream topped or "drowned" with a shot of hot espresso. Some variations also include a shot of amaretto, Bicerin, Kahlua, or other liqueur. `,
   },
   {
-    Zohar: `With a name meaning "splendor" in Hebrew, what "Z" work is the chief text of Kabbalah? It's largest section presents mystical interpretations of the books of the Torah, Book of Ruth, Song of Solomon, and others.`,
+    'Nusret Gökçe ': `(born 1983), nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur, whose technique for preparing and seasoning meat became an internet meme in January 2017.`,
   },
   {
-    'Alp Arslan': `Born Muhammad bin Dawud Chaghri, this 11th century sultan of the Seljuk Empire is better-known by a name translating into English as ‘heroic lion’. Who is this celebrated leader who led his empire to victory over the Byzantine Empire at the Battle of Manzikert in 1071?`,
+    'Aperol ': `Italian bitter apéritif made of gentian, rhubarb and cinchona, among other ingredients. It has a vibrant red hue. It was originally created in 1919 by Luigi and Silvio Barbieri after seven years of experimentation. It did not become widely popular until after World War II. It was first produced by the Barbieri company, based in Padua, but is now produced by the Campari Group. `,
   },
   {
-    'Tatjana Patitz': `This famous photograph by Peter Lindbergh depicts the ‘Big Five’ supermodels of the day. Who is the tall blonde supermodel at the centre of the picture, flanked by (from left to right) Naomi Campbell, Linda Evangelista, Christy Turlington, and Cindy Crawford?`,
+    'spritz ': `Italian wine-based cocktail, commonly served as an aperitif in Northeast Italy. It consists of prosecco, digestive bitters and soda water. `,
   },
   {
-    'SOFONISBA / SOPHONISBA (Anguissola)': `What was the given name of this Italian painter born in Cremona who, alongside Artemisia Gentileschi, is among the best known female painters of the Renaissance? A 3rd century BC Carthaginian woman of the same name was herself the subject of paintings, being usually depicted poisoning herself rather than being humiliated in a Roman triumph.`,
+    'Чамой ': `variety of savory sauces and condiments in Mexican cuisine made from pickled fruit. It may range from a liquid to a paste consistency, and typically its flavor is salty, sweet, sour, and spiced with chilis. It is prepared by first packing the fruit in a brine solution. Occasionally, this brine is acidulated with vinegar. `,
+  },
+  { 'Бок-чой ': `a type of Chinese cabbage, used as food` },
+  {
+    'pupusa ': `thick griddle cake or flatbread from El Salvador and Honduras, made with cornmeal or rice flour, similar to the Colombian and Venezuelan arepa. In El Salvador, it has been declared the national dish and has a specific day to celebrate it. It is usually stuffed with one or more ingredients, which may include cheese (such as quesillo or cheese with loroco buds), chicharrón, squash, or refried beans.`,
   },
   {
-    BASF: `Which German multinational company is the largest chemical producer in the world and is headquarterd at Ludwigshafen? It was founded by Friedrich Engelhorn on 6 April 1865 in Mannheim, when the tar produced as a by-product of a gasworks was used to manufacture aniline dyes`,
+    Пибимпап: `Korean rice dish. It is served as a bowl of warm white rice topped with namul (sautéed or blanched seasoned vegetables) and gochujang (chili pepper paste). Egg and sliced meat (usually beef) are common additions, stirred together thoroughly just before eating.`,
   },
   {
-    Vico: `The Latin phrase 'Verum esse ipsum factum' [What is true is that which is made] is an early example of constructivist epistemology coined by which Italian philosopher and rhetorician during the Age of Enlightenment? Edward Said acknowledged his scholar's debt to this person, whose 1725 work 'Scienza Nuova' is considered his magnum opus.`,
+    Дзадзики: `class of dip, soup, or sauce found in the cuisines of Southeastern Europe and the Middle East. It is made of salted strained yogurt or diluted yogurt mixed with cucumbers, garlic, salt, olive oil, sometimes with vinegar or lemon juice, and herbs such as dill, mint, parsley and thyme. It is served as a cold appetizer (mezze), a side dish, and as a sauce for souvlaki and gyros sandwiches and other foods. Tarator was the name of a dish made of ground walnuts and vinegar in the Ottoman Empire.`,
   },
   {
-    'Daily planet (of Superman fame)': `The staff of this fictional newspaper include Jimmy Olsen, Perry white (Editor-in-chief), Lana Lang, Cat Grant, Ron Troupe, Steve Lombard and two more famous individuals. Identify the name of the tabloid`,
+    'Takoyaki ': `ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus (tako), tempura scraps (tenkasu), pickled ginger (beni shoga), and green onion (negi). `,
+  },
+  { 'Трес лечес ': `sponge cake—soaked in three kinds of milk: evaporated milk, condensed milk, and whole milk. ` },
+  {
+    'Baba ghanoush ': `Levantine appetizer consisting of finely chopped roasted eggplant, olive oil, lemon juice, various seasonings, and tahini. The eggplant is traditionally baked or broiled over an open flame before peeling, so that the pulp is soft and has a smoky taste. It is a typical meze ('starter') of the regional cuisine, often served as a side to a main meal and as a dip for pita bread. `,
   },
   {
-    'LEEEEEEROYYYYYY JENKINS!!!!': `Finish this piece of dialogue: “What do you think Abdul, can you give us a number crunch real quick?” “Uhh yeah, give me a sec. I’m coming up with 32.33 uh repeating of course, percentage of survival” “Hmm that’s a lot better than we usually do...” “Alright chums up let’s do this....”`,
+    'Tabbouleh ': `Levantine salad made mostly of finely chopped parsley, with tomatoes, mint, onion, soaked uncooked bulgur, and seasoned with olive oil, lemon juice, salt and sweet pepper. Some variations add lettuce, or use semolina instead of bulgur.`,
   },
   {
-    'Дело «Ира́н-ко́нтрас» (Ирангейт)': `крупный политический скандал в США во второй половине 1980-х годов. Разгорелся в конце 1986 года, когда стало известно о том, что отдельные члены администрации США организовали тайные поставки вооружения в Иран, нарушая тем самым оружейное эмбарго против этой страны. Дальнейшее расследование показало, что деньги, полученные от продажи оружия, шли на финансирование никарагуанских повстанцев-контрас в обход запрета конгресса на их финансирование.`,
+    'Shirley Temple ': `non-alcoholic mixed drink traditionally made with ginger ale and a splash of grenadine, and garnished with a maraschino cherry. `,
   },
   {
-    'Скандал с «Типот Доум» ': `скандал со взяточничеством, связанный с администрацией 29-го Президента США Уоррена Гардинга с 1921 по 1923 год. Министр внутренних дел США Элберт Фолл передал в аренду частным нефтяным компаниям запасы нефти Военно-морского флота США в месторождении ..., а также два объекта в Калифорнии по низким ценам без проведения конкурентных торгов[1]. `,
+    'flat white ': `coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency). It is comparable to a latte, but smaller in volume and with less microfoam, therefore having a higher proportion of coffee to milk, and milk that is more velvety in consistency – allowing the espresso to dominate the flavour, while being supported by the milk.`,
   },
-  { Songkran: `also commonly known as the “Water Festival,” is a traditional New Year’s celebration in Thailand.` },
+  { 'Кьят ': `currency of Myanmar (Burma). ` },
   {
-    'Хогманай ': `шотландский праздник последнего дня в году. Празднование включает в себя факельные шествия, различные развлечения с огнём. Длится праздник 2 дня. Одной из основных традиций является посещение друзей и соседей, с особым вниманием к первому в новом году гостю.`,
+    'lempira ': `currency of Honduras. It was named after the 16th-century ruler of the indigenous Lenca people, who is renowned in Honduran folklore for leading the local native resistance against the Spanish conquistador forces. `,
   },
+  { 'guaraní ': `national currency unit of Paraguay` },
   {
-    'Натан Хейл ': `(6 июня 1755 — 22 сентября 1776) — солдат Континентальной армии во время американской Войны за независимость. 21 сентября он, переодетый в учителя-голландца, был захвачен англичанами в плен; за шпионаж полагалась смертная казнь. Более всего он известен благодаря своим предположительным последним словам, произнесённым перед казнью через повешение: «Я сожалею лишь о том, что у меня есть всего одна жизнь, чтобы отдать её за мою страну».`,
+    'Kina ': `currency of Papua New Guinea. It is divided into 100 toea. It was introduced on 19 April 1975 and circulated along with the Australian dollar until 31 December 1975.`,
   },
+  { 'dobra ': `currency of São Tomé and Príncipe. ` },
   {
-    Эйстетвод: `Let's end matters for now by coming home to the UK. In a June 1944 article about "Wales in Wartime", these girls are dressed up for what traditional festival of music and poetry? I'm sure you know what it's called - but I will only accept the correct spelling!`,
+    'bolívar ': `official currency of Venezuela. Due to its decades-long reliance on silver and gold standards, and then on a peg to the United States dollar, it was considered among the most stable currencies and was internationally accepted until 1964, when the government decided to adopt a floating exchange rate instead.`,
   },
+  { 'ringgit ': `the currency of Malaysia. The word was originally used to refer to the serrated edges.` },
+  { 'leone ': `currency of Sierra Leone` },
+  { 'Macanese pataca ': `currency of the Macau` },
+  { 'naira ': `currency of Nigeria` },
+  { 'cedi ': `unit of currency of Ghana` },
   {
-    'Phryne ': `Much of the March 1944 issue is devoted to Greece, including a series of illustrations of stories from ancient Greece. One of these depicts the sculptor Praxiteles of Athens creating the Aphrodite of Knidos. It was allegedly modelled on which courtesan, later successfully defended in a trial for impiety by the orator Hypereides?`,
+    'sol ': `currency of Peru. It replaced the Peruvian inti in 1991 and the name is a return to that of Peru's historic currency`,
   },
+  { 'boliviano ': `currency of Bolivia` },
+  { 'córdoba ': `currency of Nicaragua. It was named after a conquistador ` },
+  { 'Maldivian rufiyaa ': `currency of the Maldives` },
   {
-    'Реакция Майяра': `What is the name of the CHEMICAL REACTION between amino acids and sugars that gives browned food its distinctive flavour? Examples include seared steak, baked biscuits and, rather fittingly, grilled duck.`,
+    'balboa ': `along with the United States dollar, one of the official currencies of Panama. It is named in honor of the Spanish explorer/conquistador `,
   },
+  { 'Loti ': `currency of the Kingdom of Lesotho. ` },
+  { 'dalasi ': `currency of the Gambia that was adopted in 1971. ` },
   {
-    'Albert Uderzo': `For this question we're looking for French comic book artist who is best known as the co-creator and illustrater of the Asterix series together with René Goscinny. Who is this man that died in March 2020?`,
-  },
-  {
-    'Pina (Пина Бауш)': `Filming for which 2011 Wim Wenders documentary film about the titular German contemporary dance choreographer was cancelled for a time in 2009 when its subject died unexpectedly? Her colleagues eventually convinced Wenders to complete the project.`,
-  },
-  {
-    'Felix Gonzalez-Torres, Robert Smithson': `Two artists have been selected as the United States's main representative for the Venice Biennale posthumously. NAME EITHER. One was a Cuban-born artist known for his "candy spill" works symbolizing the wasting resulting from AIDS; the other was a pioneering land artist best known for Spiral Jetty, who died in a plane crash.`,
-  },
-  {
-    'C+C Music Factory': `Gonna Make You Sweat (Everybody Dance Now) and 'Things that make you go Hmmm' were both early 1990 top 5 hits for Whom?`,
-  },
-  {
-    Denpassar: `Located just 13 kilometers from the island's primary airport, Ngurah Rai International, is what largest and capital city of Bali?`,
-  },
-  {
-    Чокекирао: `What is the name of the Incan archaeological site located in South Peru,
-  often considered the 'sister city' of Machu Picchu?
-  `,
+    'Galba ': `(24 December 3 BC – 15 January AD 69) was the sixth Roman emperor, ruling from AD 68 to 69. He was the first emperor in the Year of the Four Emperors and assumed the throne following Emperor Nero's suicide.`,
   },
   {
-    'Bobby DRISCOLL': `Which American child actor, known for his role as the voice of Peter
-  Pan in the 1953 Disney film and his performance in 'Treasure Island,'
-  struggled with personal issues later in life?
-  `,
+    'Vitellius ': `(24 September 15 – 20 December 69) was Roman emperor for eight months, from 19 April to 20 December AD 69. He was proclaimed emperor following the quick succession of the previous emperors Galba and Otho, in a year of civil war known as the Year of the Four Emperors.`,
   },
   {
-    'Millau Viaduct': `What is the name of the tallest bridge in the world which crosses the River Tarn
-  in southern France? Designed by Norman Foster, it stands almost 300 metres
-  above the valley floor.
-  `,
+    'nakfa ': `currency of Eritrea and was introduced on 15 November 1998 to replace the Ethiopian birr at par. The currency takes its name from the Eritrean town of BLANK, site of the first major victory of the Eritrean War of Independence.`,
+  },
+  { 'metical ': `currency of Mozambique. It is nominally divided into 100 centavos.` },
+  {
+    'somoni ': `currency of Tajikistan. It is subdivided into 100 dirams (дирам). It was introduced on 30 October 2000, replacing the rouble`,
   },
   {
-    'The Newbery Medal': `Named after an 18th century British bookseller, which annual award is given to
-  the most distinguished contribution to American literature for children? `,
+    'Kerguelen Islands ': `a group of islands in the sub-Antarctic, a large igneous province mostly submerged in the southern Indian Ocean. They are among the most isolated places on Earth, located more than 3300 km from Madagascar`,
   },
-  { Гиберния: `What was the Roman name for Ireland?` },
+  { 'Mascarene Islands ': `` },
   {
-    'Бардо́ Тхёдо́л': `What text of Tibetan Buddhism, commonly known in the West as the "Tibetan Book of the Dead", is intended to guide one through the experiences of consciousness after death, in rebirth, and in titular interval between the two?`,
-  },
-  {
-    'Vsevolod Pudovkin (остальные - «Мать», «Конец Санкт-Петербурга»)': `Storm Over Asia (Потомок Чингисхана), about a descendant of Genghis Khan who joins the Russian Civil War, is the final film of the "Revolutionary Trilogy" by what Soviet director (1893-1953)?`,
+    'Mascarene Islands ': `group of islands in the Indian Ocean east of Madagascar consisting of the islands belonging to the Republic of Mauritius as well as the French department of La Réunion. Their name derives from the Portuguese navigator Pedro BLANK, who first visited them in April 1512. `,
   },
   {
-    Tachism: `Considered a European equivalent to Abstract Expressionism was what 1940's and 1950's style of painting led by Jean Dubuffet, Sergei Poliakoff, and Antoni Tapies? The name of this movement is from French for "a stain".`,
+    'Stewart Island ': `New Zealand's third-largest island, located 30 km south of the South Island, across the Foveaux Strait. Flightless birds, including penguins, thrive because there are few introduced predators. Almost all the island is owned by the New Zealand government, and over 80 per cent of the island is set aside as the Rakiura National Park.`,
   },
   {
-    Lamington: `What Australian-origin sponge cake, seen here, is first coated in a layer of chocolate sauce and then rolled in dried coconut? `,
+    'Lanzarote ': `Spanish island, the easternmost of the Canary Islands in the Atlantic Ocean. It is located approximately 125 km off the north coast of Africa and 1000 km from the Iberian Peninsula. Covering 845.94 km2, it is the fourth-largest of the islands in the archipelago. With 152,289 inhabitants at the start of 2019, it is the third most populous Canary Island, after Tenerife and Gran Canaria. `,
   },
   {
-    Эвдемония: `Aristotle used what 10-letter "e" word as a term for the highest human good?  This term derived from Greek words for "good" and "spirit" is commonly translated as "happiness" or "welfare". `,
+    'Северный Сентинел': `one of the Andaman Islands, an Indian archipelago in the Bay of Bengal. It is home to the people who have defended, often by force, their protected isolation from the outside world.`,
   },
   {
-    'KARIBA (крупнейшее в мире водохранилище)': `Which lake and reservoir along the border between Zambia and Zimbabwe was filled following the construction of a dam with the same name on the Zambesi River in 1959?`,
+    'Santiago ': `largest island of Cape Verde, its most important agricultural centre and home to half the nation's population. It is home to the nation's capital city of Praia.`,
   },
   {
-    'MARIE BYRD LAND': `Which territory of Antarctica, named after the wife of an American naval officer and explorer, has never been claimed by any sovereign state?`,
+    'Эллора ': `деревня в индийском штате Махараштра, около 30 километров западнее города Аурангабад. С 1983 года система пещер и многочисленные замки причислены ЮНЕСКО к всемирному наследию`,
   },
   {
-    'José Benito de Churriguera (Чурригереско)': `Which late-Baroque Spanish architect gives his name to the style of elaborate sculptural architectural ornament which emerged as a manner of stucco decoration in Spain and Mexico in the late 17th century, marked by extreme, expressive, and florid decorative detailing?`,
+    'Трупный синод': `name commonly given to the ecclesiastical trial of Pope Formosus, who had been dead for about seven months, in the Basilica of St. John Lateran in Rome during January 897. The trial was conducted by Pope Stephen VI, the successor to Formosus' successor, Pope Boniface VI. Stephen had Formosus' corpse exhumed and brought to the papal court for judgment. He accused Formosus of perjury, of having acceded to the papacy illegally, and illegally presiding over more than one diocese at the same time.`,
   },
   {
-    Superflat: `Which postmodern art movement, influenced by manga and anime, and reflecting the aesthetic characteristics of the Japanese artistic tradition and the nature of postwar Japanese culture and society, was founded in 2000 by the contemporary artist Takashi Murakami?`,
+    'Пещеры Элефанта ': `collection of cave temples predominantly dedicated to the Hindu god Shiva, which have been designated a UNESCO World Heritage Site. `,
   },
   {
-    'Иоганн Тецель': `It is thought that Martin Luther was inspired, in part, to write his 95 theses by the actions of which German Dominican preacher - the Grand Commissioner for indulgences in Germany - who was trying to raise money for the ongoing construction of St. Peter's Basilica by selling indulgences?`,
+    'Крест крестоносцев ': `heraldic cross and Christian cross variant consisting of a large cross potent surrounded by four smaller Greek crosses, one in each quadrant. It was used as the emblem and coat of arms of the Kingdom of Jerusalem from the 1280s.`,
   },
   {
-    Фалуньгун: `Which spiritual practice, with over 70 million followers, was founded in China by Li Hongzhi in 1992 and was banned in that country in 1999 after more than 10,000 practitioners gathered at the Communist Party headquarters in Zhongnanhai in protest at the government’s refusal to officially recognize the practice?`,
+    Горжет: `from the French meaning throat, was a band of linen wrapped around a woman's neck and head in the medieval period or the lower part of a simple chaperon hood. The term later described a steel or leather collar to protect the throat, a set of pieces of plate armour, or a single piece of plate armour hanging from the neck and covering the throat and chest.`,
   },
   {
-    Bodrum: `The harbour of which Turkish city - known in ancient times as Halicarnassus - is dominated by the Petronium, also known as the Castle of St Peter, that was built by the Knights Hospitaller of St John of Jerusalem in 1402?`,
+    'Burgess ': `Which writer also composed over 250 musical works; he considered himself as much a composer as an author, although he achieved considerably more success in writing.`,
   },
   {
-    'Тетское наступление': `Named after the Vietnamese New Year celebration, which surprise attack against US and South Vietnamese forces was launched by the Viet Cong in January 1968?`,
+    'Санта-Мария-дель-Фьоре': `. It was begun in 1296 in the Gothic style to a design of Arnolfo di Cambio and was structurally completed by 1436, with the dome engineered by Filippo Brunelleschi.`,
   },
   {
-    'Erewhon (Едгин)': `Which 1872 work of utopian satire by the painter, author and erstwhile New Zealand sheep farmer, Samuel Butler (1835-1902) is an account of a young traveller seeking his fortune in a beautiful, remote country populated by incredibly handsome people? The moral code of this country is such that illness is a sin, and machines are destroyed to prevent their evolution to replace humans. Thinking will get you nowhere.`,
+    'Gutenberg Bible ': `the earliest major book printed using mass-produced movable metal type in Europe. The book is valued and revered for its high aesthetic and artistic qualities as well as its historical significance. It is an edition of the Latin Vulgate `,
   },
   {
-    'Hoffs (Susanna)': `Which co-founder of The Bangles released a solo single, My Side of the Bed, the lead single of her 1991 album When You're A Boy?`,
+    'Palace of Fontainebleau ': `one of the largest French royal châteaux. The medieval castle and subsequent palace served as a residence for the French monarchs from Louis VII to Napoleon III.`,
   },
   {
-    'Goryeo (Корё)': `Which unifying Korean dynasty was founded in 918 CE by Taejo Wang Geon during a period of division later known as the Three Kingdoms period, due to its feuding constituent Hubaekje, Taebong and Unified Silla territories? It was succeeded by the Joseon Dynasty in 1392.`,
+    'House of Oldenburg ': `German dynasty with links to Denmark since the 15th century. The current Queen of Denmark, King of Norway and King of the United Kingdom are all patrilineal descendants of the Glücksburg branch of this house.`,
   },
   {
-    Enthalpy: `In a thermodynamic system, what property, H, is defined as the sum of the system's internal energy + the product of its pressure and volume, i.e. H=U+PV?	`,
+    'Wild Hunt ': `folklore motif occurring across various northern European cultures. They typically involve a chase led by a mythological figure escorted by a ghostly or supernatural group of hunters engaged in pursuit. `,
   },
   {
-    'Пробуждение (Де Ниро дебила играет)': `Which 1990 drama film is based on a 1973 memoir by the Neurologist Oliver Sacks and stars Robin Williams as Malcolm Sayer, a doctor who treats patients with encephalitis lethargica using L-dopa?`,
+    'Harald Fairhair ': `Norwegian king. According to traditions current in Norway and Iceland in the eleventh and twelfth centuries, he reigned from c. 872 to 930 and was the first King of Norway. Supposedly, two of his sons, Eric Bloodaxe and Haakon the Good, succeeded him to become kings after his death. `,
   },
   {
-    Феспис: `Which Greek Playwright and performer became the first actor around 535BC, by stepping out of the Chorus to recite portions of text alone? His name might remind you of a descriptive term for actors`,
+    'Принцы в Тауэре': `refers to the mystery of the fate of the deposed King Edward V of England and his younger brother Richard of Shrewsbury, Duke of York, heirs to the throne of King Edward IV of England. The brothers were the only sons of the king by his queen, Elizabeth Woodville, living at the time of their father's death in 1483. Aged 12 and 9 years old, respectively, they were lodged in the Tower of London by their paternal uncle and England's regent, Richard, Duke of Gloucester, supposedly in preparation for Edward V's forthcoming coronation. Before the young king could be crowned, he and his brother were declared illegitimate. Gloucester ascended the throne as Richard III. It is unclear what happened to the boys after the last recorded sighting of them in the tower. It is generally assumed that they were murdered; a common hypothesis is that the murder was commissioned by Richard III in an attempt to secure his hold on the throne.`,
   },
   {
-    'Kip Thorne': `Which American theoretical physicist won the Nobel prize in Physics in 2017 with Rainer Weiss and Barry Barish "for decisive contributions to the LIGO detector and the observation of gravitational waves"? He was a scientific adviser to Christopher Nolan for the film Interstellar (2014). `,
+    "L'Anse aux Meadows ": `short term settlement near the northern tip of Newfoundland. Was created during The Norse exploration of North America began in the late 10th century`,
   },
   {
-    Espadrille: `With its name derived from a type of grass which is used to make the rope that forms the soles, what name is given to a casual, usually flat Spanish shoe with a cotton or canvas upper? Although traditionally worn by peasants, they became fashionable through their associations with Salvador Dali, Pablo Picasso and Yves St Laurent.`,
+    'Galata Tower ': `old Genoese tower in the Beyoğlu district of Istanbul, Turkey. The tower is now an exhibition space and museum, and a symbol of Beyoğlu and Istanbul. `,
   },
   {
-    Stratocaster: ` Designed by Leo Fender, Freddy Tavares, Bill Carson and George Fullerton between 1952-1954, which classic double-cutaway electric guitar with an extended top "horn" shape for balance, was used by many musicians, including George Harrison, Eric Clapton, David Gilmour and Jimi Hendrix, who burned one on stage at the Finsbury Astoria in 1967?`,
+    'Tezcatlipoca ': `central deity in Aztec religion. He is associated with a variety of concepts, including the night sky, hurricanes, obsidian, and conflict. He was considered one of the four sons of Ometecuhtli and Omecihuatl, the primordial dual deity. His main festival was Toxcatl, which, like most religious festivals of Aztec culture, involved human sacrifice. His nagual, his animal counterpart, was the jaguar.`,
   },
   {
-    Rendang: `Most popularly made with beef, which slow-cooked dry curry, made from coconut milk, sugar and spices,  originates from the Minangkabau region of Indonesia and has spread into the cuisines of other Southeast Asian Countries?`,
+    'Marmite ': `British savoury food spread based on yeast extract, invented by the German scientist Justus von Liebig. It is made from by-products of beer brewing (lees) and is produced by the British company Unilever. "Love it or hate it." `,
   },
   {
-    'Lovecraft Country': `Based on a 2016 novel by Matt Ruff, which US TV series follows Tic Freeman, Leti Lewis and Uncle George as they embark on a road trip across America. encountering the horrors of racism and monsters from the works of a famous American horror writer (1890-1937) mentioned in the title of the series?`,
+    'Alfred Einhorn ': `(27 February 1856 – 21 March 1917) was a German chemist most notable for first synthesizing procaine in 1905 which he patented under the name Novocain. Until that time the primary anesthetic in use was cocaine, however its undesirable side effects (including toxicity and addiction) led scientists to seek out newer anesthetic drugs. `,
   },
   {
-    Odoacer: `Which soldier and statesman (431-493 CE) deposed the child emperor Romulus Augustus in 476 CE  to become King of Italy, marking the end of the Western Roman Empire?  He was assassinated by Theodoric after being invited to his banquet of reconciliation.  Some dinner party that must have been!`,
+    'Andreas Stihl ': `(10 November 1896 – 14 January 1973 ) a Swiss-born German engineer and important inventor in the area of chainsaws. He is often hailed as the "Father of the chainsaw".`,
+  },
+  { 'Rhenium ': `the last element to be discovered having a stable isotope.` },
+  { 'lari ': `the currency of Georgia. It is divided into 100 tetri.` },
+  { 'kip ': `the currency of Laos since 1955. ` },
+  { 'Bangladeshi taka ': `currency of the People's Republic of Bangladesh.` },
+  {
+    'pula ': `currency of Botswana. It literally means "rain" in Setswana, because rain is very scarce in Botswana—home to much of the Kalahari Desert—and therefore valuable and a blessing. The word also serves as the national motto of the country.`,
+  },
+  { 'riel ': `currency of Cambodia` },
+  { 'shilling ': `currency of Kenya. It is divided into 100 cents. ` },
+  { 'quetzal ': `currency of Guatemala, named after the national bird of Guatemala` },
+  { 'lilangeni ': `currency of Eswatini and is subdivided into 100 cents` },
+  { 'colón ': `currency of Costa Rica. ` },
+  { 'afghani ': `official currency of Afghanistan. ` },
+  { 'kwanza ': `currency of Angola. ` },
+  { 'dram ': `currency of Armenia, and is also used in the neighboring unrecognized Republic of Artsakh. ` },
+  { 'manat ': `currency of Azerbaijan. It is subdivided into 100 gapiks.` },
+  { 'gourde ': `currency of Haiti` },
+  { 'escudo ': `currency of the Republic of Cape Verde` },
+  {
+    'Ronald Ross ': `British medical doctor who received the Nobel Prize for Physiology or Medicine in 1902 for his work on the transmission of malaria, becoming the first British Nobel laureate, and the first born outside Europe. His discovery of the malarial parasite in the gastrointestinal tract of a mosquito in 1897 proved that malaria was transmitted by mosquitoes, and laid the foundation for the method of combating the disease.`,
   },
   {
-    'Clemenceau (Georges)': `Which Prime Minister of France from 1906 to 1909 and again from 1917 until 1920, nicknamed Le Tigre (The Tiger), was the target of an attempted assassination in 1919 by anarchist Émile Cottin? The bullet narrowly missed his vital organs and was not removed.`,
+    'Система природы': `one of the major works of the Swedish botanist, zoologist and physician Carl Linnaeus (1707–1778) and introduced the Linnaean taxonomy.`,
   },
   {
-    Courland: `Named after the ancient Baltic tribe that once lived there, which historical region makes up the westernmost part of Latvia? Together with Semigallia it was part of a 16th-18th century Duchy, considered the second smallest state to colonise the Americas (after the Knights of Malta).`,
+    'Скучный миллиард': `otherwise known as the Mid Proterozoic and Earth's Middle Ages, is the time period between 1.8 and 0.8 billion years ago (Ga) spanning the middle Proterozoic eon, characterized by more or less tectonic stability, climatic stasis, and slow biological evolution.`,
   },
   {
-    Sifakas: `Their name being an onomatopoeia of their characteristic alarm call, what species of arboreal lemur - seen in the image - doesn't run on all four legs because their legs are much longer than their arms? Instead, they bounce along the forest floor using a two-legged sideways hop while holding their arms up in the air.`,
+    'Линия Армстронга': `высота, выше которой живые организмы не могут существовать. Линия находится на высоте 18-19 км над уровнем моря, атмосферное давление на этой высоте — порядка 6,3 кПа. Температура закипания воды равна нормальной температуре человеческого тела.`,
   },
   {
-    Husqvarna: `Safety first! In 1973, which Swedish multinational launched the world's first chainsaw featuring an automatic chain brake? In 1995 the company launched the world's first solar powered robotic lawn mower.`,
+    'Lynn Margulis ': `(March 5, 1938 – November 22, 2011) was an American evolutionary biologist, and was the primary modern proponent for the significance of symbiosis in evolution. She was also the co-developer of the Gaia hypothesis with the British chemist James Lovelock. Was the wife of Carl Sagan`,
   },
   {
-    'Buddenbrooks (by Thomas Mann)': `Writers Heinrich, Erika, Klaus, Golo, Monika and Elisabeth were all relatives of a man noted for writing which 1901 novel, that led to a Nobel Prize in Literature in 1929? Looking for the novel, not the writer.`,
+    'Мазок Папаниколау': `тест, с помощью которого можно определить предраковые или раковые клетки во влагалище и шейке матки`,
   },
   {
-    Keirin: `This sport had its Olympic debut in the city that hosted the 2000 Olympics. Roughly 8.000 km north (and just a tad to the west, you nitpicker) of this city lies a country in which the name of the sport means something like "racing wheels". What is the name of this sport, which remained Olympic and has a women's event since 2012 as well?`,
+    "Allen's rule ": `ecogeographical rule formulated in 1877, broadly stating that animals adapted to cold climates have shorter and thicker limbs and bodily appendages than animals adapted to warm climates. More specifically, it states that the body surface-area-to-volume ratio for homeothermic animals varies with the average temperature of the habitat to which they are adapted (i.e. the ratio is low in cold climates and high in hot climates). `,
   },
   {
-    'Western Sahara': `Founded in the early 1970s, the Polisario Front is a military and political organisation that aims to end Moroccan control of which (former Spanish) territory, among the most arid and inhospitable on the planet?`,
+    'Coolidge effect ': `biological phenomenon seen in animals, whereby males exhibit renewed sexual interest whenever a new female is introduced, even after sex with prior but still available sexual partners.`,
+  },
+  {
+    'HeLa ': `immortalized cell line used in scientific research. It is the oldest and most commonly used human cell line. The line is derived from cervical cancer cells taken on February 8, 1951, from Henrietta Lacks, a 31-year-old African-American mother of five, who died of cancer on October 4, 1951, and after whom they are named. The cell line was found to be remarkably durable and prolific, which allows it to be used extensively in scientific study. `,
+  },
+  {
+    'Lordosis ': `historically defined as an abnormal inward curvature of the lumbar spine. Similarly, kyphosis historically refers to abnormal convex curvature of the spine. `,
+  },
+  {
+    'Биогенетический закон Геккеля—Мюллера': `historical hypothesis that the development of the embryo of an animal, from fertilization to gestation or hatching (ontogeny), goes through stages resembling or representing successive adult stages in the evolution of the animal's remote ancestors (phylogeny). `,
+  },
+  {
+    'Фосфен ': `зрительное ощущение, возникающее у человека без воздействия света на глаз. Могут возникать вследствие воздействия на зрительную систему на её разных уровнях: механическим воздействием (нажатие на закрытый глаз, например), сильными магнитными полями, химическими веществами, электрическим возбуждением сетчатки`,
   },
 ];
