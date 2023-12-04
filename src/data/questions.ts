@@ -3586,6 +3586,115 @@ The origin of the motto was derived from a speech by revolutionary leader Fidel 
   {
     'Фосфен ': `зрительное ощущение, возникающее у человека без воздействия света на глаз. Могут возникать вследствие воздействия на зрительную систему на её разных уровнях: механическим воздействием (нажатие на закрытый глаз, например), сильными магнитными полями, химическими веществами, электрическим возбуждением сетчатки`,
   },
+  {
+    'Thomas Becket': `(21 December 1119 or 1120 – 29 December 1170) served as Lord Chancellor from 1155 to 1162, and then notably as Archbishop of Canterbury from 1162 until his death in 1170. He engaged in conflict with Henry II, King of England, over the rights and privileges of the Church and was murdered by followers of the king in Canterbury Cathedral. Soon after his death, he was canonised by Pope Alexander III. He is venerated as a saint and martyr by the Catholic Church and the Anglican Communion.`,
+  },
+  {
+    'Ilkhanate ': `Mongol khanate established from the southwestern sector of the Mongol Empire. It was established after Hulagu Khan, the son of Tolui and grandson of Genghis Khan, inherited the Southwest Asian part of the Mongol Empire after his brother Möngke Khan died in 1259.`,
+  },
+  {
+    'Alexander McQueen ': `(17 March 1969 – 11 February 2010) was a British fashion designer and couturier. He died by suicide in 2010 at the age of 40, at his home in Mayfair, London, shortly after the death of his mother. `,
+  },
+  {
+    'Jean-Philippe Rameau ': `(September 25, 1683 – September 12, 1764) was a French composer and music theorist. Regarded as one of the most important French composers and music theorists of the 18th century, he replaced Jean-Baptiste Lully as the dominant composer of French opera and is also considered the leading French composer of his time for the harpsichord, alongside François Couperin.`,
+  },
+  {
+    'Montfaucon ': `main gallows and gibbet of the Kings of France until the time of Louis XIII of France. It was used to execute criminals, often traitors, by hanging and to display their dead bodies as a warning to the population. `,
+  },
+  {
+    'Nancy Goldin ': `(born September 12, 1953) is an American photographer and activist. Her work often explores LGBT subcultures, moments of intimacy, the HIV/AIDS crisis, and the opioid epidemic. Her most notable work is The Ballad of Sexual Dependency (1986).`,
+  },
+  {
+    'Паррасий из Эфеса ': `Zeuxis painted some grapes so perfectly that a flock of birds flew down to eat them but, instead, only pecked at their picture. Zeuxis had fooled the birds with his picture. BLANK and Zeuxis walked to BLANK's studio whereupon BLANK asked Zeuxis to draw aside the curtain and witness his own masterpiece. When Zeuxis attempted to do so, he realized that the curtain was not a curtain, but a painting of a curtain. Zeuxis acknowledged himself to be surpassed, for while Zeuxis had deceived the birds, BLANK had deceived Zeuxis.`,
+  },
+  {
+    'Tony Bennett': ` (August 3, 1926 – July 21, 2023) In 1962, he recorded his signature song, "I Left My Heart in San Francisco".`,
+  },
+  {
+    'Herrenvolk (Раса господ)': `a people who believe they are superior to all other races and destined to rule the world, a concept espoused by the Nazi Party in Germany in the 1930s and 1940s.`,
+  },
+  {
+    'hibachi ': `Japanese pot or brazier for burning charcoal for heating purposes; also a variety of portable outdoor cooking equipment resembling a barbecue.`,
+  },
+  {
+    'инта́льо ': `an engraving or figure sunk in relief in stone or other hard material; also applied to such images printed or stamped in relief on paper.`,
+  },
+  { 'intifada ': `uprising (specifically, the Palestinian rebellion against the Israeli occupation in 1987): ` },
+  {
+    'Хай-алай ': `game resembling handball, played on a three-walled court by two or four players who use a long, curved wicker basket strapped to the wrist to catch and throw a small, hard ball against the front wall.`,
+  },
+  {
+    'Джеллаба ': `традиционная берберская одежда, представляющая собой длинный, с остроконечным капюшоном свободный халат с пышными рукавами, распространённая среди мужчин и женщин арабоязычных стран Средиземного моря, в основном североафриканских. На сегодняшний день более всего распространена в Марокко.`,
+  },
+  {
+    'kaddish ': `Jewish liturgical prayer spoken in each of the three daily services in synagogues and also in the course of mourning rituals`,
+  },
+  { 'Куфия (арафатка) ': `Arabic headdress comprising a folded square of cloth kept in place by a cord` },
+  { 'kiblah ': `the direction in which Muslims turn to pray (specifically, toward the Kaaba at Mecca).` },
+  { 'kir ': `alcoholic drink comprising white wine and cassis` },
+  { 'majolica ': `a type of richly colored Italian earthenware pottery with a decorated tin glaze` },
+  {
+    'Chesme, Battle of (July 5– 7, 1770) ': `1770 battle in the area between the western tip of Anatolia and the island of Chios, which was the site of a number of past naval battles between the Ottoman Empire and the Republic of Venice. It was a part of the Orlov Revolt of 1770, a precursor to the later Greek War of Independence (1821–1829), and the first of a number of disastrous fleet battles for the Ottomans against Russia. Today it is commemorated as a Day of Military Honour in Russia.`,
+  },
+  {
+    'Curzon Line ': `Boundary between Poland and Russia drawn after World War I that figured in discussions during and after World War II over Poland’s eastern frontier. `,
+  },
+  {
+    'ANTISTHENES OF ATHENS ': `Some take him to be the founder of the Cynic school of philosophy. He is said to have studied first with Gorgias and then with Socrates. He was notable for wearing exceedingly ragged and dirty clothing to demonstrate his disdain for material things.`,
+  },
+  {
+    'APEIRON ': `Literally, “without limit” or “without definition.” Anaximander says that it is the origin of all things; Theophrastus understands him as meaning that the it is a material substrate that as yet has no characteristics. Some later writers took Anaximander as meaning that it is indefinitely extended space and time.`,
+  },
+  {
+    'ARISTARCHUS OF SAMOS ': `He asserted a heliocentric solar system (anticipating Copernicus) and made a serious attempt to calculate the distance of the moon, sun, and stars from earth on the basis of careful observations, preserved in On the Sizes and Distances of the Sun and the Moon`,
+  },
+  {
+    ARRIAN: `(c. 92–c. 175 CE). Known to historians of philosophy primarily for his nearly stenographic reports of the Discourses of Epictetus, he also wrote a very important account of the campaigns of Alexander of Macedon, the Anabasis Alexandri , and a report of the voyage back from India of the Macedonian fleet under Nearchus, the Indica.`,
+  },
+  {
+    'DIOGENES LAERTIUS ': `the author of “The Lives and Opinions of the Philosophers,” (О жизни, учениях и изречениях знаменитых философов) the only extant ancient history of philosophy.`,
+  },
+  {
+    DOXOGRAPHY: `Several ancient writers collected the opinions of various philosophers, giving generally brief and often comparative descriptions of their views. Some of those texts are our only evidence for the opinions of some of the ancient thinkers, or the only evidence for a significant portion of their work.`,
+  },
+
+  {
+    Эннеа́ды: `сборник произведений Плоти́на в шести частях, по девять трактатов в каждой, собранный его учеником, финикийским неоплатоником и доксографом Порфирием ок. 270 года.`,
+  },
+  {
+    'Mikis Theodorakis (Маутхаузен - концлагерь) ': `(29 July 1925 – 2 September 2021) was a Greek composer and lyricist credited with over 1,000 works. He scored for the films Zorba the Greek (1964), Z (1969), and Serpico (1973). He composed the "Mauthausen Trilogy", also known as "The Ballad of Mauthausen", which has been described as the "most beautiful musical work ever written about the Holocaust" and possibly his best work.`,
+  },
+  {
+    'Diana Ross ': `(born March 26, 1944) is an American singer and occasional actress. She rose to fame as the lead singer of the vocal group The Supremes, who became Motown's most successful act during the 1960s and one of the world's best-selling girl groups of all time. `,
+  },
+  {
+    'Gil Scott-Heron ': `(April 1, 1949 – May 27, 2011) was an American jazz poet, singer, musician, and author, known primarily for his work as a spoken-word performer in the 1970s and 1980s. His collaborative efforts with musician Brian Jackson featured a musical fusion of jazz, blues, and soul, as well as lyrical content concerning social and political issues of the time, delivered in both rapping and melismatic vocal styles `,
+  },
+  {
+    'Simon Cowell ': `(born 7 October 1959) is an English television personality, entrepreneur and record executive. He is the creator of The X Factor and Got Talent franchises which have been sold around the world. He has judged on the British television talent competition series Pop Idol (2001–2003), The X Factor UK (2004–2010, 2014–2018) and Britain's Got Talent (2007–present), and the American television talent competition series American Idol (2002–2010), The X Factor US (2011–2013),`,
+  },
+  {
+    'Brian Wilson ': `(born June 20, 1942) is an American musician, singer, songwriter, and record producer who co-founded the Beach Boys.`,
+  },
+  {
+    'George Henry Martin ': `(3 January 1926 – 8 March 2016) was an English record producer, arranger, composer, conductor, and musician. He was commonly referred to as the "Fifth Beatle" because of his extensive involvement in each of the Beatles' original albums. AllMusic has described him as the "world's most famous record producer".`,
+  },
+  {
+    'Phillip Spector ': ` (born December 26, 1939 - January 16, 2021) was an American record producer and songwriter, best known for his innovative recording practices and entrepreneurship in the 1960s, followed decades later by his two trials and conviction for murder in the 2000s. He developed the Wall of Sound, a production style that is characterized for its diffusion of tone colors and dense orchestral sound, which he described as a "Wagnerian" approach to rock and roll.`,
+  },
+  { 'Нэ́нси Спа́нджен': `девушка басиста британской панк-рок-группы Sex Pistols Сида Вишеса` },
+  {
+    'The square–cube law ': `mathematical principle, applied in a variety of scientific fields. Things get heavier (much) faster than they get wider, as they increase in size in all three dimensions.
+  And since every layer of bone (or girders, or concrete, etc) has to support the weight of everything above it, this creates a maximum size for structures or animals or plants made of specific materials.
+  
+  `,
+  },
+  {
+    'Поведенческая клоака (Многие [самки крыс] были неспособны перенести беременность до полного срока или пережить роды. Ещё большее число после успешных родов демонстрировали снижение материнских инстинктов. Среди самцов нарушения поведения варьировались от полового отклонения до каннибализма и от неистовой чрезмерной активности до патологической абстиненции, при которой индивиды могли есть, пить и передвигаться, только когда другие члены сообщества спали. ) ': `term invented by ethologist John B. Calhoun to describe a collapse in behavior which can result from overcrowding. The term and concept derive from a series of over-population experiments Calhoun conducted on Norway rats between 1958 and 1962. In the experiments, Calhoun and his researchers created a series of "rat utopias" – enclosed spaces in which rats were given unlimited access to food and water, enabling unfettered population growth. `,
+  },
+  {
+    'Визуальный снег ': `uncommon neurological condition in which the primary symptom is that affected individuals see persistent flickering white, black, transparent, or coloured dots across the whole visual field. Other common symptoms are palinopsia, enhanced entoptic phenomena, photophobia, and tension headaches. The condition is typically always present and has no known cure, as viable treatments are still under research.`,
+  },
 ];
 
 // {"": ``},
