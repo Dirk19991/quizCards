@@ -3,6 +3,7 @@ import styles from './App.module.scss';
 import { useLocation } from 'react-router-dom';
 import { questions } from './data/questions';
 import { questionsJs } from './data/questions-js';
+import FileSaver from 'file-saver';
 // import { useEffect } from 'react';
 // import { db, getClues, setClues } from './firebase';
 
@@ -21,6 +22,35 @@ function App() {
 
   const location = useLocation();
   const includesJs = location.pathname === '/js';
+
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      // Generate a random index lower than the current element
+      const j = Math.floor(Math.random() * (i + 1));
+
+      // Swap elements at indices i and j
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
+
+  function formatDataForWord(data: any) {
+    let formattedText = '';
+    shuffleArray(data).forEach((item) => {
+      for (const key in item) {
+        formattedText += item[key] + '\n\n'; // Value as another paragraph
+        formattedText += key + '\n\n'; // Key as one paragraph
+      }
+    });
+    return formattedText;
+  }
+
+  const formattedText = formatDataForWord(questions);
+
+  const blob = new Blob([JSON.stringify(formattedText)], {
+    type: 'text/plain;charset=utf-8',
+  });
+  FileSaver.saveAs(blob, 'hello world.txt');
 
   return (
     <div className={styles.wrapper}>
