@@ -2,288 +2,328 @@ import { Question } from './questions';
 
 export const questions: Question[] = [
   {
-    'faience ': `colorful tin-glazed earthenware of the type developed at the town of BLANK, Italy, sometimes applied to any type of glazed ceramic`,
+    'Copacabana ': `New York City nightclub that has existed in several locations. The nightclub was used as a setting in the films Goodfellas, Raging Bull, Tootsie, The Purple Rose of Cairo, Carlito's Way, The French Connection, Martin and Lewis, Green Book, Beyond the Sea, The Irishman, and One Night in Miami. `,
   },
   {
-    'Экзегетика  ': `an explanation or critical examination of a text, especially scriptural texts: `,
+    Туо́льсленг: `музей в городе Пномпень (столица Камбоджи), основанный в 1980 году на территории бывшей школы Туоль Свай Прей, которая в период с 1975 по 1979 гг. использовалась Красными Кхмерами как печально известная «Тюрьма безопасности 21» `,
   },
   {
-    'Эспадрильи ': `a type of sandal with a canvas upper and a flexible rope sole`,
+    'Парад роз (англ. Rose Parade)': `крупнейший из парадов, проводимых в штате Калифорния. Парад организует некоммерческая организация «Пасадинская ассоциация турниров роз», он проходит ежегодно утром 1 января на бульваре Колорадо калифорнийского города Пасадины.
+  В параде принимают участие цветочные передвижные платформы, марширующие оркестры и конные ансамбли. `,
   },
   {
-    'Эскабече ': `a spicy marinade made with vinegar or citrus juice, onion, jalapeno peppers, and seasonings, used to flavor and preserve fish or meat.`,
-  },
-  { 'Айстедвод ': `a competitive Welsh festival of the arts: ` },
-  {
-    'effendi ': `a title of respect reserved for men of authority, education, or property in Arab or eastern Mediterra nean cultures: `,
+    'Катастрофа G.212 в Суперга': `авиационная катастрофа, произошедшая в среду 4 мая 1949 года под Турином, в результате которой погибла команда футбольного клуба «Торино» в полном составе.`,
   },
   {
-    'dumdum ': `[after the arsenal in the town of BLANK, near Calcutta, India] noun a type of hollow-nosed bullet that expands explosively on hitting its target, with devastating effect:`,
+    'Авиакатастрофа в Мюнхене 6 февраля 1958 года ': `На борту самолета находились игроки английского футбольного клуба «Манчестер Юнайтед», а также несколько тренеров, болельщиков и журналистов. Из находившихся на его борту 44 человек погибли 23, ещё 19 получили ранения. Раненые были доставлены в мюнхенский госпиталь.`,
   },
   {
-    'Diwali ': `the Hindu and Sikh festival of lights, held in October and November.`,
+    'Столкнове́ние над Днепродзержи́нском ': `крупная авиационная катастрофа, произошедшая 11 августа 1979 года и ставшая одной из крупнейших в истории авиации. В небе на высоте 8400 метров столкнулись два авиалайнера Ту-134А авиакомпании «Аэрофлот». Погибли все находившиеся на обоих самолётах 178 человек; 17 человек на борту рейса 7880 являлись членами футбольной команды «Пахтакор», из-за чего катастрофа получила особый резонанс.`,
   },
   {
-    'dirndl ': `a full skirt gathered at the waistband, resembling that of the traditional Alpine peasant costume.`,
+    'Эйзельская трагедия ': `произошла 29 мая 1985 года в Брюсселе, Бельгия, перед началом финала Кубка европейских чемпионов между итальянским «Ювентусом» и английским «Ливерпулем». В результате обрушения стены одной из трибун погибло 39 человек, преимущественно итальянцев, сотни человек получили ранения и травмы разной степени тяжести.`,
   },
   {
-    'dashiki ': `a loose, brightly colored pullover shirt of a type widely worn in West Africa and the United States.`,
+    'Модель ударного формирования Луны ': `распространённая гипотеза формирования Луны. Согласно этой модели, Луна возникла в результате столкновения молодой Земли и объекта, по размерам сходного с Марсом. Этот гипотетический объект иногда называют Тейя в честь одной из сестёр-титанид, матери Гелиоса, Эос и Селены (луны).`,
   },
   {
-    'coprolalia ': `(in psychiatry) the involuntary, repetitive use of obscene language, especially as a characteristic of Tourette's syndrome or schizophrenia.`,
+    'Сымен ': `горный хребет в северной части Эфиопского нагорья к северо-востоку от Гондэра.
+  Название местности на амхарском языке означает «север».
+  Высшая точка — гора Рас-Дашен вулканического происхождения. Её высота над уровнем моря по разным источникам оценивается от 4533 м до 4620 м`,
   },
   {
-    'Charles Eames and Ray Eames ': `an American married couple of industrial designers who made significant historical contributions to the development of modern architecture and furniture. Among their most recognized designs is the BLANK Lounge Chair and the BLANK Dining Chair`,
-  },
-  {
-    'Kat Von D': `an American tattoo artist, television personality, entrepreneur and recording artist. She is best known for her work as a tattoo artist on the TLC reality television show LA Ink, which premiered in the United States on August 7, 2007, and ran for four seasons. `,
-  },
-  {
-    'Ornette Coleman ': `(March 9, 1930 – June 11, 2015) was an American jazz saxophonist, trumpeter, violinist, and composer. He was best known as a principal founder of the free jazz genre, a term derived from his 1960 album Free Jazz: A Collective Improvisation. `,
-  },
-  {
-    'Stéphane Grappelli ': `(26 January 1908 – 1 December 1997) was a French jazz violinist. He is best known as a founder of the Quintette du Hot Club de France with guitarist Django Reinhardt in 1934. It was one of the first all-string jazz bands.`,
-  },
-  {
-    'Eugène Viollet-le-Duc ': `(27 January 1814 – 17 September 1879) was a French architect and author, famous for his restoration of the most prominent medieval landmarks in France. His major restoration projects included Notre-Dame de Paris, the Basilica of Saint Denis, Mont Saint-Michel, Sainte-Chapelle, the medieval walls of the city of Carcassonne, and Roquetaillade castle in the Bordeaux region.`,
-  },
-  {
-    'Markus Persson ': `(born 1 June 1979), also known as Notch, is a Swedish video game programmer and designer. He is best known for creating the sandbox video game Minecraft, which has since become the best-selling video game of all time, and for founding the video game company Mojang in 2009.`,
-  },
-  {
-    'Jeremy Soule ': `(born December 19, 1975) is an American composer of soundtracks for film, television, and video games. He has composed soundtracks for over 60 games and over a dozen other works during his career, including The Elder Scrolls, Guild Wars, Icewind Dale, and the Harry Potter series.`,
-  },
-  {
-    'Cynthia Sherman ': `(born 1954) is an American artist whose work consists primarily of photographic self-portraits, depicting herself in many different contexts and as various imagined characters. Her breakthrough work is often considered to be the collected Untitled Film Stills, a series of 70 black-and-white photographs of herself evoking typical female roles in performance media (especially arthouse films and popular B-movies).`,
-  },
-  {
-    'Jean Dubuffet ': `(31 July 1901 – 12 May 1985) was a French painter and sculptor. His idealistic approach to aesthetics embraced so-called "low art" and eschewed traditional standards of beauty in favor of what he believed to be a more authentic and humanistic approach to image-making. He is perhaps best known for founding the art movement art brut, and for the collection of works—Collection de l'art brut—that this movement spawned.`,
-  },
-  {
-    'Тайто Кубо': `a Japanese manga artist and character designer. His manga series Bleach (2001–2016) had over 130 million copies in circulation as of 2022.`,
-  },
-  {
-    'Peter Parler ': `(1333 – 13 July 1399) was a German-Bohemian architect and sculptor). After 1356 he lived in Prague, capital of the Kingdom of Bohemia and seat of the Holy Roman Empire, where he created his most famous works: St. Vitus Cathedral and the Charles Bridge.`,
-  },
-  {
-    'Edith Head ': `(October 28, 1897 – October 24, 1981) was an American costume designer who won a record eight Academy Awards for Best Costume Design between 1949 and 1973, making her the most awarded woman in the Academy's history. `,
-  },
-  {
-    'Thomas Kinkade': `(January 19, 1958 – April 6, 2012) was an American painter of popular realistic, pastoral, and idyllic subjects. He is notable for achieving success during his lifetime with the mass marketing of his work as printed reproductions (puzzles)`,
-  },
-  {
-    'Carl Barks ': `an American cartoonist, author, and painter. He is best known for his work in Disney comic books, as the writer and artist of the first Donald Duck stories and as the creator of Scrooge McDuck. He worked anonymously until late in his career; fans dubbed him The Duck Man and The Good Duck Artist. `,
-  },
-  {
-    'Masashi Kishimoto ': `a Japanese manga artist. His manga series, Naruto, which was in serialization from 1999 to 2014, has sold over 250 million copies worldwide in 46 countries as of May 2019. `,
-  },
-  {
-    'Hubert de Givenchy ': `(20 February 1927 – 10 March 2018) was a French aristocrat and fashion designer who founded the luxury fashion and perfume house in 1952. He is famous for having designed much of the personal and professional wardrobe of Audrey Hepburn and clothing for Jacqueline Bouvier Kennedy.`,
-  },
-  {
-    'Hironobu Sakaguchi ': `The creator of the Final Fantasy franchise, in addition to other titles during his time at Square.`,
-  },
-  {
-    'Joan Jett ': `(September 22, 1958) is an American singer, guitarist, record producer and actress. Jett is best known for her work as the frontwoman of her band BLANK and the Blackhearts, and for earlier founding and performing with the Runaways, which recorded and released the hit song "Cherry Bomb". With the Blackhearts, she is known for her rendition of the song "I Love Rock 'n Roll" which was number-one on the Billboard Hot 100 for seven weeks in 1982. `,
-  },
-  {
-    'Maurice De Bevere': `a Belgian cartoonist, comics artist, illustrator and the creator of Lucky Luke, a bestselling comic series about a gunslinger in the American Wild West. He was inspired by the adventures of the historic Dalton Gang and other outlaws. It was a bestselling series for more than 50 years that was translated into 23 languages and published internationally.`,
-  },
-  {
-    'Thomas Tompion': `(1639–1713) was an English clockmaker, watchmaker and mechanician who is still regarded to this day as the "Father of English Clockmaking". His work includes some of the most historic and important clocks and watches in the world, and can command very high prices whenever outstanding examples appear at auction.`,
-  },
-  {
-    'Gaspard de Coligny ': `(16 February 1519 – 24 August 1572) was a French nobleman, Admiral of France, and Huguenot leader during the French Wars of Religion. He was assassinated at the start of the St Bartholomew's Day massacre, in 1572, on the orders of Henry, Duke of Guise.`,
-  },
-  {
-    'Niccolò Tartaglia ': `(1499/1500 – 1557) was an Italian mathematician, engineer (designing fortifications), a surveyor (of topography, seeking the best means of defense or offense) and a bookkeeper from the then Republic of Venice. He published many books, including the first Italian translations of Archimedes and Euclid, and an acclaimed compilation of mathematics. Ру was the first to apply mathematics to the investigation of the paths of cannonballs, known as ballistics, in his Nova Scientia (A New Science, 1537); his work was later partially validated and partially superseded by Galileo's studies on falling bodies. He also published a treatise on retrieving sunken ships.`,
-  },
-  {
-    'Синдром Котара ': `бредовое расстройство, характеризующееся ипохондрическими и мегаломаническими идеями. Психическое расстройство проявляется убеждением в наличии тяжелого заболевания, гниении или отсутствии внутренних органов, конечностей. Некоторые больные считают себя умершими и существующими в виде трупа или бестелесного создания. `,
-  },
-  {
-    'Лилиева дата': `В программировании количество дней от принятия григорианского календаря (15 октября 1582 года).`,
-  },
-  {
-    'Алоизий Лилий ': `итальянский врач, астроном, философ и хронолог, а также автор предложений, которые легли в основу календарной реформы 1582 года`,
-  },
-  {
-    'Матте́о Ри́ччи ': `(1552 — 1610, Пекин) — итальянский миссионер-иезуит, математик, астроном, картограф и переводчик, который провёл последние тридцать лет своей жизни в Китае, положив начало иезуитской миссии в Пекине. Всемирно-историческое значение его деятельности состоит в установлении постоянных культурных контактов между христианской Европой и замкнутым китайским обществом.`,
-  },
-  {
-    'Эрнест  Бо ': `русский и французский парфюмер, создавший знаменитые альдегидные духи Chanel No. 5, которые принесли ему славу. `,
-  },
-  {
-    'Дио́гу Кан ': `(ок. 1440 — 1486) — португальский мореплаватель, который своими плаваниями вдоль западного побережья Африки проложил дорогу Бартоломеу Диашу и Васко да Гаме. В 1482 году открыл устье реки Конго.`,
-  },
-  {
-    'Па́линка ': `венгерский фруктовый бренди.
-  Этимологически слово восходит к славянизму  со значением «жечь».
-  Напиток также распространён в других странах Карпатского бассейна (от Австрии до Румынии). Однако согласно венгерскому Закону о палинке от 2008 года, название может носить только произведённый в Венгрии из 100 % фруктового материала продукт, имеющий крепость не менее 40 % (для продажи в магазине), для венгров от 42-43°.
+    'Випала ': `квадратная эмблема, используемая в качестве флага некоторых народов проживающих в Андах (Перу, Боливия, Чили, Эквадор, северо-запад Аргентины и юг Колумбии). Состоит из квадратов 7 × 7 из семи цветов, расположенных по диагонали.
   `,
   },
   {
-    'Поти́н ': `ирландский национальный крепкий алкогольный напиток крепостью 40—90 %, получаемый перегоном в кубе браги, приготовляемой из ячменя, картофеля, патоки, свёклы и других ингредиентов. Он является ирландской разновидностью самогона, который до недавнего времени производился нелегально в кустарных условиях.`,
+    'Земля Александра I ': `крупнейший остров Антарктики, площадью 43 250 км². `,
   },
   {
-    'Ирландское рагу ': `национальное блюдо ирландской кухни. Является традиционным и одним из самых популярных в стране.
-  В состав входят баранина, картофель, лук, а также петрушка и тмин. Чаще всего мясо режется небольшими кусочками, в то время как овощи — крупно, наполовину или четвертями. Ингредиенты складывают в глубокую посуду, например, сотейник, после чего заливают водой и тушат на медленном огне около 1 часа.
+    'Пейо ': `франкоязычный бельгийский художник, создатель комиксов о Смурфиках.`,
+  },
+  {
+    'Джон Роме́ро ': `программист и дизайнер компьютерных игр. Долгое время работал в компании id Software и является одним из её основателей. Один из популяризаторов жанра шутера от первого лица, участвовал в разработке таких игр, как Wolfenstein 3D, Doom, Doom II и Quake.`,
+  },
+  {
+    'Бехистунская надпись ': `трёхъязычный (древнеперсидский, эламский и аккадский) клинописный текст на скале "",  в Иране, высеченный по приказу царя Дария I о событиях 523—521 гг. до н. э. Самая важная по значению из надписей ахеменидских царей и один из крупнейших эпиграфических памятников древности. Прочтён (в основном) в 30—40-х гг. XIX века английским учёным Генри Роулинсоном, что положило начало дешифровке клинописного письма многих народов древнего Востока.`,
+  },
+  {
+    'Джордж Смит ': `британский ассириолог. Открыл и перевёл на английский язык «Эпос о Гильгамеше» — древнейшее из известных литературных произведений. Также дешифровал кипрское письмо.`,
+  },
+  {
+    'Майкл Вентрис': `английский архитектор. Более известен как лингвист-самоучка, дешифровавший (совместно с Дж. Чедвиком) наиболее позднюю форму критского письма — Линейное письмо Б.`,
+  },
+  {
+    'Ронго-ронго': `деревянные дощечки с письменами жителей острова Пасхи. В настоящее время не ясно, представляют ли каждый символ отдельное слово или слог. На сегодня в музеях мира сохранилось всего около 25 «дощечек». `,
+  },
+  {
+    'Нко ': `система консонантно-вокалического письма и шрифт, разработанные в 1949 году гвинейским писателем Соломаном Канте для языков манде в Западной Африке, а также название литературного языка, использующего это письмо. `,
+  },
+  {
+    'Граба́р ': `классический армянский язык, или древнеармянский язык — наиболее древняя из сохранившихся в письменных источниках форма армянского языка. В качестве богослужебного языка он используется по сей день как в Армянской апостольской церкви, так и в Армянской католической церкви.`,
+  },
+  {
+    'Малая́лам ': `дравидийский язык, распространённый на юго-западе Индии. Говорят свыше 35 миллионов человек — прежде всего, в индийском штате Керала. Язык используется в качестве богослужебного языка различными христианскими конфессиями и общинами Индии.`,
+  },
+  {
+    'razor and blades business model': `business model in which one item is sold at a low price (or given away for free) in order to increase sales of a complementary good, such as consumable supplies. `,
+  },
+  {
+    'Freemium ': `бизнес-модель, которая заключается в предложении воспользоваться компьютерной игрой, программным продуктом, онлайн-сервисом или услугой бесплатно, в то время как расширенная (улучшенная, премиальная) версия продукта, его дополнительная функциональность, или сервисы, другие продукты, связанные с основным, предлагаются за дополнительную плату на основе популярности основного бесплатного продукта. `,
+  },
+  {
+    'Презентация для лифта ': `короткий рассказ о концепции продукта, проекта или сервиса. Термин отражает ограниченность по времени — длина презентации должна быть такой, чтобы она могла быть полностью рассказана за время поездки на лифте, то есть одну-две минуты`,
+  },
+  {
+    'Гана́ш ': `крем из шоколада и свежих сливок, используемый в качестве начинки для конфет и пирожных, а также для украшения десертов. Может быть ароматизирован пряностями, фруктами, кофе, алкоголем.`,
+  },
+  {
+    '100 лет': `научно-фантастический фильм Роберта Родригеса, поставленный по сценарию Джона Малковича. Фильм рекламировался с лозунгом «Фильм, который вы никогда не увидите» (англ. The Movie You Will Never See) и должен быть выпущен 18 ноября 2115 года, что соответствует 100 годам, которые требуется пролежать бутылке коньяка Louis XIII прежде, чем она будет выпущена для потребителей. Главные роли в фильме играет международный ансамбль: американский актёр Джон Малкович, китайская актриса Шуя Чан и чилийский актёр Марко Сарор.`,
+  },
+  {
+    'Библиотека будущего ': `общественный арт-проект шотландской художницы Кэти Патерсон, стартовавший в 2014 году и рассчитанный на 100 лет. Каждый год в течение века один из крупных современных писателей передаёт проекту свой новый роман. Собранные таким образом произведения будут опубликованы в 2114 году.`,
+  },
+  {
+    'Океан, полный шаров для боулинга': `неопубликованный рассказ классика американской литературы Джерома Дэвида Сэлинджера.
+  В произведении рассказывается о смерти Кеннета Колфилда, ставшего в более позднем романе «Над пропастью во ржи» Алли, умершим младшим братом главного героя — Холдена. Сэлинджер хотел опубликовать текст и продал его в 1948 году изданию «Woman's Home Companion». Издатель, однако, не стал публиковать произведение ни в этом журнале, ни в «Collier's», и Сэлинджер забрал его. Рассказ доступен только в библиотеке Принстонского университета. Те, кто хочет его прочитать, должны предъявить две формы удостоверения личности (например, водительские права и студенческое удостоверение) и читать рассказ в присутствии библиотекаря в специальном закрытом читальном зале. Он не будет опубликован вплоть до 27 января 2060 года — то есть до 50-летия со дня смерти Сэлинджера
   `,
   },
   {
-    'Муга́м ': `один из основных жанров азербайджанской традиционной музыки, многочастное вокально-инструментальное произведение, являющееся классическим музыкально-поэтическим искусством азербайджанского народа`,
+    'Бык Фаларида ': `древнее орудие казни.
+  Орудие убийства представляло собой полое медное изваяние быка, выполненное в натуральную величину, с дверцей на спине между лопаток (по другой версии — в боку). `,
   },
   {
-    'Бута́ (Пейсли)': `миндалевидный узор с заострённым загнутым верхним концом. Мотив известен у многих народов Востока на обширной территории. Хорошо известен в странах Ближнего Востока и в Европе.`,
+    'Кровавый орёл': `легендарная казнь времён викингов, заключавшаяся в том, что по спине осуждённого били топором, чтобы рассечь рёбра; затем рёбра разводили в стороны наподобие крыльев птицы (отсюда название) и вытаскивали наружу лёгкие. Причиной скорой смерти в этом случае должен был стать травматический шок либо пневмоторакс.`,
   },
   {
-    'Муль-фрит ': `блюдо из отварных мидий и картофеля фри, входит в бельгийскую и французскую кухни. Национальное блюдо Бельгии; также распространено в северной части Франции.`,
+    'Маронинг (англ. Marooning) ': `преднамеренное оставление кого-то в отдаленном районе, например, на необитаемом острове. Слово впервые появляется в письменной форме в начале XVIII в.[1] и является производным от термина марон, беглый раб, который, в свою очередь, может являться искажением исп. cimarrón, означающим домашнее животное (или раба), ставшего «диким».`,
   },
   {
-    'Стечки ': `монументальные средневековые надгробия (датируются в интервале от XII века до XVI века), встречающиеся в Боснии и Герцеговине (около 60 000), Хорватии, Черногории и Сербии (около 10 000). В 2009 году все четыре страны подали заявки на включение стечек в Список Всемирного наследия ЮНЕСКО`,
+    'Уше́бти ': `статуэтки, которые в Древнем Египте помещались в могилу, с тем чтобы они выполняли необходимые обязанности по отношению к умершему. Изготавливались из дерева, камня, терракоты или фаянса. `,
   },
   {
-    'Мартени́ца ': `у болгар и македонцев украшение, амулет из шерсти или ниток, которое повязывают в первый день марта, чтобы в течение года быть здоровыми, счастливыми`,
+    Ухуру: `первая орбитальная рентгеновская обсерватория. Впервые спутниковая миссия была полностью посвящена изучению небесных источников рентгеновского излучения. Предыдущие эксперименты по исследованию рентгеновского излучения небесных источников проводились исключительно на суборбитальных ракетах, что значительно ограничивало полезное время работы их инструментов. The satellite's name is the Swahili word for "freedom". `,
   },
   {
-    'Фри́дрих Кре́йцвальд ': `(1803 — 1882) — эстонский поэт, писатель, фольклорист, просветитель, врач и общественный деятель; основоположник национальной эстонской литературы.`,
+    'The Fable of The Bees': `(1714) is a book by the Anglo-Dutch social philosopher Bernard Mandeville. Mandeville describes a bee community that thrives until the bees decide to live by honesty and virtue. As they abandon their desire for personal gain, the economy of their hive collapses, and they go on to live simple, "virtuous" lives in a hollow tree. Mandeville's implication—that private vices create social benefits—caused a scandal when public attention turned to the work, especially after its 1723 edition.
+
+  `,
   },
   {
-    'Лати́нский квадра́т ': `таблица размеров n × n, заполненная n элементами множества M таким образом, что в каждой строке и в каждом столбце таблицы каждый элемент из M встречается в точности один раз.`,
+    Соуэ́то: `группа тауншипов/поселений на юго-западной окраине Йоханнесбурга. Во времена апартеида — место для принудительного проживания африканского населения. `,
   },
   {
-    'Fisher–Yates shuffle ': `algorithm for generating a random permutation of a finite sequence—in plain terms, the algorithm shuffles the sequence. The algorithm effectively puts all the elements into a hat; it continually determines the next element by randomly drawing an element from the hat until no elements remain. The algorithm produces an unbiased permutation: every permutation is equally likely. `,
+    'Ви́лья мисериа': `общее название неформальных поселений и трущоб в Аргентине, характеризуемых высокой плотностью заселения и временностью жилищ. `,
   },
   {
-    'Джон Валлис': `(1616 – 1703) was an English clergyman and mathematician who is given partial credit for the development of infinitesimal calculus. Between 1643 and 1689 he served as chief cryptographer for Parliament and, later, the royal court. He is credited with introducing the symbol ∞ to represent the concept of infinity. He similarly used 1/∞ for an infinitesimal. He was a contemporary of Newton and one of the greatest intellectuals of the early renaissance of mathematics.`,
+    'Кинсеаньера ': `в странах Латинской Америки возраст совершеннолетия девочек, символизирующий переход от подросткового возраста к взрослой жизни. Празднуется в день пятнадцатилетия.`,
   },
   {
-    'Monty Norman': `(4 April 1928 – 11 July 2022) was a British composer, musician and singer. A contributor to West End musicals in the 1950s and 1960s, he is best known for composing the "James Bond Theme", first heard in the 1962 film Dr. No.)`,
+    'Бомби́лья ': `металлическая или деревянная трубочка с фильтром, через которую пьётся настой мате. `,
   },
   {
-    'Премия Юхана Шютте ': `международная научная премия, вручаемая учёному, внесшему значительный вклад в развитие политической науки. «Нобелевская премия по политологии»`,
+    'Тсантса ': `особым образом высушенная человеческая голова. Черты лица сохраняются, но размером она становится с кулак. Индейцы южноамериканских Анд, и прежде всего хиваро, считают ее главным трофеем`,
   },
   {
-    'Вуду́ ': `ритуальное омовение в исламе, являющееся обязательным условием для совершения намаза, тавафа, прикосновения к Корану и желательным при выполнении других видов поклонения. `,
+    'Nils Bohlin ': `(17 July 1920 – 26 September 2002) was a Swedish mechanical engineer and inventor who invented the three-point safety belt while working at Volvo.`,
   },
   {
-    'Reynolds number': `a dimensionless quantity that helps predict fluid flow patterns in different situations by measuring the ratio between inertial and viscous forces. At low Reynolds numbers, flows tend to be dominated by laminar (sheet-like) flow, while at high Reynolds numbers, flows tend to be turbulent`,
+    Enheduanna: `The earliest known author and a high priestess in ancient Sumeria. She composed 42 hymns and is considered the first known poet and author in the world, living around 2300 BCE`,
   },
   {
-    'Генри Таннер ': `(1859, Питтсбург — 1937, Париж) — американский художник-реалист. Первый из художников негритянского происхождения, добившийся международного признания (Урок игры на банджо (1893))`,
+    'Lyudmila Pavlichenko': `A Soviet sniper during WWII, known as "Lady Death." She is credited with no less than 309 kills and became a symbol of Soviet resistance against Nazi forces. She was also known for her tour in the United States, where she advocated for the Soviet war effort`,
   },
   {
-    'По реке в день поминовения усопших ': `живописная панорама, созданная в XII веке при дворе династии Сун, очевидно, художником по имени Чжан Цзэдуань. На свитке запечатлена повседневная жизнь обитателей императорской столицы, Кайфына, в день празднования Цинмина `,
+    'Cassius Marcellus Clay': `A 19th-century American politician and abolitionist from Kentucky. Despite being born into a slave-owning family, he freed his slaves and became a vocal opponent of slavery, known for surviving multiple assassination attempts due to his beliefs`,
   },
   {
-    'Крупный план ': `Based on a real incident, Abbas Kiarostami’s masterly film first appears to present itself as a purely documentary reconstruction of events leading to the trial of the impoverished Hossein Sabzian for attempted fraud. After meeting an elderly woman on a bus and passing himself off as Mohsen Makhmalbaf (Iranian director of The Cyclist [1987] and Kandahar [2001]), Sabzian is invited to meet her family, and leads them to believe that, if they finance him, they’ll appear in his next film. Eventually, they suspect he’s an impostor planning to burgle their home, and call the police.`,
+    'Алис Ги-Блаше': `Recognized as the first female filmmaker and a pioneer in the early film industry. She directed her first film in 1896 and went on to direct over 1,000 films, playing a significant role in the evolution of film narrative and production`,
   },
   {
-    'ONCE UPON A TIME IN CHINA ': `Tsui Hark was Hong Kong’s reigning filmmaker in the 1980s and early 1990s, deftly infusing his eye-popping action films with witty political commentary. This film finds him breathing new life into the chronicles of Chinese folk hero Wong Fei-Hung. `,
+    'Vasili Arkhipov': `A Soviet Navy officer credited with preventing a Soviet nuclear strike during the Cuban Missile Crisis. As flotilla commander and second-in-command of the nuclear-armed submarine B-59, he refused to authorize the captain's use of nuclear torpedoes against US Navy ships.`,
   },
   {
-    'RAISE THE RED LANTERN ': `Completing a loose trilogy that began with Red Sorghum (1987) and Ju Dou (1990), Yimou Zhang’s grim adaptation of a novel by Su Tong once again stars Li Gong as a young woman who marries a much older man. Again he tells a story that explicitly critiques Chinese feudalism and indirectly contemporary China. This time, however, the style is quite different (despite another key use of the color red) and the vision much bleaker. `,
+    'Quantum Entanglement': `A phenomenon where two particles become linked, and the state of one instantly influences the other, regardless of the distance separating them.`,
   },
   {
-    'FAREWELL MY CONCUBINE ': `First of the “Fifth Generation” of Chinese filmmakers to emerge onto the world scene from the Beijing Film Academy since it reopened its doors in 1978, Kaige Chen bravely invoked his own bitter memories of the Cultural Revolution. The film is an exquisite, fascinating drama of the fifty-year relationship between two male Beijing Opera singers that spans China’s turbulent twentieth century through convulsive collective and personal betrayals.`,
+    'Фермионный конденсат': `A state of matter similar to the Bose-Einstein condensate but formed using fermions instead of bosons. Шестое состояние вещества`,
   },
   {
-    Bonking: `a term among racing cyclists that refers to a complete loss of energy that occurs for failing to eat or drink enough during a race and thereby replace nutrients and fluids. It occurs because of depletion of glycogen storage in the body. It is greatly feared among cyclists because the energy loss is so complete that they will often fall far off the pace of the lead riders.`,
+    'magnetic monopole ': `hypothetical elementary particle that is an isolated magnet with only one magnetic pole (a north pole without a south pole or vice versa). It would have a net north or south "magnetic charge". Modern interest in the concept stems from particle theories, notably the grand unified and superstring theories, which predict their existence.`,
   },
   {
-    'Фабиан Канчеллара': `He was world champion in the time trial in 2006, 2007, 2009, and 2010 and won the Olympic gold medal in the event in 2008, adding a silver medal in the road race at the Beijing Olympics.`,
+    'Casimir Effect ': `a fascinating and somewhat counterintuitive phenomenon in quantum physics. Here's a simple explanation: Imagine two very flat, uncharged metal plates placed very close to each other in a vacuum. According to classical physics, if there's no charge on these plates, there shouldn't be any force between them. However, the BLANK shows that these plates can attract each other. This attraction happens because of something called "quantum vacuum fluctuations." Even in a vacuum, where there are no particles, the energy of the vacuum isn't zero. Instead, it's filled with tiny, temporary particles that pop in and out of existence. These are quantum fluctuations.`,
   },
   {
-    'Alberto Contador ': `a Spanish professional who is one of five riders ever to have won all three of the grand tours—the Tour de France, the Giro d’Italia, and the Vuelta a España.`,
+    Catenation: `The ability of an element (like carbon) to form long chains with itself. Carbon's BLANK ability is the foundation of organic chemistry, leading to the vast diversity of organic compounds.`,
   },
   {
-    'domestique ': `A support rider whose job is to ride for the leaders of their teams. He will often be required to ride in front of the team leader, breaking the wind resistance for him, or go back to team cars and get drinks and food for the main riders on the team. `,
+    'Чёрная легенда  ': `историографический феномен, при котором устойчивая тенденция в исторической литературе предвзятого освещения и введения сфабрикованных, преувеличенных и/или вырванных из контекста фактов направлена против конкретных лиц, наций или учреждений с намерением создать искажённый и однозначно бесчеловечный образ их, скрывая их положительный вклад в историю. `,
   },
   {
-    'Chris Hoy ': `He led the very successful British cycling team at the 2008 Beijing Olympics, with three gold medals. After anchoring the British team sprint squad to the title, Hoy dominated the match sprint and keirin competitions to win three gold medals, the best track cycling performance at a single Olympics by a man since Marcus Hurley in 1904.`,
+    'Огора́живания (англ. enclosure, inclosure) ': `насильственная ликвидация общинных земель и обычаев в Европе на раннем этапе развития капитализма. Данная практика приводила к обнищанию сельского населения и его выселению в города, обезлюдевшие сельскохозяйственные угодья отдавались под выпас скота. `,
   },
   {
-    'MONUMENT RACES': `Milano–Sanremo, Paris–Roubaix , Liège–Bastogne–Liège, Ronde van Vlaanderen, and the Giro di Lombardia, and they are considered the most prestigious of the single-day races on the professional calendar. `,
+    Physiocrats: `A group of 18th-century economists who believed that the wealth of nations was derived solely from the value of land agriculture or land development. They were one of the first to formulate theories of economics.`,
   },
   {
-    'RED JERSEY': `is given to the leader of the general classification after every stage and eventual winner of the Vuelta a España, similar to the yellow jersey (maillot jaune) in the Tour de France and the pink jersey in the Giro d’Italia`,
+    'Wergild (на Руси – вира): ': `A value placed on every being and piece of property in the Salic Code. If property was stolen or someone was injured or killed, the guilty person would have to pay wergild as restitution to the victim's family or to the owner of the property.`,
   },
   {
-    'PINK JERSEY': `is given to the leader of the general classification after every stage and the eventual winner of the Giro d’Italia, similar to the yellow jersey (maillot jaune) in the Tour de France. `,
+    'Scutage (щитовые деньги) ': `medieval English tax levied on holders of a knight's fee under the feudal land tenure of knight-service. Under feudalism the king, through his vassals, provided land to knights for their support. The knights owed the king military service in return. The knights were allowed to "buy out" of the military service by paying it`,
   },
   {
-    'Бумажная луна ': `Режиссер: Питер Богданович. Восхитительная комедия о похождениях авантюриста-продавца библий Мозеса Прея и маленькой девочки Эдди на среднем Западе Америки в годы Великой депрессии. 9-летняя Татум О’Нил, дочь Райана О’Нила, стала самой юной обладательницей «Оскара» в истории (Ширли Темпл в 6 лет получила специальный, а не регулярный приз) и заработала за свою роль $ 350 000.`,
+    'Domesday Book': `Commissioned by William the Conqueror in 1086, this manuscript record was a survey of all the land in England, its value, and who owned it. It was used to determine taxes and represents one of the earliest attempts at a census.`,
   },
   {
-    'Вечер в опере ': `В свою обычную голую эксцентрику безумно смешные братья Маркс ввели мягкую любовную интригу, от которой, впрочем, стало еще смешнее. Пройдоха-управляющий (усатый Граучо с сигарой в зубах) уговорил богатую вдову, делами которой и управлял, вложить деньги в Нью-Йоркскую оперу. Та согласилась, ибо всегда мечтала попасть в высший свет, а пройдоха заключил контракт не на I 1000, как обещал, а на $ 10, и не с прославленным тенором, а с участником хора из той же оперы. Хорист поет за 10 долларов, как за 1000.`,
+    'Hell money (Адские деньги) ': `modernized form of joss paper printed to resemble legal tender bank notes. The notes are not an official form of recognized currency or legal tender as their sole intended purpose is to be offered as burnt offerings to the deceased as a solution to resolve their assumed monetary problems in the afterlife. This ritual has been practiced by modern Chinese and across East Asia since the late 19th century, and some Wicca-based faiths in recent years have adopted this practice`,
   },
   {
-    'Во имя отца ': `Режиссер: Джим Шеридан. Основан на мемуарах бывшего заключенного Джерри Койл она, ирландца из Белфаста, осужденного английским судом на 30 лет вместе со своим отцом за взрыв в кафе в центре Лондона в 1974 году. На самом деле Конлон ничего не взрывал, так как грабил в это время бордель в сквере неподалеку. Тем не менее он отсидел 15 лет, а остальные 15 спасла для него энергичная, настойчивая адвокатесса Гарет Пирс.`,
+    'Liberum Veto': `A parliamentary device in the Polish-Lithuanian Commonwealth. It allowed any member of the Sejm to end the current session and nullify all legislation that had been passed by it simply by shouting "Nie pozwalam!" (I do not allow!).`,
   },
   {
-    'Воскрешая мертвецов ': `Режиссер Скорсезе словно вернулся к своему «Таксисту» 23-летней давности. Только теперь на безумный ночной Нью-Йорк начала 90-х смотрят слипающиеся глаза врача «скорой помощи» Фрэнка Пирса. Отчаянные попытки спасти несчастные тела и души приводят к галлюцинациям: Фрэнка преследуют призраки людей, которым он не смог или не успел помочь. Игра на грани нервного срыва Николаса Кейджа. `,
+    'Золота́я во́льность ': `одно из явлений политической системы Королевства Польского и позже, после Люблинской унии 1569 года, Речи Посполитой, известной как шляхетская демократия. В этой системе вся знать (шляхта) обладала равными и обширными правами и привилегиями. Шляхтичи заседали в законодательном органе — сейме и выбирали короля. `,
   },
   {
-    'Враг общества (The Public Enemy) ': `Эталон для грядущих гангстерских фильмов, включая «Крестного отца». Начало бурной мафиозной жизни на экране Джеймса Кэгни в роли ирландца Тома, который осуществляет свою американскую мечту с кольтом в руке и яростью во взгляде.`,
+    'Ро́кош ': `официальное восстание против короля, на которое имела право шляхта во имя защиты своих прав и свобод. Изначально это съезд всей польской шляхты на сейм.`,
   },
   {
-    'Враг у ворот ': `Режиссер: Жан-Жак Анно. Голливудский фильм французского режиссера с чисто русским названием о Сталинградской битве. Захватывающий поединок русского снайпера Зайцева (Ло) и немецкого снайпера-аса (Харрис) в разрушенном Сталинграде осенью 1942-го и зимой 1943-го. `,
+    Чинлон: `traditional, national sport of Myanmar (Burma). It is non-competitive, with typically six people playing together as one team. The ball used is normally made from hand-woven rattan, which sounds like a basket when hit. Similar to the game of hacky-sack, it is played by individuals passing the ball among each other within a circle without using their hands.`,
   },
   {
-    'Всплеск (Splash) ': `Светлая история о том, как Аллен Бауер, нескладный молодой человек из Нью-Йорка, влюбляется во время каникул в красавицу-русалку. Это был первый из диснеевских фильмов, где появилась обнаженная грудь (сама Дэрил Ханна очень смущалась при съемках), и по этому поводу были даже протесты и попытки спрятать хотя бы соски русалки. Играл Том Хэнкс`,
+    'Katamari Damacy ': `В основе сюжета игры лежит данное маленькому принцу поручение отстроить заново случайно уничтоженные его отцом звёзды, созвездия и Луну. Эта цель достигается перекатыванием магического клейкого шара по различной местности, собирая всё бо́льшие и бо́льшие по размеру объекты, в пределах от чертёжных кнопок до школьников и гор — до тех пор, пока шар из объектов не станет достаточно большим, чтобы стать звездой. `,
   },
   {
-    'Генерал ': `Лучший фильм Бастера Китона с уникальными трюками. Один из них – крушение поезда на мосту – считается самым сложным и дорогостоящим в истории немого кино. Чудесные приключения (основанные на реальных событиях) времен Гражданской войны поезда ..., который крадут северяне, переодетые в южан, и за которым устремляются в погоню ополченцы во главе с лихим машинистом Джонни Греем (Китон). `,
+    'Getting Over It with Bennett Foddy': `A notoriously difficult game where you control a man stuck in a cauldron and must use a sledgehammer to navigate a surreal landscape.`,
   },
   {
-    'Геркулес в Нью-Йорке': `Дебют 23-летнего Арнольда Шварценеггера, за два года до этого переехавшего в Америку и получившего титул «Мистер Олимпиа» – высший титул в международной федерации бодибилдинга. Красачик Шварц под псевдонимом Стронг носится за гангстерами на геркулесовой колеснице по Нью-Йорку, дает сеанс греко-римской борьбы свешавшему из зоопарка гризли, мчится со своим дружком Кренделем на гору Олимп, водруженную в центральном парке, куда доносится вой полицейских машин с Манхэттена. `,
+    'Quick Time Events (QTE) ': `элемент компьютерных игр. Обычно представляют собой сцены, во время которых игрок должен в определенный момент выполнить какие-либо действия с контроллером. Почти во всех ситуациях невыполнение отрицательно сказывается на происходящем (например, в «Dead Space», если игрок не успевал выполнять разнообразные "", то каждый провал приводил к смерти; в Heavy Rain провал в "" приводил к гибели ключевых персонажей). `,
   },
   {
-    'Michel Faber ': `He revisited the Victorian domestic novel to fashion The Crimson Petal and the White, an escapist fiction set in London’s Gothic underworld in 1874 and 1875. `,
+    'Буллет-тайм ': `техника комбинированной съёмки, которая используется для создания на экране иллюзии «заморозки» времени, то есть движения съёмочной камеры и зрителя вокруг застывшего объекта, в реальности быстро двигающегося, например в момент прыжка или падения`,
   },
   {
-    'Год опасной жизни ': `Режиссер: Питер Уир. Это как раз тот единственный случай в истории, когда женщина за исполнение мужской роли получила «Оскар». Речь идет о 37-летней американке Линде Хант, сыгравшей в этом фильме индонезийского фоторепортера Билли Квана. Он работает помощником в корпункте у австралийского журналиста Гая Гамильтона, который стал свидетелем падения режима Сукарно в Индонезии в 1965 году и до побега из страны успел передать публицистический репортаж.`,
+    'Save-scumming ': `process where players will reload an earlier save they have made in the game to tackle a level differently, get a different story outcome, or undo a mistake they have made in a game. It is an extremely popular practice in RPGs like The Elder Scrolls V: Skyrim, Fallout, XCOM, and Fire Emblem.`,
   },
   {
-    'dybbuk ': `a displaced soul that expiates former sins by wandering until it can locate a living body in which to dwell. The term derives from the Yiddish word for “cling” or “attach.” `,
+    'Ludonarrative dissonance ': `conflict between a video game's narrative told through the non-interactive elements and the narrative told through the gameplay. Brett Makedonski of Destructoid used the Mass Effect series as another example, in which the player-character Commander Shepard can perform actions that are seen as ethically good (Paragon) or bad (Renegade), but throughout the game, Shepard is still regarded as a hero regardless of how much of a Renegade status they may have obtained`,
   },
   {
-    'Эвердюпойс ': `[Old French goods sold by weight]a series of units of weight based on a pound of 16 ounces:`,
+    'The Utility Monster': `A thought experiment in the study of utilitarianism. It questions whether it would be just to sacrifice the happiness of many people for the sake of one individual who can derive immense utility from their resources or suffering.`,
   },
   {
-    'Баррэ ': `a method of playing a chord on a guitar or other stringed instrument with the forefinger laid across all the strings.`,
+    'A Defense of Abortion': `moral philosophy essay by Judith Jarvis Thomson. You wake up in the morning and find yourself back to back in bed with an unconscious violinist. A famous unconscious violinist. He has been found to have a fatal kidney ailment, and the Society of Music Lovers has canvassed all the available medical records and found that you alone have the right blood type to help. They have therefore kidnapped you, and last night the violinist's circulatory system was plugged into yours, so that your kidneys can be used to extract poisons from his blood as well as your own. [If he is unplugged from you now, he will die; but] in nine months he will have recovered from his ailment, and can safely be unplugged from you.`,
   },
   {
-    'biriyani ': `in Indian cuisine, a dish of spiced meat or vegetables, served with rice.`,
-  },
-  { Бланманже: `a gelatinous milk-based dessert dish.` },
-  { 'bodega ': `` },
-  { 'bouzouki ': `a Greek musical stringed instrument with a long neck.` },
-  {
-    'bricolage ': `a construction made with whatever is conveniently at hand.`,
+    Skíðblaðnir: `The best of all ships in Norse mythology, belonging to the god Freyr. Made by dwarves, it can be folded like a cloth when not in use.`,
   },
   {
-    'cartouche ': `in Egyptian hieroglyphics, an oblong outline enclosing the name of a pharoah of ancient Egypt and by extension an ornamental frame, usually in the shape of a scroll;`,
+    Gleipnir: `The magical binding that holds the mighty wolf Fenrir. It appears to be a mere silken ribbon but is made from six impossible ingredients and is incredibly strong.`,
   },
   {
-    'Чапарель ': `an impenetrable thicket of dwarf evergreen oaks or other shrubs and trees`,
+    'Исто́чник Ми́мира ': `в скандинавской мифологии источник мудрости, охраняемый великаном Мимиром.`,
   },
   {
-    'chinook ': `warm, moist wind that blows from the ocean onto the northwest coast of the United States; also a warm, dry wind that blows down the eastern side of the Rocky Mountains.`,
+    'Андхримнир ': `в скандинавской мифологии повар в Валхалле. Он кормит эйнхериев: готовит для них мясо вепря Сехримнира в котле Эльдхримнире.`,
   },
   {
-    'Pablo de Sarasate': `was a Spanish (Navarrese) violin virtuoso, composer and conductor of the Romantic period. His best known works include Zigeunerweisen (Gypsy Airs), the Spanish Dances, and the Carmen Fantasy.`,
+    'Wabi-Sabi ': `A Japanese aesthetic that finds beauty in imperfection and profundity in nature, accepting the natural cycle of growth and decay.`,
   },
   {
-    'Luciano Berio ': `(24 October 1925 – 27 May 2003) was an Italian composer noted for his experimental work (in particular his 1968 composition Sinfonia and his series of virtuosic solo pieces titled Sequenza), and for his pioneering work in electronic music. His early work was influenced by Igor Stravinsky and experiments with serial and electronic techniques, while his later works explore indeterminacy and the use of spoken texts as the basic material for composition.`,
+    Ikigai: `A Japanese concept meaning "a reason for being", referring to having a direction or purpose in life that makes one's life worthwhile.`,
   },
   {
-    'Анацуи ': `(born 1944) is a Ghanaian sculptor active for much of his career in Nigeria. He has drawn particular international attention for his "bottle-top installations". These installations consist of thousands of aluminum pieces sourced from alcohol recycling stations and sewn together with copper wire, which are then transformed into metallic cloth-like wall sculptures. `,
+    'Lagom ': `Swedish word meaning "just the right amount" or "not too much, not too little". The word can be variously translated as "in moderation", "in balance", "perfect-simple", "just enough", "ideal" and "suitable" (in matter of amounts).`,
   },
   {
-    'Arne Jacobsen': `(11 February 1902 – 24 March 1971) was a Danish architect and furniture designer. He is remembered for his contribution to architectural functionalism and for the worldwide success he enjoyed with simple well-designed chairs.`,
+    'Besa ': `Albanian cultural precept, usually translated as "faith" or "oath", that means "to keep the promise" and "word of honor".`,
   },
   {
-    'Allan Kaprow ': `(August 23, 1927 – April 5, 2006) was an American painter, assemblagist and a pioneer in establishing the concepts of performance art. He helped to develop the "Environment" and "Happening" in the late 1950s and 1960s, as well as their theory. His Happenings — some 200 of them — evolved over the years.`,
+    'Сила́т ': `обобщающее название для боевых искусств Малайского архипелага и полуострова Малакка в Юго-Восточной Азии. `,
+  },
+  {
+    'Фаюмские портреты ': `созданные в технике энкаустики погребальные портреты в Римском Египте I—III веков. Своё название получили по месту первой крупной находки в "" оазисе в 1887 году британской экспедицией во главе с Флиндерсом Питри.`,
+  },
+  {
+    'Джамский минарет ': `уникальный хорошо сохранившийся минарет XII века на северо-западе Афганистана. Высота — 65 метров. Второй по высоте исторический минарет из обожжённого кирпича в мире после Кутб-Минара в Дели. `,
+  },
+  {
+    'Дельта Окаванго': `самая большая внутренняя дельта планеты, не имеющая при этом стока в мировой океан. Находится на территории Ботсваны. Дельта заболочена, мелководна, главный источник воды в этом регионе, примыкающем к пустыне Калахари — это река "", стекающая с возвышенностей Анголы.`,
+  },
+  {
+    'О́пыт Ма́йкельсона — Мо́рли ': `экспериментальная попытка обнаружить существование светоносного эфира, гипотетической среды, заполняющей пространство, которая считалась носителем световых волн.`,
+  },
+  {
+    'Джоселин Белл Бернелл ': `британский астрофизик. Первооткрывательница нового класса астрономических объектов — пульсаров.`,
+  },
+  {
+    'Сигнал «Wow!», в русских публикациях — «сигнал „Ого-го!“»': `сильный узкополосный радиосигнал, зарегистрированный доктором Джерри Эйманом 15 августа 1977 года во время работы на радиотелескопе «Большое ухо» в Университете штата Огайо. Прослушивание радиосигналов проводилось в рамках проекта SETI.`,
+  },
+  {
+    'Заряд-демон (англ. Demon core) ': `название, данное подкритичному объёму плутония массой 6,2 кг, который участвовал в двух несчастных случаях в лаборатории Лос-Аламоса в 1945 и 1946 годах. В обоих случаях радиоактивное облучение в результате незапланированного перехода в надкритическое состояние приводило к гибели учёных, после чего сборка и получила своё название. Конструкция состояла из двух половин шаров плутония в дельта-фазе, покрытых слоем никеля, общей массой 6,2 кг`,
+  },
+  {
+    'Клерксдо́рпские шары́ (англ. Klerksdorp sphere) ': `сферические либо дискообразные объекты размером в несколько сантиметров с продольными углублениями и бороздами наподобие насечек, часто уплощённые и иногда сросшиеся друг с другом, которые находят в отложениях пирофиллита в Северо-Западной провинции ЮАР. Они были собраны шахтёрами в пирофиллите на месторождении, где этот минерал добывается. Возраст отложений составляет приблизительно 3 миллиарда лет. В псевдоархеологической литературе эти шары принято преподносить как «неуместные артефакты» из сложных металлических сплавов, которые могли быть изготовлены лишь разумными существами. В действительности, как установлено геологами, эти находки, возраст которых исчисляется миллиардами лет, имеют естественное происхождение, и не состоят из металла`,
+  },
+  {
+    'Polybius ': `якобы существующая игра для аркадных игровых автоматов, выпущенная в 1981 году и известная благодаря городской легенде, начало распространения которой прослеживается с 2000 года. Не существует авторитетных источников, доказывавших бы факт существования оригинальной версии игры, однако легенда стала источником вдохновения для создания нескольких бесплатных и коммерческих электронных игр с таким же названием. Городская легенда гласит, что игра являлась частью проводившегося американским правительством краудсорсингового психологического эксперимента, а её игровой процесс вызывал у игроков сильные психоактивные эффекты и игровую зависимость. Несколько размещённых в общедоступных игровых залах автоматов якобы посещались «людьми в чёрном» с целью сбора данных и анализа этих эффектов. `,
+  },
+  {
+    'Плитки Тойнби ': `сообщения неизвестного происхождения, появлявшиеся на асфальтированных дорогах приблизительно двадцати четырёх североамериканских и четырёх южноамериканских городов. В период с 1980-х годов было обнаружено несколько сотен таких сообщений.`,
+  },
+  {
+    'Dymaxion ': `«динамика, максимум, натяжение») — трёхколёсный автомобиль, спроектированный американским архитектором Ричардом Фуллером в 1933 году. Это торговая марка и имя, данное Фуллером нескольким своим изобретениям, чтобы подчеркнуть, что они — часть общего проекта по улучшению условий жизни.`,
+  },
+  {
+    'Танцевальная чума 1518 года': `вспышка танцевальной мании, произошедшая в Страсбурге в июле 1518 года. Около 400 человек без отдыха танцевали на улицах города несколько дней подряд. За это время многие из них скончались от сердечных приступов, инсультов или физического истощения.`,
+  },
+  {
+    'Война с эму': `операция по истреблению эму, осуществлённая в ноябре-декабре 1932 года вооружёнными силами Австралии. Причиной операции стали массовые жалобы фермеров по поводу колоссального числа эму, атаковавших посевы пшеницы в округе Кэмпион, Западная Австралия.`,
+  },
+  {
+    'Roberto Durán': `(born June 16, 1951) is a Panamanian Mexican former professional boxer who competed from 1968 to 2001. He held world championships in four weight classes: Lightweight, welterweight, light middleweight and middleweight. He also reigned as the undisputed and lineal lightweight champion and the lineal welterweight champion. He is also the second boxer to have competed over a span of five decades, the first being Jack Johnson`,
+  },
+  {
+    Седиль: `Used in languages like French and Portuguese, it appears as a comma-like mark under the letter "ç" to indicate a soft "c" sound, as in "garçon."`,
+  },
+
+  {
+    'Ogonek ': `Used in Polish and Lithuanian, it appears under consonants (e.g., "ą" or "ę") to indicate nasalization.`,
+  },
+  {
+    'Macron ': `Found in Latin and some other languages, it appears over vowels (e.g., "ā") to indicate a long vowel sound.`,
+  },
+  {
+    'háček ': `diacritical mark used in several languages to modify the pronunciation of certain letters. It looks like a small "v" or a checkmark (^) and is placed above various consonants or vowels.`,
+  },
+  {
+    'Santorio Santorio ': `(1561-1636): An Italian physician, often credited with inventing several medical devices including the clinical thermometer.`,
+  },
+  {
+    'Гео́рг Ре́тик ': `немецкий математик и астроном. Единственный ученик Николая Коперника, оказавший содействие в публикации его главного труда, и пропагандист его наследия.`,
+  },
+  {
+    Валькнут: `An old Norse symbol consisting of three interlocking triangles. It is often associated with the god Odin and represents the afterlife.`,
+  },
+  {
+    'Joseph Merrick ': `(1862-1890): Known as "The Elephant Man" due to severe deformities caused by what is now believed to be Proteus syndrome.`,
+  },
+  {
+    'Вишеградская группа': `объединение четырёх центральноевропейских государств: Польши, Чехии, Словакии и Венгрии`,
+  },
+  {
+    'Pacific Pumas ': `political and economic grouping of countries along Latin America’s Pacific coast that includes Chile, Colombia, Mexico and Peru. The term references the four larger Pacific Latin American emerging markets that share common trends of positive growth, stable macroeconomic foundations, improved governance and an openness to global integration.`,
+  },
+  {
+    'Росинья ': `самая известная из фавел Рио-де-Жанейро. Расположена на крутых склонах в южной части города между районами Сан-Конраду и Гавеа. Её население официально составляет 69161 человек. Это крупнейшая фавела страны. Реальная численность её населения может превышать 200 тысяч человек`,
+  },
+  {
+    'Зено́бия ': `(240 — после 274) — царица Пальмиры. Объявила о независимости от Рима, однако вскоре её войска были разбиты, а сама она пленена.`,
+  },
+  {
+    Tomyris: `is known only from the Greek historian Herodotus. According to him, she reigned over the Massagetae, an Iranian Saka people of Central Asia. She led her armies to defend against an attack by Cyrus the Great of the Achaemenid Empire, and defeated and killed him in 530 BC. She had his severed head placed in a bag or bowl filled with blood, saying to it "There: drink your fill of blood!"`,
+  },
+  {
+    Малинче: `переводчица, осведомительница и наложница Эрнана Кортеса, сыгравшая важную роль в завоевании Мексики испанцами.`,
   },
 ];

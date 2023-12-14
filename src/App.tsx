@@ -23,6 +23,8 @@ function App() {
   const location = useLocation();
   const includesJs = location.pathname === '/js';
 
+  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  // @ts-expect-error
   function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
       // Generate a random index lower than the current element
@@ -34,9 +36,10 @@ function App() {
     return array;
   }
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   function formatDataForWord(data: any) {
     let formattedText = '';
-    shuffleArray(data).forEach((item) => {
+    shuffleArray(data).forEach((item: { [x: string]: string }) => {
       for (const key in item) {
         formattedText += item[key] + '\n\n'; // Value as another paragraph
         formattedText += key + '\n\n'; // Key as one paragraph
