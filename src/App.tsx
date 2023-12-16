@@ -3,7 +3,7 @@ import styles from './App.module.scss';
 import { useLocation } from 'react-router-dom';
 import { questions } from './data/questions';
 import { questionsJs } from './data/questions-js';
-import FileSaver from 'file-saver';
+// import FileSaver from 'file-saver';
 // import { useEffect } from 'react';
 // import { db, getClues, setClues } from './firebase';
 
@@ -50,10 +50,11 @@ function App() {
 
   const formattedText = formatDataForWord(questions);
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const blob = new Blob([JSON.stringify(formattedText)], {
     type: 'text/plain;charset=utf-8',
   });
-  FileSaver.saveAs(blob, 'hello world.txt');
+  // FileSaver.saveAs(blob, 'hello world.txt');
 
   return (
     <div className={styles.wrapper}>
