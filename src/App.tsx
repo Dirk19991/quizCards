@@ -54,14 +54,13 @@ function App() {
   const blob = new Blob([JSON.stringify(formattedText)], {
     type: 'text/plain;charset=utf-8',
   });
+  console.log(blob);
   // FileSaver.saveAs(blob, 'hello world.txt');
 
   return (
     <div className={styles.wrapper}>
       {includesJs && <QuestionCard storageKey='js' questions={questionsJs} />}
-      {!includesJs && (
-        <QuestionCard storageKey='general' questions={questions} />
-      )}
+      {!includesJs && <QuestionCard storageKey='general' questions={questions} />}
     </div>
   );
 }
