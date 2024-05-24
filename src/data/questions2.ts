@@ -922,4 +922,622 @@ export const questions: Question[] = [
   {
     'OLD FAITHFUL': `The first geyser to be named in Yellowstone National Park was which world-famous cone geyser named after its extreme predictability? Since the turn of the millennium, it has erupted at least once every two hours. `,
   },
+  {
+    TELEMARK: `Which skiing technique, that combines elements of Alpine and Nordic skiing, is named after the region of Norway in which it originated? `,
+  },
+  {
+    Манефон: `Histories by Herodotus, Aegyptiaca [ay-jip-tee-AH-ka] was a chronological account of the pharaohs of ancient Egypt written in the third century BCE by which Egyptian priest?  `,
+  },
+  {
+    Turul: ` mythological bird of prey, mostly depicted as a falcon, in Hungarian tradition and Turkic tradition, and a national symbol of Hungarians.`,
+  },
+  {
+    'Ямная культура': `late Copper Age to early Bronze Age archaeological culture of the region between the Southern Bug, Dniester, and Ural rivers (the Pontic–Caspian steppe), dating to 3300–2600 BCE. It was discovered by Vasily Gorodtsov following his archaeological excavations near the Donets River in 1901–1903. Its name derives from its characteristic burial tradition `,
+  },
+  {
+    Жаманшин: `meteorite crater in Kazakhstan. It is 14 km in diameter and the age is estimated to be 900,000 ± 100,000 years (Pleistocene). The crater is exposed at the surface. It is believed that the crater is the site of the most recent meteorite impact event of the magnitude `,
+  },
+  {
+    'Maria RESSA': `CEO of the Filipino online news website Rappler and outspoken critic of the abuses of power, corruption, and authoritarianism of the Duterte regime, who is the most recent woman to win the Nobel Peace Prize in 2021? `,
+  },
+  {
+    'Henrietta Swan LEAVITT': ` Cepheid [SEE-fee-id] variable stars were studied by what American astronomer in the early 20th century, allowing for identification of "standard candles" without which Edwin Hubble could not have identified the expansion of the universe? `,
+  },
+  {
+    KINTSUGI: `What is the Japanese term for the artistic practice of repairing broken ceramics with a mixture of lacquer and powdered precious metal, usually gold? This appeared twice in the final season of Ted Lasso. `,
+  },
+  {
+    MAY: `flags of Argentina and Uruguay depict a sun representing the 1810 revolution that started their path to independence. This weeklong series of events took place in what month, as memorialized in the name of the sun figure? `,
+  },
+  {
+    'Emilie du CHATELET': `Well-known for her translation of Isaac Newton’s Principia Mathematica from Latin to French during the 18th century, which French natural philosopher demonstrated that the kinetic energy of an object was proportional to its mass and the square of its velocity and postulated a conservation law for the total energy of a system? `,
+  },
+  {
+    'DOMINICAN REPUBLIC': `In which country was a fashion designer Oscar de la Renta born in 1932? He was a recipient of the Order of Merit of Duarte, Sanchez and Mella award and the Order of Christopher Columbus.               `,
+  },
+  {
+    URUK: `by the legendary king Gilgamesh in the 27th century BC, which ancient city of Sumer, had extremely organized canal system described as “Venice of Desert”? `,
+  },
+  {
+    NIPPLES: `Commonly associated with strippers, burlesque shows and erotic entertainment, the pastie or stickini is a patch that cover what specific part of a body? `,
+  },
+  {
+    Songkok: ` felt cap in the shape of a truncated cone is commonly worn by males in much of southeast Asia, including by rulers such as Sukarno of indonesia?`,
+  },
+  {
+    JUVENTUS: `Calciopoli [cal-CHOP-oll-lee] scandal resulted in the relegation of which Italian football team from Serie A after being stripped of its 2004–05 league title? `,
+  },
+  {
+    'La Brea tar pits': ` What is the name of the tar pits located around Hancock Park in urban Los Angeles, a source of natural asphalt and also a significant place for the discovery of fossilised dinosaurs and other animals?`,
+  },
+  {
+    'Mel Blanc': `Which voice actor had the words ‘that’s all folks’ inscribed on his gravestone? It was the catchphrase of his character Porky Pig. `,
+  },
+  {
+    'Sandra Perković': `Which Croatian athlete won the gold medal in Women's Discus at both the 2012 and 2016 Olympic Games? She has also been World Champion twice and European champion five times. `,
+  },
+  {
+    'Eddie Adams': `Who won a Pulitzer Prize in 1969 for his iconic Vietnam War photograph depicting the summary execution of a Vietcong prisoner in the streets of Saigon? `,
+  },
+  {
+    'BEYOND MEAT': `Founded by Ethan Brown in 2009, which company has become a leader in plant-based meat substitutes, offering products that mimic the taste and texture of chicken, beef, and pork without the use of animal products? `,
+  },
+  {
+    'HAAST’S EAGLE': `Which now-extinct raptor, native to New Zealand, is considered the largest eagle ever to have existed, preying on large birds and even the flightless moa? `,
+  },
+  {
+    BOKEH: `In photography, which Japanese term describes the aesthetic quality of the blur in the out-of-focus parts of an image, often manifested as circular shapes? `,
+  },
+  {
+    '[Canaan] BANANA': ` Who was the first President of Zimbabwe, serving from 1980 to 1987, after which he was succeeded by Robert Mugabe?`,
+  },
+  {
+    'The Metropolitan Cathedral of Saints Vitus': `Dedicated to the patron saints of the Bohemian lands, which Gothic and neo-Gothic cathedral, located within Prague Castle, serves as the seat of the Archbishop of Prague?   `,
+  },
+  {
+    'GRAY RHINO': `Coined by Michele Wucker, which two-word term refers to highly probable, high impact threats that are often neglected despite being obvious and visible? `,
+  },
+  {
+    TRULLO: `Characterized by its conical limestone constructions with dry stone walls, which distinctive type of architecture is iconic in the Itria Valley in the region of Apulia, Italy? `,
+  },
+  {
+    'Лживость критян': ` Epimenides of Cnossos (or Epimenides of Crete) (Ἐπιμενίδης) was a semi-mythical 7th or 6th century BC Greek seer and philosopher-poet, from Knossos or Phaistos.`,
+  },
+  {
+    NOWRUZ: `what name is the Persian new year best known? It lands on the spring equinox and is celebrated throughout Central, Western, and South Asia as well as being a major holiday for the Persian diaspora worldwide. `,
+  },
+  {
+    Seychelles: `Accounting for only about one-third of the land area but more than 80% of the population, Mahé (Маэ) is the largest island of which island nation? `,
+  },
+  {
+    'Artemisia I of Caria': `Which queen of Halicarnassus was an ally of Xerxes I during his invasion of Greece? She personally commanded her navy’s fleet at the battle of Salamis and escaped the battle by deliberately ramming and sinking a friendly ship that was blocking her own ship’s path. `,
+  },
+  {
+    'BOBBY RIGGS': `In the celebrated Battle of the Sexes in 1973, who is the male player, a 2-time Grand Slam singles winner, who faced Margaret Smith-Court and Billie Jean King in two separate matches? He defeated Court in the first match but lost to King in the second `,
+  },
+  {
+    'BOCA JUNIORS & RIVER PLATE': `Considered to be one of the fiercest rivalries and one of the most important derbies in the world of (association) football, the Superclásico match is played between which two clubs ? `,
+  },
+  {
+    'Buenos Aires': `The inhabitants of which South American capital are referred to as "porteños" as they historically arrived by boat from Europe ? `,
+  },
+  {
+    '(CLEVELAND) INDIANS': `What was the former name of the Major League Baseball team Cleveland Guardians? They took its current name in 2021 out of political correctness as the former name was considered demeaning by liberal groups `,
+  },
+  {
+    'Baháʼí Faith': `Китаб-и-Агдас is the central text of which religion, and was written by its founder `,
+  },
+  {
+    Antares: `Which bright red star In the constellation Scorpio gets Its name because it was considered, by virtue of its similarly red colour, to be a rival of the planet Mars ? `,
+  },
+  {
+    Ариабхата: `Launched in 1975, India's first satellite was named for whom? Working in the sixth century AD, among this man’s achievements was an early close approximation of pi (62832/20000); creating algorithms for finding square and cubic roots; and speculation, as an astronomer, that the moon reflected the sun’s light `,
+  },
+  {
+    XEROPHYTE: `Which term, used in botany, describes a type of plant adaptation to extremely dry environments such as deserts, where the plants have evolved structural adaptations such as reduced leaf sizes and thick cuticles to minimize water loss? `,
+  },
+  {
+    Юманите: `Founded in 1904 by Jean Jaurès, which daily newspaper has historically been associated with the French Communist Party? `,
+  },
+  {
+    '[Nina] HAGEN': `Often called “The Godmother of German Punk”, which singer-songwriter (b.1955) began a career as a singer with the group Automobil, who gained notoriety with their debut single, "Du hast den Farbfilm Vergessen” in the 1970s? `,
+  },
+  {
+    '[Alexander] BELOV': `Which Soviet basketball player, a member of the national team, scored the winning basket against the United States in the controversial final of the 1972 Munich Olympics? `,
+  },
+  {
+    'Каори Итё': ` Which female freestyle wrestler is renowned for being the first woman to win four consecutive individual Olympic gold medals in 2004, 2008, 2012, and 2016? She also holds ten World Championships to her name.`,
+  },
+  {
+    'Диск из Небры': `Which archaeological artifact, dating back to approximately 1600 BC during the Bronze Age in Germany, is considered one of the oldest known realistic representations of the cosmos? `,
+  },
+  {
+    Катой: `Which term, originating from Thailand, is used to refer to a transgender woman or an effeminate gay male? `,
+  },
+  {
+    Kadesh: `Which battle of 1274 BC fought in modern-day Syria and a tactical victory for forces of Egypt's New Kingdom led by Ramesses II is the earliest battle in recorded history for which details of tactics and formations are known? `,
+  },
+  {
+    'NO DIRECTION HOME': `Which 2005 documentary film directed by Martin Scorsese focuses on the early life and career of Bob Dylan? The film’s three-word title comes from a lyric in one of Dylan’s best-known songs. `,
+  },
+  {
+    PESETA: `Before adopting the euro in 2002, what was the currency used in Spain? `,
+  },
+  {
+    VILLANELLE: ` A quatrain forms the final stanza of what nineteen-line poetic form? ‘Do not go gentle into that good night’ by Dylan Thomas is a notable example of a poem in this form. `,
+  },
+  {
+    'Jackie COOGAN': `The California Child Actor's Bill of 1939 is colloquially named in reference to what child actor, whose earnings were squandered by his parents? He later appeared as Uncle Fester in the 1960s television show The Addams Family. `,
+  },
+  {
+    KENneth: `What is the first name of the son of toy inventor Ruth Handler, now immortalized as the boyfriend of her most famous creation? `,
+  },
+  {
+    GLACIER: `The name of Dr. Bruce Lambert, a UN expert in geodesy and cartography and director of Australia's Division of National Mapping, lives on today as the name of what is widely believed to be the world's largest what? `,
+  },
+  {
+    myelin: `This substance is produced by oligodendrocytes in the CNS and Schwann cells in the PNS. Gaps in this substance called nodes of Ranvier allow for saltatory conduction. For 10 points, name this fatty substance that insulates nerves.  `,
+  },
+  {
+    'Eleanor Catton': `This author of Birnam Wood is best known for a novel set in the town of Hokitika in 1866 during a gold rush. For 10 points, name this Kiwi author of The Luminaries. `,
+  },
+  {
+    'Карл Адольф Гьеллеруп': ` Danish poet and novelist who together with his compatriot Henrik Pontoppidan won the Nobel Prize in Literature in 1917. He is associated with the Modern Breakthrough period of Scandinavian literature. He occasionally used the pseudonym Epigonos. `,
+  },
+  {
+    'Alva Myrdal': `a Swedish sociologist, diplomat and politician. She was a prominent leader of the disarmament movement. She, along with Alfonso García Robles, received the Nobel Peace Prize in 1982. She married Gunnar Myrdal in 1924; he received the Nobel Memorial Prize in Economic Sciences in 1974, making them the sixth ever married couple to have won Nobel Prizes (even if the Nobel Memorial Prize in Economic Sciences is not actually a Nobel Prize), and the first to win independent of each other (versus a shared Nobel Prize by scientist spouses). `,
+  },
+  {
+    'Óscar Arias': ` Costa Rican activist and Nobel Peace Prize laureate. He was President of Costa Rica from 1986 to 1990 and from 2006 to 2010. Arias was awarded the Nobel Peace Prize in 1987 for his proposal of a negotiated solution to the Central American crisis. He sought the support of the Contadora group for his plan, which involved the removal of all foreign powers from the region, an end to aid for antigovernment guerrillas in El Salvador and Nicaragua, and the implementation of democratic principles and a compromise peace for social reconstruction. Although his plan was not officially adopted, its key concepts were later reflected in the settlements in El Salvador (1990-1993) and Nicaragua (1989-1990).`,
+  },
+  {
+    'Carl Ransom Rogers': `was an American psychologist who was one of the founders of humanistic psychology and was known especially for his person-centered psychotherapy. `,
+  },
+  {
+    'Seretse Khama': `A United Kingdom is a film based on the true life story of a heir to the throne of Bechuanaland (now Botswana) and his romance with Ruth Williams, a white English women post WWII. The film follows their courtship and eventual marriage and the hardships they endured because of their racial differences in Bechuanaland and Southern Africa in general. Who was this man, who later became the first president of Botswana? `,
+  },
+  {
+    'Emerson FITTIPALDI': `Driving for both McLaren and Lotus, who was the most dominant Brazilian on the F1 circuit in the 1970s? He was born to an Italian father and a Polish mother.  `,
+  },
+  {
+    'ATLAS Mountains': `Located south of Marrakesh, Toubkal is the tallest mountain in which range (as well as the Arab world as a whole)? `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
+  {
+    '': ` `,
+  },
 ];
