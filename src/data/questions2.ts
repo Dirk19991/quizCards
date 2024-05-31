@@ -1208,6 +1208,272 @@ export const questions2: Question[] = [
     'PANAHI, Jafar ': `Which filmmaker was arrested in Iran in July after inquiring about the welfare of imprisoned colleagues Mohammad Rasoulof and Mostafa Aleahmad? His award-winning films include The White Balloon, Taxi, and Three Faces.`,
   },
   {
+    ASSEGAI: `The shorter stabbing spear called the iklwa (EEK-ull-wa) was used alongside what longer spear or javelin, sometimes thrown, by the Zulu army? It is still an important symbol of their cultural heritage.`,
+  },
+  {
+    'MELVILLE, Jean-Pierre ': `​1956's Bob le Flambeur predates Jean-Luc Godard's Breathless by four years making it a forefather to the French New Wave. Who directed this crime classic (and the post-wave crime film Le Cercle Rouge as well)?`,
+  },
+  {
+    'OYO Empire': `​What vast empire of West Africa was founded in the 14th century by Prince Oranyan and lasted until the 19th century when colonialism and conflicts with Dahomey diminished its influence? `,
+  },
+  {
+    'The TING TINGS': `​What British musical duo became a one-hit wonder in the US when their song "That's Not My Name" peaked in 2009?`,
+  },
+  {
+    jota: `Many regions of Spain have their own version of this traditional dance, performed in 3/4 or 6/8 time (similar to a waltz) with traditional musical instruments. Lyrics are written in eight-syllable quartets.`,
+  },
+  {
+    'Bartolome Murillo': `This Spanish Golden Age painter of the 1600's painted in the style of the Flemish Baroque and is famous for his depictions of street urchins and beggars. This work, "The Young Beggar", shows a boy de-lousing himself. `,
+  },
+  {
+    'Tirso de Molina': `This other playwright of the Spanish Golden Age is most famous for writing "The Trickster of Seville and the Stone Guest", which introduced the character of the lecherous seducer of women Don Juan. The Mozart opera "Don Giovanni" is based on this play.`,
+  },
+  {
+    'Теория праздного класса': `Veblen coined the concepts of conspicuous consumption and conspicuous leisure.`,
+  },
+  {
+    'Berkeley, George ': `( 12 March 1685 – 14 January 1753) – known as Bishop Berkeley (Bishop of Cloyne of the Anglican Church of Ireland) – was an Anglo-Irish philosopher whose primary achievement was the advancement of a theory he called "immaterialism" (later referred to as "subjective idealism" by others). This theory denies the existence of material substance and instead contends that familiar objects like tables and chairs are ideas perceived by the mind and, as a result, cannot exist without being perceived.`,
+  },
+  {
+    Māui: `Which Polynesian trickster is said to have slowed the Sun using lassos made of hair in order to lengthen the days? This folkloric figure shares his name with the second largest of the islands of Hawaii which he is said to have fished up from under the sea using his magical hook.`,
+  },
+  {
+    'Рубо, Франц': `русский живописец-баталист. Панорамы: «Штурм аула Ахульго» (1896, не сохранилась), «Оборона Севастополя»`,
+  },
+  {
+    Eigengrau: `dark light, or brain gray, is the uniform dark gray background color that many people report seeing in the absence of light.`,
+  },
+  {
+    'Фландеризация ': `процесс, характеризуемый тем, что в ходе сериала отличительные черты персонажа гиперболизируется до такой степени, что персонаж становится похожим на карикатуру на самого себя. `,
+  },
+  {
+    Scrat: `fictional character in the Ice Age franchise. He is a saber-toothed squirrel who is obsessed with collecting acorns, constantly putting his life in danger to obtain and defend them.`,
+  },
+  {
+    STUCKISM: `Originating in the late 1990s as a response to conceptual art and the Young British Artists, which art movement, co-founded by Billy Childish and Charles Thomson, opposes the pretensions of mainstream contemporary art? `,
+  },
+  {
+    'Хух-хото': `Which city serves as the capital of Inner Mongolia, an autonomous region of China? `,
+  },
+  {
+    '​WECHAT': `Which Chinese multi-purpose messaging, social media, and mobile payment app developed by Tencent is one of the world's largest standalone mobile apps?`,
+  },
+  {
+    'Полоса Аузу': `Which strip of land was at the heart of a territorial dispute between Libya and Chad, leading to a conflict that involved into the Toyota War? `,
+  },
+  {
+    'Дейтонские соглашения': `Signed in 1995, which agreement was crucial in bringing an end to the Bosnian War, establishing the framework for the nation of Bosnia and Herzegovina?`,
+  },
+  {
+    '​DOG YEARS': `Published in 1965, what is the third and last volume of the Danzig Trilogy by Günter Grass?`,
+  },
+  {
+    'WEININGER, Otto ': `Which Austrian philosopher and author (1880–1903) is known for his controversial book "Sex & Character," which analyzes gender and sexuality in philosophical terms?`,
+  },
+  {
+    'MAMOULIAN, Rouben ': `Which Georgia-born director was the first to stage such notable Broadway works as Oklahoma! (1943), Carousel (1945), and Lost in the Stars (1949)? `,
+  },
+  {
+    'Пелагиаль ': `In marine biology, which term, deriving from Ancient Greek for “open sea,” refers to the open water column of the ocean, as opposed to the ocean floor?`,
+  },
+  {
+    'TEDDY AWARD': `In the context of the Berlin International Film Festival, which award is presented annually to films and individuals that communicate queer themes and test the boundaries of cinematic art? `,
+  },
+  {
+    MOHEL: `In Jewish tradition, which person is trained to perform the ritual circumcision of a newborn male on the eighth day of his life? `,
+  },
+  {
+    'La VALETTE, Jean Parisot de': `Which revered leader successfully defended Malta against the Ottoman Empire during the Great Siege of 1565?`,
+  },
+  {
+    AVIANCA: `Founded in 1919 and headquartered in Bogotá, which airline stands as the flag carrier of Colombia and is the second oldest airline in the world still in operation? `,
+  },
+  {
+    'De Morgan, Augustus ': `Which British renowned 19th-century mathematician was the author of the three-volume "Formal Logic" and "Trigonometry and Double Algebra"? In propositional logic and Boolean algebra, the laws named after him allow the expression of conjunctions and disjunctions purely in terms of each other via negation.`,
+  },
+  {
+    'LOMBARDI, Lella': `Which racing driver is the only woman to register points in a Formula One world championship grand prix, earning half a point for placing sixth in Spain in 1975?`,
+  },
+  {
+    Sporran: `​What name is given to the item, worn as part of traditional highland regalia, which is a pouch made of leather of fur and worn in front of the wearer's groin in place of pockets (which are lacking in a kilt)? `,
+  },
+  {
+    'Воздушное погребение': `is a funeral practice in which a human corpse is placed on a mountaintop to decompose while exposed to the elements or to be eaten by scavenging animals, especially carrion birds like vultures and corvids. It is a specific type of the general practice of excarnation.`,
+  },
+  {
+    'Большой год ': `personal challenge or an informal competition among birders who attempt to identify as many species of birds as possible by sight or sound, within a single calendar year and within a specific geographic area.`,
+  },
+  {
+    'Princess Albertina': `female genital piercing, where a ring enters the urethra and exits through the top of the vagina. Anne Greenblatt described the Princess Albertina to Ralph H. in 1995 as a "relatively new and experimental piercing."`,
+  },
+  {
+    Moneygami: `shaping of paper currency, such as Indian rupees or United States dollars, into pieces of art. The word is a portmanteau of money and origami.`,
+  },
+  {
+    'Summer of Love  ': `social phenomenon that occurred during the summer of 1967, when as many as 100,000 people, mostly young people sporting hippie fashions of dress and behavior, converged in San Francisco's neighborhood of Haight-Ashbury.`,
+  },
+  {
+    'FORSBERG, Peter  ': `​Also named to the Hockey Hall of Fame in 2014, which ice hockey forward was part of both Sweden teams to win Winter Olympic gold medals? Nicknamed Peter the Great playing on his forename, he is considered among the best offensive players in history.`,
+  },
+  {
+    'Бойня при Петерлоо': `​Which event of 1819 saw a cavalry charge into a crowd of protestors in Manchester, many of which were textile workers demanding political representation during an economic depression? The name of this event is a pun on the name of a famous battle of the Napoleonic Wars.`,
+  },
+  {
+    'de SOTO, Hernando ': `Spanish explorer and conquistador led an expedition that saw the first European crossing of the Mississippi? He died on the river's banks in 1542.`,
+  },
+  {
+    'La Araucana': `a 16th-century epic poem in Spanish by Alonso de Ercilla, about the Spanish Conquest of Chile.`,
+  },
+  {
+    'Martín Fierro': `a 2,316-line epic poem by the Argentine writer José Hernández.`,
+  },
+  {
+    'Эффект Лазаря': `обнаружение в геологической летописи или в современности представителей таксона, который считался вымершим к этому времени. Другими словами — наличие кажущихся разрывов в палеонтологической истории таксона.`,
+  },
+  {
+    'TRAVELING WILBURYS': `​Bob Dylan, George Harrison, Jeff Lynne, Roy Orbison, and Tom Petty, all rock stars in their own right, recorded together in the 80s and 90s as what supergroup? `,
+  },
+  {
+    HIGHWOMEN: `​Brandi Carlile, Natalie Hemby, Maren Morris, and Amanda Shires, all country music stars in their own right, record together as what supergroup with a name that changes just one syllable of an all-male country music supergroup, making them sound more like stoners than bandits?`,
+  },
+  {
+    'Сущность христианства': `a book by Ludwig Feuerbach first published in 1841. It explains Feuerbach's philosophy and critique of religion. The book is often considered a classic of humanism and the author's magnum opus.`,
+  },
+  {
+    'Nozick, Robert ': `(November 16, 1938 – January 23, 2002) was an American philosopher. He held the Joseph Pellegrino University Professorship at Harvard University, and was president of the American Philosophical Association. He is best known for his books Anarchy, State, and Utopia (1974), a libertarian answer to John Rawls' A Theory of Justice (1971),`,
+  },
+  {
+    Monadology: `one of Gottfried Leibniz's best known works of his later philosophy. It is a short text which presents, in some 90 paragraphs, a metaphysics of simple substances, or monads.`,
+  },
+  {
+    'How the Other Half Lives': `is an early publication of photojournalism by Jacob Riis, documenting squalid living conditions in New York City slums in the 1880s. The photographs served as a basis for future "muckraking" journalism by exposing the slums to New York City's upper and middle classes.`,
+  },
+  {
+    Пхансори: `Caroline Shaw’s Partita for 8 Voices also used vocal techniques from which Korean genre of musical storytelling? This form of music is performed over several hours by a singer accompanied by a drummer, and the extreme demands on the singer can lead to their vocal cords bleeding. `,
+  },
+  {
+    'Federated States of Micronesia': `The capital of which country is located on the island of Pohnpei [Понпеи]? The state of Pohnpei is one of the four islands that make up this island nation along with Yap, Chuuk [chook], and Kosrae [koh-shye]. `,
+  },
+  {
+    'сонная болезнь': `Winterbottom's sign is a swelling of lymph nodes associated with the early phase of which disease transmitted to humans by the bite of an infected tsetse fly? `,
+  },
+  {
+    Сякухати: `Caroline Shaw collaborated with Riley Shaw on The Walking Man, a solo piece written for which Japanese instrument? This end-blown notch flute is traditionally made from bamboo and has a name meaning “1 foot and 8 tenths”.`,
+  },
+  {
+    Томирис: `During the 6th century BCE, which ancient queen reigned over the Massagetae [Массагеты], a nomadic Scythian [sith-ee-an] people from Central Asia? According to Herodotus her armies were responsible for killing Cyrus the Great in 530 BCE.`,
+  },
+  {
+    Veracruz: `Its residents known as Jalapeños [hal-a-pen-yohz], a name also given to the popular peppers cultivated here, the city of Xalapa [hal-appa] is the capital of which Mexican state? `,
+  },
+  {
+    FRELIMO: `Which political party has ruled Mozambique since independence in 1975? The party was founded in 1962 to fight for Mozambique’s independence and, between 1976 and 1992, it fought a bitter civil war against the anti-Communist faction RENAMO? `,
+  },
+  {
+    'Circle of Willis': `What arterial circle located at the base of the brain and named for an English physician supplies ~80% of oxygenated blood to the cerebrum ?`,
+  },
+  {
+    'Дочь шахтёра': `What song is associated with country singer Loretta Lynn (her signature song), which she recorded in 1970? The song narrates her humble beginnings in Butcher Hollow, Kentucky. This is also the title of the 1980 biopic about her life .`,
+  },
+  {
+    Decathlon: `Which Olympic event shares its name with a French goods retailer founded by Michel Leclercq ?`,
+  },
+  {
+    'Мадагаскарский план': `plan proposed by the Nazi German government to forcibly relocate the Jewish population of Europe to the island of Madagascar. Franz Rademacher, head of the Jewish Department of the German Foreign Office, proposed the idea in June 1940, shortly before the Fall of France. The proposal called for the handing over of control of Madagascar, then a French colony, to Germany as part of the eventual peace terms.`,
+  },
+  {
+    Gustave: `large male Nile crocodile in Burundi who is notorious for being a man-eater, rumored to have killed as many as 200–300 people on the banks of the Ruzizi River and the northern shores of Lake Tanganyika, between which he roams.`,
+  },
+  {
+    'Людоеды из Цаво': `два льва-людоеда, действовавших в районе река Цаво (современная Кения) в 1898 году, во время строительства Угандийской железной дороги.
+
+    `,
+  },
+  {
+    'LÉGER, ​Fernand ': `Which artist's style, termed as "Tubism", characterized by cylindrical forms, can be seen in his painting "The Card Players" (1917)?`,
+  },
+  {
+    'SODA STEREO': `Fronted by Gustavo Cerati, which Argentine rock band is often credited with establishing the "Rock en Español" movement in the 1980s and 1990s, and has hits like "De Música Ligera" and "En la Ciudad de la Furia"?`,
+  },
+  {
+    'GRAM, Hans Christian ': `Which Danish bacteriologist (1853–1938) is best known for developing a method of staining bacterial cells while viewing them under a microscope?`,
+  },
+  {
+    'Ишим ': `Which Central Asian river, running through the capital city of Astana, plays a crucial role in the country's agricultural and industrial sectors? A plain in the southern part of Western Siberia is named after this river.`,
+  },
+  {
+    'Pius (XII)': `A ​What was the regnal name of the Pope who reigned from 1939 to 1958 and whose role in World War II, and specifically the Church's inaction in relation to the Holocaust, has attracted much controversy ever since? You do not need his regnal number. `,
+  },
+  {
+    'Bonny, Anne  ': `an Irish pirate operating in the Caribbean, and one of the few female pirates in recorded history. What little that is known of her life comes largely from Captain Charles Johnson's 1724 book A General History of the Pyrates.`,
+  },
+  {
+    DRAUPNIR: `​Forged by the dwarven brothers Brokkr and Eitri, what is the name of a mythological gold ring possessed by Odin with the ability to multiply itself? According to the Gylfaginning, Odin placed this ring on the funeral pyre of his son Balder as a sign of respect.`,
+  },
+  {
+    VANUATU: `Coconut War was the name given to a 1980 conflict that took place shortly before and after the independence of which Pacific island nation? `,
+  },
+  {
+    'LEIGHTON, Frederick ': `​Which Victorian painter, whose former home is now an art museum in Holland Park, was noted for his lavish depictions of biblical and classical subject matter, including the 1895 work Flaming June?`,
+  },
+  {
+    'Памяти Каталонии': `​Which non-fiction book by George Orwell, whose title contains a region of Spain, describes his experiences fighting for the Republican faction during the Spanish Civil War, an experience that shaped his political outlook?`,
+  },
+  {
+    'van Meegeren, Hans ': `​Which infamous art forger, born in the Netherlands, copied the work of artists including Pieter de Hooch and Johannes Vermeer and famously sold Nazi Hermann Goering a forged painting? `,
+  },
+  {
+    'No Mercy': `impresario Frank Farian managed which US pop group who enjoyed a major UK hit in 1996 with a cover of the La Bouche song Where Do You Go?`,
+  },
+  {
+    'EYADÉMA, Gnassingbé ': `Which Togolese military officer, who seized power in a coup in 1967 and remained in office until his death in 2005? `,
+  },
+  {
+    'GLEESON, Jack ': `After The Game of Thrones aired, which Irish actor received a letter from author George R.R. Martin "Congratulations on your marvelous performance. Everyone hates you!", referring to his portrayal of Joffrey Baratheon?`,
+  },
+  {
+    DYCHTAU: `Which mountain, the second highest peak in Europe after Mount Elbrus, is located in the Caucasus Mountains in Kabardino-Balkaria?`,
+  },
+  {
+    MENES: `Around 3100 BCE, which ruler united the kingdoms of Upper and Lower Egypt, creating the first centralized state in history and becoming the founder of the First Dynasty?`,
+  },
+  {
+    Блейско: `Which lake in Slovenia has held the World Rowing Championship four times between 1966-2011?`,
+  },
+  {
+    'Перей, Маргарита': `The first female elected academician at the Académie des Sciences, who is the French physicist that discovered francium by purifying samples of lanthanum that contained actinium?`,
+  },
+  {
+    AARE: `At 291.5 km length, which tributary to High Rhine is the longest river that both rises and ends entirely within Switzerland? It is canalized at Interlaken above its entry into Lake Thun, at the lower end of which the river flows northwest in a deeply entrenched valley and almost encircles the medieval core of the city of Bern.              `,
+  },
+  {
+    'BERLINER, Emile ': `Which inventor's name is closely associated with the flat disc record, which was a significant improvement over Thomas Edison's cylinder phonograph design? He founded the United States Gramophone Company in 1894. `,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
     '': ``,
   },
   {
