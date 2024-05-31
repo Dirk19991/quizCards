@@ -1118,4 +1118,231 @@ export const questions2: Question[] = [
   {
     'Ars Moriendi («Искусство умирать»)': `название двух латинских текстов (публикуемых примерно с 1415 и 1450), повествующих о процедурах, предшествующих праведной смерти, и объясняющих, как «умереть хорошо» в соответствии с христианскими заповедями позднего средневековья. `,
   },
+  {
+    'Новая земля': `лирико-эпическая поэма Якуба Коласа, написанная в 1911—1923 годах, первое белорусское поэтическое произведение такого формата.`,
+  },
+  {
+    'pink ribbon': `an international symbol of breast cancer awareness. Pink ribbons, and the color pink in general, identify the wearer or promoter with the breast cancer brand and express moral support for people with breast cancer.`,
+  },
+  {
+    'pink triangle': `a symbol for the LGBT community, initially intended as a badge of shame, but later reclaimed as a positive symbol of self-identity. In Nazi Germany in the 1930s and 1940s, it began as one of the Nazi concentration camp badges, distinguishing those imprisoned`,
+  },
+  {
+    'Битва при Мальплаке': `in 1709, the Duke of Marlborough led alliance forces at which bloody battle of the War of the Spanish Succession? Estimates suggest that upwards of 30,000 men died in this battle fought near Taisnières-sur-Hon [tay-nyare sur on] in modern day France.`,
+  },
+  {
+    Додзин: `a group of people who share an interest, activity, or hobby. The word is sometimes translated into English as "clique", "fandom", "coterie", "society", or "circle" (as in "sewing circle").`,
+  },
+  {
+    MOZAMBIQUE: `​Running in the women's 800 meters in the 2000 Sydney Games, Maria de Lurdes Mutola [moo-TOH-la] became the first Olympic gold medalist ever from what African country?`,
+  },
+  {
+    'JUDGE, Mike': `​What animator spent most of his childhood in New Mexico, just next door to Texas where he set two of his most famous shows, King of the Hill and Beavis and Butt-Head? `,
+  },
+  {
+    FINNISH: `​What is the nationality of a fashion designer Maija Isola (1927—2001) who is best-known for creating the iconic Unikko print for fashion firm Marimekko? `,
+  },
+  {
+    Хаттуса: `столица древнего Хеттского царства. `,
+  },
+  {
+    'WILLIAMS, Mason': `​Which American guitarist had a hit in 1968 with his instrumental track ‘Classical Gas’? He later went on to be head writer on Saturday Night Live.`,
+  },
+  {
+    'The Tin Drum': `​Cat and Mouse (Кошки-мышки) and Dog Years (Собачьи годы) are the second and third instalments in a literary trilogy written by a German Nobel laureate that began with which novel of 1959?`,
+  },
+  {
+    'Tam O’Shanter': `​The name of which traditional Scots headgear, a flat felt cap with a tassel or bobble on top, comes from a Robert Burns poem of the same name about a heavy drinking farmer from Ayr?`,
+  },
+  {
+    Altiplano: `​Home to the dried-up Lake Poopó and the city of La Paz, which large Andean Plateau is the largest area of high plateau outside Tibet and has a Spanish name meaning "high plain"? `,
+  },
+  {
+    'Campione d’Italia': `​Which village in Italy is surrounded by the Swiss canton of Ticino and thus an exclave of Italy? Despite it being Italian, the Swiss Franc is the operating currency and the village is outside the EU VAT system.`,
+  },
+  {
+    'HUTTON, James ': `Which Geologist, born 1726, often referred to as the father of modern geology, advanced the idea that the physical world's remote history can be inferred from evidence in present-day rocks? He was one of the earliest proponents of what in the 1830s became known as uniformitarianism`,
+  },
+  {
+    'silent disco': `an event where people dance to music listened to on wireless headphones.`,
+  },
+  {
+    'Эксперимент Розенхана': `известный эксперимент, проведённый в 1973 году в США психологом Дэвидом Розенханом и поставивший под сомнение надёжность психиатрической диагностики. Эксперимент Розенхана проходил в два этапа. Первый этап включал привлечение психически здоровых «псевдопациентов», которые симулировали наличие непродолжительных слуховых галлюцинаций с целью попасть в 12 различных психиатрических больниц[3], расположенных в пяти различных американских штатах. Все они были госпитализированы, и у всех были выявлены психические расстройства. После госпитализации псевдопациенты вели себя адекватно и сообщали персоналу о том, что чувствуют себя хорошо и уже не испытывают никаких галлюцинаций.`,
+  },
+  {
+    'Двухщелевой опыт': `является демонстрацией того, что свет и материя в целом могут проявлять характеристики как классических волн, так и частиц; кроме того, он отображает фундаментально вероятностный характер квантово-механических явлений. Впервые опыт был проведён Томасом Юнгом со светом в 1801 году.`,
+  },
+  {
+    'Русский эксперимент со сном': `городская легенда, рассказывающая об эксперименте советских учёных по депривации сна, поставленном на заключённых ГУЛАГа и окончившимся ужасными последствиями.`,
+  },
+  {
+    'Опыт Милликена': `The experiment entailed observing tiny electrically charged droplets of oil located between two parallel metal surfaces, forming the plates of a capacitor. The plates were oriented horizontally, with one plate above the other. A mist of atomized oil drops was introduced through a small hole in the top plate and was ionized by x-rays, making them negatively charged. First, with zero applied electric field, the velocity of a falling droplet was measured. At terminal velocity, the drag force equals the gravitational force. As both forces depend on the radius in different ways, the radius of the droplet, and therefore the mass and gravitational force, could be determined (using the known density of the oil). Next, a voltage inducing an electric field was applied between the plates and adjusted until the drops were suspended in mechanical equilibrium, indicating that the electrical force and the gravitational force were in balance. Using the known electric field, Millikan and Fletcher could determine the charge on the oil droplet. By repeating the experiment for many droplets, they confirmed that the charges were all small integer multiples of a certain base value, which was found to be 1.5924(17)×10−19 C, about 0.6% difference from the currently accepted value of 1.602176634×10−19 C.[7] They proposed that this was the magnitude of the negative charge of a single electron.
+
+    `,
+  },
+  {
+    'Опыт с капающим пеком': `долгосрочный эксперимент, который измеряет скорость движения куска пека в течение многих лет. Пек в данном случае — это название любой возможной жидкости с высоким показателем вязкости, которые являются формально твёрдыми веществами; чаще всего это битум. `,
+  },
+  {
+    'Опыт Майкельсона — Морли': `экспериментальная попытка обнаружить существование светоносного эфира, гипотетической среды, заполняющей пространство, которая считалась носителем световых волн. Эксперимент был проведён в период с апреля по июль 1887 года американскими физиками Альбертом А. Майкельсоном и Эдвардом У. Морли в Кейсовском университете Западного резерва в Кливленде, штат Огайо, и опубликован в ноябре того же года`,
+  },
+  {
+    'Эксперимент Миллера — Юри': `известный классический эксперимент, в котором моделировались гипотетические условия раннего периода развития Земли для проверки возможности химической эволюции. Фактически это был экспериментальный тест гипотезы, высказанной ранее Александром Опариным и Джоном Холдейном, о том, что условия, существовавшие на примитивной Земле, способствовали химическим реакциям, которые могли привести к синтезу органических молекул из неорганических.`,
+  },
+  {
+    'Менелик I': `легендарный первый царь Эфиопии. Согласно легенде, Менелик жил в X веке до н. э. и был основателем Соломоновой династии, с перерывами правившей в Эфиопии до второй половины XX века.`,
+  },
+  {
+    'Кривая Филлипса': `until the 1970s seemed to be an accurate description of how economies in developed nations usually operated, illustrates an inverse relationship between the rate of unemployment and rate of inflation`,
+  },
+  {
+    'Непотопляемый Сэм': `корабельный кот, служивший в годы Второй мировой войны на немецком линкоре, британском эсминце, а позже на авианосце, пережил гибель всех трёх кораблей и умер на берегу в 1955 году.`,
+  },
+  {
+    'Павлиний трон': `золотой трон Великих Моголов`,
+  },
+  {
+    'Это не фильм': `иранский документальный фильм режиссёра Джафара Панахи 2011 года. Фильм был снят режиссёром, находящимся под домашним арестом в ожидании приговора. Картина была контрабандным путём вывезена из Ирана, будучи записана на флеш-память и спрятана внутри торта ко дню рождения.`,
+  },
+  {
+    'PANAHI, Jafar ': `Which filmmaker was arrested in Iran in July after inquiring about the welfare of imprisoned colleagues Mohammad Rasoulof and Mostafa Aleahmad? His award-winning films include The White Balloon, Taxi, and Three Faces.`,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
 ];
