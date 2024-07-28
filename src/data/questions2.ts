@@ -1450,165 +1450,324 @@ export const questions2: Question[] = [
     'BERLINER, Emile ': `Which inventor's name is closely associated with the flat disc record, which was a significant improvement over Thomas Edison's cylinder phonograph design? He founded the United States Gramophone Company in 1894. `,
   },
   {
-    '': ``,
+    'Шкала ураганов Саффира — Симпсона': `Co-developed in the early 1970s by an American civil engineer and
+meteorologist, which scale categorizes hurricanes on a level from 1 to 5 based
+on their sustained wind speed and potential for damage?`,
   },
   {
-    '': ``,
+    GALICIJA: `Which autonomous community in northwest Spain is known for its pilgrimage
+site of Santiago de Compostela?`,
   },
   {
-    '': ``,
+    'Сун Мэйлин': `китайский политический деятель, жена Чан Кайши. Младшая из трёх «сестёр Сун», сыгравших значительную роль в истории Китая XX века.`,
   },
   {
-    '': ``,
+    'PURPLE HAZE': `Which 1967 song by Jimi Hendrix was ranked by Q magazine in 2005 at number
+one in its list of the "100 Greatest Guitar Tracks Ever!"? The song’s line “‘Scuse
+me while I kiss the sky” is an extremely famous mondegreen, which is
+commonly misheard as “excuse me while I kiss this guy.`,
   },
   {
-    '': ``,
+    'Суд в Ривонии': `Which historic trial, named after the suburb of Johannesburg, where 10 ANC
+leaders, including Nelson Mandela, were arrested, led to a life sentence for
+most of the accused due to their fight against apartheid?`,
   },
   {
-    '': ``,
+    STRONTIUM: `Discovered in 1790 by Adair Crawford and William Cruickshank, which chemical
+element with atomic number 38 is often used in fireworks to produce a red
+flame?`,
   },
   {
-    '': ``,
+    'Движение «Зелёный пояс»': `Founded by Nobel Peace Prize winner, Wangari Maathai, the _____ ___
+Movement is an indigenous grassroots organization in Kenya that empowers
+women through the planting of trees. Which two words are omitted in the
+name of organization?`,
   },
   {
-    '': ``,
+    'Аэропорт Принцессы Юлианы': `Located in the Caribbean island of Saint Martin, which airport is famous for its
+proximity to the beach, making plane landings appear extremely low and close
+to sunbathers? The person, after whom it got its name, first visited the island
+using the airport in 1944.`,
   },
   {
-    '': ``,
+    Каструм: `распространённый во времена античности тип римского военного поселения, постоянный военный лагерь, аналог современных военных баз. Благодаря каструмам Римская империя смогла утвердиться не только в прибрежном Средиземноморье, но и покорить ряд внутренних регионов Европы.`,
   },
   {
-    '': ``,
+    Гавар: `Entirely owned and operated by Saudi Aramco, which oil field, located in the
+Eastern Province of Saudi Arabia, is the world's largest conventional oil field?`,
   },
   {
-    '': ``,
+    'CRASH BANDICOOT': `Which video game character, created by Naughty Dog, navigates through
+various levels to defeat his nemesis Dr. Neo Cortex? He is often accompanied
+by his sister Coco and mask protector Aku Aku.`,
   },
   {
-    '': ``,
+    Хамхын: `With an estimated population of 768,551, which city is the second-most
+populous in North Korea? It was 80–90% destroyed by American air raids during
+the Korean War and later reconstructed by a German architect, Konrad Püschel.`,
   },
   {
-    '': ``,
+    'Egan BERNAL': `Which male Colombian cyclist, riding for Team Ineos, became the first Latin
+American to win the Tour de France in 2019 and also clinched the Giro d'Italia
+in 2021?`,
   },
   {
-    '': ``,
+    'Замок Вартбург': `Which historic castle located in Thuringia was the site where Martin Luther
+translated the New Testament into German while in hiding? (Библия Лютера)`,
   },
   {
-    '': ``,
+    'Kevin KEEGAN': `Which former English footballer, playing for clubs such as Liverpool and
+Hamburg, won the Ballon d'Or twice? He later managed Newcastle United and
+the English national team.`,
   },
   {
-    '': ``,
+    'MERSENNE prime': `Which type of prime numbers are named after a French mathematician, and
+have the form 2ᵖ − 1, with "p" itself being a prime number? These primes are
+central to number theory and have important applications in computer science`,
   },
   {
-    '': ``,
+    'Пещера Верёвкина': `Discovered in 1968, which cave in Abkhazia is the deepest-known cave on Earth? `,
   },
   {
-    '': ``,
+    'Квашиоркор ': `Which severe form of malnutrition, often affecting children in developing countries, is characterized by edema, skin changes, and liver damage, usually due to a protein-poor diet? This term was introduced by Jamaican pediatrician Cicely Williams in 1935.              `,
   },
   {
-    '': ``,
+    'Grigoris LAMBRAKIS': `Which prominent Greek politician and doctor was known for his peace activism and was assassinated in 1963, an event that led to massive protests and a political crisis in Greece? His lifeand death inspired the author Vassilis Vassilikos to write the political novel "Z"              `,
   },
   {
-    '': ``,
+    '[Rodney] KING': `In 1992, Dr. Dre released "The Day The N****z Took Over" on The Chronic, a song that refers to the looting, rioting, and anger that occurred after the police who had beaten which man?`,
   },
   {
-    '': ``,
+    'Сражение при Омдурмане ': `Which battle of 1898 marked the British army's successful conclusion of the Sudan Campaign and became infamous for its controversial use of machine guns against spear-armed tribesmen?`,
   },
   {
-    '': ``,
+    'William DAMPIER': `Which English explorer and navigator became the first person known to have made three separate trips to the Pacific Ocean and circumnavigate the globe three times, recording the wind and current patterns of the oceans?`,
   },
   {
-    '': ``,
+    'Роже Мартен дю Гар': `a French novelist, winner of the 1937 Nobel Prize in Literature. Trained as a paleographer and archivist, he brought to his works a spirit of objectivity and a scrupulous regard for detail, and because of his concern with documentation and the relationship of social reality to individual development, his fiction has been linked with the realist and naturalist traditions of the 19th century. His sympathy for the humanist socialism and pacifism of Jean Jaurès is evident in his work. He is best known for The Thibaults, a multi-volume roman fleuve which follows the fortunes of two brothers, Antoine and Jacques Thibault, from their upbringing in a prosperous Catholic bourgeois family to the end of the World War`,
   },
   {
-    '': ``,
+    'Дочери Билитис': `​What early Lesbian rights organization, named in part for a fictional lover of Sappho, published the magazine The Ladder from 1956 to 1972 which provided a lifeline to lesbian women around the country?`,
   },
   {
-    '': ``,
+    'Manute BOL': `Boxing once featured a match between Refrigerator Perry and what tallest-ever NBA player? The son of a Dinka elder, he still ranks second in NBA history in blocks per game.`,
   },
   {
-    '': ``,
+    'Джозеф Джон Томсон': `The plum pudding model of the atom imagined electrons imbedded in a positively charged atom as an attempt to explain why electrons had a negative charge while atoms did not. It was proposed by which physicist after his discovery of the electron in the cathode ray tube experiment?`,
   },
   {
-    '': ``,
+    Bukhara: `Which historic Uzbek city on the Silk Road is home to the imposing Kalyan Minaret (Минарет Калян) and served as the capital of the Samanid Empire in the 9th and 10th centuries? Despite being in Uzbekistan, this city’s inhabitants are primarily Tajik speakers.`,
   },
   {
-    '': ``,
+    Merv: `Located near today's Mary in Turkmenistan, and known in ancient times as both Alexandria and Antiochia, which major city on the Silk Road was the centre of the satrapy of Margiana? Sometimes claimed to have been the world’s largest city during the mid-12th century, this city was completely deserted by the late 19th century.`,
   },
   {
-    '': ``,
+    Квагга: `Hunted to extinction in the late 19th century, which subspecies of plains zebra, endemic to South Africa, was distinguished from other zebras by its pattern of primarily brown and white stripes on the front of its body?`,
   },
   {
-    '': ``,
+    'Margaret Mead': `American cultural anthropologist who featured frequently as an author and speaker in the mass media during the 1960s and the 1970s.`,
   },
   {
-    '': ``,
+    'Я и Ты': `a book by Martin Buber, published in 1923, and first translated from German to English in 1937. Buber's main proposition is that we may address existence in two ways: One of the major themes of the book is that human life finds its meaningfulness in relationships. In Buber's view, all of our relationships bring us ultimately into relationship with God, who is the Eternal Thou. Martin Buber said that every time someone says Thou, they are indirectly addressing God.`,
   },
   {
-    '': ``,
+    Galicia: `This autonomous community, whose major cities include A Coruña and Lugo, is perhaps most famous for speaking a language that is very close to Portuguese. It is not to be confused with a similarly-named region in southern Poland.`,
   },
   {
-    '': ``,
+    Asturias: `Just as the heir to the British throne is Prince of Wales, the heir to the Spanish throne is prince of this autonomous community of northern Spain. Its capital is the city of Oviedo.`,
   },
   {
-    '': ``,
+    'Condor Legion': `The bombing above was performed in part by which German military unit, composed of members of the Wehrmacht and Luftwaffe who were sent to Spain by Adolf Hitler?`,
   },
   {
-    '': ``,
+    'Michel Ney': `​Which French Marshal, hailed by Napoleon as the "Bravest of the Brave," led the unsuccessful massed cavalry charges at Waterloo and was executed by firing squad on the Bourbon restoration?`,
   },
   {
-    '': ``,
+    'Книга пяти колец': `философский трактат, написанный в XVII веке самураем Миямото Мусаси. Книга посвящена искусству стратегии. В ней описаны различные школы владения мечом, сказано каким видом оружия где и когда нужно пользоваться.`,
   },
   {
-    '': ``,
+    '«Анко́р, ещё анко́р!': `неоконченная картина русского живописца Павла Андреевича Федотова (1815—1852), его последнее творение.`,
   },
   {
-    '': ``,
+    'Повесть о капитане Копейкине': `повесть в составе десятой главы первого тома поэмы Николая Гоголя «Мёртвые души». Повесть рассказывает о герое войны 1812 года, потерявшем здоровье и средства к существованию. Капитан Копейкин теряет руку и ногу во время сражения. Неспособный на труд, он отправляется к отцу, но тот ему ничем не может помочь. Он отправляется в Петербург, надеясь на вознаграждение за службу и компенсацию инвалидности. Чиновники обещают рассмотреть его дело по приезде «монаршей милости», находящегося за границей. После настойчивых визитов Копейкин так и не добивается результата. Через некоторое время в рязанских лесах появляется банда, предположительно возглавляемая Копейкиным.`,
   },
   {
-    '': ``,
+    'The Invisible Pink Unicorn': `goddess of a parody religion used to satirize theistic beliefs, taking the form of a unicorn that is paradoxically both invisible and pink. The IPU is a rhetorical illustration used by atheists and other religious skeptics as a contemporary version of Russell's teapot, sometimes mentioned in conjunction with the Flying Spaghetti Monster.`,
   },
   {
-    '': ``,
+    'Manuel BELGRANO': `Which man, born to an Italian father in Buenos Aires in 1770, created the flag of Argentina and is regarded as a father of the country?`,
   },
   {
-    '': ``,
+    'Charles Darrow': `credited as the inventor of the board game Monopoly?`,
   },
   {
-    '': ``,
+    'ARNOLD PALMER': `non-alcoholic drink made from iced tea and lemonade is named for what American golfer? `,
   },
   {
-    '': ``,
+    'Кратер Вредефорт': `Larger than the Chicxulub crater and located in South Africa, what is the largest known impact structure on earth? It formed over two billion years ago, and the crater has since been widely eroded. `,
   },
   {
-    '': ``,
+    'Швейцарская семья Робинзонов': `​The four boys Fritz, Ernst, Jakob, and Franz – whose last name is actually unknown in the original – are principal characters in what popular novel of 1812?`,
   },
   {
-    '': ``,
+    Мизанплас: `​What French culinary term refers to the practice of preparing and organizing all ingredients and tools before cooking begins? `,
   },
   {
-    '': ``,
+    'Nellie BLY': `1887, Joseph Pulitzer hired what journalist, assigned her to go undercover at NYC's Woman's Lunatic Asylum, publishing her exposé in the "New York World" and later in her book "Ten Days in a Mad House"? She is also well-known for a notable trip and travelogue. `,
   },
   {
-    '': ``,
+    'Фунес, чудо памяти': `​In a short story by Jorge Luis Borges, what is the name of the teenage Uruguayan boy who, after falling off a horse and receiving a bad head injury, acquires a prodigious memory, which turns out to be a curse as much as a blessing?`,
   },
   {
-    '': ``,
+    'Питер де Хох': `​Which contemporary of Johannes Vermeer painted The Courtyard of a House in Delft, which is on show in London's National Gallery? Like many of his paintings it shows a domestic scene and light coming through an open doorway. `,
   },
   {
-    '': ``,
+    'Phil Jackson': `​In addition to the two NBA championships he won as a player, which basketball coach led the Chicago Bulls and the LA Lakers to a combined total of eleven championship wins between 1987 and 2011?`,
   },
   {
-    '': ``,
+    'Мост короля Фахда': `комплекс мостов и плотин, связывающих город Эль-Хубар (Саудовская Аравия) с островным государством Бахрейн.`,
   },
   {
-    '': ``,
+    'Cicada 3301': `​There are numerous theories about who originated the US conspiracy theory QANON. One theory claims it was originated by which organisation, which on three occasions has posted sets of puzzles online in an effort to recruit codebreakers from the public?`,
   },
   {
-    '': ``,
+    Belvedere: `​Which Baroque palace complex in Vienna was built as a summer residence for Prince Eugene of Savoy and now houses a museum which contains Gustav Klimt's The Kiss?`,
   },
   {
-    '': ``,
+    Astatine: `​Francium is the second rarest element in nature with little more than 30 grams in total existing at any one time in the earth's crust. Which halogen with atomic number 85 whose name means "unstable" is rarest, with only one gram in the earth's crust at any one time? `,
   },
   {
-    '': ``,
+    'Orion’s Belt': `​What two-word name is given to the asterism formed by Alnitak, Alnilam and Mintaka? Finding this distinctive asterism is the easiest way of locating its namesake constellation.`,
+  },
+  {
+    Megiddo: `​Which battle of 1457 BC fought in modern-day Israel and a victory for Egyptian forces led by Thutmose III is the earliest battle in history for which relatively reliable details are known, although not to the same level of detail as for Kadesh?`,
+  },
+  {
+    'Грязная война': `​Isabel Perón has been shown to have been instrumental in which period of state terrorism that saw the Argentine Anticommunist Alliance hunt down political dissidents? As many as 30,000 people disappeared during this campaign, which formed part of the USbacked Operation Condor across South America.`,
+  },
+  {
+    'Матери площади Мая': `общественное движение, ассоциации аргентинских матерей, чьи дети исчезли во время проведения политики «Грязной войны» в период военной диктатуры`,
+  },
+  {
+    SHRINKFLATION: `​What portmanteau term based on “inflation” describes the reduction in size or reformulation of a product to lesser standards as its price remains the same or increases?`,
+  },
+  {
+    'Пещера рук': `​What Argentinian UNESCO World Heritage Site is notable for its hundreds of body parts stenciled onto rock walls, dating back in some cases over nine thousand years?`,
+  },
+  {
+    'Банановые войны': `series of conflicts that consisted of military occupation, police action, and intervention by the United States in Central America and the Caribbean between the end of the Spanish–American War in 1898 and the inception of the Good Neighbor Policy in 1934.`,
+  },
+  {
+    'Бача-бази': `practice in which men buy and keep adolescent boys for entertainment and sex. It is a custom in Afghanistan and in historical Turkestan and often involves sexual slavery and child prostitution by older men of young adolescent males.`,
+  },
+  {
+    Декупаж: `art of decorating an object by gluing colored paper cutouts onto it in combination with special paint effects, gold leaf, and other decorative elements. Commonly, an object like a small box or an item of furniture is covered by cutouts from magazines or from purpose-manufactured papers. Each layer is sealed with varnishes (often multiple coats) until the "stuck on" appearance disappears and the result looks like painting or inlay work.`,
+  },
+  {
+    'Rich Uncle PENNYBAGS': `​Also known simply as Mr Monopoly, what is the name of the mascot for the board game Monopoly?`,
+  },
+  {
+    '​Brandon FLOWERS': `​Who is the lead singer of the American band the Killers?`,
+  },
+  {
+    SNAFU: `acronym that is widely used to stand for the sarcastic expression Situation normal: all fucked up. It is a well-known example of military acronym slang. It is sometimes censored to "all fouled up" or similar. It means that the situation is bad, but that this is a normal state of affairs.`,
+  },
+  {
+    'В мире безмолвия': `a 1956 French documentary film co-directed by Jacques Cousteau and Louis Malle`,
+  },
+  {
+    'Безмолвный пациент': `2019 psychological thriller novel written by British–Cypriot author Alex Michaelides.`,
+  },
+  {
+    'Симфоническая поэма для 100 метрономов': `произведение Дьёрдя Лигети, созданное в 1962 году. Пьеса «исполняется» сотней метрономов, заранее запрограммированных на воспроизведение заданного темпа и музыкального размера. Все метрономы начинают играть одновременно, создавая единый механический аритмический шум.`,
+  },
+  {
+    Паркран: `еженедельные мероприятия, где необходимо пробежать или пройти дистанцию 5 километров, проводящиеся в городских парках во многих странах мира. `,
+  },
+  {
+    'Schönbrunn Palace': `​Which Rococo palace in Vienna served as the main summer residence of the Habsburg dynasty? The imperial menagerie within its grounds still exists in the form of Vienna zoo. `,
+  },
+  {
+    'Пятая власть': `Which 2013 film directed by Bill Condon stars Benedict Cumberbatch as WikiLeaks editor-in-chief and founder Julian Assange and Daniel Brühl as its former spokesperson Daniel Domscheit-Berg?`,
+  },
+  {
+    ETSY: `Which American e-commerce company is focused on handmade or vintage items and craft supplies? It has over 100 million items in its marketplace and the online marketplace for handmade and vintage goods connected 7.5 million sellers with 95.1 million buyers.`,
+  },
+  {
+    OROMO: `Which ethnic group constitutes the largest population in Ethiopia, speaking a language of the same name?`,
+  },
+  {
+    'Waldemar CIERPINSKI': `Which East German athlete clinched gold medals in the marathon at consecutive Olympic Games (1976 and 1980), becoming one of three men to achieve this feat? `,
+  },
+  {
+    'YAP (refers to local stone money)': `This is a flag of which island group, located in the Caroline Islands of the western Pacific Ocean?`,
+  },
+  {
+    'Страговский стадион': `стадион на вершине Страговского холма в чешском городе Прага. Согласно некоторым источникам[2], имеет самую большую в мире площадь поля (63 000 м²), а трибуны могут вместить более 220 000 зрителей. Являлся одним из самых известных в Чехословакии строений из железобетонных панелей, строительство которого внесло вклад в разработку технологий современного строительства. Основным назначением было проведение слётов Сокольского движения`,
+  },
+  {
+    ' [Ludwig Ritter von] KÖCHEL': `Which Austrian musicologist and writer is most known for cataloging the works of Wolfgang Amadeus Mozart, creating a systematic ordering—often referred to with a "K" number—thus establishing a clear chronology of the composer's creations?`,
+  },
+  {
+    Вязальщицы: `Which French term was used to refer to the women who sat beside the guillotine during the French Revolution, notably knitting between executions, and have since been symbolically referenced in various cultural and literary contexts due to their paradoxical presence amidst the violence?`,
+  },
+  {
+    '[Lee] STRASBERG': `Which acting teacher is famous for portraying the primary antagonist, the gangster Hyman Roth, in The Godfather Part II (1974)?`,
+  },
+  {
+    'SHIVA HYPOTHESIS': `Also known as coherent catastrophism, which hypothesis named after Hindu god is the idea that global natural catastrophes occur on Earth at regular intervals because of the periodic motion of the Sun?              `,
+  },
+  {
+    'DA VINCI`S DEMONS': `Which TV series, running from 2013 to 2015, showcases the 'untold' story of a famous individual, played by Tom Riley, presenting him as an eccentric genius during Italy's Renaissance period? `,
+  },
+  {
+    GWADAR: `Which port city on the southwestern coast of Balochistan, Pakistan, is located on the Arabian Sea opposite Oman and plays a crucial role in the China–Pakistan Economic Corridor (CPEC)?`,
+  },
+  {
+    'JACKIE STEWART': `Who is the 3-time Formula One Drivers Champion nicknamed The Flying Scot? He won the title in 1969, 1971 and 1973 and is the last surviving F1 champion from the 1960s, as well as the oldest living F1 winner`,
+  },
+  {
+    'Kaia Gerber': `Which American supermodel was named Model of the Year at the 2018 British Fashion awards? This woman is the daughter of Cindy Crawford`,
+  },
+  {
+    Nok: `Which Iron Age culture from north west Nigeria, which lasted from around 1500 BC to 500 AD, is knowjn for its distinctive terracotta sculptures ?`,
+  },
+  {
+    Mbalax: `Youssou N’Dour is probably the best known exponent of which style of music, the national dance music of Senegal and the Gambia, which fuses Western sounds such as jazz and soul with sabar, Senegal's traditional drumming and dance music ?`,
+  },
+  {
+    'Театр масок Кхон': `​Arising during the Ayutthaya Kingdom, what form of masked dance drama accompanied by narrators is a Thai entry on UNESCO's list of intangible cultural heritage? The traditional form usually includes heroes, heroines, ogres, and monkeys as characters. `,
+  },
+  {
+    'Rick ALLEN': `​Who is the drummer for Def Leppard who thought he'd never play again after his left arm was amputated following a car crash, but with some adaptation has continued to tour and play with the band?`,
+  },
+  {
+    'SOMBRERO galaxy': `​A dark dust lane in its outer disk and large central bulge were the reason for the colloquial name of what galaxy with a huge black hole at its center, designated Messier Object 104?`,
+  },
+  {
+    WARREN: `In the Conjuring film franchise, what is the last name of the paranormal investigator couple who face the supernatural forces tormenting multiple families?`,
+  },
+  {
+    Перигелий: `ближайшая к Солнцу точка орбиты планеты или иного небесного тела Солнечной системы, а также расстояние от этой точки до центра Солнца (более точно — перигелийное расстояние).`,
+  },
+  {
+    Афелий: `наиболее удалённая от Солнца точка орбиты планеты или иного небесного тела Солнечной системы.
+
+`,
+  },
+  {
+    'Гоба ': `Thought to have landed in the last 80,000 years, and discovered in 1920 in a farm near Grootfontein in Namibia, what is the name of the largest known intact meteorite on Earth?`,
+  },
+  {
+    Derg: `Meaning ‘committee’ or ‘council’ in the Ge’ez [gee-ez] language, what was the name of the communist military junta that came to power in Ethiopia following the ousting of Haile Selassie in 1974?`,
+  },
+  {
+    'Arthur Eddington': `Which English astronomer and physicist, born in 1882, gives his name to the theoretical upper limit of the mass of a star beyond which its luminosity would be so high that it would blow off the outer layers of the star?`,
+  },
+  {
+    '«Кантос»': `незавершённая поэма Эзры Паунда. Бо́льшая часть написана между 1915 и 1962 годами. Считается одной из важнейших модернистских поэм XX века. Окончательное издание вышло в свет в 1970 году и содержало 117 частей`,
+  },
+  {
+    'Перспектива мадам Рекамье': `картина бельгийского художника Рене Магритта, написанная в 1951 году. В основе картины Магритта — сюжет картины французского художника Жака Луи Давида «Портрет мадам Рекамье», написанной в 1800 году. У Магритта фигуру героини заменяет гроб, повторяющий позу женщины с картины Давида.`,
   },
 ];
