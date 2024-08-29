@@ -11,8 +11,10 @@ interface CardProps {
 }
 
 export const QuestionCard = ({ storageKey, questions }: CardProps) => {
-  console.log('questions', questions);
-  const [questionNumber, setQuestionNumber] = useLocalStorage(storageKey + 'number', 0);
+  const [questionNumber, setQuestionNumber] = useLocalStorage(
+    storageKey + 'number',
+    0
+  );
   const [answerShown, setAnswerShown] = useState(false);
   const [clues, setClues] = useLocalStorage(storageKey, questions);
 
@@ -62,7 +64,10 @@ export const QuestionCard = ({ storageKey, questions }: CardProps) => {
         <div>
           {questionNumber + 1} / {totalQuestions}
         </div>
-        <Link className={styles.togglePage} to={storageKey === 'general' ? 'js' : `/`}>
+        <Link
+          className={styles.togglePage}
+          to={storageKey === 'general' ? 'js' : `/`}
+        >
           {storageKey === 'general' ? 'JS questions' : `Quiz questions`}
         </Link>
         <div onClick={mixClues}>MIX</div>

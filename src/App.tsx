@@ -55,28 +55,29 @@ function App() {
     );
   }
 
-  // function formatDataForWord(data: any) {
-  //   let formattedText = '';
-  //   const getKey = (obj: object) => Object.keys(obj)[0].trim();
+  function formatDataForWord(data: any) {
+    let formattedText = '';
+    const getKey = (obj: object) => Object.keys(obj)[0].trim();
 
-  //   const filteredData = removeDuplicates(data);
-  //   console.log(filteredData, 'data');
-  //   filteredData
-  //     .sort((a: any, b: any) => {
-  //       const keyA = getKey(a);
-  //       const keyB = getKey(b);
-  //       return keyA.localeCompare(keyB);
-  //     })
-  //     .forEach((item: { [x: string]: string }) => {
-  //       for (const key in item) {
-  //         formattedText += `${key} - ${item[key]}` + '\n\n';
-  //       }
-  //     });
-  //   return formattedText;
-  // }
+    const filteredData = removeDuplicates(data);
+    console.log(filteredData, 'data');
+    filteredData
+      .sort((a: any, b: any) => {
+        const keyA = getKey(a);
+        const keyB = getKey(b);
+        return keyA.localeCompare(keyB);
+      })
+      .forEach((item: { [x: string]: string }) => {
+        for (const key in item) {
+          formattedText += `${key} - ${item[key]}` + '\n\n';
+        }
+      });
+    return formattedText;
+  }
 
   const fullQuestions = questions.concat(questions2);
-  // const formattedText = formatDataForWord(fullQuestions);
+  const formattedText = formatDataForWord(fullQuestions);
+  console.log(formattedText);
 
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   // const blob = new Blob([JSON.stringify(formattedText)], {

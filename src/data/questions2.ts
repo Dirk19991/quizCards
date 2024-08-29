@@ -1770,4 +1770,340 @@ central to number theory and have important applications in computer science`,
   {
     'Перспектива мадам Рекамье': `картина бельгийского художника Рене Магритта, написанная в 1951 году. В основе картины Магритта — сюжет картины французского художника Жака Луи Давида «Портрет мадам Рекамье», написанной в 1800 году. У Магритта фигуру героини заменяет гроб, повторяющий позу женщины с картины Давида.`,
   },
+  {
+    'ZÖGGELER, ARMIN': `4 January 1974, Merano, Bolzano. Just like Georg Hackl, Zöggeler has won Olympic luge medals in five consecutive Olympics. Between 1994 and 2010, the South Tyrolean has won two gold, a silver, and two bronze medals.`,
+  },
+  {
+    'White, Shaun': `Nicknamed the “Flying Tomato” because of his long red hair, he is the best known snowboarder in the world, with self-invented tricks and his own video game.`,
+  },
+  {
+    'Isabell Werth': `One of the most successful equestrian dressage riders in history, she won eight Olympic medals. With the dominant German team, she won four team gold medals (1992–2000, 2008), as well as the 1996 individual title.`,
+  },
+  {
+    'Vikelas, Demetrios': `первый президент Международного олимпийского комитета`,
+  },
+  {
+    'VAL BARKER AWARD': `given at each Olympic Games to the boxer who is judged to be the best overall technical boxer.`,
+  },
+  {
+    'Jayne Torvill and Christopher Dean': `produced one of the legendary performances in Olympic history. Their interpretation of Ravel’s “Bolero” at the 1984 Olympic Winter Games in Sarajevo drew the maximum score of 6.0 for artistic impression on all nine judges’ scorecards.`,
+  },
+  {
+    SAVATE: `Also known as “French boxing,” as opposed to the well-known sport of English boxing, savate is a French martial art. It is strongly connected with the canne de combat (cane fighting), and these two sports were demonstrated together at the 1924 Olympics in Paris.`,
+  },
+  {
+    Pindar: `is best known for his epinicia (эпиникии), which were odes celebrating athletic victories.`,
+  },
+  {
+    'OTTEY, MERLENE': `(JAM/ SLO–ATH). B. 10 May 1960, Cold Spring. Merlene Ottey is one of only five women to compete in seven Olympic Games, and her nine medals, won in athletics (track and field), equal the best mark for women.`,
+  },
+  {
+    Waldi: `In 1972, there was no mascot for the Sapporo Winter Olympics, but Munich had a stuffed toy in the form of a dachshund, named Waldi, as its mascot.`,
+  },
+  {
+    'Diem, Carl': `In 1936, Carl Diem, chairman of the Organizing Committee for the Berlin Olympics, proposed the idea of lighting the flame at ancient Olympia and transporting it to Berlin via a torch relay. This was done and has been repeated at every Olympics since.`,
+  },
+  {
+    'Chariots of Fire': `(produced by David Puttnam and directed by Hugh Hudson), which focused on the 1924 Olympic Games and two British runners, Eric Liddell and Harold Abrahams.`,
+  },
+  {
+    'Moussambani, Eric': `of Equatorial Guinea. At the Sydney Olympics, he made newsreels all over the world by his performance in the swimming pool. With both opponents in his 100 freestyle heat disqualified after a false start, Moussambani was the sole swimmer in his race.`,
+  },
+  {
+    'Pietri, Dorando': `was disqualified after winning the 1908 Olympic marathon for being aided by officials after he collapsed in the final lap of the track. Благодаря прессе Дорандо Пьетри стал знаменитостью. И фотографии, и киноплёнка запечатлели его трагический забег и сделали его международно знаменитым.`,
+  },
+  {
+    'OHNO, APOLO': `B. 22 May 1982; Seattle, Washington. Japanese American short-tracker Apolo Anton Ohno has won eight Olympic medals, the highest total in the sport.`,
+  },
+  {
+    'NYKÄNEN, MATTI': `B. 17 July 1963, Jyväskylä. Matti Nykänen was the winner of a record four Olympic gold medals for ski jumping. At the 1984 Olympic Winter Games, Matti Nykänen won on the large hill and placed second on the normal hill before winning both events in 1988, when he won a further gold medal in the newly introduced team event.`,
+  },
+  {
+    'Аптекарский вес': `Which measurement system named after a historical profession uses grains and drachms?`,
+  },
+  {
+    SOJOURNER: `Which Mars rover became the first to be successfully operated on the surface of the planet? It was named after an African-American abolitionist and women’s rights advocate, and was chosen through an essay contest.`,
+  },
+  {
+    '238 A.D. The Year of the Six Emperors': `Roman Empire was ruled by six emperors: Maximinus Thrax, Gordian I and Gordian II, Pupienus and Balbinus with Gordian III, and finally Gordian III. `,
+  },
+  {
+    'Dakota Building': `On the 8th of December 1980, John Lennon was shot and killed outside his New York apartment building by Mark David Chapman. What was the name of the building?`,
+  },
+  {
+    Ohio: `Which US state has the only non-rectangular shaped flag? It is shaped as a triangular swallowtail.`,
+  },
+  {
+    Westworld: `Yul Brynner starred in which 1973 American Science Fiction/Western film directed by Michael Crichton? The film’s plot centres around amusement park androids that malfunction and begin killing visitors. `,
+  },
+  {
+    'Fenton, Roger': `Which British photographer, regarded as one of the first war photographers in the world, is best known for his work in capturing the final stages of the Crimean War? He has been regarded as the catalyst for the formation of the Photographic Society in 1853.`,
+  },
+  {
+    'LAGARDE, Christine': `Succeeding current Prime Minister of Italy Mario Draghi in the role, who is the incumbent President of the European Central Bank?`,
+  },
+  {
+    MALI: `Ry Cooder won the 1995 Grammy Award for Best World Music Album for a collaboration with Ali Farka Toure, a musician from which nation? Toure is considered a pioneer of the genre known as "desert blues", mixing folk from his home nation with North American blues.`,
+  },
+  {
+    VERLAN: `Pierre CURIE 3B What is the name of the French slang, common in the language of youth subcultures, wherein the syllables of certain words are switched around? Its name derives from the syllables in the French for "the inverse" being switched like they would in the slang.`,
+  },
+  {
+    'TARBELL, Ida': `The History of the Standard Oil Company, published in 1904, is the best-known work of which turn-of-the-century investigative journalist? Teddy Roosevelt coined the term "muckraker" to describe this woman.`,
+  },
+  {
+    Nürburgring: `Last hosting it in 2013, which motor racing circuit in Rhineland-Palatinate was the main host of the German Grand Prix prior to 1977?`,
+  },
+  {
+    Risk: `Designed in 1957 by the French filmmaker Albert Lamorisse, which board game is played on a map of the world during the 18th century, with players controlling armies and the outcomes of battles decided by dice rolls?`,
+  },
+  {
+    'Beatty, Warren': `Shirley MacLaine is the older sister of which actor, who has 15 Academy Award nominations?`,
+  },
+  {
+    Bioware: `Which Canadian video game developer is known for its specialism in Role Playing games and has produced notable titles included the Mass Effect series and the Dragon Age series?`,
+  },
+  {
+    Ghana: `Sitting at the base of Lake Volta, the Akosombo Dam is located in which African country? (Привела к образованию озера Вольта)`,
+  },
+  {
+    Hispaniola: `Which island is the 2nd biggest in the Caribbean Island group, after Cuba? The island in question is shared by two nations: Haiti and the Dominican Republic.`,
+  },
+  {
+    'AYYUBID dynasty': `Overthrowing the Fatimids in the 12th century, Saladin founded which Islamic dynasty that derives its name from that of Saladin’s father? As well as Egypt, this dynasty held lands in the Levant and the Arabian Peninsula.`,
+  },
+  {
+    'Major Major Major Major': `Which character from Catch 22, promoted to a rank that matched his repetitive name, bore an uncanny resemblance to Henry Fonda? Despite that, he was played by Bob Newhart in the 1970 film, and again by Lewis Pullman in 2019.`,
+  },
+  {
+    Benin: `Not to be confused with an unrelated, modern African country which still thriving city in Southern Nigeria that is famous for its walls was constructed around 1000CE on principals of complex fractal geometry?`,
+  },
+  {
+    Helmand: `What, at 710 miles, is the longest river in Afghanistan, that rises in the Hindu Kush before crossing SW through the desert of Dashti Margo to the Sistan marshes? It lends its name to the largest by area of Afghanistan’s 34 provinces.`,
+  },
+  {
+    'Stiglitz, Joseph ': `Winning a shared Nobel Prize in Economics in 2001, which former chief economist of the World Bank, is famous for works including ‘The Great Divide’ and ‘The Price on Inequality’?`,
+  },
+  {
+    'Hayek, Friedrich Von': `Which Austrian-British economist, who won the Nobel Prize in Economics in 1974, is perhaps most famous for his 1944 work ‘The Road to Serfdom’?`,
+  },
+  {
+    'Kominsky Method': `Which Netflix comedy show that ran from 2018 until its final season in which premiered in 2021, follows the title character with the first name Sandy, who makes his living as an acting coach?`,
+  },
+  {
+    Stratigraphy: `A key concept in modern archaeology, what 12-letter “S”-word is the study of how deposits occur layer by layer?`,
+  },
+  {
+    PHENOLPHTHALEIN: `In chemistry, which pH indicator solution is colourless in both acidic and neutral solutions but turns pink in alkaline solutions above pH 8.5?`,
+  },
+  {
+    'GRÉVY, Jules': `Which President of France, for whom a zebra is named, was in office from 1879 to 1887? He was forced to resign when it emerged that his son-in-law had been selling medals of the Légion d'Honneur`,
+  },
+  {
+    Райкерс: `остров-тюрьма в проливе Ист-Ривер, относящийся к городу Нью-Йорку, районам Куинс и Бронкс. Расстояние до другого берега — 80 метров[2] (до края взлётно-посадочной полосы аэропорта Ла-Гуардия). Это самая крупная исправительная колония в мире, она обходится американским налогоплательщикам в $860 млн в год`,
+  },
+  {
+    'THREE PERCENT': `Which Brazilian thriller TV series, broadcast between 2016 and 2020 and available on Netflix, is set in a dystopian future in which 20-year-olds must compete with each other for the opportunity to move from the impoverished 'Inland' to the affluent 'Outshore'?`,
+  },
+  {
+    'PRICE, George Cadle ': `Which man, widely regarded as the 'Father of the Nation' was Belize's first Prime Minister after independence from Britain?`,
+  },
+  {
+    BERMUDA: `Flora Duffy won which small island territory's first ever Olympic gold medal when she won the triathlon at this year’s Olympics?`,
+  },
+  {
+    DUNEDIN: `Baldwin Street, recognised by Guinness World Records as the world’s steepest street, is located in which city in the Southern Hemisphere? `,
+  },
+  {
+    VALMIKI: `The Ramayana, a Sanskrit epic poem dated to the first millennium BCE, is usually attributed to which ancient poet? He is revered as a literary genius and is sometimes known by the honorific Adi Kavi, meaning ‘first poet’.`,
+  },
+  {
+    Черапунджи: `самый дождливый город`,
+  },
+  {
+    VALMIKI: `Его почитают как адикави — первого поэта, автора «Рамаяны».`,
+  },
+  {
+    'Шихаллионский эксперимент': `A series of treaties signed at Osnabrück and Münster in October 1648 are known collectively by what name? This set of treaties brought an end to both the Thirty Years' War and the Eighty Years' War. Peace of WESTPHALIA 4b The first vaguely-accurate estimate of the gravitational constant was achieved as a result of what experiment, which was performed in 1774 and sought to determine the mean density of the Earth? The experiment is named for the mountain in Perthshire where it was conducted.`,
+  },
+  {
+    'Peace of WESTPHALIA': `A series of treaties signed at Osnabrück and Münster in October 1648 are known collectively by what name? This set of treaties brought an end to both the Thirty Years' War and the Eighty Years' War.`,
+  },
+  {
+    'LOMBARD Street': `Often claimed to be "the crookedest street in the world", which street in San Francisco is known for its one-block section with eight hairpin turns? `,
+  },
+  {
+    VYASA: `Which sage is regarded in Hindu tradition as the author of the Sanskrit epic poem known as the Mahabharata [maha-BA-ra-ta]? He is also traditionally said to have compiled the Vedas.`,
+  },
+  {
+    'GILBERT and GEORGE': `Prousch and Passmore are the surnames of which collaborative art duo, known for their highly formal appearance? The duo won the 1986 Turner Prize.`,
+  },
+  {
+    'Кайал ': `Used since the Bronze Age, which eyelid and eyelash cosmetic is used today by some Muslims in an imitation of Muhammad, who is reported to have used it every night before going to sleep?`,
+  },
+  {
+    '47': `In computing, how many bits are in a 'nibble'?`,
+  },
+  {
+    GLOCKENSPIEL: `Which percussion instrument has a name derived from the German for 'bell play' or 'set of bells'?`,
+  },
+  {
+    'TISO, Jozef ': `Which Roman Catholic priest, associated with far-right and fascist political tendencies, was the president of the Slovak Republic from 1939 to 1945? Under his rule, the Republic was a client state of Nazi Germany.`,
+  },
+  {
+    'RAMIS, Harold ': `The 1983 film National Lampoon's Vacation was directed by which American actor and filmmaker, who directed other acclaimed comedy films such as Groundhog Day and Caddyshack?`,
+  },
+  {
+    'BAZILLE, Frédéric': `Which French Impressionist painter was killed in November 1870 during the Franco-Prussian War? Many of his best-known works, such as The Pink Dress and Family Reunion, are on display at the Musée d'Orsay, as is a wellknown painting of his studio in which he portrays himself alongside his friends Pierre-August Renoir and Édouard Manet.`,
+  },
+  {
+    'Миф о красоте': `Sometimes considered to be the first major work of what is now known as third-wave feminism, which 1990 book by Naomi Wolf argues that the advancement of women is undermined by the aesthetic ideals demanded of them by patriarchal society?`,
+  },
+  {
+    'WHITE, Dan': `Which member of the San Francisco Board of Supervisors shot and killed Harvey Milk and George Moscone? His trial was deeply controversial, and led to the coining of the legal slang term "Twinkie defence".`,
+  },
+  {
+    'MARC, Franz': `Fate of the Animals and Yellow Cow are among the best-known works of which German Expressionist painter, who was killed in 1916 at the Battle of Verdun? He had been one of the founding members of the group 'Der Blaue Reiter'.`,
+  },
+  {
+    'Гендерное беспокойство': `Third-wave feminism was greatly influenced by which 1990 book by Judith Butler, subtitled Feminism and the Subversion of Identity? The book is also considered a foundational text of queer theory.`,
+  },
+  {
+    Кайлас: `Which mountain, part of a namesake mountain range on the Tibetan Plateau, is regarded as sacred by followers of several religions and is consequently visited by thousands of pilgrims every year? There are no known instances of this mountain being climbed, as doing so is considered disrespectful. Кайлас иногда называют «Горой Свастики»`,
+  },
+  {
+    Kriegspiel: `In chess what is the name of the variant game in which a player cannot see the other player’s pieces? It has a name of German origin having been originally based upon a method of war gaming invented by Georg von Reisswitz`,
+  },
+  {
+    'Taming of the Shrew': `Kiss Me Kate is a musical adaptation of which Shakespeare play? `,
+  },
+  {
+    'Wedekind, Frank': `Alban Berg has written two Opera. The second, ‘Lulu’ is a story about the downward spiral of well-kept mistress in Vienna to a street prostitute in London. It is based on the plays ‘Erdgeist’ (Earth Spirit in English) and ‘Die Buchse der Pandora (Pandora’s Box) which were written by which German Playwright [1864 – 1918] who also wrote Spring Awakening ?`,
+  },
+  {
+    'Pepper’s Ghost': `Which illusion, first demonstrated in 1862, was used to bring figures or objects on to a stage, even though they weren’t actually there.? Teleprompters are a modern version of this technique. The technique has been used to bring Tupac Shakur and Michael Jackson to the stage in recent years.`,
+  },
+  {
+    Helicopter: `Found in his Codex Atlanticus, a 1489 drawing by Leonardo Da Vinci which depicts an aerial screw is thought of as a prototype version of which modern form of transport?`,
+  },
+  {
+    'Pakistan (based in Lahore)': `In which country would you find the film making area known as Lollywood? `,
+  },
+  {
+    Sciron: `In Greek Mythology, what was the name of the outlaw eventually killed by Theseus who forced passers-by to wash his feet. Whilst they were doing that, he would kick them off a cliff to their death?`,
+  },
+  {
+    'Супер Майк': `Channing Tatum plays the title character Michael Lane who is better known by what two-word name in a 2012 comedy drama in which he plays a male stripper?`,
+  },
+  {
+    'Salvador Mundi': `Only attributed to him in 2011, which painting of Christ by Leonardo became in 2017 the most expensive painting ever sold?`,
+  },
+  {
+    'Badoglio, Pietro': `(1871–1956). Italian marshal. After distinguished service in World War I he was governor of Libya 1928–33 and was in command of the assault on Abyssinia in 1936. At the opening of World War II he was Chief of Staff but resigned in 1940 after Italian defeats in Albania. In 1943 he was made premier of an anti-Fascist government, on \*Mussolini’s fall, and at once negotiated an armistice with the Allies. He resigned in 1944.`,
+  },
+  {
+    'Baer, Karl Ernst von': `(1792–1876). RussoGerman zoologist, embryologist, ethnographer, and geographer, born in Estonia. He studied at the universities of Tartu and Würzburg, and taught at Königsberg 1817–34, where he discovered the mammalian ovum and the notochord and wrote On the Development of Animals (2 vols, 1828, 1837) which established the basis of the science of embryology.`,
+  },
+  {
+    'Bakst, Léon': `(1866–1924). Russian-Jewish designer. He lived in Paris from 1906 and his fame rests mainly on the sumptuous sets and costumes he designed for Léon \*Diaghilev’s Ballets Russes.`,
+  },
+  {
+    'Balboa, Vasco Nunez de': `(c.1475–1519). Spanish conquistador. In 1513 he became the first European to sight the Pacific when, having ousted his predecessor and made himself governor of Darien, he made an epic march across the isthmus of Panama.`,
+  },
+  {
+    'Болл, Джон': `Когда в 1381 году началось восстание Уота Тайлера, Болл сидел в тюрьме в Мейдстоне (Кент) и был освобождён повстанцами[3]. В Блэкхите он произнёс перед ними проповедь, где были знаменитые слова: «Когда Адам пахал, а Ева пряла, кто дворянином был тогда?» (англ. When Adam delved and Eve span, Who was then the gentleman?) Он провозгласил, что рабство (в библейском контексте; в контексте Англии bondage — крепостное право) неестественно, а все люди созданы Богом равными, призвал свергнуть рабство и установить свободу (liberty).`,
+  },
+  {
+    'Banting, Sir Frederick Grant': `(1891–1941). Canadian physiologist, born in Alliston, Ontario. He graduated in medicine at Toronto University and served with the Canadian Army Medical Corps in World War I. On returning to Toronto, he began research into diabetes in the laboratory of J.J.R. MacLeod.`,
+  },
+  {
+    'Barbusse, Henri': `French journalist and novelist. His novels are strongly reminiscent of \*Zola’s, but contain elements of existentialist thought. They include L’Enfer (1908) and Le Feu (1916) (Ад, Огонь), a grim study of life in the trenches during World War I, in which he served as a volunteer.`,
+  },
+  {
+    'FROBISHER, MARTIN': `(1535?–1594). English explorer who made three voyages (1576, 1577, and 1578) to the Arcticin search of the fabled Northwest Passage. He explored Frobisher Bay and Baffin Island, eventually traveling a short distance up the Hudson Strait on his third voyage. The narratives of his voyages (1578) provide some of the earliest descriptions of local Native American groups.`,
+  },
+  {
+    'Пляска Духа': `Religious ritual practiced by Native Americans in the western Great Plainsin the late 19th century. Created by  Wovoka`,
+  },
+  {
+    'black hat': `someone who attempts to break into computers maliciously; a villain (like the characters in old Western movies who wore black hats). Contrast WHITE HAT.`,
+  },
+  {
+    'Blackberry thumb': `informal name for painful repetitive stress injuries caused by excessive typing on small keyboards`,
+  },
+  {
+    brownout: `an extended period of insufficient power-line voltage.`,
+  },
+  {
+    'C#': `programming language developed by Anders Hejlsberg (the developer of Turbo Pascal and Delphi) for Windows programming under Microsoft’s .NET Framework. (и Typescript)`,
+  },
+  {
+    'Тезис Чёрча — Тьюринга': `the hypothesis that a TURING MACHINE (or any of its mathematical equivalents) is as powerful as a mechanical computing device can be; other devices are more efficient at particular tasks, but none of them can do anything fundamentally different. It was proposed, at different times and in different forms, by Alan Turing and by the logician Alonzo Church.`,
+  },
+  {
+    CMYK: `four standard printing inks: cyan, magenta, yellow, and black. When combined, these four colors can reproduce a full-color image.`,
+  },
+  {
+    ENIAC: `The first electronic digital computer, which was built for the U.S. Army in 1946, largely because of the need to calculate ballistics tables.`,
+  },
+  {
+    copyleft: `copyright whose owner gives permission for the product to be distributed free subject to certain conditions.`,
+  },
+  {
+    Cyberabad: `nickname for the city of Hyderabad, India, a center of hightechnology industry.`,
+  },
+  {
+    'Dutch auction': `an auction in which, instead of asking for bids, the would-be seller gradually lowers the asking price until someone accepts it.`,
+  },
+  {
+    Суккуленты: `Which word, beginning with S, refers to plants such as cactuses that conserve water by storing it in their fleshy leaves or stems?`,
+  },
+  {
+    Zwitterion: `Formerly called a dipolar ion, what one word name, derived from the German for hermaphrodite, is now given to a neutral molecule with both positive and negative electrical charges?`,
+  },
+  {
+    'Железные Ворота': `What gorge on the River Danube forms part of the border between Serbia and Romania?`,
+  },
+  {
+    ARKAN: `By what 5-letter name was the Serbian warlord and gangster Željko Ražnatović better known during the 1990s Yugoslave Wars?`,
+  },
+  {
+    'The Bradley effect': `a theory concerning observed discrepancies between voter opinion polls and election outcomes in some United States government elections where a white candidate and a non-white candidate run against each other.`,
+  },
+  {
+    'Humphrey Davy': `Which Cornish scientist invented a safety lamp for use in flammable atmospheres of coal mines?`,
+  },
+  {
+    Stentor: `Who was the legendary Greek herald during the Trojan War who was said to be able to shout as loudly as fifty normal men?`,
+  },
+  {
+    Reblochon: `Which popular French cheese from the Alpine region of Savoy has a name translating as ‘to pinch a cow’s udder again’? `,
+  },
+  {
+    'Duke of Marlborough or John Churchill': `Which English nobleman became de facto leader of the Allied forces during the War of the Spanish Succession, masterminding victories at Blenheim, Ramillies, Oudenarde, and Malplaquet? `,
+  },
+  {
+    'Ха́рли-стрит': `улица в Лондоне, которая получила известность в XIX веке благодаря множеству обосновавшихся там специалистов различных областей медицины. `,
+  },
+  {
+    'Coral Island': `William Golding wrote the novel Lord of the Flies in response to which 1857 novel by RM Ballantyne?`,
+  },
+  {
+    Glossglockner: `Which is the highest peak in the Austrian Alps?`,
+  },
+  {
+    'Ирландский герой (The Playboy of the Western World)': `According to the title of the play by John Millington Synge, first performed in 1907, who is Christy Mahon?`,
+  },
+  {
+    Каиафа: `In the New Testament, who was the High Priest of Jerusalem, the son in law of Annas, who is named as one of the accusers in the trial of Jesus`,
+  },
+  {
+    'Bayard, Pierre du Terrail': `(c.1473– 1524). French soldier, known as ‘le chevalier sans peur et sans reproche’. When only 20 years old he went with \*Charles VIII to Italy and in battle after battle he was to be found wherever danger was greatest.`,
+  },
+  {
+    'Beccaria, Cesare Bonesana': `(1738–1794). Italian economist, philosopher and legal reformer, born in Milan. From an aristocratic family, he became an economist, anticipating Adam *Smith, *Bentham and *Malthus, and pioneered statistical analysis. In  his work On Crimes and Punishment (Dei delitti e delle pene) published in 1764 he followed *Montesquieu’s assertion that punishment is a function of civil society, not the expression of divine vengeance, advocating abolition of the death penalty and torture as being ‘neither necessary nor useful’.`,
+  },
+  {
+    'Эмиль фон Беринг': `He won the first Nobel Prize for Medicine in 1901 for his ‘work in serum therapy, especially diphtheria’ (and Ehrlich never forgave his exclusion).`,
+  },
 ];
