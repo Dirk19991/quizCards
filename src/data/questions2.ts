@@ -3,927 +3,6 @@ import { Question } from './questions';
 
 export const questions2: Question[] = [
   {
-    'Giuseppe Volpi': `When the film festival in Venice was created in 1932, this man who had been Benito Mussolini’s minister of finance—was appointed as the president of the festival, Luciano de Feo was the head of the executive committee, and Antonio Maraini was the festival’s secretary-general. But who was that minister of finance? `,
-  },
-  {
-    'Dewey Decimal System': `This is a library classification system created in 1876. The system allows for books to be added to a library based on their subject matter rather than the order in which they were purchased. The classification number that is assigned to the book makes it possible to find any book and return it to its rightful place on the shelf. What is the name of this system?              `,
-  },
-  {
-    'Harold Holt': `On the 17th December 1967, this Australian Prime Minister vanished after going for a swim at Cheviot Beach Victoria and was presumed dead two days later. Who are we looking for? `,
-  },
-  {
-    Hafu: `In Japan this word comes from the English word half and began to be used in the 1970s. It refers to a biracial child with one parent being Japanese. In 2013 a documentary film named after it was released about the experiences of such people and the related identity issues faced. What term is this? `,
-  },
-  {
-    'Kegel (Arnold)': `Which American gynaecologist gives his name to a regimen of exercises aimed at tightening the pelvic floor muscles, which have a role in maintaining urinary continence, reducing premature ejaculation and regaining tone in the vaginal muscles following childbirth? His name is also given to internally worn weights which can be used to train these muscles. `,
-  },
-  {
-    EpiPen: `Manchin's daughter, Heather Bresch, is the CEO of medical company Mylan. Bresch drew criticism for raising the price on what brand-name emergency medical item from $100 to almost $600 apiece? `,
-  },
-  {
-    'Sitting Bull': `Crazy Horse and his forces had been inspired at the Battle of the Little Bighorn by the visions of which Lakota leader? He dreamt of many soldiers apparently dying in the Lakota camp, a vision which seemed to be borne out by the Native Americans’ victory. `,
-  },
-  {
-    'tempo rubato': `What Italian music term, literally meaning “in stolen time”, instructs the performer or conductor to use their discretion as regards speeding up or slowing down? It is associated with music that requires the performer to play very expressively. `,
-  },
-  {
-    Fluxus: `Joseph Beuys and Yoko Ono are associated with which interdisciplinary group of artists, composers, designers and poets, founded in the early 1960s, whose work emphasised the artistic process over the finished product, often via the staging of performance “events”? `,
-  },
-  {
-    'Hendrick Avercamp': `Which painter of the Dutch Golden Age, believed to be both deaf and mute, is bestknown for his wintry scenes such as Winterlandschap met ijsvermaak (Winter Landscape with Painters) which exhibited a style similar to Jan Breugel the Elder? `,
-  },
-  {
-    'Notes on “Camp”': `In which 1964 essay does Susan Sontag analyse the title concept, seeing it as concerning things that are “good because they are awful” and involving a love of artifice and exaggeration? She gives Aubrey Beardsley drawings, the novels of Ronald Firbank and Ivy Compton Burnett, and Swan Lake as items which are part of the canon of this concept. `,
-  },
-  {
-    Roxana: `Around 329 BC, Bactria put up a vigorous resistance to the Macedonians, and Alexander, realizing that he would have to deal with a continued insurgency, worked out a truce, the terms of which involved marrying which native Sogdianan princess? `,
-  },
-  {
-    'Adolf Wölfli': `spontaneously taken up drawing, and this activity seemed to calm him. His most outstanding work was an illustrated epic of 45 volumes in which he narrated his own imaginary life story. With 25,000 pages, 1,600 illustrations, and 1,500 collages, it is a monumental work.`,
-  },
-  {
-    'MILON OF KROTON ': `the greatest wrestler of ancient Greece and the Ancient Olympic Games. He was champion six times at the Olympic Games (540 B.C. in boys’ wrestling and 532–516 B.C. in wrestling), seven times at the Pythian Games, ten times at the Isthmian Games, and nine times at the Nemean Games.`,
-  },
-  {
-    'KORZENIOWSKI, ROBERT ': `most successful race walker at the Olympics, with four titles. In 1996, 2000, and 2004, he won the 50 kilometers event, making him the only person to have won a race walking event more than twice.`,
-  },
-  {
-    'HEIDEN, ERIC ': `usually considered the greatest speed skater of all time. He completely dominated the 1980 Olympic Winter Games speed skating, winning the gold medal at all five distances. `,
-  },
-  {
-    'Leonidas of Rhodes ': `the greatest runner and sprinter of the Ancient Olympic Games. He won 12 Olympic titles, the most by any athlete, ancient or modern. In 164, 160, 156, and 152 B.C., he was proclaimed triastes or Olympic champion in three events,`,
-  },
-  {
-    'Karch Kiraly ': `regarded by many as the greatest volleyballer ever. In 1986, the Fédération Internationale de Volleyball (FIVB) declared him the top player in the world, the first time that distinction had been given. He won gold medals at the 1984 and 1988 Olympics, 1985 World Cup, 1986 World Championships, 1987 Pan-American Games, and in beach volleyball at the 1996 Olympics.`,
-  },
-  {
-    'ISTHMIAN GAMES': `ancient sporting festivals that were held biennially. With the Olympic Games, Nemean Games, and Pythian Games, they were one of the four great sporting festivals of ancient Greece.`,
-  },
-  {
-    'Ludovico Einaudi': `Who is the Italian pianist, born in 1955, who has composed scores for This is England, I'm Still Here, and Nomadland? `,
-  },
-  {
-    'Blue Mountain': `What is the highest mountain in Jamaica at 2,256 metres, probably best known for its coffee? `,
-  },
-  { Enyo: `Who is the Greek equivalent of Bellona, the Roman Goddess of War?` },
-  {
-    'One Night in Miami': `Regina King is the recipient of many awards including the 2018 Academy Award for Best Supporting Actress for If Beale Street Could Talk. What is the name of her directorial debut based on the stage play by Kemp Powers? `,
-  },
-  {
-    Leonberger: `What is the dog breed whose name derives from a city in Baden-Württemberg? It was bred as a symbolic dog that would mimic the animal in the coat of arms. `,
-  },
-  {
-    Oaxaca: `In which Southern state of Mexico would would find the pre-Columbian Monte Alban archaeological site, the long-time Zapotec economic and political centre of Mesoamerica, and the coastal resort of Huatulco? `,
-  },
-  {
-    'Carrie Nation': `Born in 1846 who was this American activist who was a radical member of the temperance movement? She was noted for attacking taverns with a hatchet. `,
-  },
-  {
-    'Newcomen (Thomas)': `Which native of Dartmouth (1664-1729), an ironmonger and lay preacher, designed an atmospheric engine for the purpose of pumping water out of flooded tin mines? His design, influenced by the work of Thomas Savery and Denis Papin, would in turn go on to influence John Smeaton and James Watt `,
-  },
-  {
-    'Tugela Falls': `Generally considered to be the second tallest waterfall in the world with a height of 948 meters, what is the name of the seasonal waterfall located in the KwaZulu-Natal province of South Africa? `,
-  },
-  {
-    Dodoma: `Since 1996, the capital of Tanzania has been which central city, having moved there from Dar es Salaam following a nationwide party referendum in 1974? `,
-  },
-  {
-    'New Caledonia': `Including overseas territories, France has the most time zones of any country with 12. At UTC +11, what is the name of the French overseas special collectivity in the Pacific Ocean with its capital at Noumea (Нумеа)? `,
-  },
-  {
-    Malacca: `One of the most important shipping lanes in the world, which Strait separates Malaysia from the Indonesian island of Sumatra? `,
-  },
-  {
-    'Derry or Londonderry': `The second largest city in Northern Ireland is known for its name dispute: give either the name used by Protestants, or the name used by Catholics (who make up a majority of its population). The American city of Manchester, New Hampshire has two suburbs named for this Northern Irish city: one suburb bears the Catholic name and one suburb bears the Protestant name. Appropriately, they are right next to each other.              `,
-  },
-  {
-    Rajasthan: `The largest city being Jaipur, which is the largest state by area in India?`,
-  },
-  {
-    'Uttar Pradesh': `The largest city in this state being Kanpur, which is the largest state by population in India? `,
-  },
-  {
-    'Frenchman Simon Pagenaud (2019), Dutchman Arie Luyendyk (1990, 1997), and Englishman Dan Wheldon (2005, 2011) are some of the Europeans who have won the famous sporting event named for this city and participated in the tradition of drinking a bottle of milk immediately after their victory. ': `Indianapolis`,
-  },
-  {
-    Rochelle: `When prefaced with "New", this word forms the name of a suburb of New York City located immediately north of the Bronx. When prefaced with "La", this word forms the name of a port city on the Atlantic coast of France, perhaps most notable for being the location of a lengthy siege in 1628 when Cardinal Richelieu suppressed its Protestant Hugenots.              `,
-  },
-  {
-    'Песнь дороги ': `In iconic scenes from this film, this film's boy protagonist and his sister chase a sweet seller around despite having no money to pay, & run through a wheat field to see a steam train. It's the first of three based on a novel by Bibhutibhushan Bandhopadhyay. `,
-  },
-  {
-    'Кукунор ': `Located in a western province of the same name, this is the largest lake in China. Its name roughly translates as "Blue Sea" or "Blue/Green Sea". `,
-  },
-  {
-    'Lake Nyos': `In August 1986, over 1,700 people were killed when an enormous cloud of Carbon Dioxide emerged from this lake in Cameroon. This kind of event is called a Limnic Erruption. `,
-  },
-  {
-    'Okanagan Lake': `This lake in the Canadian province of British Columbia, located about 100 miles / 150 km east of Vancouver, is allegedly home to a sea serpent like monster known as Ogopogo. `,
-  },
-  {
-    Finland: `This European country has approximately 187,888 lakes. Some of the largest include Saimaa, Paijanne, Oulujarvi, and Kallavesi. `,
-  },
-  {
-    Кайруан: `But this Tunisian city is the 4th most important city in the Islamic world after Mecca, Medina, and Jerusalem. This city was established in 670 AD by Uqba Ibn Nafi. It hosts the holy mosque of Ugba which is also a UNESCO World Heritage Site, and is a center of Islamic religious activities such as scholarships and Islamic teachings. What city is this?              `,
-  },
-  {
-    'Fumi-e': `This was a likeness of Jesus or Mary onto which the religious authorities of the Tokugawa shogunate of Japan required suspected Christians (Kirishitan) to step, in order to demonstrate that they were not members of that outlawed religion. What was the name of this? `,
-  },
-  {
-    lion: `Which animal has a thorn removed from its paw by Androcles in an ancient tale, inhabits the den into which Daniel is thrown in the Biblical story, and is cowardly in The Wonderful Wizard of Oz? `,
-  },
-  {
-    'Jeanne Hébuterne': `Although an accomplished painter in her own right, which artist is perhaps best-known as the common-law wife of Amedeo Modigliani, for whom she was a regular model? `,
-  },
-  {
-    'Tammany Hall': `Aaron Burr, Boss Tweed, and Charles Francis Murphy are among the politicians who led which political organisation that dominated Democratic politics in New York during the 19th and early 20th centuries? `,
-  },
-  {
-    Hanami: `What is the name of the Japanese custom or festival of viewing blossom of cherry and plum trees in the spring? `,
-  },
-  {
-    'BioWare ': `specializes in role-playing video games, and achieved recognition for developing highly praised and successful licensed franchises: Baldur's Gate, Neverwinter Nights, and Star Wars: Knights of the Old Republic.`,
-  },
-  {
-    'Cavalcanti, Guido ': `(c.1255–1300). Florentine poet. A friend of *Dante, his sonnets and other poems reveal a philosophic and introspective temperament. His active support of the Ghibelline (imperial) cause led to his exile in the last year of his life. English translations were made by *Rossetti and Ezra *Pound.`,
-  },
-  {
-    'Cayley, Sir George': `(1773–1857). English engineer, inventor and aviation pioneer, born in Scarborough, Yorkshire. Privately educated, as early as 1799 he proposed an aircraft with a fuselage, fixed cambered (i.e. asymmetrical) wings, a rudder and separate power source. He experimented with model balloons, then built a series of large gliders, and in 1810 published a paper identifying the four aerodynamic forces in flight: weight, lift, drag and thrust, rejecting *Leonardo da Vinci’s concept of bird-like flight for humans. Now often described as ‘the Father of Aviation’, he was the first to explain the problems of flight mathematically.`,
-  },
-  {
-    'Cavour, Camillo ': `(1810–1861). Italian politician, born in Turin. The main architect of Italian unity and independence, he was the son of a nobleman. He found army life alien to his liberal ideas and turned to scientific agriculture as a means of showing that, to prepare a country for freedom, practical improvements were more important than political agitation.`,
-  },
-  {
-    'Celan, Paul ': `(1920–1970). Romanian-Jewish -French poet and translator, born Czernowitz (now in Ukraine). His parents died in the Holocaust, and Celan survived a labour camp in Romania. He translated *Shakespeare’s Sonnets into German and wrote ‘Todesfuge’ (‘Death Tango’) in 1944–45. He lived in Paris from 1948, and translated poetry by *Donne, *Dickinson, *Baudelaire, *Rimbaud, *Valery, *Frost and *Yevtushenko. He drowned himself in the Seine on *Hitler’s birthday. His poems are short and compressed (‘microliths’) and have been compared to the music of *Webern.`,
-  },
-  {
-    'Cenci, Beatrice ': `(1577–1599). Italian noblewoman. To escape the cruelty and the incestuous attentions of her father, she arranged with her stepmother and brother to have him assassinated. Put on trial with her accomplices, she confessed under torture and was beheaded. Her story was the basis of *Shelley’s verse tragedy`,
-  },
-  {
-    'James Chadwick ': `generally credited with the discovery of the neutron, and was awarded the Nobel Prize for Physics in 1935.`,
-  },
-  {
-    'Campin, Robert ': `(c.1378–1444). Flemish painter. Active in Tournai, he is now identified as the previously misdescribed ‘Master of Flémalle’, regarded as the founder of Flemish Realism and a major influence on Jan van *Eyck and Rogier van der *Weyden`,
-  },
-  {
-    'Цао Сюэцинь ': `(c.1715– c.1763). Chinese novelist, poet and painter, born in Nanjing. His family served the *Qing (Manchu) court, then fell from wealth and power. His novel Dream of the Red Chamber (or The Story of the Stone), circulated in manuscript from the 1760s, and first printed in 1791, is regarded as the greatest novel in the classical Chinese tradition.`,
-  },
-  {
-    'Capodistrias, Ioannes': `(1776–1831). Greek politician, born in Corfu. After service in the administration of the Ionian Islands, he went to Russia, where eventually he became Foreign Minister 1815–18. He returned to Greece in 1822 to devote himself to the national cause, and after independence from Turkey had been won was elected first president of Greece (1827),`,
-  },
-  {
-    'Cardano, Geronimo ': `(1501–1576). Italian mathematician and physician. Although professor of medicine at Pavia 1543–59 and Bologna 1562–70, he is best known for his work in mathematics, particularly algebra. His Ars Magna (1545) was the first algebraic text to be printed. His academic career at Bologna ended with imprisonment for heresy (astrology was one of his interests). He spent his last years in Rome and is said to have starved himself to death to prove the accuracy of a prediction. He was a polymath who wrote prolifically in science, history and music.`,
-  },
-  {
-    'Carey, Peter ': `Australian novelist, born in Bacchus Marsh. He dropped out of Monash University and worked in advertising. His novels included Bliss (1981), Illywhacker (1985), Oscar and Lucinda (1988, which won the Booker Prize over Salman *Rushdie’s Satanic Verses), The Tax Inspector (1991), Jack Maggs (1997), True History of the Kelly Gang (2000, which won him a second Booker Prize in 2001), My Life as a Fake (2003), Theft: A Love Story (2006) and Parrot and Olivier in America (2010).`,
-  },
-  {
-    'clerihew ': `A humorous verse form invented by Edmund BLANK *Bentley, consisting of two rhymed but metrically clumsy couplets, with the first line referring to a well-known person, e.g. Sir James Jeans Always says what he means; He is really perfectly serious About the Universe being Mysterious.`,
-  },
-  { 'At Dublin, this river flows into the Irish Sea.': `Liffey` },
-  {
-    WACKEN: `Up until few years ago, the road signs of which German village had to be replaced with plastic replicas that spelled Heavy Metal Town during the first weekend of August so they wouldn't get stolen? `,
-  },
-  {
-    'Курбан-байрам': `Commemorating the willingness of Ibrahim to sacrifice Ismael, which specific Islamic holiday occurs at the end of the annual Hajj, beginning on the 10th day of Dhu al-Hijjah? `,
-  },
-  {
-    Ruby: `Which general-purpose programming language that supports procedural, object-oriented, and functional programming was developed by Yukihiro Matsumoto? It was influenced by Perl, BASIC and Lisp among others. `,
-  },
-  {
-    'Fool`s Gold Loaf': `Made by the Colorado Mine Company restaurant in Denver, what sandwich is a hollowed out loaf of bread filled with peanut butter, grape jelly and bacon? Elvis Presley is said to have taken an impromptu flight to Denver in his private jet where a feast of the sandwich was laid on in an airport hangar. `,
-  },
-  {
-    'Tabernas Desert': `This desert in Almeria, Spain was home to hundred of Western Films during the 60's and 70's. An entire town was built and movies like Once Upon a Time in the West and The Good, the bad and the Ugly were filmed here. What is the name of this desert? `,
-  },
-  {
-    'Michael Blake': `Dances with the Wolves is a 1990 American epic Western film starring, directed, and produced by Kevin Costner in his feature directorial debut. For this question however we're looking for the American author, on whose book this film was based. Who is this man? `,
-  },
-  {
-    'Tsangpo Canyon': `This canyon in Tibet often comes up in debates about which canyon is truly the world’s largest, longest, or deepest; with a top-to-bottom reach in some sections of up to 17,000 feet, it’s three times deeper than Arizona’s offering, and it goes on for 300 miles. It’s located in the northern Himalaya, in Tibet, and the River that runs through it is a landmark in itself. What is the name of this canyon?              `,
-  },
-  {
-    'Haing S. Ngor': `This man who was a Cambodian American gynecologist, obstetrician, actor and author is the only actor of Asian descent to win the best supporting actor Oscar. Who is this man, who won this oscar for his performance in the film "The Killing Fields"? `,
-  },
-  {
-    'Our American Cousin': `Mary Meredith, Lord Dundreary, and Asa Trenchard are among the principal roles in what 19th-century Tom Taylor play? The play had successful runs in both New York and London, but its best-known performance is almost certainly the one that took place in Washington DC on April 14, 1865. `,
-  },
-  {
-    'Pius XII': `The Rolf Hochhuth play Der Stellvertreter (The Deputy), serves largely as a condemnation of which Pope for his refusal to speak out against the Holocaust? He was portrayed by Marcel Iureș in Amen., a 2002 film adaptation of the play directed by Costa-Gavras. `,
-  },
-  {
-    'Ruth Wilson': `After an award-worthy (but sadly, not award-winning) performance on The Wire, Idris Elba went on to star in the crime drama Luther. His former Wire co-star Dominic West also found later success on the Rashomon-esque drama The Affair. What English actress co-starred with both Elba and West on these shows, respectively portraying characters named Alice and Alison? `,
-  },
-  {
-    'Eddie Eagan': `Winning at Antwerp in 1920 and at Lake Placid in 1932, what American boxer and bobsledder is the only athlete to have won gold medals at both the Summer and Winter Olympics in different sports? `,
-  },
-  {
-    Cuyahoga: `Which river that runs through the American city of Cleveland, Ohio was so polluted that it literally caught fire in 1969? `,
-  },
-  {
-    Mersey: `In a hit 1964 song, the band Gerry and the Pacemakers ask a ferry to cross which river, which flows through the city of Liverpool in England? `,
-  },
-  {
-    'Sumida River': `Which river, a branch of the larger Arakawa river, flows through Central Tokyo and is mentioned in the poetry of Basho? The Ryogoku, Sakura, and Chuo bridges all cross this river. Here it is depicted by Hokusai. `,
-  },
-  {
-    Padma: `With a name meaning "Lotus Flower" in Sanskrit, this major river of Bangladesh empties into the Bay of Bengal.`,
-  },
-  {
-    'Estonia (Поющая революция) ': `They even used the power of song to demand their independence by gathering in a mass of 300,000 to sing patriotic songs. It would become known as the Singing Revolution, and was active for five years, until they gained their independence (again) in 1991. What country is this?              `,
-  },
-  {
-    'Alain Ducasse': `He was the first chef to have restaurants with 3 Michelin stars in three different cities. His more than twenty restaurants have a total of nineteen Michelin stars. The three-star establishments are Louis XV at the Hotel de Paris in Monte Carlo (since 1990); the restaurant bearing his name at the Plaza Athénée hotel on the Avenue Montaigne in Paris (since 1996) and his restaurant at the Essex Hotel in New York City (from 2005 to 2007) which closed after a management change. When the restaurant bearing his name at The Dorchester Hotel in London also received three stars in 2010, the trio of three-star restaurants was again complete.              `,
-  },
-  {
-    Wallenda: `This is a circus act and group of daredevil stunt performers who perform highwire acts without a safety net. They are a family of acrobates who have been tempting fate for generations, but fate hasn't always been kind. In 1962, they were attempting the seven-person pyramid in Detroit, Michigan, when the pyramid collapsed and two of the members were killed. Nik is probably the most famous member of this family, as he holds 13 Guinness World Records. What is the name of this family? `,
-  },
-  {
-    'Зеркало и свет ': `What is the title of Hilary Mantel's final book of her historical novel trilogy, following Wolf Hall and Bring Up the Bodies? `,
-  },
-  {
-    'Hugh Lofting ': `an English American writer trained as a civil engineer, who created the classic children's literature character Doctor Dolittle.`,
-  },
-  {
-    'Mickiewicz ': `He is known chiefly for the poetic drama Dziady (Forefathers' Eve) and the national epic poem Pan Tadeusz.`,
-  },
-  {
-    'Anna May Wong': `In 2022, this first Chinese-American movie star became the first Asian American featured on U.S. currency's new quarter`,
-  },
-  {
-    'William Oughtred': `A number of mathematical symbols that are still used were first introduced by him. Among these were the sign “×” for multiplication and the “sin” and “cos” notation for trigonometrical functions. He also invented the earliest form of the slide rule in 1622 but only published this discovery in 1632.`,
-  },
-  {
-    'William Lyon Mackenzie King': `a Canadian statesman and politician who served as the tenth prime minister of Canada for three non-consecutive terms from 1921 to 1926, 1926 to 1930, and 1935 to 1948. A Liberal, he was the dominant politician in Canada from the early 1920s to the late 1940s. He is best known for his leadership of Canada throughout the Great Depression and the Second World War. `,
-  },
-  {
-    'Gray, Elisha ': `American engineer, born in Ohio. He was the first to transmit musical tones across a telegraph wire and made significant improvements to telegraphy generally. His patent application for a telephone was lodged on 14 February 1876, just hours after Alexander Graham *Bell and his claim for priority is still controversial. His consulting firm became part of Western General Manufacturing.`,
-  },
-  {
-    'East Timor ': `Widely considered the founding father of his nation, independence hero Xanana Gusmao (Шанана Гужман) resigned as prime minister of which country last week? `,
-  },
-  {
-    'Art of Noise ': `(band etymology) After the 1913 manifesto called The Art of Noises by Italian Futurist Luigi Russolo`,
-  },
-  {
-    'ABBA ': `(band etymology) a palindromic acronym from the initials of the first names of the band members: Agnetha Fältskog, Björn Ulvaeus, Benny Andersson and Anni-Frid Lyngstad.`,
-  },
-  {
-    'AKB48 ': `(band etymology) After Tokyo's area Akihabara (colloquially shortened to Akiba), a mecca for electronics shopping and geeks. The group was formed as theater-based, to perform at its own theater at Akihabara on a daily basis, so that fans could always go and see them live.`,
-  },
-  {
-    'Cansei de Ser Sexy ': `(band etymology) Portuguese for "tired of being sexy", an alleged quote of Beyoncé Knowles, one of the largest musical influences upon this Brazilian band.`,
-  },
-  {
-    'Vanderlei de Lima': `This man is a Brazilian retired long-distance runner. While leading the marathon after 35 km at the 2004 Summer Olympics, he was attacked on the course by Irish former priest Cornelius "Neil" Horan. Following the incident, he fell from first to third place, eventually winning the bronze medal. He was later awarded the Pierre de Coubertin medal for sportsmanship for that race. Who are we looking for?              `,
-  },
-  {
-    'Corona Project': `From 1960 to 1972 in a reconnaissance project the United States routinely photographed the Soviet Union from space. What was the name of this project, which you hear a lot in another context today? `,
-  },
-  {
-    'Matthew Flinders': `Australia was called “New Holland” by the 17th century Dutch navigators who first landed there. The name “Australia” was first suggested in 1803 by an English explorer, and derives from the Latin australis meaning southern. But who was this Englishman? `,
-  },
-  {
-    'Allman Brothers': `This band really did have the worst luck. After Duane died in a motorcycle accident in 1971, things didn’t seem like they could get worse. That is, until a year later, when the band’s bassist, Berry Oakley, was killed in eerily similar circumstances. Oakley also died in a motorcycle accident in Macon—in fact, the accident was only a few blocks away from the site of Duane’s death. What was the name of this band?`,
-  },
-  {
-    Tejo: `Using small targets containing gunpowder that explode on impact, what is the national sport of Colombia? `,
-  },
-  {
-    'Pentecost Island': `Bungee jumping originated in a ritual called gol, or land diving, which sees practitioners jump off wooden towers 20 to 30 metres high, with two tree vines wrapped around the ankles. Which island in Vanuatu is home to this tradition? `,
-  },
-  {
-    'Bortle Scale': `What name, after the amateur American astronomer who created it in 2001, is given to the scale that measures the night sky's brightness of a particular location by the observability of celestial objects? The scale runs from 1, an excellent dark-sky site in which the zodiacal light is visible and colourful, to 9, an inner city sky, in which, aside from the Pleiades, no Messier object is visible to the naked eye. `,
-  },
-  {
-    'Guillermo Vilas': `A recent investigation by Argentine journalist Eduardo Puppo and Romanian mathematician Marian Ciulpan concluded that this man should have been ranked the world No. 1 player for seven weeks between 1975 and 1976, and the ATP Tour's refusal to recognise this has led to legal challenges. Never officially ranked higher than number 2, which South American player won a record 46 consecutive matches in 1977?              `,
-  },
-  {
-    Yakult: `Which Japanese probiotic milk-based drink, with a name derived from the Esperanto for ‘yoghurt’, was developed by Minoru Shirota in 1935? `,
-  },
-  {
-    'Mark Cavendish': `Which cyclist, nicknamed the Manx Missile, is considered one of the greatest road sprinters of all time, having won 30 Tour de France stages in a career that begun in 2005? `,
-  },
-  {
-    Caodaism: `This is a relatively new religious movement founded in Vietnam. It mixes ideas from other religions, and is a syncretic, monotheistic religion officially established in the city of Tây Ninh, southern Vietnam in 1926. The religion combines Buddhism, Christianity, Taoism, Confucianism, and Islam. But what's the name of this religion? `,
-  },
-  {
-    Bakken: `This is an amusement park in Lyngby-Taarbæk Kommune, Denmark, near Klampenborg (Gentofte municipality) about 10 km north of central Copenhagen. It opened in 1583 and is the world's oldest operating amusement park. What is its name, and no it's not Tivoli? `,
-  },
-  {
-    'Operation Peter Pan': `For this question we're looking for the name of an operation in which 4,000 unaccompanied children were brought to the United States from Cuba during a covert program that helped school-age kids escape repression in Cuba. The program was designed to protect Cuban children whose parents were being targeted by Fidel Castro’s new regime—and to shield them from the Communist ideologies feared by the U.S. at the height of the Cold War. What was the name of this program?              `,
-  },
-  {
-    'Battle of the Catalaunian Plains': `This was one of the most decisive military engagements in history between the forces of the Roman Empire under Flavius Aetius (391-454 CE) and those of Attila the Hun (r. 434-453 CE). The conflict took place on June 20, 451 CE in Gaul (modern day France) in the Champagne region. What was the name of this battle?              `,
-  },
-  {
-    Festivus: `This is a fictional holiday that was introduced through the American television sitcom "Seinfeld". In the show, the holiday was invented by Frank Costanza (Jerry Stiller), father of George Costanza (Jason Alexander). The real life concept of the holiday came from the father of one of "Seinfeld's" writers, who had gotten tired of the increased commercializing of Christmas. The holiday grew in popularity in the early 21st century as more people were looking to celebrate it. What is the name of this holiday?              `,
-  },
-  {
-    Jerusalem: `Which Middle Eastern city provides the title of Alan Moore's 1,200-page novel, published in 2016, that is divided into three books, entitled The Boroughs, Mansoul, and Vernall's Inquest. `,
-  },
-  {
-    'Bose-Einstein condensate': `Winning them the 2001 Nobel Prize in Physics, which state of matter was first created by Eric Cornell and Carl Wieman in 1995 by cooling a gas of rubidium atoms to 170 nanokelvin? `,
-  },
-  {
-    Sutra: `What's the Sanskrit word for 'thread'? It's also used for a collection of aphorisms which are the metaphorical threads using which knowledge is woven. `,
-  },
-  {
-    'Inspector Morse': `Notable for its 2 hour long episodes between 1987 and 2000 and its coded Barrington Pheloung theme tune, which ITV drama series starring the late, great John Thaw and Kevin Whateley as Oxford policemen, was based on a series of detective novels by Colin Dexter? `,
-  },
-  {
-    'FU MINGXIA ': `top female diver of the 1990s. She has been at her best on the platform, winning the Olympic gold medal in that event in 1992 and 1996, and was World Champion in 1991 and 1994.`,
-  },
-  {
-    'Aleksandr Dityatin': `By winning a medal in all eight gymnastics events at Moscow in 1980, he established a record that has been equaled only by Michael Phelps in both 2004 and 2008.`,
-  },
-  {
-    'Золотой час': `в фотографии это период дня вскоре после восхода солнца или перед закатом, в течение которого дневной свет выглядит более красным и мягким, чем при более высоком положении солнца.`,
-  },
-  {
-    'Колада ': `меч, который наравне с Тисоной являлся личным оружием Эль Сида Кампеадора — национального героя Испании XI века. По легендам сила оружия увеличивалась пропорционально отваге владевшего им воина.`,
-  },
-  {
-    'Crazy Horse': `Which Lakota tribesman was one of the leaders of the Native American forces at the Battle of the Little Bighorn? This military leader, commemorated by a still-unfinished memorial carved out of a mountainside in South Dakota’s Black Hills, would die the year after the battle. `,
-  },
-  {
-    'Ibn Khaldun': `Another major source of information on the Mali Empire is this North African historian and philosopher who died in 1406. This is which Arab scholar who, in his historiographical work Muqaddimah, proposed a cycle in which empires gradually lose Asabiyyah or social cohesion? `,
-  },
-  {
-    'Kurukshetra war': `Much of the Mahābhārata concerns which conflict between the Kauravas and the Pandavas, two branches of a family descended from Śakuntalā through her son Bharata? This conflict is named for the city in Haryana where it took place. `,
-  },
-  {
-    'Battle of the Little Bighorn': `The Battle of the Greasy Grass is an alternative name given to which 1876 battle of the Great Sioux War, fought in modern-day Montana? This battle saw Native American tribes including the Lakota Sioux defeat the 7th Cavalry Regiment of the US Army, whose leader performed his “Last Stand” at this battle. `,
-  },
-  {
-    Kālidāsa: `The Sign of Shakuntala is a play by which Classical Sanskrit poet and dramatist of the 4th and 5th centuries CE? It adapts the story of Śakuntalā, the mother of the Emperor Bharata, from the epic poem the Mahābhārata. `,
-  },
-  {
-    gurdwārā: `What name is given to a place of assembly and worship for Sikhs? This building contains a langar hall, where volunteers serve free vegetarian food`,
-  },
-  {
-    'Эйе ': `What was the name of Tutankhamen’s powerful adviser who became pharaoh in his own right following Tutankhamen’s mysterious death? `,
-  },
-  {
-    Dravidian: `The name of which language group in the Indian sub-continent comes from the Sanskrit word for the Tamil language? As well as Tamil, languages in this family include Telugu, Kannada, and Malayalam. `,
-  },
-  {
-    'Leo Africanus': `This 16th century Berber diplomat and author is another major source of information on the Mali Empire through his book Descrittione dell’Africa (Description of Africa) which he dictated in Italian. This is which man who converted from Islam to Christianity after being captured by pirates and sold into slavery before being freed after he was presented to Pope Leo X? `,
-  },
-  {
-    Smilodon: `La Brea [bray-a] is also famous for its fossils of an extinct genus of large, fearsome felids, often referred to as sabre-toothed tigers despite not being closely related to the tiger or to any other modern cat. What is the scientific genus name of these felids? `,
-  },
-  {
-    'Бегство от свободы': `In which 1941 work did the Frankfurt School psychoanalyst Erich Fromm identify authoritarianism, destructiveness, and conformity as three mechanisms by which people might perform the titular, apparently paradoxical, action? `,
-  },
-  {
-    'XYZ Affair': `First used by President John Adams to describe agents of Foreign Minister Charles Maurice de Talleyrand, what name is given to the diplomatic episode of 1797 that worsened relations between France and the United States and led to the undeclared Quasi-War of 1798? This incident saw French diplomats demand bribes and loans from the USA.`,
-  },
-  {
-    'Kitagawa Utamaro': `One of the best-known designers of ukiyo-e [yoo-kee-oh ay] woodblock prints and paintings, which Japanese artist was imprisoned in 1804 for making illegal prints depicting Toyotomi Hideyoshi? This man is particularly remembered for his pictures of insects and of beautiful women. `,
-  },
-  {
-    Tammuz: `This Mesopotamian deity was an agricultural god perhaps most famous for being the consort of Ishtar. He is cited as one of the archetypical exaples of the dying-and-rising god motiff found in Near Eastern mythologies because he is said to die, go to the underworld, and then be resurrected. (Kind of like how crops are harvested, but then eventually re-planted in the spring, get it?)              `,
-  },
-  {
-    Sukkot: `During this Jewish holiday, which originated as a festival commemorating the end of the harvest, Jews traditionally build and live in a temporary structure. Agricultural products known as the "Four Species" (palm, myrtle, willow, and citron) would have been brought to the Temple during this festival. `,
-  },
-  {
-    Holi: `Though most western harvest festivals occur in the fall/autumn because seasons, in warmer climates there are harvests all thorough the year. This popular Hindu holiday, known today as a celebration of colors, likely originated as a celebration of the spring harvest. `,
-  },
-  {
-    'Itaipu Dam': `This Dam, located on the border between Brazil and Paraguay, is the second largest hydroelectric producer in the world. The dam is 7.7 kilometres long and 196 metres high. What is the name fo this dam? `,
-  },
-  {
-    'Caroline Herschel': `This woman, the sister of the astronomer who discovered Uranus, was the first woman in England’s history employed by the government. In 1787, King George III offered her a salary to continue her work in astronomy, making her both the first female government employee and the first paid for their work in astronomy. What ist her name? `,
-  },
-  {
-    Endurance: `Carrying a crew of 27 men and one cat, what was the name of the ship used by Sir Ernest Shackelton on his 1914-1917 Trans Antarctic Expedition? `,
-  },
-  {
-    Zanzibar: `Occuring on the 27th August 1896, the war between Britain and which country is the shortest in history, lasting between 38 and 45 minutes? `,
-  },
-  {
-    Pato: `What is the national sport of Argentina? Played on horseback and combining elements of Polo and Basketball, it is so called because players used to use a live duck in a basket instead of a ball. `,
-  },
-  {
-    'Бочча ': `One of only two Paralympic sports not to have a counterpart in the Olympics, which sport involves participants throwing leather balls as close as they can to a white target ball, called a jack? `,
-  },
-  {
-    'Thomas Cranmer': `Appointed Archbishop of Canterbury by Henry VIII in 1532, which man wrote and compiled the first two editions of the Book of Common Prayer? `,
-  },
-  {
-    Ming: `Credited with the construction of the Forbidden City and the completion of the Great Wall of China, which dynasty ruled China between 1364 and 1644? `,
-  },
-  {
-    'Onyx ': `What meltwater stream at the edge of the Ross Ice Shelf is, at 32 kilometers in length, the longest river in Antarctica? This stream share its name with a semi-precious gemstone. `,
-  },
-  {
-    'Harriet Tubman': `One of the most famous "Conductors" on the Underground Railroad that helped slaves escape to the free northern states and Canada, this woman made 13 trips to the South, helping to free over 70 people from slavery. What was her name? `,
-  },
-  {
-    Linus: `What was the name of the second Catholic Pope? Reigning from AD 67 to AD 76 he was preceded by Saint Peter and succeeded by Anacletus? `,
-  },
-  {
-    'Emil Jannings': `What is the name of the German actor who won the first Academy Award for Best Actor for his role in The Last Command and The Way of all Flesh? `,
-  },
-  {
-    Meteora: `One of the 182 pictures used as the default screensaver for the Amazon Firestick, what is the name of this rock formation in Greece that is host to six Eastern Orthodox monasteries? `,
-  },
-  {
-    Spirograph: `Developed by Denys Fisher and first sold in 1965, what is the name of the drawing toy that enables its user to create beautiful patterns called hypotrochoids and epitrochoids? `,
-  },
-  {
-    '800 metres': `In 1983, Jarmila Kratochvílová set what is now the longest-standing individual world record in athletics when she ran what distance in 1 minute 53.28 seconds? `,
-  },
-  {
-    Фаншипан: `What Vietnamese mountain, the tallest on the Indochinese peninsula, is nicknamed "The Roof of Indochina"? `,
-  },
-  {
-    Oromo: `With roughly four million more native speakers than Amharic, what is the most widely spoken language in Ethiopia? `,
-  },
-  {
-    'Robert Doisneau': `Seen here is Le baiser de l'hôtel de ville or The Kiss by the City Hall by what photographer of Parisian city life (1912-1994)? `,
-  },
-  {
-    'Deadmau5 ': `(band etymology) When his computer crashed and emitted a strange odor, Joel Thomas Zimmerman dismantled it and found a dead mouse inside. He later used the name as a username for various chatrooms.`,
-  },
-  {
-    'Dire Straits ': `(band etymology) Comes from the band's financial situation at the time of forming. `,
-  },
-  {
-    'The Fall ': `The band took their name from the 1956 Albert Camus novel of the same name.`,
-  },
-  {
-    'Fall Out Boy ': `(band etymology) reference to the sidekick of comic book superhero Radioactive Man from The Simpsons. `,
-  },
-  {
-    'Heaven 17 ': `(band etymology) From a line in Anthony Burgess' novel A Clockwork Orange, a fictional band mentioned by a young woman in the record store`,
-  },
-  {
-    'Misery Index': `economic indicator created by Arthur Okun, defined as the sum of the unemployment rate and the annual inflation rate.`,
-  },
-  { 'Sum 41 ': `(band etymology) The band started 41 days into the summer` },
-  {
-    'Tears for Fears ': `(band etymology) from a line in the book Prisoners of Pain by American psychologist Arthur Janov. Much of the band's early material is influenced by Janov's writings.`,
-  },
-  {
-    'Thompson Twins ': `(band etymology) From Thomson and Thompson, the bumbling detectives in Hergé's comic strip series The Adventures of Tintin.`,
-  },
-  {
-    Algeria: `The 1982 game between West Germany and Austria came to be known as "The Disgrace of Gijon" after the two sides played out an appallingly dull 1-0 German win that saw them both qualify. Which African side was knocked out as a result of the scheming European's behaviour? `,
-  },
-  {
-    MASINISSA: `The Third Punic War (139-146) began following an armed conflict between Carthage and which Numidian king? His wife was a Carthaginian noblewoman, Sophonisba, who poisoned herself so as not to be humiliated at the Roman triumph. `,
-  },
-  {
-    'Robert King MERTON': `"Unintended consequences", "reference group", and "role strain" are some concepts developed by which American sociologist (1910-2003)? His book 'On the Shoulders of Giants: A Shandean Postscript' is a parody of scholarly essays that traces the origins of Newton's famous quotation. `,
-  },
-  {
-    'THE ROCKY AND BULLWINKLE SHOW': `Originally voiced by Paul Frees, Boris Badenov is the antagonist of which animated TV series (1959-1964)? `,
-  },
-  {
-    'Bonnie BLAIR': `Which American speed skater won gold medals in the 500 m at three consecutive Winter Olympics, in 1988, 1992, and 1994? She also won the 1000 m twice in a row in 1992 and 1994. `,
-  },
-  {
-    OPIUM: `First marketed in 1977, which oriental-spicy perfume was created for fashion brand Yves Saint Laurent by perfumer Jean Amic and Jean-Louis Sieuzac of Roure? In the United States, a group of Chinese Americans demanded a change of the name and a public apology from Saint Laurent for "his insensitivity to Chinese history and Chinese American concerns". `,
-  },
-  {
-    KURULTAI: `What term refers to the political and military council of the leaders and khans of the ancient Mongols and Turks? All Great Khans of the Mongol Empire were formally elected by its decisions. `,
-  },
-  {
-    'Daniel BRUHL': `Which Spanish-German actor made his international breakthrough as Herman Zoller in the 2009 film Inglourious Basterds and as Niki Lauda in the 2013 film Rush? He starred as Dr Lazlo Kreizler in the Emmy-nominated 2018 TV period drama The Alienist. `,
-  },
-  {
-    'STOKE MANDEVILLE': `Which English village is mentioned in the former title of multi-sport competition, known today as the International Wheelchair and Amputee Sports World Games? `,
-  },
-  {
-    'Beryl COOK': `Which popular British artist, born in Surrey in 1926 but active in Plymouth from the 1960s, is famous for her comical paintings of overweight people enjoying themselves in everyday situations? `,
-  },
-  {
-    'Flora DUFFY': `Which Bermudian triathlete became the country’s first Olympic gold medallist in 2020? To date she has won four World Championship titles. `,
-  },
-  {
-    'Riddick BOWE': `Which American boxer did Lennox Lewis defeat in the 1988 Olympic final? Known for a trilogy of fights against Evander Holyfield, he was the undisputed world heavyweight champion before surrendering the WBC title when he refused to fight Lewis. `,
-  },
-  {
-    'Гуджарат (Валлабхаи Патель)': `The Statue of Unity, the world’s largest statue, stands at 182 metres in which Indian state that lies along India’s west coast?`,
-  },
-  {
-    'Anne ROBINSON': `Who was the original host of the British TV quiz show The Weakest Link? `,
-  },
-  {
-    THIRTEEN: `How many players make up each side in a game of rugby league? The number is two fewer than a team is made of in rugby union. `,
-  },
-  {
-    LIBERIA: `Currently serving a 50-year sentence in HMP Frankland in County Durham, Charles Taylor was the former dictator of which West African country? Although he was involved in this country’s two civil wars, he was convicted for crimes committed in neighbouring Sierra Leone. `,
-  },
-  {
-    'Rita ORA': `In 2022 New Zealand born filmmaker Taika Waititi married which successful British pop star and occasional TV personality? This person had previously dated Calvin Harris.`,
-  },
-  {
-    'Chris Tarrant': `Who was the original host of the British TV quiz show Who Wants to Be a Millionaire? `,
-  },
-  {
-    'Max SCHRECK': `What is the name of the German actor who played Count Orlok in the 1922 silent horror film Nosferatu? `,
-  },
-  {
-    PANIPAT: `Which city north of Delhi was the site of three major battles that took place in 1526, 1556 and 1721? The first of these led to the establishment of the Mughal Empire and the fall of the Delhi Sultanate. `,
-  },
-  {
-    'Загадочное ночное убийство собаки ': `The common name of the star Alpha Canis Majoris, and a novel in which Christopher Boone investigates the death of Wellington. `,
-  },
-  {
-    'Algonquin Round Table, Alduin': `A group of 20th century New York City writers who met at a namesake hotel, and the main antagonist of The Elder Scrolls V: Skyrim. `,
-  },
-  {
-    'Thomas Hardy, G.H. Hardy (Апология математики)': `The author of a poem ending with the lines "That I could think there trembled through His happy good-night air/Some blessed Hope, whereof he knew And I was unaware", and the author of A Mathematician's Apology. `,
-  },
-  {
-    'Дарьенский пробел ': `A stretch of jungle on the border between Panama and Colombia, and the second part of the Millennium Prize problem concerning the Yang-Mills existence.`,
-  },
-  {
-    'Erich Kastner': `The children’s novel Emil and the Detectives was writtenin Weimar Germany in 1929. It followed the story of Emil Tischbein, a 10-year-old who is sent to Berlin to live with relatives by his poor, widowed mother. On the train, his money is stolen. Instead of going to the police, he chases the thief himself with the help of a number of schoolchildren. But who was the author of this book?              `,
-  },
-  {
-    'Jean Dominique Bauby': `This French author and editor of Elle ‘dictated’ his book The Diving Bell and the Butterfly, about his life following a stroke, by blinking his left eyelid. Who was this man, on whose life a golden globe winning film by Julien Schnabel was based? `,
-  },
-  {
-    'Paul Nipkow': `A technician and television pioneer, this man invented the electric telescope for the electric reproduction of illuminating objects; in fact, these were the basic apparatuses for television broadcast. He proposed the first practical television principle based on a scanning disc that transmitted live moving images with tone graduation or greyscale in 1884. He became famous for being the creator of television, and in 1935, the first public television station in the world was named after him. Who is this?              `,
-  },
-  {
-    'Chanko (Тянконабе)': `In sumo, the heavier competitor has an advantage—there are no separate weight classes, and the small ring has gotten no larger to accommodate heftier competitors. Wrestlers, therefore, will eat and eat and eat in a highly regimented fashion to get as large as they can. At the heart of this process is a stew, that defines their lives so completely—most wrestlers eat it at almost every meal for years—that it has come to symbolize the sport and dominate their lives even after they retire. What is the name of this stew?              `,
-  },
-  {
-    'Chrys Kyle': ` American Sniper is based on the life of a man, who was the deadliest sniper in US military history with 160 officially confirmed kills. The movie was a massive box-office success and was nominated for six Oscars. The film won one Academy Award for Best Sound Editing. But what was this man's name? `,
-  },
-  {
-    Afghanistan: `The deep blue semi-precious stone Lapis lazuli has been mined for 6,000 years primarily in which Asian country? `,
-  },
-  {
-    'Jungfrau (‘One’ is Eiger and ‘Two’ is ‘Monch’ – the form the three main summits of the Bernese Alps in Switzerland) ': `Picture C shows one of the most distinctive sights of a particular mountain range. You need to give me the name of the peak marked ‘Three’. `,
-  },
-  {
-    'Марон, марониты -главная христианская секта в Ливане ': `Which 4th-century Syrian Christian monk, who lived a hermetic life in the Taurus mountain near Antioch, gives his name to a present-day Christian church grouping located in the Levant, mainly around Mt. Lebanon?`,
-  },
-  {
-    'Видар ': `In Nordic myth, who is the god associated with revenge? The son of Odin and the female giant Griar, he is foretold to survive Ragnarok, and to avenge his father's death by killing the wolf Fenrir.`,
-  },
-  {
-    'Гавейн ': `The son of King Arthur's sister Morgause and King Lot of Orkney and Lothian, which Knight of the Round Table is best known for his encounter with the Green Knight, who challenges any knight to strike him with his axe, provided he is willing to accept a return blow in a year and a day?`,
-  },
-  {
-    'Кукулькан ': `Meaning 'plumed or feathered serpent', which Mayan snake deity had temples found throughout the northern Yucatan Peninsula, such as at Uxmal and Chichen Itza? It is closely associated with Quetzalcoatl, the serpent god of the Aztecs.`,
-  },
-  {
-    'Хрисаор ': `His name meaning 'he who has a golden sword', which figure in Greek myth is the son of Medusa and the brother of the winged horse Pegasus? Born when Perseus cut off Medusa's head, he is said to have become a king of Iberia.`,
-  },
-  {
-    'Апсары ': `In Indian mythology, what name is given to the beautiful, supernatural female beings that are the spirits of clouds and waters? They are superb in the art of dancing, and are often the wives of the Gandharvas — the court musicians of Indra.`,
-  },
-  {
-    'Галатея ': `In mythology, which name is shared by an ivory statue carved by Pygmalion which subsequently came to life, as well as a nereid (sea nymph) who was the love interest of Polyphemus the Cyclops?`,
-  },
-  {
-    'Арий ': `Born 256 AD in Libya, which priest gives his name to the belief that Jesus Christ, the Son of God, is entirely distinct from and subordinate to the God the Father, and hence in opposition to mainstream Christian teachings on the nature of the Trinity and the nature of Christ? He was declared a heretic by the First Council of Nicaea and banished.`,
-  },
-  {
-    'Авалон ': `First mentioned in Geoffrey of Monmouth’s ‘Historia regum Britanniae’ and described as ‘the island of apples called fortunate’, it is the island to which Britain’s legendary King Arthur sailed after his final battle. Name this island.`,
-  },
-  {
-    'Скади ': `Ill-fated or star-crossed lovers is a common theme across cultures, and is present even in Nordic myth. Which goddess of winter married the sea god Njörd (Njörðr), but in the end had to split up because he couldn’t bear to be away from the seas, while she was happier in her mountain home in Thrymheim?`,
-  },
-  {
-    'Дукха ': `Commonly translated as 'pain', 'suffering' or 'unsatisfactoriness', which concept in Buddhism (and Hinduism) inspires the Four Noble Truths and nirvana doctrines?`,
-  },
-  {
-    'Сигурд ': `Which legendary hero of Norse mythology slew the dragon Fafnir with his sword Gram, and also married the shieldmaiden Brynhildr?`,
-  },
-  {
-    'Ахилл ': `A legendary people of Greek history, the Myrmidons were brave warriors trained and commanded by which mythological hero?`,
-  },
-  {
-    'Мокша ': `In Hinduism, which six-letter word derived from the Sanskrit for ‘release’ refers to the liberation or freedom from the cycle of death and rebirth? One of the four goals of life, it is the rough equivalent of the Buddhist concept of nirvana.`,
-  },
-  {
-    'Морони ': `According to the sacred book of the Latter Day Saint movement, what is the name of the angel who visited Joseph Smith on several occasions beginning in September 1823, telling him about the golden plates buried near his home? In his mortal life, he was the last prophet of the Nephite tribe, who lived in the Americas around 4th and 5th centuries.`,
-  },
-  {
-    'Игрейн ': `In legend, who is the mother of King Arthur? Originally the wife of Gorlois, Duke of Cornwall, she was apparently tricked when Uther Pendragon took the guise of Gorlois (with Merlin’s help), leading to Arthur’s conception.`,
-  },
-  {
-    'Цикада ': `In Greek mythology, the Trojan prince Tithonus was a lover of Eos, the goddess of the dawn. Eos asked Zeus to make Tithonus immortal, but forgot to ask for eternal youth. As such, he grew old and infirm but was unable to die, eventually turning into which insect?`,
-  },
-  {
-    'Потифар ': `In the Book of Genesis, what is the name of the captain of the palace guard whose wife accused Joseph of raping her, resulting in Joseph being thrown into prison?`,
-  },
-  {
-    'Ладон ': `In Greek myth, what is the name of the 100-head dragon that twined around the tree in the Garden of the Hesperides and guarded the golden apples? Slain by Heracles, it was put into the heavens and became the constellation Draco.`,
-  },
-  {
-    'Yo La Tengo ': `(band etymology) The name is a reference to a story about the 1962 US Major League Baseball expansion team, the New York Mets. When two players chase the same batted fly ball, customarily one yells "I've got it" and the other then retreats to avoid a collision. But infielder Elio Chacón did not understand the English term, so he and outfielder Richie Ashburn collided a few times while chasing fly balls. Another teammate suggested that Ashburn yell the words in Spanish instead–"yo la tengo"–so Chacón would understand. After that Ashburn and Chacón no longer ran into each other. But another teammate, Frank Thomas, did not understand the Spanish term. So one day while chasing a fly ball, despite hearing Ashburn call out "yo la tengo", Howard ran into Ashburn`,
-  },
-  {
-    'UB40 ': `(band etymology) The UK government's form number for the Unemployment Benefit Attendance Card, as shown on the band's debut album Signing Off.`,
-  },
-  {
-    'St Mary Mead': `What is the name of the fictional village that is thome to Miss Marple? It is the setting for Murder in the Vicarage? `,
-  },
-  {
-    'Roger DEAKINS': `Which English cinematographer began working with director Denis Villeneuve, starting with Prisoners (2013)? They later collaborated on "Sicario" (2015) and "Blade Runner 2049" (2017), the latter of which brought him his first Oscar for Best Cinematography in his 14th nomination. `,
-  },
-  {
-    Nook: `What is the name of the Barnes & Noble e-reader brand? Its four-letter name is a synonym for a cosy corner of a room. `,
-  },
-  {
-    Тинджан: `Myanmar, what is the name of the festival that celebrates the Buddhist New Year? Celebrations of this festival heavily involve water.`,
-  },
-  {
-    'Shudra ': `The lowest in the historical Indian Varna caste system (excluding Dalits), which caste included labourers and artisans? `,
-  },
-  {
-    'THE FLINTSTONES': `Which animated sitcom (1960-1966) is set in the fictional city of Bedrock? `,
-  },
-  {
-    Songhai: `Sonni Ali was the first king of which empire, prominent in West Africa in the 15th and 16th centuries?  `,
-  },
-  {
-    'Santo Domingo': `With a metro population of over 3.6 million which is the most populous city situated on a Caribbean island? `,
-  },
-  {
-    Warzone: `Developed by Raven Software and Infinity Ward and published by Activision as part of Call of Duty: Modern Warfare in 2019, what is the name of the free-to-play, cross-platform battle royale originally set in the fictional area of Verdansk? The game is named for a large-scale combat area.`,
-  },
-  {
-    'TRISTAN DA CUNHA': `Edinburgh of the Seven Seas is the capital and only settlement of which very remote island group, a constituent part of a British Overseas Territory? `,
-  },
-  {
-    'TOLTEC Empire': `From around 700 CE until its fall in around 1150 CE, the city of Tula was the capital of which Mesoamerican culture? `,
-  },
-  {
-    BRAZIL: `The Boys from (BLANK) is a 1976 thriller novel written by Ira Levin, concerning the plans of Joseph Mengele, who has created clones of Adolf Hitler in which South American country? `,
-  },
-  {
-    'READY TO DIE': `Released in 1994 to critical acclaim, what was the debut solo album of the Notorious B.I.G.? The title proved sadly prescient as he was murdered just three years later.`,
-  },
-  {
-    'Virat KOHLI': `Which Indian batter, who stepped down as captain across all formats in 2021, has the record for most centuries in One Day International cricket, with 50? He remains second behind Sachin Tendulkar for centuries across all formats. `,
-  },
-  {
-    REDDIT: `Before selling Wordle to The New York Times, Josh Wardle created the collaborative social experiments The Button and Place while employed by which website, which has marketed itself as ‘the front page of the internet’? `,
-  },
-  {
-    'ZAPOTEC ': `The ancient city of Monte Albán was at the centre of which Mesoamerican civilization from around 700 BCE to 1500 CE? `,
-  },
-  {
-    'CANIS MAJOR': `Sirius, the brightest star in the night sky, is located within which constellation that takes its name from the Latin for ‘greater dog’? `,
-  },
-  {
-    Fencing: `At the London Olympics, the Italian Valentina Vezzali won her sixth career Olympic gold medal. In which sport did she compete?`,
-  },
-  {
-    '1899': `Debuting in 2022, which multilingual German-made Netflix sci-fi series follows a group of immigrants from various countries on a steamship? `,
-  },
-  {
-    'Shaggy ': `legal strategy in which the defendant continues to deny charges despite witnesses and evidence, professing "it wasn't me" [emphasise these quotation marks], shares a name with which Scooby-Doo character? `,
-  },
-  {
-    'Количественное смягчение ': `QE is an expansionary monetary policy whereby a central bank buys predetermined amounts of government bonds or other financial assets in order to stimulate the economy and increase liquidity. What does QE stand for? `,
-  },
-  {
-    CUNARD: `Many of the ships run by which cruise line company traditionally ended in the letters ‘ia’, such as ‘Lusitania’, ‘Mauretania’ and ‘Lucania’? `,
-  },
-  {
-    'Jacques NECKER': `Which Swiss banker was finance minister for Louis XVI between 1777 and 1781, and again from 1788 to 1789? His dismissal, on 11 July 1789, was a factor in provoking the storming of the Bastille a few days later. `,
-  },
-  {
-    LAOS: `Which landlocked country in Asia traces its history to the kingdom of Lan Xang (Лансанг) ('million elephants'), which was founded in the 14th century? `,
-  },
-  {
-    'DIDIUS JULIANUS ': `After the assassination of Pertinax in 193 CE, who became Emperor of Rome when the title was put up to the highest bidder by the Praetorian Guard? He was the second emperor in the 'Year of the Five Emperors'. `,
-  },
-  {
-    'George MACIUNAS': `Joseph Beuys and Yoko Ono were members of the international network of artists and composers known as Fluxus, that was founded in 1960 by which Lithuanian/American artist? `,
-  },
-  {
-    'Storm (or Ororo Munroe)': `Halle Berry played which mutant superhero in the ‘X-Men’ film series? `,
-  },
-  {
-    merlion: `This mythical animal is a modern-day symbol of Singapore. A statue of one of these animals spews water in Singapore's Financial District (picture taken by the author in 2019). `,
-  },
-  {
-    Сиань: `Which city in the north-central part of China is the home to the Terracotta Army of Emperor Qing Shihuang, the starting point of the Silk Route and also gives its name to a famous incident of 1936 when Generalissimo Chiang Kai-shek was held hostage, that led to the nationalist & communist forces uniting to fight the invading Japanese?`,
-  },
-  {
-    'Matthew effect': `Coined by the sociologist Robert K. Merton in 1968 taking its name from a book of the New Testament, what is the name given to the phenomenon whereby the rich get richer and the poor get poorer? The specific reference pertains to Jesus' parable of the talents within it, which states that, ‘For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken even that which he hath’. `,
-  },
-  {
-    Tuvalu: `Established as a British protectorate in 1892, the Gilbert and Ellice Islands in the Central Pacific were divided into two colonies in 1976. Shortly after that, they gained independence – the Gilbert Islands became the Republic of Kiribati, while the Ellice Islands became known as what? `,
-  },
-  {
-    Orphism: `Coined by the French poet Guillaume Apollinaire in 1912, which term (deriving from the name of a figure in Greek myth) refers to the artistic movement that was an offshoot of Cubism which focused on pure abstraction and bright colours? Prominent proponents of this style include Frantisek Kupka and Robert Delaunay. `,
-  },
-  {
-    'Golan Heights': `The Six Day War of 1967 saw the victorious Israelis take the Sinai Peninsula from Egypt, the West Bank and East Jerusalem from Jordan, and which hilly area from Syria? `,
-  },
-  {
-    Galahad: `In Arthurian legend, which knight was the illegitimate son of Lancelot and Elaine, and the only one predestined to achieve the Holy Grail? `,
-  },
-  {
-    'Baku, Azerbaijan': `Known as the ‘City of Winds’, it is the lowest-lying national capital in the world. Located on the southern shore of the Absheron Peninsula, UNESCO World Heritage Sites that can be found in it include the Maiden Tower and the Palace of the Shirvanshahs. Which city is this? `,
-  },
-  {
-    'Паньгу ': `In Chinese mythology, which primitive hairy giant is regarded as the first living being and a creator figure? Born from a cosmic egg 18,000 years ago after the coalescence of chaos, he separated the sky and earth; when he died, his breath became the wind and clouds and his voice thunder, while the rest of his body transformed into the physical features of the world.`,
-  },
-  {
-    'Cleveland Cavaliers': `‘The Decision’ is a 2010 televised special in which the NBA star LeBron James announced his decision to join the Miami Heat, after he had spent the preceding seven seasons with which other NBA team with whom he reached the Finals in 2007 before being defeated by the San Antonio Spurs? `,
-  },
-  {
-    'Федра ': `The 1924 Eugene O’Neill play ‘Desire Under the Elms’ is largely based on the story of which figure from Greek mythology? The daughter of King Minos and sister of Ariadne, she was married to Theseus but fell in love with his son Hippolytus; rejected by the latter, she accused him of rape, leading to Theseus killing him.`,
-  },
-  {
-    'Пелей ': `A son of the king of Aegina, which hero in Greek myth accompanied Heracles and Jason on their various quests and adventures? His marriage to the sea-nymph Thetis produced seven sons, all of whom died in infancy except one – Achilles.`,
-  },
-  {
-    'Дигамбара ': `Which of the two major denomination of Jainism has a name that means ‘sky-clad’ in Sanskrit, referencing the practice of its male ascetics in shunning all property and wearing no clothes? The ascetics of the other branch (the Shvetambara, or ‘white-clad’) wear white robes.`,
-  },
-  {
-    'Филоктет ': `The subject of four different ancient Greek plays (each by one of the three major tragedians although only Sophocles’ version has survived), which hero of the Trojan war was the son of King Poeas of Meliboea? A famed archer, he survived a venomous snake bite, was stranded on the island of Lemnos before firing the arrow that killed Paris.`,
-  },
-  {
-    'Сурт ': `In Nordic myth, which jotunn (giant) ruled over the fiert realm of Muspelheim? As told in the ‘Prose Edda’, he will go to battle against Freyr during Ragnarok, and afterward the flames that he brings forth from his burning sword will engulf the Earth.`,
-  },
-  {
-    'Архат ': `Its name deriving from Sanskrit for ‘one who is worthy’, what term in Buddhism refers to a perfect person who has achieved nirvana and has escaped the cycle of rebirth? Known as 罗汉 in Chinese and rakan in Japanese, they represent the 16-18 close disciples of the Buddha who were entrusted by him to remain in the world and not to enter nirvana until the coming of the next buddha.`,
-  },
-  {
-    'Тор ': `In Norse myth, which god rides on a chariot drawn by the goats Tanngrisnir (Teeth-barer) and Tanngnjostr (Teeth-grinder)? He also wears the magical items megingjörð (a belt) and Jarngreipr (iron gloves).`,
-  },
-  {
-    'Птах ': `In Egyptian myth, which deity (originally the demiurge of Memphis) is widely considered as the creator-god who conceived the world by the thought of his heart? The consort of Sekhmet the lion-goddess, he is usually depicted as a mummified man with green skin and holding a sceptre which combines the powerful ankh-djed-was symbols.`,
-  },
-  {
-    'GERLACHovský štít': `Located in the High Tatras range in Slovakia, what is the tallest peak in the Carpathian mountains? Your answer may be the informal shortened name of this mountain.`,
-  },
-  {
-    'Мордред ': `In legend, who mortally wounded King Arthur at the Battle of Camlann and was himself killed as well? His relationship to Arthur varies from illegitimate son to nephew, according to different sources.`,
-  },
-  {
-    'ULAY ': `Which German performance artist collaborated with his wife Marina Abramović on many works, including Rest Energy, in which he pointed an arrow at Abramović's heart? `,
-  },
-  {
-    'Nazca Plate ': `The Andes have largely been created by the subduction of which minor tectonic plate off the west coast of South America beneath the South American plate? `,
-  },
-  {
-    'Ons Jabeur': `Which woman, the first Arab tennis player to reach a Grand Slam final, lost the 2023 and 2022 Wimbledon finals? `,
-  },
-  {
-    'Casper Ruud ': `Which man, the top Norwegian tennis player (as his father was in the 1990s), lost the 2023 and 2022 French Open finals? `,
-  },
-  {
-    'APULIA (Базиликата - подошва, Калабрия - мысок )': `Which region of Italy, bordering the Adriatic Sea to the east, the Strait of Otranto and the Ionian Sea to the southeast, and the Gulf of Taranto to the south, forms the ‘heel’ of the Italian boot? This region has its capital at Bari `,
-  },
-  {
-    'The GRADUATE': `George Michael’s 1992 hit ‘Too Funky’ features the sampled line “Would you like me to seduce you? ” spoken by Anne Bancroft in which 1967 movie? `,
-  },
-  {
-    'EUPHONIUM ': `Which brass instrument derives its name from the Greek for ‘sweet voiced’ or ‘well-sounding’? `,
-  },
-  {
-    'MUTUALISM ': `Mycorrhizae are an example of what type of symbiotic relationship in which both species benefit? This is contrasted with commensalism, in which one benefits and the other is unaffected. `,
-  },
-  {
-    'Susanna CLARKE': `Inspired by the Italian artist of the same name, which author won the 2021 Women's Prize for Fiction for the novel Piranesi? `,
-  },
-  {
-    'LEO X': `The Medici family had four of its members rise to the Papacy. The first to do so was Giovanni, who was head of the Church from 1513 to 1521 under what Papal name and number? He promulgated the Papal Bull Exsurge Domine in response to the teachings of Martin Luther. `,
-  },
-  {
-    'Микориза ': `Important for plant nutrition and improving soil conditions for growth, what term is given to a symbiotic association between the root system of a plant and a fungus?`,
-  },
-  {
-    'KOREAN War (Пханмунджом)': `An armistice signed in 1953 in Panmunjom brought a de facto end to which Asian war? One of the nations involved claimed that their enemies - known today as one of the strictest totalitarian states - have violated the armistice terms over 200 times since being signed.`,
-  },
-  {
-    'Barbara KINGSOLVER': `Inspired by Dickens David Copperfield, which author won the 2023 Women’s Prize for Fiction for the novel Demon Copperhead? `,
-  },
-  {
-    'Лю Сяобо ': `When this Chinese (1955 - 2017), writer, literary critic, philosopher and human rights activist was laureate with the Nobel Peace Prize in 2010, he was under arrest. Who are we looking for? `,
-  },
-  {
-    'Hugh Masekela (Отец южноафриканского джаза)': `Born in Johannesburg, South-Africa, in 1939, this man has covered the globe and played with almost every star you can think of. He performed with Paul Simon on the 'Graceland' tour and defended Simon vigorously when the tour was seen as a violation of the ANC's cultural boycott. His 1987 hit 'Bring Him Back Home' became the anthem for Nelson Mandela's world tour following his release from prison in 1992. But who are we looking for?              `,
-  },
-  {
-    'Сирил Джеймс ': `This man from Trinidad and Tobago was a socialist historian whose extraordinary work on the victory of Haitian slaves against the mighty French Army in the Haitian Revolution, "The Black Jacobins" (1938), was immediately acclaimed. His 1963 book of autobiography and cricket writings, "Beyond a Boundary", is equally loved. But who was he? `,
-  },
-  {
-    'Ground zero': `What two-word term denotes the point on the earth's surface directly above or below an exploding nuclear bomb? The term became widely used again in the second half of 2001. `,
-  },
-  {
-    'The Last Waltz (Концерт The Band)': `The action of which acclaimed Martin Scorsese film takes place entirely in San Francisco on November 26, 1976? `,
-  },
-  {
-    'Saul Bass': `In the same year he designed Continental Airlines' "jetstream" logo, which man directed the Academy Award-winning 1968 animated short documentary Why Man Creates? `,
-  },
-  {
-    'Grigoris Lambrakis': `The 1969 Costa-Gavras film Z was inspired by the 1963 assassination of which man — who, in 1936, competed for Greece in the Olympic men's long-jump and triple-jump? `,
-  },
-  {
-    Qantas: `Operating some of the longest flights in the world and boasting a sterling safety record, this is the flag carrier of Australia. `,
-  },
-  {
-    WizzAir: `This Hungarian low-cost carrier is another leading European budget airline, and Luton (alongside Budapest) is one of its hubs. `,
-  },
-  {
-    Avianca: `Based at El Dorado International Airport in Bogata, this flag carrier of Colombia is the second largest airline in South America. `,
-  },
-  {
-    '1976 (Boris Onishchenko being the Soviet modern pentathlete who cheated in the fencing at the Summer Olympic Games in Montréal)': `In what year was the phrase "Boris DISonishchenko" coined?`,
-  },
-  {
-    'New Zealander ': `What nationality is Nigel Richards, the five-time and current world Scrabble champion? `,
-  },
-  {
-    'LOS ANGELES ': `Which city is scheduled to host the 2028 Summer Olympic Games? It will be the third time that this US city will host the Summer Games.`,
-  },
-  {
-    'JEDDAH Tower': `Previously named the Kingdom Tower, which Saudi skyscraper - projected to be the first kilometre tall building in the world - resumed construction this year after five years of inactivity? `,
-  },
-  {
-    'Who was the first Japanese Nobel laureate, receiving the Nobel Prize in Physics in 1949 for his prediction of the pi meson, or pion? ': `Hideki YUKAWA`,
-  },
-  {
-    'KUALA LUMPUR': `Merdeka 118, formerly known as Menara Warisan Merdeka, is currently the 2nd highest building in the world and can be found in which Asian city? `,
-  },
-  {
-    BRISBANE: `Which city, the capital of Queensland, is scheduled to host the 2032 Summer Olympic Games? It will follow Melbourne and Sydney as the third Australian city to host the Summer Games in its history. `,
-  },
-  {
-    'Robert BROWNING': `Which writer composed the poem ‘Childe Roland to the Dark Tower Came’, the inspiration for Stephen King’s Dark Tower series of fantasy novels? The poem was published in 1855 as part of the collection Men and Women. `,
-  },
-  {
-    AKRON: `According to the 2020 census, what is the fifth largest city in Ohio? This city, once known as the ‘Rubber Capital of the World’, has a name derived from the Greek for ‘summit’ or ‘high point’. `,
-  },
-  {
-    'Безумства Зигфельда ': `Named after the American impresario who founded them in 1907, what was the name of the theatrical revue productions held on Broadway until 1931? Described as a mix of theatre, variety show and vaudeville, the series brought fame to figures including Sophie Tucker and Barbara Stanwyck. `,
-  },
-  {
-    'Dorothy HODGKIN': `Which British scientist used X-ray crystallography techniques to determine the structure of insulin? In 1964, she became the third woman to win the Nobel Prize for Chemistry.`,
-  },
-  {
-    'Вал Оффы': `Stretching around 150 miles, the large earthwork that roughly follows the boundary between England and Wales is named for which Anglo-Saxon king who ordered its construction?`,
-  },
-  {
-    'The Field of the CLOTH OF GOLD': `Arranged to forge bonds of friendship between England and France, the lavish summit held by Henry VIII [the eighth] and King Francis I [the first] of France in Calais in 1520 was given what name? `,
-  },
-  {
-    '4000 ': `What 4-digit number follows 'X-Seed' in the name of the conceptual megatall skyscraper proposed by the Taisei Corporation, which theoretically could house up to a million people? `,
-  },
-  {
-    'Google SHEETs': `Which application included in the Google Drive service is compatible with Microsoft Excel file formats? `,
-  },
-  {
-    'T. REX ': `In 1967 Marc Bolan founded which glam rock band that had number 1 singles including ‘Hot Love’ and ‘Get it On’? `,
-  },
-  {
-    PANGOLINs: `What mammals of the order Pholidota have long sticky tongues that are attached near the pelvis and can be longer than the animal itself? These are the most trafficked animals in the world and are also known as ‘scaly anteaters’. `,
-  },
-  {
-    'Нейроглия ': `What is the name given to the cells in the brain and nervous system which are non-neuronal and create no electrical impulses? They make up more than a half of the volume of neural tissue in the human body. `,
-  },
-  {
-    'Jochen Rindt': `Which Austrian driver won the formula one world championship in 1970? He was killed during a practice session for the Italian Grand Prix that year, becoming the only driver to win the world title posthumously`,
-  },
-  {
-    Maybelline: `Which makeup brand's name is derived from the founder's sister, who inspired him to create the company's first lash-darkening product in 1915? It's name is very similar to that of a 1955 Chuck Berry song. `,
-  },
-  {
-    'METCALFE’s law': `Which eponymous law states that the financial value or influence of a telecommunications network is proportional to the square of the number of connected users? This law is named after the American engineer who co-invented ethernet and founded the company 3Com. `,
-  },
-  {
-    Hatshepsut: `Who became ruler of Egypt around 1478 BC following the death of her husband Tuthmosis II? Initially regent for her stepson Tutmosis III, she later became his co-ruler, spending around two decades on the throne. `,
-  },
-  {
-    'Forgetting curve': `What is the two-word name for the graphical hypothesis showing the decline of memory retention over time, originally postulated by psychologist Hermann Ebbinghaus in the 1880s? `,
-  },
-  {
-    'YELLOWSTONE National Park': `Which was the USA’s first national park? Located primarily in Wyoming, this world-famous park spills into Montana and Idaho. `,
-  },
-  {
-    'Jean-Luc PICARD': `Despite having had a long theatrical career, Patrick Stewart’s breakout television role came aged 47, when he played which character in Star Trek: The Next Generation? The captain of the USS Enterprise, this character also gives his name to a series that premiered in 2020 with Stewart in the lead role. `,
-  },
-  {
-    'March ': `What is the surname of the four sisters who are the principal characters in Louisa May Alcott's 1868 novel Little Women? March 4a Which queen of England reigned from 1702 to 1714, becoming the first monarch to rule over the United Kingdom of England and Scotland?`,
-  },
-  {
-    ELVIS: `Directed by Baz Luhrmann, which 2022 biopic starred Austin Butler in the title role and Tom Hanks as Colonel Tom Parker`,
-  },
-  {
-    'ANDREA CHÉNIER ': `Italian composer Umberto Giordano [jor-DAN-o] is best known for which 1896 opera that is loosely based on the life of a French poet who was executed during the French Revolution? Jonas Kauffman played the title role in a 2015 Royal Opera production of this opera, which is being revived next year. `,
-  },
-  {
-    'OLD FAITHFUL': `The first geyser to be named in Yellowstone National Park was which world-famous cone geyser named after its extreme predictability? Since the turn of the millennium, it has erupted at least once every two hours. `,
-  },
-  {
     TELEMARK: `Which skiing technique, that combines elements of Alpine and Nordic skiing, is named after the region of Norway in which it originated? `,
   },
   {
@@ -2105,5 +1184,699 @@ central to number theory and have important applications in computer science`,
   },
   {
     'Эмиль фон Беринг': `He won the first Nobel Prize for Medicine in 1901 for his ‘work in serum therapy, especially diphtheria’ (and Ehrlich never forgave his exclusion).`,
+  },
+  {
+    Бехштейн: `немецкая компания, занимающаяся производством и дистрибуцией пианино и роялей, компания работает в глобальном масштабе. Карл Бехштейн основал свою фортепианную фабрику в Берлине в 1853 году.`,
+  },
+  {
+    ALERT: `Which settlement on Ellesmere Island in Canada, inhabited solely by staff members at a military radio communications facility, is generally considered to be the world's most northerly continuously-inhabited settlement?`,
+  },
+  {
+    'BANKS, Tyra ': `Which American supermodel, the creator and long-time presenter of the TV series America's Next Top Model, is credited with coining the term 'smize' to refer to the act of 'smiling with the eyes'?`,
+  },
+  {
+    'CUI, César': `An Engineer-General in the Imperial Russian Army and renowned expert on military fortifications, which Russian composer, a member of the so-called 'Mighty Handful', wrote the 1913 opera Puss in Boots, based on Charles Perrault's [per-OH's] version of the fairy tale?`,
+  },
+  {
+    Плазмодий: `Anopheles (анофелесы) mosquitoes spread malaria by acting as a vector for which genus of single-celled parasitic micro-organisms, which cause the disease? `,
+  },
+  {
+    SASSANID: `Founded by Ardashir I in 224 CE, what was the last imperial dynasty to rule over Persia prior to the Muslim conquest of the region in the mid-7th century? `,
+  },
+  {
+    'Смерть после полудня': `Noted for its high alcohol content, which cocktail, invented by Ernest Hemingway and named for one of his books, is made primarily of absinthe and champagne? `,
+  },
+  {
+    'Херефордская карта': `A dedicated building at Hereford Cathedral houses the Chained Library and which other notable medieval artifact, which dates from around 1300 AD and is the largest of its kind known to exist?`,
+  },
+  {
+    BAHAMAS: `The capital city of which island nation is situated on the island of New Providence?`,
+  },
+  {
+    CHIRON: `Which sports car, produced by the French manufacturer Bugatti, was launched in 2016 as the successor to the Veyron?`,
+  },
+  {
+    'MARCUSE, Herbert': `One-Dimensional Man (Одномерный человек), published in 1964, is a book by which philosopher, associated with the Frankfurt School? `,
+  },
+  {
+    RHÔNE: `The Swiss city of Geneva stands at the confluence of the Arve and which other major European river?`,
+  },
+  {
+    Тенреки: `What diverse group of mammals endemic to Madagascar reveal striking examples of convergent evolution, with some resembling hedgehogs, shrews rats, and mice? They also have cloacas unlike the vast majority of mammals.`,
+  },
+  {
+    'Allen`s Law': `Although there are exceptions, which ecogeographical rule states that warm blooded animals adapted to colder climates, have shorter appendages, limbs and ears?`,
+  },
+  {
+    Brumby: `Mostly found in the Northern Territory, what is the name given to the free roaming feral horses of Australia, some of are descendants of those brought by the first European settlers?`,
+  },
+  {
+    'Oughtred, William': `Developed by the 17th century Reverend William Oughtred, what mechanical device allows the rapid multiplication and division of logarithms and exponentials? Slide Rule`,
+  },
+  {
+    'Война черного ястреба': `More than 150 Native American were killed in the Bad Axe massacre in 1833 towards the end of which war fought in Illinois and present-day Wisconsin?`,
+  },
+  {
+    CRUCIBLE: `What 1953 play by Arthur Miller is a dramatized retelling of the Salem witch trials?`,
+  },
+  {
+    'Mount Lee': `Peak in California on which the Hollywood Sign is located`,
+  },
+  {
+    Statins: `One of the most commonly prescribed classes of drugs for reducing LDL cholesterol, the so-called “bad cholesterol,” is the statins. LDL causes deposits to form in arteries and triggers heart attacks.`,
+  },
+  {
+    Польдер: `осушенный и возделанный низменный участок побережья.`,
+  },
+  {
+    'Голосование ногами': `Foot voting is expressing one's preferences through one's actions, by voluntarily participating in or withdrawing from an activity, group, or process; especially, physical migration to leave a situation one does not like, or to move to a situation one regards as more beneficial.`,
+  },
+  {
+    'Кампания перед входом': `A front porch campaign is a low-key electoral campaign used in American politics in which the candidate remains close to or at home to make speeches to supporters who come to visit. The candidate largely does not travel around or otherwise actively campaign. The successful presidential campaigns of James A. Garfield in 1880, Benjamin Harrison in 1888, and William McKinley in 1896 are perhaps the best-known front porch campaigns.`,
+  },
+  {
+    CARDINI: `What was the surname of Caesar, the Italian-born chef who gave his forename to the salad involving lettuce and croutons (among other ingredients) that he devised while working at a Mexico restaurant in 1924? `,
+  },
+  {
+    'Криптия ': `карательное мероприятие (избиение), периодически организовывавшееся спартанским рабовладельческим государством (Древняя Греция) для устрашения илотов. `,
+  },
+  {
+    'Тридцать Тиранов': `коллективное прозвище группы проспартанских правителей, правивших в Афинах после окончания Пелопоннесской войны, в период 404—403 годов до н. э.
+
+`,
+  },
+  {
+    'STAGGER LEE': `What is the nickname of the African American folk legend who was based on a real person who shot another man for swiping his Stetson hat? Many artists have recorded songs about him, including Lloyd Price's number 1 hit, Wilson Pickett, and Nick Cave and the Bad Seeds.`,
+  },
+  {
+    'Зеркало Гезелла': `стекло, выглядящее как зеркало с одной стороны и как затемнённое стекло — с противоположной.`,
+  },
+  {
+    'DI MODICA, Arturo ': `Which Italian sculptor is best known for his Charging Bull statue, which is currently located on Broadway, New York? The English sculptor Henry Moore nicknamed him “the young Michelangelo”`,
+  },
+  {
+    'Бесстрашная девочка': `бронзовая скульптура авторства Кристен Визбал[англ.], созданная по заказу крупной компании по управлению активами State Street Global Advisors (SSGA) в рекламных целях, но стала заметным культурным феноменом. Статуя была установлена 7 марта 2017 года, в преддверии Международного женского дня, лицом к статуе «Атакующего быка», привлекая внимание к проблемам гендерного неравенства`,
+  },
+  {
+    'Конференция в Думбартон-Оксе': `Международная конференция стран-участников Антигитлеровской коалиции, на которой обсуждались вопросы послевоенного устройства мира, учреждения международной организации по поддержанию мира и безопасности.
+
+`,
+  },
+  {
+    'Маше́л, Граса ': `политик Мозамбика и ЮАР, бывшая супруга президента Мозамбика Саморы Машела, погибшего в авиакатастрофе. С 1998 по 2013 год — супруга Нельсона Манделы, экс-президента ЮАР. Почётная Дама-Командор ордена Британской империи с 2007 года. Единственная в мировой истории женщина, бывшая первой леди двух разных государств`,
+  },
+  {
+    Ogopogo: `Ogopogo is a lake monster said to inhabit Okanagan Lake in which province of Canada? It is Canada's third-most populous province.,BRITISH COLUMBIA`,
+  },
+  {
+    BUNYIP: `Which mythical monster is said to inhabit the swamps and billabongs of Australia? This name is usually translated by Aboriginal Australians today as "devil" or "evil spirit"`,
+  },
+  {
+    'Фильм Паттерсона-Гимлина': ` американский короткометражный любительский фильм, снятый в 1967 году в Северной Калифорнии охотниками за снежным человеком Роджером Паттерсоном и Бобом Гимлином и изображающий неизвестное существо, которое, по утверждению авторов фильма, было самкой бигфута.`,
+  },
+  {
+    'Вальядолидская хунта': `philosopher Juan de Sepulveda was a key figure in a 16th-century debate that sought to establish the nature of the relations between indigenous people of the Americas and the Spanish colonial settlers. That debate took place in and is named after which Spanish city ? Answer: This city was briefly the capital of Habsburg Spain, and Columbus died here, although he is buried in Seville.`,
+  },
+  {
+    Трони: `(от нидерл. tronie — голова, лицо, рожа) — жанровая разновидность графического или живописного портрета, получившая распространение в Голландии в XVII веке. Представляет собой поясные или поплечные портретные штудии, изображавшие зачастую анонимных моделей с необычным выражением лица или костюмом.`,
+  },
+  {
+    Оссиконы: `​What is the name of the rounded, skin-covered, horn-like bone structures found on the head of giraffes and okapis ? `,
+  },
+  {
+    'Edict of Fontainebleau': `Edict of Nantes was superseded in 1685 by the Edict of Fontainebleau [fon-ten-blow], which revoked all the rights set down previously, and was signed by which long-ruling French king, as part of his campaign of persecution ? Answer: ​Louis Xiv`,
+  },
+  {
+    'Wadlow, Robert ': `​According to the Guinness book of records, what is the name of the tallest man to have ever lived? He reached 8ft 11in tall due to his body over-producing Human Growth Hormone`,
+  },
+  {
+    'Дикое поле': `a 300 ha (740 ac) nature reserve near the city of Tula in Tula Oblast in the European part of Russia, approximately 250 km (150 mi) south of Moscow. It was established in 2012 by Russian scientists Sergey Zimov and Nikita Zimov as a companion to Pleistocene Park in Siberia. Unlike Pleistocene Park, Wild Field’s primary purpose is not scientific research but public outreach`,
+  },
+  {
+    'Planetary chauvinism': `the belief that human society will always be planet-based (even if extended beyond Earth), and overlooks or ignores the potential benefits of space-based living. The idea can be extended to alien society in general, that is, we should expect alien society to be planet based.`,
+  },
+  {
+    Pantropy: `a hypothetical process of space habitation or space colonization in which, rather than terraforming other planets or building space habitats suitable for human habitation, humans are modified (for example via genetic engineering) to be able to thrive in the existing environment.`,
+  },
+  {
+    'Закон Дюверже': `In political science, Duverger's law holds that in political systems with only one winner (as in the U.S.), two main parties tend to emerge with minor parties typically splitting votes away from the most similar major party.`,
+  },
+  {
+    'Pfaff, Jean-Marie': `(born 4 December 1953) is a Belgian former professional footballer who played as a goalkeeper who spent most of his professional career with Beveren and Bayern Munich. Pfaff was capped 64 times playing for Belgium, and participated at the 1982 FIFA World Cup and 1986 FIFA World Cup tournaments.`,
+  },
+  {
+    'Simonsen, Allan': `(born 15 December 1952) is a Danish former footballer and manager. He most prominently played as a striker for German Bundesliga club Borussia Mönchengladbach, winning the 1975 and 1979 UEFA Cups, as well as for Barcelona in Spain, winning the 1982 Cup Winners' Cup. Simonsen was named 1977 European Footballer of the Year.`,
+  },
+  {
+    'Kostelić, Janica': `(born 5 January 1982) is a Croatian former alpine ski racer. She is a four-time Olympic gold medalist. In addition to the Olympics, she won five gold medals at the World Championships.`,
+  },
+  {
+    'Icho, Kaori': `a Japanese freestyle wrestler. She is a ten-time World Champion and four-time Olympic Champion, winning gold in 2004, 2008, 2012 and 2016. Icho was undefeated between 2003 and 2016.`,
+  },
+  {
+    'Włodarczyk, Anita': `(born 8 August 1985) is a Polish hammer thrower. She is the 2012, 2016 and 2020 Olympic champion, and the first woman in history to throw the hammer over 80 m; she currently holds the women's world record of 82.98 m.`,
+  },
+  {
+    'Rossi, Paolo': `( 23 September 1956 – 9 December 2020) was an Italian professional footballer who played as a forward. He led Italy to the 1982 FIFA World Cup title, scoring six goals to win the Golden Boot as top goalscorer, and the Golden Ball for the player of the tournament.`,
+  },
+  {
+    'Ledecká, Ester': `(born 23 March 1995) is a Czech snowboarder and alpine skier. At the 2018 Winter Olympics in Pyeongchang, Ledecká won gold medals in the super-G in alpine skiing and in the parallel giant slalom in snowboarding, becoming the first person to not only compete in the Winter Olympics using two different types of equipment (skis and snowboard) but to go further and win two gold medals and do so at the same Winter Olympics.`,
+  },
+  {
+    'Blankers-Koen, Fanny': `was a Dutch track and field athlete, best known for winning four gold medals at the 1948 Summer Olympics in London. She competed there as a 30-year-old mother of two, earning her the nickname "the Flying Housewife", and was the most successful athlete at the event.`,
+  },
+  {
+    'Zátopek, Emil': `(19 September 1922 – 21 November 2000) was a Czech long-distance runner best known for winning three gold medals at the 1952 Summer Olympics in Helsinki. He won gold in the 5,000 metres and 10,000 metres runs, but his final medal came when he decided at the last minute to compete in the first marathon of his life.`,
+  },
+  {
+    'Killy, Jean-Claude': `(born 30 August 1943) is a French former World Cup alpine ski racer. He dominated the sport in the late 1960s, and was a triple Olympic champion, winning the three alpine events at the 1968 Winter Olympics, becoming the most successful athlete there.`,
+  },
+  {
+    'Marleau, Patrick': `(born September 15, 1979) is a Canadian former professional ice hockey forward. With 1,779 NHL games played, he is the all-time leader in regular season games played in league history. He passed the record previously held by Gordie Howe in his 1,768th game on April 19, 2021.`,
+  },
+  {
+    'Jean Borotra, Jacques Brugnon, and Henri Cochet': `Lacoste was one of the Four Musketeers with Jean Borotra, Jacques Brugnon, and Henri Cochet, French players who dominated tennis in the late 1920s and early 1930s.`,
+  },
+  {
+    'Space Cola Wars': `In the Space Cola Wars, the major soft drink competitors Coca-Cola and Pepsi engaged in a costly marketing campaigns and product tests to get their beverages into space, in continuation of the so-called "Cola Wars".`,
+  },
+  {
+    'Gibson`s law': `For every PhD there is an equal and opposite PhD.`,
+  },
+  {
+    'Bielefeld conspiracy': `a satirical conspiracy theory that claims that the city of Bielefeld, Germany, does not exist, and is instead an illusion propagated by various forces to distract or mislead the German public.`,
+  },
+  {
+    'Колеблющийся штат': `In American politics, a swing state (also known as battleground state, toss-up state, or purple state) is any state that could reasonably be won by either the Democratic or Republican candidate in a statewide election`,
+  },
+  {
+    Фульгурит: `Sometimes called fossil lightning, what 'F' is the name given to tubes and clumps of fused silica produced when lightning strikes sand, clay or other silica rich soils?`,
+  },
+  {
+    Berkeley: `The flagship campus of the University of California is located in which suburb of San Francisco? Due to the presence of the university and the overall hippie-infested nature of northern California, this small city is traditionally considered to be the most left-wing place in the entire United States.`,
+  },
+  {
+    Brindisi: `The Appian Way - the most famous Roman road of all time - connected Rome to which port city in Apulia? In Ancient Roman times this seaport on the Adriatic Sea was the primary port for ships heading from Italy to Greece.`,
+  },
+  {
+    Banff: `Which small resort town in the Canadian province of Alberta shares its name with the national park that it is located inside of? It is Canada's oldest and most visited National Park, offering spectacular views of the Rocky Mountains.`,
+  },
+  {
+    Bangui: `The crazed dictator Jean-Bedel Bokassa crowned himself Emperor of the Central African Empire in a lavish and expensive coronation ritual in 1976. It was surely the biggest party ever thrown in which city? `,
+  },
+  {
+    'Мост СНП': `The Most SDP (better known as the "UFO Bridge") over the Danube River is one of the major landmarks of which European capital city? Bratislava`,
+  },
+  {
+    Bandung: `In 1955, Indonesian President Sukarno and Indian Prime Minister Jawaharlal Nehru organized a meeting of Asian and African countries in which city on the island of Java? In retrospect, this conference (which is named for this city) is seen as an important step towards the creation of the Non-Aligned Movement, a group of countries that sought to stay neutral during the Cold War.`,
+  },
+  {
+    'Беэр Шева': `This city in southern Israel is the largest city in the Negev Desert. British Light Horse forces won a significant battle in this city against the Ottoman Empire in 1917. According to the Book of Genesis, Abraham dug a well in this city, a well that can still be visited today.`,
+  },
+  {
+    'Hume, David': `Which Scottish philosopher’s best known thought experiment concerns a missing shade of blue? This empiricist is also the author of An Enquiry Concerning Human Understanding.`,
+  },
+  {
+    Мельхиседек: `Самая большая бутылка шампанского (30 литров)`,
+  },
+  {
+    'MAGNUM, Thomas': `What TV detective shares his surname with a measure of champagne? (1.5л)`,
+  },
+  {
+    Mode: `In statistics, what 4 letter word is the value that occurs the most in a dataset?`,
+  },
+  {
+    'Bergmann`s Rule': `Named after a 19th century German Botanist, what zoological principle states that populations and species of warm blooded animals (mammals and birds) tend to have larger body masses, in colder environments?`,
+  },
+  {
+    'В разреженном воздухе': `What was the 3-word name of the bestselling book by journalist Jon Krakauer which told the story of his experience in the 1996 Everest disaster which saw 8 people die? `,
+  },
+  {
+    'Метод Бутейко': `неглубокое дыхание. Чем меньше вы вдыхаете воздуха, тем быстрее происходит оздоровление организма.
+`,
+  },
+  {
+    'Гроф, Станислав ': `холотропное дыхание`,
+  },
+  {
+    'HOF, Wim': `In 2007, which Dutchman supposedly reached 25,000ft on Mount Everest wearing only shoes and shorts? (Ледяной человек, методика дыхания)`,
+  },
+  {
+    'HEART OF THE OCEAN': `The 1997 movie Titanic begins with the crew of a research vessel bringing aboard a safe. What is the name of the jewel they hope to locate in that safe?`,
+  },
+  {
+    'TOMS, Kevin ': `Which Kevin, a computer games programmer, has his name eternally linked with the 1980s "Football Manager" simulation game?`,
+  },
+  {
+    'HOLLYWOOD VAMPIRES': `What was the two-word name of Johnny Depp's rock supergroup band? The two word name of this band contains an area of Los Angeles.`,
+  },
+  {
+    'Tabei, Junko ': `The first woman to climb Mount Everest did so in 1975. What nationality was she? JAPANESE`,
+  },
+  {
+    'HE WAS SHOWN IN A NEWSPAPER ADVERT': `As the 1944 movie "Lifeboat" was set on a life boat drifting at sea, it was difficult for Alfred Hitchcock to achieve his usual cameo. In what method did he eventually achieve it? `,
+  },
+  {
+    'THIS IS FINE': `The 3 word name of what internet meme is shown in a speech bubble coming from an anthropomorphic dog drinking tea in a room engulfed in fire? Originally posted in the Gunshow comic named The Pills are Working, the meme is used to convey a sense of self-denial in the face of a hopeless situation.`,
+  },
+  {
+    'Желтый кек (Yellowcake)': `Also called Urania, what colourful and edible sounding 'Y' is a solid form of mixed uranium oxide, extracted and processed from uranium ore?`,
+  },
+  {
+    'Wallis, John': `Which mathematical symbol is credited as being introduced by an English clergyman and mathematician John Wallis in 1655? The symbol is also called a Lemniscate. Infinity sign`,
+  },
+  {
+    'HULME, Denny': `Winning in 1967, who is the only F1 World Champion from New Zealand?`,
+  },
+  {
+    'Мефисто-вальсы': `Based on the Faust legend, the “Mephisto Waltzes” were written between 1859 and 1885 by which Hungarian composer? Franz LISZT`,
+  },
+  {
+    'KOH-I-NOOR': `The crown used by Queen Elizabeth, the Queen Mother at her 1937 coronation features what famous diamond?`,
+  },
+  {
+    DINOSAUR: `An outspoken critic of Charles Darwin, the paleontologist Sir Richard Owen is best remembered today for coining what word?`,
+  },
+  {
+    COPROLITES: `Giving paleontologists valuable evidence of the diets of dinosaurs and other prehistoric creatures, what name is given to fossilized faeces?`,
+  },
+  {
+    KEMET: `Ancient Egyptians referred to their own country with what term beginning with "K" and which loosely means "land of black soil?`,
+  },
+  {
+    'WHISKY war': `In the Summer of 2022 Canada and Denmark ended their competing claims for Hans Island by dividing the island in half. This ended what "war"? The name derives from the gifts they would leave each other when they planted their flags on the island`,
+  },
+  {
+    CHAD: `Emi Koussi (11,204ft), part of the Tibesti Mountain range, is the highest peak in the Sahara Desert. What country is Emi Koussi in?`,
+  },
+  {
+    DOLOMITES: `The mountain called Marmolada, which can be seen 100km away in Venice on a clear day, is nicknamed the "Queen of the **\_**". What word fills the blank?`,
+  },
+  {
+    PECORINO: `Which hard Italian cheese made from Sheep's milk has a name derived from the Italian for sheep? The six main varieties all have protected designation of origin status, with Romana being the most famous`,
+  },
+  {
+    CINECITTA: `This desert lies between the Sierra Nevada and Wasatch ranges GREAT BASIN desert 9 28 105 9/142 6% 108 Ciampino airport in Rome lies very close to which large film studio, once dubbed "Hollywood on the Tiber"? Recent productions made here include HBO's "Rome" and the 2019 movie "The Two Popes"`,
+  },
+  {
+    JOLLIBEE: `Which Filipino multinational chain of fast food restaurants is one of the top 20 fast food chains in the World? It has over 1200 outlets worldwide and the signature products are Chickenjoy and Yumburger`,
+  },
+  {
+    PHILIPPINES: `Covered in green grass that turns brown during the dry season, the Chocolate Hills can be found in the Bohol province of what country?`,
+  },
+  {
+    'Battle of NAVARINO': `Which Battle of 1827, fought between an allied force of Russian, French and British against the Ottoman Empire, is said to be the last major naval battle fought entirely with sailing ships?`,
+  },
+  {
+    'Дерево Тенере': `The word "Sahara" is derived from the Arabic word for desert. What desert name is derived from the Tuareg word for desert?`,
+  },
+  {
+    Harrapa: `the Indus River Valley civilization is often named for which ancient fortified city, whose ruins are now in Pakistan's province of Punjab? И́ндская, или Хара́ппская, цивилизация — третья по времени появления древневосточная цивилизация бронзы, после египетской и месопотамской.`,
+  },
+  {
+    Хаттуса: `Begins with H: The "Lion Gate" marked the ceremonial entrance into which ancient city, the capital of the Hittite Empire? It is now a ruin in Turkey.`,
+  },
+  {
+    Gaziantep: `This Turkish city, located just north of the Syrian border, is the largest city in the Southeastern Anatolia Region. Because of its proximity to Syria it now hosts a large population of Syrian refugees. It was significantly damaged by the massive February 2023 earthquake that hit Syria and Turkey.`,
+  },
+  {
+    'Midwich Cuckoos': `The 1960 horror film “Village of the Damned” was adapted from which 1957 science fiction novel by John Wyndham?`,
+  },
+  {
+    'Butch Cassidy and the Sundance Kid': `Written by Burt Bacharach and Hal David, the song “Raindrops Keep Fallin’ On My Head” won an Oscar for Best Original Song after it featured on the soundtrack to which classic 1969 film?`,
+  },
+  {
+    'Fry, Elizabeth ': `Nicknamed the "Angel of Prisons", which English social reformer of the 19th Century was depicted on the Bank of England £5 note that was in circulation between 2002 and 2017?`,
+  },
+  {
+    'Бернейс, Эдвард': `the pioneer of public relations. His influence radically changed the persuasion tactics used in campaign advertising and political campaigns. Bernays was the nephew of Sigmund Freud.`,
+  },
+
+  {
+    'Dyson tree': `hypothetical genetically engineered plant (perhaps resembling a tree) capable of growing inside a comet, suggested by the physicist Freeman Dyson.`,
+  },
+  {
+    Ecbatana: `Begins with E: which city in the Zagros mountains of modern-day Iran was the capital city of the Median Empire in ancient times?`,
+  },
+  {
+    'FUDD, Elmer ': `Which incompetent bald hunter from the Looney Tunes cartoons is forever foiled by the "wascawwy wabbit" Bugs Bunny?`,
+  },
+  {
+    BILLUND: `Lego has its headquarters in which small town on Jutland in Denmark, where the company was founded in 1932? This town is also home to the original Legoland theme park.`,
+  },
+  {
+    XOCHIMILCO: `The famous ‘Island of the Dolls’ is located on Teshuilo [tez-WHEEL-oh] Lake, part of this lake’s extensive system of canals.`,
+  },
+  {
+    RÉUNION: `Which overseas department of France is the largest of the Mascarene Islands? (еще Маврикий)`,
+  },
+  {
+    PRINGLES: `Fredric J. Baur is credited with the design of the famous cylindrical tube which serves as the usual packaging for what brand of crisps? After Baur's death, his remains were placed in one of those tubes.`,
+  },
+  {
+    'HABERMAS, Jürgen': `The Theory of Communicative Action, published in 1981, is a two-volume book by which philosopher, associated with the Frankfurt School?`,
+  },
+  {
+    'GLENFINNAN Viaduct': `Located at the top of Loch Shiel [SHEEL] in the West Highlands, which viaduct in Inverness-shire has gained international fame due to its use as a filming location for four of the Harry Potter films?`,
+  },
+  {
+    DRONGO: `What common name is given to the passerine birds of the genus Dicrurus, which are usually black or dark grey in colour and are found across Africa, Asia, the Western Pacific and Australia? The name is used Australian slang to refer to a foolish or stupid person.`,
+  },
+  {
+    SOBRANIE: `which cigarette brand, which once served as the official supplier for the royal courts of Great Britain, Spain, Romania, and Greece? Its name translates from Russian as 'gathering' or 'assembly'.`,
+  },
+  {
+    MAGDEBURG: `In an event generally regarded as the worst massacre of the Thirty Years' War, which Protestant city was sacked on 20th May 1631 by the Imperial Army and the Catholic League led by Count Tilly, resulting in the deaths of over 20,000 people?`,
+  },
+  {
+    'FRASER, Dawn ': `Which Australian swimmer, who won gold medals in the women's 100m freestyle at three consecutive Summer Olympic Games, was given a 10-year ban from competitive swimming for misbehaviour at the 1964 Olympics in Tokyo, which allegedly included drunkenly swimming across a moat to steal a flag from the Emperor’s palace?`,
+  },
+  {
+    'SCRIBE, Eugene ': `Daniel Auber was a frequent collaborator with which French dramatist and librettist, who wrote or co-wrote 39 libretti for him? This librettist also co-wrote libretti for many grand operas by Giacomo Meyerbeer, including Les Huguenots and Robert le diable.`,
+  },
+  {
+    FEDORA: `Indiana Jones and Freddy Krueger are among the fictional characters who wear what type of low soft felt hat with a crown creased lengthwise? The hat is named after a play by Victorien Sardou because Sarah Bernhardt wore one while starring in the play’s initial run.`,
+  },
+  {
+    'GRAY, Elisha ': `Which American inventor and engineer co-founded the Western Electric Company and developed a prototype for a telephone in 1876? Some people have alleged that Alexander Graham Bell stole the idea of liquid transmitters from this man.`,
+  },
+  {
+    'Operation CONDOR': `The Dirty War in Argentina was one part of a larger campaign conducted across South America known by what name? Many nations suppressed resistance to their right-wing governments, often aided by the United States and the CIA.`,
+  },
+  {
+    'Пойтрас, Лора ': `In 2015, which American film-maker won the Best Documentary Feature Academy Award for her work Citizenfour, concerning Edward Snowden? Her 2021 documentary about Nan Goldin’s crusade against the Sackler family, All the Beauty and the Bloodshed, was awarded the Golden Lion at the Venice Film festival.`,
+  },
+  {
+    LUPERCALIA: `Which Ancient Roman festival, also known as dies Februatus, was celebrated from the 13 to 15 of February and may be the precursor to Saint Valentine’s Day? `,
+  },
+  {
+    'KIPTUM, Kelvin ': `What is the name of the men’s marathon world record holder who died in a traffic accident in February 2024?`,
+  },
+  {
+    'BROOKLYN BRIDGE': `The painter Joseph Stella is perhaps best known for his Precisionist paintings of which landmark in New York City, one of which is subtitled ‘Variation on an Old Theme’?`,
+  },
+  {
+    'Miles, DESMOND': `What is the first name of the New York City bartender who serves as the protagonist of the modern-day sections of the first five games in the Assassin’s Creed series? He was controversially killed off in Assassin’s Creed III`,
+  },
+  {
+    EZIO: `What is the name of the Italian Master Assassin who serves as the protagonist of Assassin’s Creed II [two] and its direct sequels, Brotherhood and Revelations? These three games are now often bundled together as a collection named after him.`,
+  },
+  {
+    'Георгиу, Анджела': `Which Romanian operatic soprano, best known for her roles in Tosca and La Traviata, would regularly perform alongside her husband, the French tenor Roberto Alagna, before their divorce in 2013?`,
+  },
+  {
+    'Pechstein, Claudia': `(born 22 February 1972) is a German speed skater. She has won five Olympic gold medals. With a total of nine Olympic medals, five gold, two silver, and two bronze, she was previously the most successful Olympic speed skater, male or female, of all time, (later superseded by Ireen Wüst during the 2018 Winter Olympics in PyeongChang).`,
+  },
+  {
+    'Saitiev, Buvaisar ': `(born March 11, 1975) is a Russian retired freestyle wrestler of Chechen heritage, who represented Russia, and won nine world-level gold medals in freestyle wrestling (second highest, behind Aleksandr Medved's ten). He is widely considered as the greatest freestyle wrestler of all time.`,
+  },
+  {
+    'Концепция гандикапа': `Amotz Zahavi used the peacock’s tail as an example of this principle, in which females prefer males with costly signals, because they demonstrate increased fitness.`,
+  },
+  {
+    'Человек-машина': `is a work of materialist philosophy by the 18th-century French physician and philosopher Julien Offray de La Mettrie, first published in 1747.[1] In this work, de La Mettrie extends Descartes' argument that animals are mere automatons, or machines, to human beings. He denies dualism and the existence of the soul as a substance separate from matter.`,
+  },
+  {
+    'Dodge City': `This cowboy city in the US state of Kansas was notorious as one of the most violent places in the old American West, with many gunfighters and criminals hanging out at its notorious Long Branch Saloon. Errol Flynn played a sheriff trying to clean this town up in a 1939 movie that bears this city's name. Today American English uses the phrase "get out of [THIS CITY]" to refer to extricating onself from a dangerous or undesirable situation.`,
+  },
+  {
+    Довер: `However, it is the capital city of the US state of Delaware, a small state notorious for having state laws that are very favorable to corporations. As such, over one million US corporations, including 65% of the Fortune 500, are technically headquartered here (for the most part, they maintain no staff here but merely rent a post office box, which is sufficient to grant them the protection of Delaware state law). This makes the Delaware Court of Chancery one of the most prestigious courts in the United States to practice in as a corporate attorney, as its decisions often shape American business law.`,
+  },
+  {
+    'Рейд на Дьеп, операция Юбилей': `On August 19, 1942 during World War II, the Allies made a disastrous amphibious assault against which small seaport in German-occupied northern France? The Nazis easily repulsed the attack and the Allies lost thousands of men (most casualties were Canadian infantry) and over 100 aircraft. The Germans even managed to sink a Royal Navy destroyer.`,
+  },
+  {
+    ORESTES: `In Greek mythology, which son of Clytemnestra and Agamemnon avenged his father’s death by slaying his own mother and was eventually driven to madness by the Furies?`,
+  },
+  {
+    'Правило Глогера': `среди родственных друг другу форм (разных рас или подвидов одного вида, родственных видов) гомойотермных (теплокровных) животных, те, которые обитают в условиях тёплого и влажного климата, окрашены ярче, чем те, которые обитают в условиях холодного и сухого климата, последние имеют интенсивную пигментацию тела (чаще черную или темно-коричневую)`,
+  },
+  {
+    OCULUS: `What six-letter word is the name of the 8.3m wide hole at the centre of the dome of Pantheon in Rome? (Относится к любому куполу)`,
+  },
+  {
+    IFTAR: `What is the name given to the meal which breaks the fast during Ramadan in Islam?`,
+  },
+  {
+    INKLINGS: `What was the name of the informal literary discussion group which included JRR Tolkien and CS Lewis?`,
+  },
+  {
+    'SALTIMBOCCA (Прыгни в рот)': `What "S" is a dish, famous in Rome, of veal layered with sage leaves and prosciutto then sauteed in white wine?`,
+  },
+  {
+    BERNINI: `A masterpiece of high Roman Baroque, The Ecstacy of Saint Theresa, is a sculpture by which Italian?`,
+  },
+  {
+    Ctesiphon: `Which city on the Tigris River, located just south of modern Baghdad, was the capital of the Parthian and Sassanid Empires?`,
+  },
+  {
+    Catania: `Which Sicilian city is the closest major city to the famous volcano Mt. Etna? This city's walls actually protected it from lava flows during a 1699 erruption of Mt. Etna.`,
+  },
+  {
+    Cabinda: `This African city is the namesake capital of an oil-rich exclave of Angola. There is an active separatist movement here that wishes to be free of the rest of Angola.`,
+  },
+  {
+    Cajamarca: `Which city of 226,000 people in the Andes of Peru is most famous as the location of the 1532 battle in which the Spanish conquistador Francisco Pizarro defeated the Inca Empire and conquered Peru for Spain?`,
+  },
+  {
+    Inti: `Commonly believed to have been born of Viracocha, what was the four letter name of the ancient Incan Sun God?`,
+  },
+  {
+    Naxos: `What Greek Island is the location where Ariadne was abandoned by her former lover Theseus?`,
+  },
+  {
+    Левкизм: `What name is given to the partial loss of pigmentation in animals causing white, pale, or patchy coloration of the skin, hair, feathers, scales, or cuticles? Unlike Albinism however the eyes are unaffected. Pictured is a Common Blackbird. (Эритризм - красный, ксантизм - желтый)`,
+  },
+  {
+    'STEWART, Dave': `Who joined with Annie Lennox in the 1980s chart toppers Eurythmics? He'd have numerous successes elsewhere as a musician and producer`,
+  },
+  {
+    'GINSBURG, Ruth BADER': `Which American lawyer and jurist did the actress Felicity Jones play in the 2018 movie "On the basis of Sex"?`,
+  },
+  {
+    AMIENS: `With its builders trying to maximize the internal dimensions in order to reach for the heavens and bring in more light, which cathedral, overlooking the River Somme, is the largest in France?`,
+  },
+  {
+    RAMSAR: `The international treaty for the conservation and sustainable use of wetlands is named after which city in Iran? Конвенция о водно-болотных угодьях, имеющих международное значение главным образом в качестве местообитаний водоплавающих птиц.`,
+  },
+  {
+    Vredefort: `What is the name of the largest verified impact structure on Earth that is located near its namesake town in South Africa?`,
+  },
+  {
+    ' SHKRELI, MARTIN': `"Once Upon a Time in Shaolin" is the seventh studio album by American hip hop group Wu-Tang Clan. It is best known for having only one physical copy produced, which was purchased for a reported $2,000,000 by what notorious American businessman? It was later sold by the Department of Justice to cover his debts after his conviction for securities fraud (not exactly living happily ever after).`,
+  },
+  {
+    гьякмаррия: `Unfortunately, since the 1990s there has been a resurgence in THIS PRACTICE, a kind of blood feud, particularly in the north of Albania. The codified rules for this practice found in the Kanun prohibit the killing of women and children and regulate when a member of a family can be killed for a past wrong. Fortified houses built specifically to protect targets of this practice are called kulla ngujimi. Note: specific Albanian term is required.`,
+  },
+  {
+    BESA: `Yad Vashem has cited THIS CULTURAL VALUE as a key reason why most Jewish refugees in Albania were sheltered during the Holocaust. Roughly translating to "making an oath," this value is the understanding that oaths are strictly unbreakable, and an expectation that somebody who breaks an oath will be outcast by society. The singer of Albania's entry to Eurovision 2024 shares her four-letter name with this value.`,
+  },
+  {
+    Смоланд: `IKEA is known for selling furniture in its large stores, as well as Swedish meatballs and lingonberry jam in its cafes. In addition, its stores feature a children's play area named for what southern Swedish province where founder Ingvar Kamprad grew up?`,
+  },
+  {
+    'Ма́йское де́рево': `Despite its connection to a recent horror movie, Midsummer is a festive annual holiday in Sweden celebrating the solstice. During Midsummer celebrations, Swedes traditionally dance around what object, which has an association with another holiday a month earlier?`,
+  },
+  {
+    BLUE: `Dubbed the "[BLANK] People of Kentucky" or simply the "[BLANK] Fugates," they became famed not only for their isolation but also for an unusual hereditary condition, methemoglobinemia. What single word, related to their condition, correctly fills both blanks in this question?`,
+  },
+  {
+    'The cake is a lie': `a catchphrase from the 2007 video game Portal. Initially left behind as graffiti by Doug Rattman to warn that GLaDOS, the game's main villain, was deceiving the player, it was intended to be a minor reference and esoteric joke by the game's development team that implied the player would never receive their promised reward.`,
+  },
+  {
+    'Snellen chart': `таблица для проверки зрения`,
+  },
+  {
+    'MERSENNE, MARIN ': `3, 7, 31, 127, and 8191 are the first five of a set of numbers, of which 51 are known to exist, that are named after what French polymath?`,
+  },
+  {
+    'SAFFIR, SIMPSON': `The wind scale abbreviated "SSHWS", used predominantly to classify hurricanes, was developed by a civil engineer in 1969 and expanded by a meteorologist in 1971. Identify either of these two men, after whom the scale is named.`,
+  },
+  {
+    '': ``,
+  },
+  {
+    'KEY/KEYSTONE': `In the subtractive color model known as CMYK, when applied to printing, the letters refer to the four ink plates used—cyan, magenta, yellow, and black. Black is represented in the CMYK abbreviation by what word?`,
+  },
+  {
+    malapropism: `comes from a character named "Mrs. Malaprop" in Richard Brinsley Sheridan's 1775 play The Rivals.`,
+  },
+  {
+    'Бог белых пятен': `is a theological concept that emerged in the 19th century and revolves around the idea that gaps in scientific understanding are regarded as indications of the existence of God.`,
+  },
+  {
+    Phaedra: `fell in love with her stepson Hippolytus. After he rejected her advances, she accused him of trying to rape her, causing Theseus to pray to Poseidon to kill Hippolytus (which Poseidon does), and then she killed herself.`,
+  },
+  {
+    Nestor: `legendary king of Pylos. He is a prominent secondary character in Homer's Iliad and Odyssey, where he appears as an elderly warrior who frequently offers long-winded advice to the other characters.`,
+  },
+  {
+    Machaon: `знаменитый врач, сын Асклепия и Эпионы`,
+  },
+  {
+    Dike: `is the goddess of justice and the spirit of moral order and fair judgement as a transcendent universal ideal or based on immemorial custom, in the sense of socially enforced norms and conventional rules.`,
+  },
+  {
+    Chrysaor: `the brother of the winged horse Pegasus, often depicted as a young man, the son of Poseidon and Medusa, born when Perseus decapitated the gorgon. "And when Perseus cut off her head, there sprang forth great Chrysaor"`,
+  },
+  {
+    Психопомп: `первоначально: проводник душ умерших в подземное царство мёртвых в древнегреческой мифологии; «Психопомп» чаще всего употреблялось как прозвище бога Гермеса. Роль психопомпа, проводника душ умерших в загробный мир, существует во многих религиях. `,
+  },
+  {
+    Canopus: `звезда южного полушария неба, ярчайшая в созвездии Киля и вторая по яркости звезда на небе`,
+  },
+  {
+    Огигия: `в древнегреческой мифологии остров нимфы Калипсо, где Одиссей провёл семь лет.`,
+  },
+  {
+    Heiðrún: `nanny goat in Norse mythology, that consumes the foliage of the tree Læraðr and produces mead from her udders for the einherjar.`,
+  },
+  {
+    Dadźbóg: `one of the major gods of Slavic mythology, most likely a solar deity and possibly a cultural hero.`,
+  },
+  {
+    Angrboða: `is a jötunn in Norse mythology. She is the mate of Loki and the mother of monsters. She is only mentioned once in the Poetic Edda (Völuspá hin skamma) as the mother of Fenrir`,
+  },
+  {
+    Непе́нф: `зелье, трава забвения, в древнегреческой мифологии и литературе — происходящее из Египта лекарство от грусти, своего рода антидепрессант, средство, чтобы забыть неприятности.`,
+  },
+  {
+    Дюралюми́ний: `собирательное обозначение группы высокопрочных сплавов на основе алюминия (алюминиевый сплав) с добавками меди, магния и марганца. Название сплава происходит от торговой марки Dural (dur — твёрдый) — коммерческого обозначения одного из первых упрочняемых термообработкой и последующим старением алюминиевых сплавов.`,
+  },
+  {
+    'Девять луков ': `фразеологизм, древнеегипетское собирательное обозначение внешних врагов Египта с оттенком «множество варваров». Число девяти луков и ассоциируемых с ними народов постоянно менялось в зависимости от внешнеполитической обстановки`,
+  },
+  {
+    '«Титу́шки»': `собирательный термин, возникший в мае 2013 года на Украине, первоначально для именования молодых людей, негласно используемых местными властями в качестве подстрекателей и наёмников для организации силовых провокаций, потасовок, иных акций с применением физической силы.`,
+  },
+  {
+    'Красные принцы': `(, в англоязычной литературе передаётся терминами «Princelings» и «Party’s Crown Princes») — термин для обозначения неформальной группировки детей и родственников представителей высшего руководства КНР.`,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    '': ``,
+  },
+  {
+    ' Caccini, ​Francesca': `​Francesca Caccini's (ca-CHEE-nee's) "La liberazione di Ruggiero," with a libretto based on Orlando Furioso, is the first known work by a woman in what broad genre? ​OPERA`,
+  },
+  {
+    Топиар: `English-language term names the practice of training trees or shrubs such that they resemble objects or animals?`,
+  },
+  {
+    'Наполеон Бонапарт на Аркольском мосту': `картина французского художника Антуана-Жана Гро. На картине изображён эпизод трёхдневного сражения при Арколе, который произошёл 15 ноября 1796 года, когда Наполеон под жесточайшим огнём австрийских войск лично возглавил атаку на мост. `,
+  },
+  {
+    'Tabernas desert': `Tabernas desert - used a filming location for many spaghetti westerns - is located in which Spanish province, found within the autonomous community of Andalusia ? ​Almeria`,
+  },
+  {
+    '​NEWGRANGE': `​Located in County Meath, which Neolithic monument, the most famous within the Brú na Boinne complex, is a passage tomb which aligns with the Sun at the Winter Solstice ? As a whole, the complex is a UNESCO World Heritage Site.`,
+  },
+  {
+    MERU: `​What mountain that can be seen from Mount Kilimanjaro on a clear day is the centerpiece of Arusha National Park in Tanzania? A Himalayan mountain with the same name has a seminal role in Hindu mythology and the layout of the Angkor Wat is said to be its representation.`,
+  },
+  {
+    'Палочные карты': `What is the two-word name given to these artifacts created by the people of Marshall Islands to represent ocean swells?`,
+  },
+  {
+    '​Cenobites': `​What demonic creatures are summoned to Earth through puzzle boxes in the Hellraiser universe?`,
+  },
+  {
+    'Perry Index': `an index used to categorize the work of which ancient writer? ​Aesop`,
+  },
+  {
+    'Juana Inés de la Cruz': `a New Spain writer, philosopher, composer and poet of the Baroque period, as well as a Hieronymite nun, nicknamed "The Tenth Muse" and "The Phoenix of America" by her contemporary critics.`,
+  },
+  {
+    nous: `Anaxagoras believed that order emerged due to the “rotation” introduced by this primordial element, which he named for the Greek word for “mind” or “intellect.”`,
+  },
+  {
+    'Jahn, Friedrich': `Friedrich Jahn was called the “father” of this activity, which was promoted in Austria-Hungary by the “Sokol” and in Germany by Turnvereine. For 10 points, name this aspect of “physical culture” popular in the 19th century, which involved the pommel horse and parallel bars. ANSWER: gymnastics`,
+  },
+  {
+    'TABATA, Izumi': `A version of High Intensity Interval Training is named after which Japanese Doctor? His work initially involved Olympic Speedskaters`,
+  },
+  {
+    Джодхпур: `Set in the stark landscape of the Thar Desert, what is India's "Blue City"?»`,
+  },
+  {
+    Cinecittà: `The Barefoot Contessa, Quo Vadis, Ben-Hur and Cleopatra were among the international productions filmed at this studio during the “Hollywood on the Tiber” period. For 10 points, name this enormous studio in Rome.`,
+  },
+  {
+    'Simon of Cyrene': `For 10 points, name this action which Simon of Cyrene helps the protagonist perform in a scene from The Passion of the Christ.
+ANSWER: carrying a cross`,
+  },
+  {
+    OAHU: `On which Hawaiian island will you find the naval base known as Pearl Harbour? This is the third largest but most populated of the islands`,
+  },
+  {
+    'RAEBURN, Henry ': `You'd head to the National Gallery of Scotland if you wished to view ""The Rev. Robert Walker Skating on Duddingston Loch"«, a famous painting by which man?»`,
+  },
+  {
+    'TREMBLAY, Jacob': `Which Canadian child actor, born 2006, was the star of both ""Room"" and ""Wonder"?`,
+  },
+  {
+    'HARRER, Heinrich': `What was the name of the Austrian mountaineer who was a member of the team that made the first ascent of the North Face of the Eiger? He wrote the book ""Seven Years in Tibet"" and Brad Pitt played him in the subsequent movie`,
+  },
+  {
+    'IBN BATTUTA ': `A Gift to Those Who Contemplate the Wonders of Cities and the Marvels of Travelling"«, commonly known as The Rihla, was the account of the journey of which Mahgrebi explorer? His journeys to South East Asia and China surpassed Marco Polo`,
+  },
+  {
+    'SONGHAI empire ': `Askia Muhammad I, also known as Askia the Great, reigned from 1493 to 1528 as the ruler of which Empire, the largest in the history of West Africa?`,
+  },
+  {
+    'Byrne, David': `Classical Japanese theater inspired the ridiculously large suit worn by this man during the song “Girlfriend Is Better” in a Jonathan Demme film. For 10 points, name this singer who appears in the concert film Stop Making Sense.`,
+  },
+  {
+    'STUART, ​Gilbert': `​Which artist painted the 1796 portrait of George Washington that is known as the Lansdowne portrait?`,
+  },
+  {
+    'NO MAN’S SKY': `​In which exploration video game, originally released on PS4 and Windows in 2016, can players theoretically visit over 18 quintillion planets? The subsequent implementation of virtual reality technology has helped improve the game's initially poor reputation.`,
+  },
+  {
+    '​AZOREs': `​The island of São Miguel is the largest and most populous of which island group in the Atlantic?`,
+  },
+  {
+    'Lehrer, ​Tom': `американский композитор и певец, сатирик и математик. Наиболее известен своими юмористическими песнями, которые были записаны в 1950-е, 1960-е. Несмотря на то, что он написал всего около 50 песен, его вклад в культуру США считается значительным.`,
+  },
+  {
+    'Ut-Napishtim': `​In the Mesopotamian poem The Epic of Gilgamesh, the story of King Ut-Napishtim of Shuruppak bears a striking similarity to that of which biblical character? ​Noah`,
+  },
+  {
+    'MILLER, ​George ': `​Considered a founder of cognitive science, which American psychologist postulated in his highly-cited 1956 work that the average number of objects a human can hold in short term memory is “The Magical Number Seven, Plus or Minus Two”?`,
+  },
+  {
+    'DOMINICA ': `​One of the few national flags that contains the colour purple, which country’s flag features the Sisserou parrot inside a red circle? This is also the national bird of this Caribbean island nation.`,
+  },
+  {
+    'VOSTOK ': `​What was the name of the Soviet spaceflight programme that competed with the NASA Mercury missions to put humans into low earth orbit and return them safely? Yuri Gagarin and Valentina Tereshkova were cosmonauts involved in this programme.`,
+  },
+  {
+    'SARO-WIWA, ​Ken': `​Nigeria was suspended from the commonwealth following the execution of which environmental campaigner and advocate for the rights of the Ogoni people in 1995?`,
+  },
+  {
+    ' Клуб адского пламени': `What was the shared name of several 18th and 19th century British social clubs, including two founded respectively in 1719 (by Philip, Duke of Wharton) and 1746 (by Francis Dashwood), that were dedicated to debauchery and hedonism? Contemporary popular imagination (combined with the groups' evocative name) led many to believe satanic activity was afoot at their meetings. Probably not coincidentally, the name was later used on Stranger Things for a Dungeons & Dragons group who was similarly accused of being satanic.`,
+  },
+  {
+    'Карнегия ': `The Sonoran Desert is full of sharp objects, both plant and animal.  Probably its most famous flora is the distinctive cactus pictured here.  These are extremely long-lived cacti which are only found naturally in the Sonoran Desert, and the iconic arms for which they are famous do not even begin to grow until they are 50-75 years old.  What is the common name for this species of cactus? `,
   },
 ];

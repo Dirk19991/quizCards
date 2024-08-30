@@ -42,17 +42,19 @@ function App() {
 
   function removeDuplicates(array) {
     const seenValues = new Set();
-    return array.filter(
-      (obj: { [s: string]: unknown } | ArrayLike<unknown>) => {
-        const value = Object.values(obj)[0];
-        if (seenValues.has(value)) {
-          return false;
-        } else {
-          seenValues.add(value);
-          return true;
-        }
+    const seenDescriptions = new Set();
+    return array.filter((obj: { [s: string]: unknown } | ArrayLike<unknown>) => {
+      const value = Object.values(obj)[0];
+      const description = Object.values(obj)[1];
+      if (seenValues.has(value) && seenDescriptions.has(description)) {
+        console.log(value, description);
+        return false;
+      } else {
+        seenValues.add(value);
+        seenDescriptions.add(description);
+        return true;
       }
-    );
+    });
   }
 
   function formatDataForWord(data: any) {
@@ -89,9 +91,7 @@ function App() {
   return (
     <div className={styles.wrapper}>
       {includesJs && <QuestionCard storageKey='js' questions={questionsJs} />}
-      {!includesJs && (
-        <QuestionCard storageKey='general' questions={fullQuestions} />
-      )}
+      {!includesJs && <QuestionCard storageKey='general' questions={fullQuestions} />}
     </div>
   );
 }
