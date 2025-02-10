@@ -5,7 +5,7 @@ import { useLocation } from 'react-router-dom';
 import { questions } from './data/questions';
 import { questions2 } from './data/questions2';
 import { questionsJs } from './data/questions-js';
-// import FileSaver from 'file-saver';
+import FileSaver from 'file-saver';
 // import { useEffect } from 'react';
 // import { db, getClues, setClues } from './firebase';
 
@@ -27,42 +27,43 @@ function App() {
 
   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
   // @ts-expect-error
-  // function shuffleArray(array) {
-  //   for (let i = array.length - 1; i > 0; i--) {
-  //     // Generate a random index lower than the current element
-  //     const j = Math.floor(Math.random() * (i + 1));
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      // Generate a random index lower than the current element
+      const j = Math.floor(Math.random() * (i + 1));
 
-  //     // Swap elements at indices i and j
-  //     [array[i], array[j]] = [array[j], array[i]];
-  //   }
-  //   return array;
-  // }
+      // Swap elements at indices i and j
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
 
   function removeDuplicates(array) {
     const seenValues = new Set();
     const seenDescriptions = new Set();
-    return array.filter((obj: { [s: string]: unknown } | ArrayLike<unknown>) => {
-      const value = Object.values(obj)[0];
-      const description = Object.values(obj)[1];
-      if (seenValues.has(value) && seenDescriptions.has(description)) {
-        console.log(value, description);
-        return false;
-      } else {
-        seenValues.add(value);
-        seenDescriptions.add(description);
-        return true;
+    return array.filter(
+      (obj: { [s: string]: unknown } | ArrayLike<unknown>) => {
+        const value = Object.values(obj)[0];
+        const description = Object.values(obj)[1];
+        if (seenValues.has(value) && seenDescriptions.has(description)) {
+          console.log(value, description);
+          return false;
+        } else {
+          seenValues.add(value);
+          seenDescriptions.add(description);
+          return true;
+        }
       }
-    });
+    );
   }
 
   function formatDataForWord(data: any) {
     let formattedText = '';
     const getKey = (obj: object) => Object.keys(obj)[0].trim();
 
-    const filteredData = removeDuplicates(data);
-    console.log(filteredData, 'data');
+    const filteredData = shuffleArray(removeDuplicates(data));
     filteredData
       .sort((a: any, b: any) => {
         const keyA = getKey(a);
@@ -71,7 +72,7 @@ function App() {
       })
       .forEach((item: { [x: string]: string }) => {
         for (const key in item) {
-          formattedText += `${key} - ${item[key]}` + '\n\n';
+          formattedText += `${item[key]} $SEPARATE ${key}` + '$SEPARATE ';
         }
       });
     return formattedText;
@@ -82,16 +83,17 @@ function App() {
   console.log(formattedText);
 
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  // const blob = new Blob([JSON.stringify(formattedText)], {
-  //   type: 'text/plain;charset=utf-8',
-  // });
-  // console.log(blob);
-  // FileSaver.saveAs(blob, 'hello world.txt');
+  const blob = new Blob([JSON.stringify(formattedText)], {
+    type: 'text/plain;charset=utf-8',
+  });
+  FileSaver.saveAs(blob, 'hello world.txt');
 
   return (
     <div className={styles.wrapper}>
       {includesJs && <QuestionCard storageKey='js' questions={questionsJs} />}
-      {!includesJs && <QuestionCard storageKey='general' questions={fullQuestions} />}
+      {!includesJs && (
+        <QuestionCard storageKey='general' questions={fullQuestions} />
+      )}
     </div>
   );
 }
