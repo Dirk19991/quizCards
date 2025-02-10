@@ -1879,4 +1879,1202 @@ ANSWER: carrying a cross`,
   {
     'Карнегия ': `The Sonoran Desert is full of sharp objects, both plant and animal.  Probably its most famous flora is the distinctive cactus pictured here.  These are extremely long-lived cacti which are only found naturally in the Sonoran Desert, and the iconic arms for which they are famous do not even begin to grow until they are 50-75 years old.  What is the common name for this species of cactus? `,
   },
+  {
+    '​YAZIDIS': `What is the name of the religious group, mainly found in northern Iraq, known for their faith that venerates Melek Taus, the "Peacock Angel?`,
+  },
+  {
+    '​THERMIDORIAN REACTION': `period after when Robespierre and his allies were overthrown in the National Convention in July 1794 and before creating of Directory?`,
+  },
+  {
+    '[Klaus] TEUBER': `известный немецкий разработчик настольных игр. 4 раза становился обладателем премии Spiel des Jahres за разработку игр «Колонизаторы», «Барбаросса», «Drunter und Drüber», «Hoity Toity».`,
+  },
+  {
+    'Olive Branch Petition': `was adopted by the Second Continental Congress on July 5, 1775, and signed on July 8, 1775 in a final attempt to avoid war between Great Britain and the Thirteen Colonies in America. `,
+  },
+  {
+    '​BOUVET ISLAND': `​Located at the souther end of the Mid-Atlantic Ridge, which dependency of Norway is regarded the world's most remote island?`,
+  },
+  {
+    '[Eddie] ADAMS': `He is best known for his photograph of the execution of Nguyễn Văn Lém, a Viet Cong prisoner of war, for which he won the Pulitzer Prize for Spot News Photography in 1969.`,
+  },
+  {
+    '369': `What is the numerical name of the sex position in which two people engage in oral sex in the specific position while a third person positions himself to penetrate one of the others?`,
+  },
+  {
+    'Percy Spencer': `While working on research into radar technology in the 1940s, he noticed that the magnetron he was using had melted a chocolate bar in his pocket. MICROWAVE oven`,
+  },
+  {
+    'MOSSACK FONSECA': `The 2016 leak of some 11.5m documents in what has been dubbed as the Panama Papers primarily concerns files created by and taken from which Panamanian offshore law firm and corporate service provider? In the spirit of their creative accounting, and because it’s a friendly, we’ll accept either half of their name.`,
+  },
+  {
+    'Бросок с сиреной (​BUZZER BEATER)': `In basketball, a player will often try a speculative long shot at the end of a game or period. What two-word alliterative name is given to such a shot, because it has to be airborne before the audible signal that the play-clock has reached zero?`,
+  },
+  {
+    '​88 mph': `In the film Back to the Future, what speed must the modified De Lorean attain in order to travel through time?`,
+  },
+  {
+    'Manic Pixie Dream Girl': `First described by film critic Nathan Rubin, based upon Kirsten Dunst’s character in Elizabethtown, what four word phrase describes a female character who "exists solely in the fevered imaginations of sensitive writer-directors to teach broodingly soulful young men to embrace life and its infinite mysteries and adventures.`,
+  },
+  {
+    '​Artemisia': `Taking the throne after the death of her husband, who commanded the naval forces from Halicarnassus at the battle of Salamis?`,
+  },
+  {
+    '​ASGARDIA': `What is the name of the micronation founded by Igor Ashurbeyli in 2016 that aims to launch satellites into space in order to found a real nation recognised by the UN? Lembit Opik is the current chairman of its Parliament.`,
+  },
+  {
+    Карривурст: `Which German food dish consists of chopped up sausages, chips, and a spicy ketchup sauce?`,
+  },
+  {
+    'Артюр де Гобино': `The work 'An Essay on the Inequality of the Human Races' was a work by which French aristocrat who attempted to legitimise racism by using scientific racist theory?`,
+  },
+  {
+    'Million Dollar Quartet': `A now-legendary jam session involving Elvis Presley, Jerry Lee Lewis, Carl Perkins and Johnny Cash, which occurred spontaneously in December 1956, is commonly referred to by what name?`,
+  },
+  {
+    'Бо Браммелл — Красавчик Браммелл': `английский светский лев, законодатель моды в эпоху Регентства. (1778–1840)`,
+  },
+  {
+    'Мишель Афляк': `(1910-1989) was the founder and spiritual leader of the Arab Socialist Resurrection party, called the Ba’th (Баас) party, for more than 25 years.`,
+  },
+  {
+    'Эмилио Агинальдо': `The Philippine revolutionary leader (1869-1964) fought for independence of the Philippine Islands, first against Spain and then against the United States. Первый президент`,
+  },
+  {
+    'Ahmadou Ahidjo': `(1924-1989) was the president of the Federal Republic of Cameroon and one of the most influential leaders of the French-speaking African states.`,
+  },
+  {
+    Треуголка: `рассказ, написанный Педро Антонио де Аларконом в 1874 году. Произведение следует классифицировать как короткий рассказ, который содержит народные традиции с линейным сюжетом.[2] Произведение часто сравнивают с романом Мигеля де Сервантеса «Дон Кихот». По мотивам данного рассказа был поставлен балет Мануэля де Фальи.`,
+  },
+  {
+    'Кровавый совет': `утвердившееся в нидерландской историографии название так называемого «Совета по делам беспорядков» («Raad van beroerte», «Conseil des troubles»), существовавшего с 1567 по 1573 годы в Испанских Нидерландах. Совет был учреждён 6 сентября 1567 года испанским наместником герцогом Альбой и генеральным прокурором Якобом Гессельсом, по приказу короля Филиппа II — как орудие подавления гражданских и религиозных свобод. Основным местом заседаний Совета был город Мехелен. Совет приговорил к смерти графов Эгмонта[3] и Горна — и ещё 8948 человек.`,
+  },
+  {
+    'Hassan Al-Banna': `An Egyptian religious leader, (1906-1949) was the founder of the Muslim Brotherhood, which is considered the forerunner of contemporary movements of Islamic revivalism.`,
+  },
+  {
+    пентестинг: `метод оценки безопасности компьютерных систем или сетей средствами моделирования атаки злоумышленника.`,
+  },
+  {
+    'Margaret Sanger': `(1879–1966): American activist was an advocate for birth control and founded the American organization eventually known as Planned Parenthood.`,
+  },
+  {
+    'The Other Boleyn Girl': `(2003), a novel by Philippa Gregory. This work of historical fiction is told from the perspective of Anne Boleyn’s sister Mary, who was King Henry VIII’s mistress before he married Anne.`,
+  },
+  {
+    Друк: `персонаж бутанской мифологии; национальный символ Бутана.
+Изображён на флаге Бутана держащим драгоценность, символизирующую богатство.`,
+  },
+  {
+    'Дамрэй (Слоновьи горы)': `горный хребет, находящийся на юге Камбоджи, часть Кардамоновых гор`,
+  },
+  {
+    Canton: `Former name of Guangzhou`,
+  },
+  {
+    'Wanda Landowska (1879–1959)': `польская пианистка и клавесинистка, музыкальный педагог. Ключевая фигура в возрождении клавесина в первой половине XX века.`,
+  },
+  {
+    'Pink city': `Nickname of Jaipur, from the color of its houses`,
+  },
+  {
+    '«Во славу квадрата» (Homage to the Square)': `Here he began his well-known series of paintings and prints to which he gave the title BLANK. Albers’ format for these works—a structure of three or four squares superimposed over one another`,
+  },
+  {
+    Shtetl: `небольшое, как правило, поселение полугородского типа, с преобладающим еврейским населением в Восточной Европе в исторический период до Холокоста`,
+  },
+  {
+    Гордион: `древняя столица Фригии`,
+  },
+  {
+    'Пётр Амьенский, он же Пётр Пустынник': `The initial rabble arrived in early 1096 and crossed precipitously to Asia to be massacred by the Turks. (организатор первого крестового похода)`,
+  },
+  {
+    'Шкала Ранкина': `абсолютная температурная шкала. Используется в англоязычных странах для инженерных термодинамических расчётов.
+
+`,
+  },
+  {
+    gray: `The traditional unit of absorbed dose is the rad (an acronym for radiation absorbed dose), while the SI unit for absorbed dose is called BLANK`,
+  },
+  {
+    'ЛД50 (средняя смертельная доза)': `Radiation dose equivalent values of about 4.5 to 5 sievert (450 to 500 rem) will prove fatal to 50 percent of the exposed individuals in a large general population. Один из наиболее широко применяемых показателей опасности ядовитых и умеренно-токсичных веществ.
+
+`,
+  },
+  {
+    Aldebaran: `Early Arab astronomers named it “the Follower” (in Arabic)—because the star appeared to follow the Seven Sisters (Pleiades) star cluster across the sky.`,
+  },
+  {
+    'Альфонсовы таблицы': `The BLANK Tables were completed in 1272 and served medieval astronomers for more than three centuries.`,
+  },
+  {
+    Algol: `The beta star in the constellation Perseus. Called the “Demon Star” by Arab astronomers, it was the first eclipsing binary to be discovered.`,
+  },
+  {
+    'Сон в летнюю ночь': `comically amateurish performance by a group of actors known as the rude mechanicals (механики). Which play?`,
+  },
+  {
+    'Мир РНК': `гипотетический этап возникновения жизни на Земле, когда и функцию хранения генетической информации, и катализ химических реакций выполняли ансамбли молекул рибонуклеиновых кислот. Впоследствии из их ассоциаций возникла современная ДНК-РНК-белковая жизнь, обособленная мембраной от внешней среды. Идея мира РНК была впервые высказана Карлом Вёзе в 1968 году`,
+  },
+  {
+    'Гипотеза Альвареса': `состоит в том, что массовое вымирание динозавров и многих других видов живых существ на границе мелового и палеогенового периода было вызвано падением большого астероида на Землю. До 2013 года такое событие датировалось 65 миллионами лет до н. э., но Ренн и соавторы уточнили датировку как 66 млн лет назад. Существуют данные, свидетельствующие о попадании астероида в полуострове Юкатан (Чикшулуб, ныне Мексика). Гипотеза названа в честь отца и сына Луиса и Вальтера, учёных, которые предложили её в 1980 году.`,
+  },
+  {
+    '': `The alpha star in the constellation Scorpius, this huge red supergiant is about 520 light-years away from Earth. Because of its reddish color, the early Greek astronomers named it the rival of Mars.`,
+  },
+  {
+    'Apollonius of Perga': `developed the theory of conic sections (including the circle, ellipse, parabola, and hyperbola) that allowed JOHANNES KEPLER and SIR ISAAC NEWTON to accurately describe the motion of celestial bodies in the solar system.`,
+  },
+  {
+    'Послание Аресибо': `Сверху вниз в сообщении отражены:
+Числа от одного до десяти в двоичной системе.
+Атомные числа (число протонов в ядре атома) химических элементов водорода, углерода, азота, кислорода и фосфора.
+Молекулярные формулы компонент нуклеотидов ДНК (дезоксирибозы, фосфата и азотистых оснований).
+Количество пар нуклеотидов в геноме человека и форма молекулы ДНК.
+Информация о человеке и человечестве.
+Информация о Солнечной системе.
+Радиотелескоп и размеры передающей антенны.
+`,
+  },
+  {
+    'Ариабхата ': `India’s first satellite, named after the fifth-century Indian mathematician`,
+  },
+  {
+    'Maharishi Mahesh Yogi': `In early 1968, the group followed Harrison to Rishikesh, India, for a course in transcendental meditation with BLANK`,
+  },
+  {
+    'Джульярдская школа': `одно из крупнейших американских высших учебных заведений в области искусства и музыки. Расположена в нью-йоркском Линкольн-центре.
+
+`,
+  },
+  {
+    'Туринская шкала': `это таблица, показывающая степень опасности, исходящую от определённого небесного объекта (например, астероида). Шкала имеет субъективную оценку, чем отличается, например, от шкалы Палермо`,
+  },
+  {
+    'Alnilam, Alnitak, and Mintaka': `three bright stars that form the Belt of Orion`,
+  },
+  {
+    'Планковская эпоха': `Physicists sometimes call this incredibly tiny time interval (about 10–43 second) between the big bang event and the start of space and time the BLANK`,
+  },
+  {
+    'Большое сжатие (большой хлопок)': `Within the closed universe model of cosmology, the postulated end state that occurs after the present universe expands to its maximum physical dimensions and then collapses in on itself under the influence of gravity, eventually reaching an infinitely dense end point, or singularity.`,
+  },
+  {
+    Медноголовые: `During the 1860s, what pejorative name did Republicans give to a faction of Democrats that opposed the American Civil War, purposely drawing a comparison to Agkistrodon contortrix, a venomous snake found in the eastern USA?`,
+  },
+  {
+    'Александра Давид-Неель': `She wrote over 30 books about Eastern religion, philosophy, and her travels, including Magic and Mystery in Tibet. Her teachings influenced the beat writers Jack Kerouac and Allen Ginsberg, the popularisers of Eastern philosophy Alan Watts and Ram Dass, and the esotericist Benjamin Creme.`,
+  },
+  {
+    'Вади-аль-Хитан («Долина китов»)': `Named a UNESCO World Heritage Site in 2005, what paleontological site in northern Egypt is almost unique for the extraordinary number, density, and comparative completeness of whale fossils preserved there?`,
+  },
+  {
+    'Jonathan DEMME': `The 1984 Talking Heads concert film Stop Making Sense, often cited as one of the greatest in its genre, was directed by which film-maker?`,
+  },
+  {
+    Braun: `The industrial designer Dieter Rams is best known for his designs for which German consumer products company?`,
+  },
+  {
+    Bursa: `The popular puppet theater characters Karagöz and Hacivat are believed to be based on real construction workers who once lived and worked in this city.`,
+  },
+  {
+    'Антигон I Одноглазый': `Antigonus suffered the loss of an eye, which gave this tall Macedonian a rather ferocious appearance and gained him the nickname ‘‘Monophthalmos’’ (The One-Eyed).`,
+  },
+  {
+    Hephaestion: `ближайший друг Александра Македонского и один из его полководцев.`,
+  },
+  {
+    'Мар-а-Лаго': `частная резиденция во Флориде, принадлежащая 45-му и 47-му президенту США Дональду Трампу; формально — постоянное место жительства семьи Трампа с ноября 2019 года`,
+  },
+  {
+    'Псаммит или исчисление песчинок': `Archimedes refutes the idea expressed by the proverb by inventing a notation which enables him to calculate in a reasonably concise way`,
+  },
+  {
+    'Jean-Bertrand Aristide': `(born 1953) was elected president of Haiti by a landslide in 1990 but then was deposed by a military coup in 1991. A radical populist, acclaimed by the masses and feared by Haiti’s power elite, he remained in exile until 1994 when a U.S. military occupation of Haiti restored him to power.`,
+  },
+  {
+    Лягушки: `Dionysus, the patron god of Attic drama, going down to Hades to bring Euripides back. When after many ludicrous adventures the god finally arrives in the Underworld, he acts as referee in a long poetic dispute between Euripides and Aeschylus, which contains much delightful comedy but also some serious criticism.`,
+  },
+  {
+    Облака: `a dishonest old farmer tries to obtain from Socrates an education of the new sophistic type in an attempt to avoid paying his debts.`,
+  },
+  {
+    Стагир: `Where was Aristotle born?`,
+  },
+  {
+    'Литтон Стрейчи': `английский писатель, автор книги Eminent Victorians («Выдающиеся викторианцы»)`,
+  },
+  {
+    'Августин Кентерберийский': `бенедиктинский монах, первый архиепископ Кентерберийский. Вошёл в историю как «апостол англичан» и основатель Церкви Англии`,
+  },
+  {
+    'Тридцать товарищей': `They were subsequently to rank as the greatest heroes of the Burmese nationalist revolution. Many were to play major political roles in postcolonial Burma, including Gen. Ne Win, who unseated elected premier U Nu in 1958 and 1962 and was Burma’s head of government during most of the 1960s.`,
+  },
+  {
+    '': `Which mountain range, extending from northern Greece into southern Albania, has its highest point at Mount Smolikas?`,
+  },
+  {
+    'Болгария (Петричский инцидент)': `Remembered as one of the most bizarre incidents in warfare, the so-called 'War of the Stray Dog' broke out between Greece and which other country in 1925, after a soldier was shot for crossing a border while chasing his runaway dog?`,
+  },
+  {
+    'Стив Редгрейв': `Beginning in 1984, which British rower won gold medals in rowing at five consecutive Olympic Games?`,
+  },
+  {
+    'Австрия. Битва при Карансебеше': `In a story often cited as one of the most bizarre incidents of warfare, which nation's army is said to have shot around 150 of its own men dead at the 1788 Battle of Karánsebes, believing themselves to be the invading Ottoman army?`,
+  },
+  {
+    'Пролив Макино': `connects Lake Michigan and Lake Huron`,
+  },
+  {
+    'Фоли артист - шумовик': `The art of reproducing everyday sound effects for use in media, typically radio programmes or film soundtracks, is commonly referred to by what name, the surname of an American sound artist who pioneered the practice?`,
+  },
+  {
+    'Викторина Мёран': `любимая модель Эдуарда Мане (Олимпия, Завтрак на траве)`,
+  },
+  {
+    'Жанна Авриль': `a French can-can dancer made famous by Henri de Toulouse-Lautrec through his paintings. Zsa Zsa Gabor portrayed Avril in the original Moulin Rouge (1952); half a century later, the semi-fictionalized character was reinterpreted by Nicole Kidman in Moulin Rouge! (2001).`,
+  },
+  {
+    'Эмма Лазарус': `Which American poet wrote a sonnet entitled The New Colossus, which is engraved on a plaque inside the Statue of Liberty and features the lines "Give me your tired, your poor, your huddled masses yearning to breathe free"?`,
+  },
+  {
+    'Звуки музыки': `Which 1965 film, directed by Robert Wise and at one time the highest-grossing film of all time, was based ultimately on a 1949 memoir entitled The Story of the Trapp Family Singers?`,
+  },
+  {
+    Монтерей: `which three-day music festival featured the first major American concert performances by Janis Joplin, the Jimi Hendrix Experience and The Who, as well as an acclaimed headline performance by Jefferson Airplane?`,
+  },
+  {
+    'Arthur RACKHAM': `Which English illustrator, who initially worked for newspapers, became known at the end of the 19th century for his detailed and colourful illustrations for children's books such as The Ingoldsby Legends and Fairy Tales of the Brothers Grimm? The book Peter Pan in Kensington Gardens, featuring his illustrations, was hailed as "the outstanding Christmas gift-book of 1906".`,
+  },
+  {
+    'Joseph Stella': `Italian-born American Futurist painter best known for his depictions of industrial America, especially his images of the Brooklyn Bridge. He is also associated with the American Precisionist movement of the 1910s–1940s.
+
+`,
+  },
+  {
+    'Луи Восель': `Which French art critic is best known for coining the names of the art movements Fauvism and Cubism, intending both names as terms of derision?`,
+  },
+  {
+    '': `Bill Watterson is the artist and author of what comic strip featuring a boy and his toy tiger that was widely syndicated from 1985-1995?`,
+  },
+  {
+    'The Autobiography of Alice B. Toklas (1933)': `a book by Gertrude Stein, written in October and November 1932 and published in 1933, written in the voice of her life partner`,
+  },
+  {
+    'April is the cruellest month': `First line of The Waste Land (1922)`,
+  },
+  {
+    Колонизаторы: `немецкая настольная игра, созданная Клаусом Тойбером. Впервые издана в 1995 году в Германии.`,
+  },
+  {
+    'Secret Hitler': `a hidden identity social deduction party game. Players assume the roles of liberals and fascists in the Reichstag of the Weimar Republic`,
+  },
+  {
+    'Художник Матис': `опера немецкого композитора Пауля Хиндемита в 7 картинах, в которой музыкальным и сценическим языком рассказывается история жизни художника XVI столетия Матиаса Грюневальда. Вдохновил композитора на создание этой оперы расписанный М. Грюневальдом Изенгеймский алтарь.`,
+  },
+  {
+    'tautochrone problem': `The cycloid also provides the solution for the BLANK, which seeks a curve for which the time taken for a particle to descend the curve does not depend on the initial position.`,
+  },
+  {
+    'Юстинианова чума': `plague pandemic that swept Europe and Asia beginning during the 540s.`,
+  },
+  {
+    'Радужный змей': `персонаж мифологии аборигенов Австралии, покровитель неба, воды, дождя, плодородия, шаманов и знахарей. Существовал во Время сновидений`,
+  },
+  {
+    'Украденное поколение': `In the 1900s, many Aboriginal children were taken from their families, becoming known as the BLANK`,
+  },
+  {
+    Пешмерга: `In Iraq, Saddam Hussein committed genocide against the Kurds, who now control an autonomous Iraqi region defended by the BLANK.`,
+  },
+  {
+    'Анга-Роа': `город, административный центр и единственный постоянный населённый пункт острова Пасхи.`,
+  },
+  {
+    'Новогодний шар на Таймс-сквер': `шар времени, расположенный на здании Уан-Таймс-Сквер в Нью-Йорке. Он играет одну из ключевых ролей в праздновании Нового года на этой улице.`,
+  },
+  {
+    Nowruz: `Persian or Iranian New Year celebration.`,
+  },
+  {
+    Хогманай: `Scottish New Year celebration, with festivities traditionally beginning on New Year’s Eve (per the Gregorian calendar).`,
+  },
+  {
+    Songkran: `also commonly known as the “Water Festival,” is a traditional New Year’s celebration in Thailand.`,
+  },
+  {
+    Джанкану: `a festive, competitive street parade held in the Bahamas on both New Year’s Day and Boxing Day`,
+  },
+  {
+    'Выход рабочих с фабрики': `документальный немой короткометражный фильм; один из первых фильмов, снятых братьями Люмьер, и исторически первый фильм, показанный публике на большом экране`,
+  },
+  {
+    'Антуан Дуанель': `alter-ego of sorts of Truffaut`,
+  },
+  {
+    'Clara Barton': `основательница Американского Красного Креста`,
+  },
+  {
+    'Малыши Басби': `the group of footballers, recruited and trained by Manchester United chief scout Joe Armstrong and assistant manager Jimmy Murphy, who progressed from the club's youth team into the first team under the management of the eponymous Matt Busby from the late 1940s and throughout the 1950s. The squad most associated with the name "babes" was that of the 1957–58 season, many of whom died in the 1958 Munich air disaster, and who, with an average age of 22, had been touted to dominate European football for the next few years.
+
+`,
+  },
+  {
+    'As You Like It': `All the world’s a stage - which play`,
+  },
+  {
+    'Los Millonarios': `one of the most successful and iconic clubs in Colombia, making it one of the largest sports entities in the country and one of the most important in South America. Di Stefano.`,
+  },
+  {
+    'Richard III': `Now is the winter of our discontent - which play`,
+  },
+  {
+    'Bruno Hauptmann': `Reports of a suspicious man redeeming gold certificates in Manhattan led police to BLANK, who possessed $14,000 in certificates that matched the serial numbers of the ransom money. Похититель ребенка Линдберга`,
+  },
+  {
+    'Elizabeth Short': `Black Dahlia. Her corpse had mutilated and luridly posed. `,
+  },
+  {
+    'Три принца из Серендипа': `Впервые в английском языке слово BLANK появилось 28 января 1754 года в письме английского писателя Хораса Уолпола, адресованном его другу, британскому посланнику во Флоренции Хорасу Манну. Он определил его как «очень выразительное слово, характеризующее открытие, совершенное без преднамеренных действий».
+
+`,
+  },
+  {
+    'Фрэнсис Уолсингем': `член Тайного совета, начальник разведки и контрразведки Англии.
+Ему принадлежит главная заслуга в раскрытии заговора Бабингтона и организации суда над Марией Стюарт. Для своего времени он был гением шпионажа. Он организовал сложнейшую разветвлённую сеть агентов в Англии и Европе, получая таким образом богатейшую информацию обо всех текущих событиях.
+
+`,
+  },
+  {
+    'Натан Хейл': `His supposed final words, much quoted in Patriot propaganda, were “I only regret that I have but one life to lose for my country.”`,
+  },
+  {
+    'Ronald Ross': `(won in 1902) was the first British recipient of the Nobel Prize, recognized for his work related to the transmission of malaria.`,
+  },
+  {
+    'Пауль Эрлих': `He made his own “magic bullet” in 1909 when he discovered that the compound arsphenamine (now called Salvarsan) could be used as an effective cure for syphilis.`,
+  },
+  {
+    'Willem Einthoven': `a Dutch medical doctor and physiologist. He invented the first practical electrocardiograph (ECG or EKG) in 1895 and received the Nobel Prize in Physiology or Medicine in 1924 for it ("for the discovery of the mechanism of the electrocardiogram").`,
+  },
+  {
+    'Barbara McClintock': `(won in 1983) described the existence of transposons, also called “jumping genes,” from her observations that certain DNA sequences on the maize she was studying could change position on a chromosome.`,
+  },
+  {
+    'Бобровые войны': `название серии военных конфликтов преимущественно между индейскими племенами во второй четверти — конце XVII века, основными участниками которых были ирокезы и индейцы из других окрестных племён, а также французские колонисты, регулярные войска и население европейских колоний. Название не отображает всю суть этих войн, а является лишь традиционным обозначением: до недавнего времени считалось, что причинами войны являлись передел охотничьих угодий и борьба за права на торговлю с европейцами в указанных регионах.`,
+  },
+  {
+    'Maria RESSA': `Jointly awarded the Nobel Peace Prize with Dmitry Muratov in 2021, which Filipino journalist, famed for founding the news service Rappler, was awarded the prize for ‘safeguarding freedom of expression’?`,
+  },
+  {
+    'Cameron and Tyler Winklevoss': `Identical twins, who are most famous for their claim that Mark Zuckerberg stole their idea when creating Facebook,`,
+  },
+  {
+    'Vint Cerf': `американский учёный в области теории вычислительных систем, один из разработчиков стека протоколов TCP/IP, нередко называемый «отцом интернета»`,
+  },
+  {
+    'Квинтилий Вар, верни мне мои легионы!': ` Светоний в биографии Августа ярко передал отчаяние императора: «Он до того был сокрушён, что несколько месяцев подряд не стриг волос и бороды и не раз бился головою о косяк, восклицая BLANK`,
+  },
+  {
+    'Закон Фиттса': `Закон BLANK дает количественную оценку дихотомии скорости и точности: чем точнее нужно выполнить задачу, тем больше для этого потребуется времени. В переводе на UI-дизайн это означает, что чем дальше от курсора или пальца находится цель — скажем, кнопка «Купить» или «Добавить в корзину» — тем крупнее она должна быть. Только так можно будет быстро добавить товары в корзину, и это не потребует особой точности.
+
+`,
+  },
+  {
+    'Роберт Рекорд': `валлийский врач и математик. Известен, в частности, тем, что в 1557 году предложил использовать в математике знак равенства.`,
+  },
+  {
+    'Парадокс Пето': `His namesake paradox describes how the incidence of cancer does not correlate with the number of cells in an organism, e.g. whales are no more likely to get cancer than humans.`,
+  },
+  {
+    Комаину: `японское мифическое животное, напоминающее смесь льва и собаки. Служат мистическими стражами, расположенными парами при входе в синтоистские храмы, однако могут встречаться и при буддийском храме тоже. Часто сделаны из камня, но также могут быть из бронзы, железа, дерева и даже керамики`,
+  },
+  {
+    'Водоросли Пеле': `форма лавы в виде тонких листов, образующихся в результате застывания лавовых пузырей под воздействием воды.
+
+`,
+  },
+  {
+    'Махариши Махеш Йоги': `influenced greatly by Harrison’s interest in Indian religion, the Beatles visited the BLANK in Bangor, Wales, in 1967.`,
+  },
+  {
+    'Вид из окна в Ле Гра': `первая из дошедших до наших дней гелиогравюр. Считается первой в мире фотографией, снятой с натуры. Создана французским изобретателем Жозефом Нисефором Ньепсом в 1826`,
+  },
+  {
+    'ELIZA effect': `Weizenbaum wrote, “I had not realized … that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.”`,
+  },
+  {
+    'Максимизатор скрепок': `мысленный эксперимент, описанный шведским философом Ником Бостромом в 2003 году. Он иллюстрирует экзистенциальный риск, который сильный искусственный интеллект может нести для людей, если он запрограммирован на достижение даже кажущихся безобидными целей`,
+  },
+  {
+    'Йозеф Альберс': `From 1949 until his death he worked on a long series of paintings called Homage to the Square and it is for these uncompromisingly abstract pictures that he is best known;`,
+  },
+  {
+    'BETTY BOOP': `Modeled after singer Helen Kane (“I Wanna Be Loved by You”), animator Max Fleischer created this sexy, flirty little jazz baby, with the black pin-curled hair, wide eyes, and squeaky voice, in 1931.`,
+  },
+  {
+    'Vittorio Pozzo': `Italy’s two successive championship victories in the FIFA World Cup were masterminded by their coach BLANK`,
+  },
+  {
+    'BLAIR, LINDA': `Born on January 22, 1959, the chubby-cheeked, baby-voiced actress made a spectacular film debut as the head-spinning, vomit-spitting, devil-possessed Regan in the 1973 horror classic The Exorcist.`,
+  },
+  {
+    'Frank Jackson': `Who suggested thought experiment Mary's Room?`,
+  },
+  {
+    'Болотный человек': `In this experiment, a hypothetical person is killed by a lightning strike, but an exact replica of them is formed from a nearby tree. `,
+  },
+  {
+    'Наг Хаммади': `A collection of early Christian texts, dated to the 4th century CE and sometimes referred to as the ‘Gnostic Gospels’, are more usually named after which Egyptian town, where they were discovered in 1945?`,
+  },
+  {
+    PUTRAJAYA: `The city was built in part to ease overcrowding in Kuala Lumpur.`,
+  },
+  {
+    'Вязальщицы ': `What word, which translates from French as 'knitting woman', is used to refer to women who attended public executions during the French Revolution, and are said to have knitted while watching? `,
+  },
+  {
+    'Бутч Виг': `Later to become the drummer and co-producer of the rock band Garbage, which man rose to fame as the producer of Nirvana's diamond-selling album Nevermind?`,
+  },
+  {
+    'Lee STRASBERG': `In his role as artistic director of the Actors Studio, he trained numerous Oscar-winning actors, including Joanne Woodward, Al Pacino, Sally Field and Sidney Poitier.`,
+  },
+  {
+    LILANGENI: `This currency's name derives from a Swazi word meaning 'people of the Sun'. `,
+  },
+  {
+    'Эффект Комптона': `What name, after a Nobel Prize-winning American physicist, is given to the inelastic scattering of light by charged particles such as electrons? It is distinct from Rayleigh scattering, which can be caused by neutral particles. `,
+  },
+  {
+    'The BLACKHEARTS': `Though she rose to fame as a member of the band The Runaways, the singer Joan Jett achieved her greatest success as the frontwoman for a band with what name?`,
+  },
+  {
+    'The HEARTBREAKERS': `Singer and guitarist Tom Petty was most famous as the frontman for a band with what name? Though he was also successful as a solo artist, Petty continued to tour with this band until his death in 2017.`,
+  },
+  {
+    'Santiago RAMÓN Y CAJAL': `Which Spanish neuroscientist, who received the Nobel Prize in Physiology or Medicine in 1906, is frequently dubbed 'the father of neuroscience', having been the first to demonstrate that the nervous system was made up of individual cells rather than a single continuous network?`,
+  },
+  {
+    KUMITE: `This word, which translates as 'grappling hands', names a karate discipline that was contested at the Tokyo Olympics.`,
+  },
+
+  {
+    'John Dryden': `The poem Annus Mirabilis, which refers to events such as the Great Fire of London, was written in 1667 by which English poet? He was appointed as England's first official Poet Laureate the following year.`,
+  },
+  {
+    'Manuel BELGRANO': `Revered in Argentina as one of the foremost Libertadores, which Argentine economist and military leader led a victorious counter-offensive at the Battle of Tucumán, before being replaced as Commander of the Army of the North by José de San Martín [mar-TEEN]? This man also designed the flag of Argentina. `,
+  },
+  {
+    'Juneteenth (19)': `a traditional African-American observance which commemorates the anniversary of an 1865 decree that enforced the Emancipation Proclamation in Texas, was enshrined as a federal holiday in the United States last year. It is celebrated each year on which date in June?`,
+  },
+  {
+    'Rick ALLEN': `Who is the drummer for Def Leppard who thought he'd never play again after his left arm was amputated following a car crash, but with some adaptation has continued to tour and play with the band?`,
+  },
+  {
+    Горе: `Which western African nation is home to BLANK, the largest slave-trading hub on the African coast for nearly five centuries? Senegal`,
+  },
+  {
+    'Crack Is Wack': `A 1986 Keith Haring mural in East Harlem depicting bodies and skeletons piled against a blood red background bears what rhyming anti-drug message?`,
+  },
+  {
+    Каганер: `A centuries-old tradition, placing this figure is interpreted to bring good luck for the upcoming year. Рождественская традиция изготовления фигурок раскрашенных человечков, справляющих большую нужду`,
+  },
+  {
+    'Молокаи ': `Остров на Гавайях, колония прокаженных`,
+  },
+  {
+    Algospeak: `“unalive” for kill, “SA” for sexual assault, “spicy eggplant” instead of vibrator, as the journalist Taylor Lorenz documented in the Washington Post. Such vocabulary was nicknamed BLANK: speech molded in the image of the algorithm.`,
+  },
+  {
+    DARUMA: `What is the Japanese name for the round-headed good luck doll meant to depict the founder of Zen Buddhism? The rolling shape is meant to symbolize resilience. Японская традиционная кукла-неваляшка`,
+  },
+  {
+    GOALBALL: `Which sport, exclusive to the Paralympic Games, is played by visually impaired/blindfolded athletes in teams of three? They follow the sound of the bells and cannot kick the ball.`,
+  },
+  {
+    'Ворота невозвращения': `What is the name of a memorial arch, south of Ouidah, Benin, made of concrete and bronze that is dedicated to victims of the transatlantic slave trade?`,
+  },
+  {
+    'Жемчужный поэт': `What alliterative name is given to the unknown author of Sir Gawain and the Green Knight, a 14th century Middle English chivalric romance? They also are thought to be the author of the narrative poems Cleanness, Patience, and a third that gives them their name.`,
+  },
+  {
+    'Josh Homme': `американский музыкант и продюсер, основатель групп в стиле стоунер-рок Kyuss и Queens of the Stone Age.`,
+  },
+  {
+    MIRABAL: `What surname was shared by four sisters, three of whom were assassinated in 1960 due to their opposition to Dominican dictator Rafael Trujillo? The UN dedicates the date of their murder as International Day for the Elimination of Violence against Women.`,
+  },
+  {
+    'Rómulo BETANCOURT': `What two-time president of Venezuela survived a car bomb assassination attempt in 1960 due to his opposition to Rafael Trujillo? This, combined with the Mirabal assassinations, led to Trujillo's eventual downfall and assassination in 1961.`,
+  },
+  {
+    CINCINNATI: `What was the name of Ulysses S Grant's beloved warhorse who carried him through the last 2 years of the Civil War? The horse was named after a figure of antiquity.`,
+  },
+  {
+    SKYLAB: `What was the name of the first American space station, launched in 1973? It was operated for only three crewed missions before its reentry and disintegration in 1979.`,
+  },
+  {
+    'Метод Судзуки': `всемирно известная методика музыкального развития детей, Музыкальному языку ребёнка можно обучить так же, как он обучается своему родному разговорному языку, слушая речь окружающих и пытаясь повторять за ними. Нужно окружить ребёнка с как можно более раннего возраста музыкой, и научить его на слух повторять ноты, музыкальные фразы, а затем и целые произведения на музыкальном инструменте.`,
+  },
+  {
+    'Sarah Siddons': `a Welsh actress, the best-known tragedienne of the 18th century. Contemporaneous critic William Hazlitt dubbed her as "tragedy personified".`,
+  },
+  {
+    'PROFUMO Affair': `Which 1963 scandal, named for a British Secretary of War at the time, was notably referenced in Billy Joel's “We Didn't Start the Fire” with the line "British politician sex”?`,
+  },
+  {
+    'Йонас Вингегор': `Which Danish rider of the Team Jumbo-Visma, has won the two most recent Tours De France?`,
+  },
+  {
+    MEZE: `What word, derived from the Persian for “to relish,” is used in Greek, Turkish, and many middle eastern cuisines to refer to a meal consisting of an assortment of small simple dishes, served both hot and cold?`,
+  },
+  {
+    'Вечный сентябрь': `sudden influx of noobs since 1993`,
+  },
+  {
+    'Fyre Festival': `мероприятие, изначально позиционированное как «роскошный музыкальный фестиваль», в реальности оказавшееся крупным мошенничеством. Организаторами фестиваля выступили Билли Макфарланд (Billy McFarland), генеральный директор компании Fyre Media Inc и рэпер Джеффри «Ja Rule» Аткинс.`,
+  },
+  {
+    'Гезельшафт (гемейншафт)': `What 2016 Scripps Spelling Bee co-winning word describes the second half of a pair of concepts developed by sociologist Ferdinand Tönnies in the early 20th century? This word describes modern society ruled by rationality, as opposed to a traditional one based on family.`,
+  },
+  {
+    'Аполлоний Пергский': `What Greek mathematician and astronomer, who died in 190 BCE, is best known for work on conic sections, including developing definitions of parabola, hyperbola, and ellipse, which are still used today?`,
+  },
+  {
+    'Последняя девушка': `What common horror movie trope, most often found in slasher movies, refers to the sole female character who survives the confrontation with the villain during a movie's climax? `,
+  },
+  {
+    TERATOMA: `What name is given to a rare form of germ cell tumor, usually comprised of different kinds of tissue like muscle, hair, or teeth? These kinds of tumors are usually benign but can become malignant in rare cases.`,
+  },
+  {
+    'William JEVONS': `What 19th-century economist gives his name to the paradox where increased efficiency in resource usage can lead to an overall increase in the use of that resource? So more fuel-efficient cars lead to a higher demand for travel, leading to higher total gasoline usage.`,
+  },
+  {
+    'Столпы Творения': `Space.com ranked what image with a three-word title as the best taken by the Hubble Space Telescope? It depicts finger-like projections in the Eagle Nebula where stars were being formed.`,
+  },
+  {
+    'Пещера разбойников': `Эксперимент Музафера Шерифа, хотел как в Повелителе Мух, но ребята сплотились`,
+  },
+  {
+    'Люди в лодках': `распространённое название вьетнамских беженцев, покидавших вьетнамскую территорию морским путём во время трёх Индокитайских войн. Наибольшее количество «людей в лодках» из Вьетнама приходится на период с 1978 г. по середину 1980-х гг.`,
+  },
+  {
+    'Taksim square': `a major tourist and leisure district at the heart of Istanbul`,
+  },
+  {
+    'Луис Салливан': `Создатель одного из первых небоскрёбов и концепции органической архитектуры, один из самых видных представителей и идеолог Чикагской школы архитектуры, учитель Фрэнка Ллойда Райта. Ему принадлежит знаменитая формула: «форма в архитектуре следует функции».
+
+`,
+  },
+  {
+    Мегатерии: `вымерший род гигантских ленивцев, существовавший в плиоцене и плейстоцене от 2 млн до 12 тыс. лет назад на территории Южной и, отчасти, Северной Америки.`,
+  },
+  {
+    'HITCHENS razor': `Which philosophical razor states “What can be asserted without evidence can also be dismissed without evidence”? It is named after a British-born author and journalist who coined the phrase in 2007, four years before his death.`,
+  },
+  {
+    Глиптодон: `Weighing almost a tonne and covered in a bony shell, it was a giant relative of armadillo`,
+  },
+  {
+    HOGMANAY: `Stonehaven in Aberdeenshire is known for its traditional fireball ceremony that takes place during which festival held in Scotland at New Year?`,
+  },
+  {
+    'Kevin SYSTROM': `Which American entrepreneur co-founded Instagram with Mike Krieger in 2010?`,
+  },
+  {
+    Галофиты: `Plants that have adapted to grow in soil or water with high salinity are known by what term, from the Greek words meaning “salt” and “plant”?`,
+  },
+  {
+    Ксерофиты: `Cacti and pineapples are both examples of what type of plants that have adapted to survive in environments with little to no liquid water? The term comes from the Greek meaning “dry plant”.`,
+  },
+  {
+    'Марджери Кемпе': `Which Chrisian mystic is best known for her self-titled 15th-century book that chronicles the author's spiritual journey from life in Bishop's Lynn to being a popular Christian visionary? The author was illiterate and dictated the whole book, which is often described as the first English language autobiography.`,
+  },
+  {
+    Финансье: `Comprising a small rectangular sponge cake flavoured with almonds and beurre noisette, the name of which French patisserie item originates from its popularity with bankers around the Paris stock exchange in the 19th century?`,
+  },
+  {
+    'Грег Глассман': `Создатель кроссфита`,
+  },
+  {
+    'Фосфорная челюсть': `A shortened form of which element precedes the word ‘jaw’ in the name of an illness developed by match factory workers in the 19th and early 20th century? The disease was caused by the inhalation of vapours from the ‘white’ variation of this element.`,
+  },
+  {
+    Hadestown: `a musical with music, lyrics, and book by Anaïs Mitchell. It tells a version of the ancient Greek myth of Orpheus and Eurydice. Eurydice, a young girl looking for something to eat, goes to work in a hellish industrial version of the Greek underworld to escape poverty and the cold, and her poor singer-songwriter lover Orpheus comes to rescue her.
+
+`,
+  },
+  {
+    Терменвокс: `Clara Rockmore is widely celebrated as one of the most accomplished performers of which electronic instrument, novel for the lack of physical contact made by its player?`,
+  },
+  {
+    Польша: `Order of the White Eagle is the highest order of chivalry awarded in which European country? It is one of the oldest chivalric distinctions still in use today.`,
+  },
+  {
+    MIMAS: `The Herschel Crater on which of Saturn's moons has led to it being known as the "Death Star Moon" due to its similarity to the Death Star from the Star Wars films?`,
+  },
+  {
+    'Amanda NUNES': `Considered among the best female mixed martial artists of all time, which Brazilian fighter defeated Ronda Rousey in the latter's second and final loss of her career? She is currently the champion of both the UFC's Featherweight and Bantamweight divisions.`,
+  },
+  {
+    '': `Which German battleship, the heaviest ever built by a European navy, was attacked and sunk by Lancaster bombers whilst off the shores of Norway on 12th November 1944?`,
+  },
+  {
+    'Martin SELIGMAN': `Learned helplessness, psychologist`,
+  },
+  {
+    YAMOUSSOUKRO: `Нотр-Дам-де-ла-Пэ, believed to be the largest church in the world, is found in which African capital city? `,
+  },
+  {
+    Розен: `The structure of spacetime known as a wormhole was once popularly known as an Einstein-[BLANK] bridge with the blank being filled by the name of which American-Israeli physicist also known for his work on the structure of the hydrogen atom?`,
+  },
+  {
+    'Кандер и Эбб': `Cabaret and Chicago are musicals created by a songwriting partnership between which composer and which lyricist?`,
+  },
+  {
+    'Джон Уилер': `Им были придуманы несколько терминов (квантовая пена, замедление нейтронов), включая два, впоследствии широко распространившиеся в науке и научной фантастике — чёрная дыра (англ. black hole) и кротовая нора (англ. wormhole).
+
+`,
+  },
+  {
+    'Stéphanie FRAPPART': `Which French referee became the first woman to preside over a men’s FIFA World Cup match when Costa Rica played Germany in 2022 in the final round of Group E games?`,
+  },
+  {
+    'Сэм Бэнкман-Фрайд': `an American entrepreneur who was convicted of fraud and related crimes in November 2023. He founded the FTX cryptocurrency exchange and was celebrated as a "poster boy" for crypto`,
+  },
+  {
+    'In one of his best-known performance works – I Like America and America Likes Me – this artist travelled to New York in order to spend three days wrapped in felt, living in a room with a live coyote.  ': `Joseph BEUYS`,
+  },
+  {
+    Катеначчо: `Popular during the 1950s and ’60s, what tactical system in football is named after the Italian word for “door-bolt”, reflecting its strongly defensive nature?`,
+  },
+  {
+    'Свободная Энергия Гиббса': `Which American scientist gives his name to a thermodynamic quantity, symbolised G, that is used to measure the maximum amount of work done in a thermodynamic system when the temperature and pressure are kept constant?`,
+  },
+  {
+    Агоге: `What name was given to the mandatory Spartan education system which trained male youths in the art of war?`,
+  },
+  {
+    'INDUS River': `Both Mohenjo-Daro and the site of Harappa are considered part of a civilisation named for this river.`,
+  },
+  {
+    'Бобби Риггс': `The famous 'Battle of the Sexes' tennis match in 1973 was a televised game that featured Billie Jean King defeating which 55-year old tennis player?`,
+  },
+  {
+    'A survivor of the Hiroshima bombing, he designed the black turtlenecks notably worn by Steve Jobs.': `Issey MIYAKE`,
+  },
+  {
+    'Вангари Маатаи': `The anti-deforestation organisation known as the Green Belt Movement was founded in 1977 by which Kenyan activist, the first African woman to win the Nobel Peace Prize?`,
+  },
+  {
+    Brazil: `In this country, Black Consciousness Day is sometimes called “Zumbi Day”, and is observed annually on November 20th, the date of his death.`,
+  },
+  {
+    Махабодхи: `Which temple in Bihar marks the location where the Buddha is said to have achieved enlightenment? It has been a major pilgrimage destination for Buddhists for over 2 millennia and was designated a UNESCO World Heritage Site in 2002.`,
+  },
+  {
+    'Трейси Ульман': `Which British-American comedian's US comedy variety show featured the first TV appearance of characters from The Simpsons?`,
+  },
+  {
+    'Klaus Teuber': `He has four Spiel des Jahres wins to his name, most notably for the massively successful Settlers of Catan.`,
+  },
+  {
+    'Клаус Шваб': `Which German engineer and economist founded the World Economic Forum and has been its chairman since 1971?`,
+  },
+  {
+    'Diane Von FURSTENBERG': `Her namesake fashion company is headquartered in Manhattan, and she is widely credited with introducing the 'wrap dress' (платье с запахом) in 1974 . `,
+  },
+  {
+    'Мария Терезия': `Both forenames needed. Which woman ruled the Habsburg Empire from 1740 until 1780?`,
+  },
+  {
+    'Джанель Моне': `Which singer of Make Me Feel and Tightrope also had film roles as Teresa in Moonlight and Mary Jackson in Hidden Figures?`,
+  },
+  {
+    Урумчи: `The point on land located furthest from the ocean is located near which Chinese city, the capital of Xinjiang ["shinjaang"]?`,
+  },
+  {
+    'Кристофер Ли': `The 1973 folk horror film The Wicker Man stars which actor as Lord Summerisle?`,
+  },
+  {
+    'Дебют Бонгклауда': `What chess opening sees a player move their king to the space vacated by their pawn in turn 1? Regarded as a joke opening, its name suggests that to make such a bad decision. the player must be using a certain piece of equipment to smoke cannabis. `,
+  },
+  {
+    'Sándor KOCSIS': `Which Hungarian striker, a teammate of Ferenc Puskás and a member of the "Mighty Magyars", has the highest goalsper-game at the men's World Cup of players to play more than one match? He scored 11 goals in five games at the 1954 tournament, including two hat-tricks.`,
+  },
+  {
+    SIKHism: `The Khanda is the symbol of what major religion? It is an amalgamation of three elements, a sword, two daggers, and a chakram, a type of throwing weapon originating in India.`,
+  },
+  {
+    'Период сражающихся цпрств': `What is the name given to the period of Chinese history between 475 and 221 BC?`,
+  },
+  {
+    'Сент Люсия': `In 1979, W. Arthur Lewis became the first Nobel Laureate from which country when he won in Economics?`,
+  },
+  {
+    Гватемала: `In 1992, Rigoberta Menchú became the first female Nobel Laureate from which country when she won Nobel Peace Prize`,
+  },
+  {
+    Гифа: `What name is given to the individual branch-like filaments that make up the mycelium of a fungus?`,
+  },
+  {
+    'Эрнст Шепард': `Who is best known as the illustrator for both Wind in the Willows and Winnie-the-Pooh?`,
+  },
+  {
+    Лебедь: `Macedonian designer Marjan Pejoski [MAR-yan PAY-O-ski) created an outfit themed around which animal, that was worn by Björk at the 2001 Oscars ceremony?`,
+  },
+  {
+    'Марджери Аллингем': `One of the four "Queens of Crime", which author is best known for her hero, the gentleman sleuth, Albert Campion?`,
+  },
+  {
+    Бейсбол: `Named after light hitting shortstop Mario Mendoza, who failed to achieve a batting average of .200 five times in 9 major league seasons, the Mendoza Line is an expression in which sport?`,
+  },
+  {
+    'Человек из Линдоу': `What name is given to the preserved body of a man discovered in 1984, referencing the name of the Cheshire peat bog in which the discovery was made?`,
+  },
+  {
+    'Бинг Кросби': `Hollywood further developed BLANK the actor in the image of an all-American hero through a wide range of starring motion picture roles, including his 1944 role in Going My Way, for which he won a Best Actor Oscar.`,
+  },
+  {
+    'Def Jam': `This label contracts with an impressive list of artists, including Kanye West, Justin Bieber, Leona Lewis, and Iggy Izalea.`,
+  },
+  {
+    'Fats Domino': `Singer of “Blueberry Hill”`,
+  },
+  {
+    'Роберт Меткалф': `For his invention of Ethernet, who won the Turing Prize in 2022?`,
+  },
+  {
+    'HELIODORUS OF EMESA': `Author of the extant novel Aethiopica.`,
+  },
+  {
+    'Friends of Dorothy': `After all, in the intensely closeted pre-Stonewall days, gays often identified themselves to each other as BLANK referring to Garland’s 1939 role in The Wizard of Oz.`,
+  },
+  {
+    'Красный конверт': `Known as hóng bāo in Mandarin, what traditional Chinese monetary gift is given during holidays or for special occasions such as weddings and births? В старину в них вручались взятки`,
+  },
+  {
+    Тахрир: `The Egyptian Revolution of 2011 was centred on mass public protests in which central square in Cairo?`,
+  },
+  {
+    Салат: `One of the Five Pillars of Islam, what Arabic word describes the practice of praying in the direction of Mecca five times a day?`,
+  },
+  {
+    Артемизинин: `Tu Youyou became the most recent woman to win the Nobel Prize for Medicine, for her discovery of which compound, now a standard treatment against the most deadly form of malaria?`,
+  },
+  {
+    'Эрвинг Гоффман': ` 'Представление себя другим в повседневной жизни' is a seminal book in the symbolic interactionist school and was written by which Canadian sociologist?`,
+  },
+  {
+    'Frat pack': `Referring to the sophomoric humour in their films, what nickname was given to a group of American comedy actors such as Ben Stiller and Owen Wilson who have appeared together in films including 'The Royal Tenenbaums' and 'Zoolander'?`,
+  },
+  {
+    Джамуха: `What was the name of the Mongolian leader who was the chief rival of Genghis Khan in the unification of the Mongol tribes?`,
+  },
+  {
+    'Throwback Thursday': `Used when people post memories or old pictures, what does the Twitter hashtag ‘#tbt’ stand for?`,
+  },
+  {
+    'Charlie Brooker': `Creator of Black Mirror`,
+  },
+  {
+    'Сранан Тонго': `Sometimes known simply as Surinamese, which English-based creole language serves as a lingua franca in Suriname, alongside Dutch?`,
+  },
+  {
+    'Кинг конг': `The fictional Skull Island is the remote setting for much of which classic action horror film?`,
+  },
+  {
+    'Клефтико (ворованное мясо)': `What name is given to a Greek dish of lamb marinated with lemon juice and then slow cooked with potatoes?`,
+  },
+  {
+    Yes: `Jon Anderson was the lead singer of which prog rock band, who released the 1971 album Fragile?`,
+  },
+  {
+    'Флегрейские поля': `This regional park, known for numerous craters and other volcanic landforms, is located just west of Naples`,
+  },
+  {
+    'Тодд Солондз': `Welcome to the Dollhouse, Storytelling, Palindromes and Happiness are among the films directed by which American independent film screenwriter and director?`,
+  },
+  {
+    'Процион (перед собакой)': `What name is shared by the brightest star in Canis Minor and the genus of mammals popularly known as the raccoons?`,
+  },
+  {
+    'The Wiggles': `Anthony Field is the only person who has been a member of which group throughout its existence? This Australian group is aimed at pre-school children and has sold many records in its home nation and the US.`,
+  },
+  {
+    'Stella Liebeck': `Which 79 year-old widow was the plaintiff in a 1994 legal case against McDonalds after being burnt by their scalding coffee, being awarded almost $3m?`,
+  },
+  {
+    'Парни из Скоттсборо': `What 2010 musical by Kander and Ebb tells the story of a miscarriage of justice following the alleged rape of two white girls by a group of nine African-American teenagers on a train travelling from Chatanooga to Memphis in 1931?`,
+  },
+  {
+    Вайда: `Which blue dye extracted from a flowering brassica plant was used as facepaint by the Celts, Picts and Vikings, but not by the real William "Braveheart" Wallace - being 1,000 years out of date by his time?`,
+  },
+  {
+    Сигареты: `Since May 2016, what type of product must use Pantone 448C ('Opaque Couché') on UK packaging, found by Australian researchers to be the world's "ugliest" colour?`,
+  },
+  {
+    'Восстание Буссы': ` In 1816 who led an unsuccessful slave revolt against the the British Government in Barbados?`,
+  },
+  {
+    'Ell & Nikki': `сценический псевдоним дуэта азербайджанских эстрадных певцов Эльдара Гасымова и Нигяр Джамал, победителей конкурса песни Евровидение 2011.`,
+  },
+  {
+    Дитлоид: `загадка, головоломка, в которой нужно разгадать фразу по её аббревиатуре. Например: 1вПнВ = 1 в Поле не Воин.`,
+  },
+  {
+    'Арту́р Бессе́': `группа французских математиков, работающих в области дифференциальной геометрии и топологии. Образовалась под явным влиянием «Николя Бурбаки».`,
+  },
+  {
+    'Проект Эйлер': `некоммерческий проект в Интернете, объединяющий сотни тысяч любителей математики и программирования. Проект был запущен в 2001 году Колином Хьюзом и сейчас поддерживается небольшой группой энтузиастов.`,
+  },
+  {
+    '«Песни Мальдорора»': `произведение французского писателя Лотреамона, написанное в форме поэмы в прозе. Включает шесть песен, главным героем которых является цинично настроенное демоническое существо, ненавидящее Демиурга и человечество.`,
+  },
+  {
+    '«Записки Федералиста» ': `сборник из 85 статей в поддержку ратификации Конституции США. Статьи выходили с октября 1787 года по август 1788 года в нью-йоркских газетах The Independent Journal и The New York Packet.`,
+  },
+  {
+    'Токийская Роза': `прозвище, которым именовали женщин-радиоведущих, передававших в эфир японскую пропаганду во время Второй мировой войны.`,
+  },
+  {
+    '«Томми Аткинс»': `прозвище простых солдат вооружённых сил Великобритании. Несмотря на то, что слово широко использовалось в XIX веке, его особенно часто используют по отношению к солдатам Первой мировой войны.`,
+  },
+  {
+    '«Скрипка Энгра»': `чёрно-белая фотография американского и французского художника и фотографа Ман Рэя, близкого к дадаистам и сюрреалистам, созданная в Париже в 1924 году и опубликованная в журнале Littérature в июне того же года.`,
+  },
+  {
+    Охагуро: `практиковалось в Японии по крайней мере с периода Асука. Чернота лака стала считаться красивой и утончённой, однако у неё было и утилитарное назначение: лак восполнял недостаток железа и помогал сохранить зубы здоровыми.`,
+  },
+  {
+    Рангаку: `свод европейских научных знаний, проникавших в Японию в период действия политики сакоку, преимущественно через голландскую торговую факторию на насыпном островке Дэдзима в гавани Нагасаки. До 1720 года распространение западных знаний`,
+  },
+  {
+    'Евге́ний Сазо́нов': `вымышленный «писатель, прозаик, литератор, эссенизатор», душелюб и людовед , который впервые появился в «Литературной газете» 4 января 1967 года, когда там стали публиковаться отрывки из его «романа века» под названием «Бурный поток».`,
+  },
+  {
+    Центо́н: `стихотворение, целиком составленное из известных предполагаемому читателю строк других стихотворений.
+`,
+  },
+  {
+    Юбицумэ: `отсечение пальцев у якудза`,
+  },
+  {
+    Чепуха: `Иногда к буриме относят и другую игру, называемую также BLANK: записывают несколько строк или даже строф и передают листок партнёру для продолжения, оставив видимыми только последние из них.`,
+  },
+  {
+    Бейрут: `Sitting on a peninsula extending westward into the Mediterranean Sea, which capital city was formerly known as Laodicea in Phoenicia - in honour of the mother of Seleucus I Nicator (one of Alexander the Great’s generals and founder of the Seleucid Empire?`,
+  },
+  {
+    Рено: `Bézier curves are named after a French engineer who used them in the 1960s to design cars for which company?`,
+  },
+  {
+    'Гибельное Сиденье': `в легендах о Короле Артуре место за Круглым Столом в Камелоте, «зарезервированное» пророком и волшебником при дворе короля Артура Мерлином для достойнейшего рыцаря из достойных, того, кому будет покровительствовать Бог и кто будет годен для миссии по обретению Святого Грааля.
+
+`,
+  },
+  {
+    Веланд: `What was the name of the blacksmith, who appears in various guises across Germanic myth, who manufactured Beowulf's mail shirt and sword in the eponymous epic poem?`,
+  },
+  {
+    'Лиссабонские львы': `The Celtic [sell-tick] team that won the 1967 European Cup, famed for almost all members of the squad being born within ten miles of Celtic Park, were known by what two-word alliterative nickname that referenced the city in which they played the final?`,
+  },
+  {
+    Эвтрофикация: `What is the name of the process in which a body of water becomes progressively enriched with nutrients and minerals, which may lead to excessive plant growth and harmful algal blooms?`,
+  },
+  {
+    Автотомия: `What Greek-derived name is given to the ability of an animal to sever one of its own appendages, usually for the purpose of escaping a dangerous situation?`,
+  },
+  {
+    'Анри Бергсон': `The concept of élan vital [eh-lan vee-tahl], a supposed force that guides the evolution and development of organisms, was introduced by which French philosopher in his 1907 book Creative Evolution?`,
+  },
+  {
+    'Produced in 1855, what Swedish stamp is another example of a rare stamp with only one known extant specimen?': `Желтый трехскиллинговик`,
+  },
+  {
+    Вануату: `The Coconut War was the name given to a 1980 conflict that took place shortly before and after the independence of which Pacific island nation?`,
+  },
+  {
+    Пиренеи: `Part of the Maladeta massif and reaching a height of 3,404 metres, Aneto is the highest peak of which mountain range in southwestern Europe?`,
+  },
+  {
+    'Donna STRICKLAND': `Maria Goeppert Mayer was the last woman to win the Nobel Prize in Physics until which scientist won in 2016 for her “method of generating high-intensity, ultra-short optical pulses”.`,
+  },
+  {
+    Аппенины: `Part of the Gran Sasso massif and reaching a height of 2,912 metres, Corno Grande is the highest mountain of which mountain range in southern Europe?`,
+  },
+  {
+    Вилланель: `A quatrain forms the final stanza of what nineteen-line poetic form?`,
+  },
+  {
+    'Боб Дилан': `In 1971 he published a \*stream-of-consciousness novel, Tarantula`,
+  },
+  {
+    eclogue: `A short pastoral poem, usually in the form of a dialogue between shepherds, but sometimes a soliloquy`,
+  },
+  {
+    'Rayleigh scattering': `which notably explains why the sky is blue.`,
+  },
+  {
+    Hevelius: `This astronomer was also a brewer`,
+  },
+  {
+    'Карл Браун': `a founder of Telefunken, one of the pioneering communications and television companies, and has been both called the "father of television". Изобретатель кинескопа`,
+  },
+  {
+    'Owen Chamberlain': `an American physicist who shared with Emilio Segrè the Nobel Prize in Physics for the discovery of the antiproton`,
+  },
+  {
+    Gallup: `an American pioneer of survey sampling techniques and inventor of the BLANK, a successful statistical method of survey sampling for measuring public opinion.`,
+  },
+  {
+    'Ласло Хейниц': `On May 22, 2010, programmer BLANK is credited with having made the first transaction for a good or service using Bitcoin. He paid 10,000 BTC (about $25 at the time) in exchange for the delivery of two pizzas. The date is celebrated in the community as Bitcoin Pizza Day.`,
+  },
+  {
+    'Johnston McCulley': `Forgotten are the many Zorro stories that delighted the readers of pulp magazines in the first half of the century; and vanished utterly is the name of their creator, a newspaper man-turned novelist, BLANK`,
+  },
+  {
+    'Элинор Портер (автор Полианны)': `Автор вопроса однажды спутал ЕЕ с Беатрис, чего очень стыдится.`,
+  },
+  {
+    'Мирча Элиаде': `Первая часть ЕГО известной работы называется «Архетипы и повторяемость», а последняя – «Ужас перед историей». А вся работа - «Миф о вечном возвращении»`,
+  },
+  {
+    'Нафталан (лечебная нефть)': `Иванич Град вблизи Загреба известен как единственное в Европе и второе в мире после азербайджанского месторождение ЭТОГО ВЕЩЕСТВА.`,
+  },
+  {
+    левират: `По одной из версий, разные имена отца Иосифа Обручника у Матфея и Луки могут быть связаны с ЭТИМ ОБЫЧАЕМ.`,
+  },
+  {
+    'Джакомо Лентини (создатель сонета)': `ОН был придворным нотариусом, за что получил от коллег прозвище «Нотарий». Его имя не раз упоминается в «Божественной Комедии» Данте Алигьери.`,
+  },
+  {
+    'Магси Богз': `Автобиография ЭТОГО ЧЕЛОВЕКА называется «В стране гигантов». В известном фильме в том числе был похищен ЕГО талант`,
+  },
+  {
+    'Бегство от критики (обманка дель Касо)': `Искусствоведы полагают, что ЭТА КАРТИНА, одна из наиболее известных в своем жанре, передает желание автора выйти за рамки формализма.`,
+  },
+  {
+    'Джоуи Честнат (главный поедатель еды на скорость)': `Главная награда под названием “Горчичный пояс” принадлежала ЭТОМУ ЧЕЛОВЕКУ с 2007 по 2015 годы.`,
+  },
+  {
+    Цеттелькастен: `ОН Ни́класа Лу́мана содержал около 90000 [девяноста тысяч] карточек. Плодотворный учёный написал более 50 [пятидесяти] книг и 550 [пятисот пятидесяти] научных статей`,
+  },
+  {
+    'Операция «Голубая звезда» ': `военная операция индийской армии по уничтожению базы сикхских сепаратистов в Золотом храме в июне 1984 года.`,
+  },
+  {
+    'JEANNE-CLAUDE': `They initially worked together under Christo’s name, but later installations were credited to them both. `,
+  },
+  {
+    'Линия девяти пунктиров': `После того, как остров Батьлонгви был передан Вьетнаму, были внесены изменения и линия стала ТАКОЙ. Линия, которую использует Китай для определения его территориальных требований в Южно-Китайском море.`,
+  },
+  {
+    'Джозеф Кошут': `В 1970-ом году ОН написал, что его произведением является идея, а не конкретные объекты, ведь две трети всегда новые.`,
+  },
+  {
+    Сапотеки: `The ancient city of Monte Albán was at the centre of which Mesoamerican civilization from around 700 BCE to 1500 CE?`,
+  },
+  {
+    'Флора Даффи': `Which Bermudian triathlete became the country’s first Olympic gold medallist in 2020?`,
+  },
+  {
+    'Сандра Хюллер': `Known for her starring roles in the German comedy films Toni Erdmann and Sisi & I, which German actress starred as a woman on trial for the murder of her husband in the 2023 Palme d’Or winning film Anatomy of a Fall`,
+  },
+  {
+    'Эдвард Эриксен (Русалочка)': ` 2008 году иск ЕГО потомков к Бьёрну Нёргаарду был отклонён, ведь фотография Нёргаарда изображает общественное место, а не только ЕГО работу. Также ЕГО произведение можно увидеть на картине Роберта Па́нича «Гавань Копенгагена».`,
+  },
+  {
+    'Гринвич-Виллидж': `В 1967 в ЭТОМ РАЙОНЕ был открыт книжный магазин имени Оскара Уайлда. Район на Манхэттене известен тем, что там зародилось движение за права ЛГБТ: именно там располагался гей-бар Stonewall Inn , после полицейского рейда на который начались беспорядки. К слову, группа Village People взяла название в честь этого района.`,
+  },
+  {
+    'благодарные деревни': `Двенадцать ИХ есть даже во Франции, а вот в Шотландии и Ирландии не выявлено ни одной. Населённые пункты в Англии и Уэльсе, все жители которых вернулись домой с Первой мировой войны. `,
+  },
+  {
+    'Кампания в Северной Африке': `В книге 1980 года геймдизайнер Джон Фриман писал, что ЭТА НЕПРОСТАЯ НАСТОЛКА вовсе не игра, а урок истории — чистая симуляция событий.`,
+  },
+  {
+    'Человек предполагает, а Бог располагает (Ландсир)': `По одному городскому мифу, студент покончил с собой во время экзамена, написав на бумаге: «Белые медведи меня заставили». По легенде, перед самоубийством студент посмотрел на ЭТУ КАРТИНУ.`,
+  },
+  {
+    'Лавандовый брак': `Фи́ллис Гейтс, вышедшая замуж за звезду Голливуда Рока Хадсона, до конца жизни утверждала, что не знала, что БРАК БЫЛ ТАКИМ. Хотя, согласно ряду источников, женитьбу организовал агент актера, чтобы избежать скандала`,
+  },
+  {
+    'Скрижали Джорджии': `Экстрасенс из Атланты Нони Ба́тчелдер писала, что истинное назначение ЭТОГО монумента откроется в XXI веке. Скульптуру из 6 плит заказал человек, представившийся фамилией Крисчен. Таинственная скульптура, возведенная в 1980 году и содержащая подобие заповедей на 12 языках. `,
+  },
+  {
+    'Кривая Килинга': `Для регулярных измерений Чарльз выбрал место на Мауна-Кеа, защищённое от вулканического дыма. К 1960-му году группа учёных под руководством Чарльза выделила тренд НА НЕЙ. График, описывающий изменение концентрации углекислого газа в атмосфере. `,
+  },
+  {
+    'Куриная пушка': `Одна из первых моделей ЕЕ в 2016 году была передана в дар Канадскому музею авиации и космонавтики. Пневматическая пушка большого диаметра, используемая для стрельбы птичьими тушками по компонентам самолета для имитирования столкновений с птицами на большой скорости.`,
+  },
+  {
+    'Операция «Немези́с»': `В ответе два слова, которые начинаются на соседние буквы алфавита. Одним из основных центров ЕЁ была редакция газет «Чакатамарт», издававшаяся в Константинополе. Акция возмездия партии «Дашнакцутюн» по убийству лидеров Османской империи, причастных к организации Геноцида армян`,
+  },
+  {
+    'This Machine Kills Fascists (гитара Вуди Гатри)': `По одной версии, ЭТА ФРАЗА была позаимствована с бортов самолетов, сражавшихся на Гражданской войне в Испании.`,
+  },
+  {
+    'И наестся саранча': `Из той части ЭТОГО ПРОИЗВЕДЕНИЯ, которую удается прочитать, становится понятно, что хотя террорист Дзангара промахивается, Рузвельт отказывается идти на третий срок, что в целом не вредит США. Роман, который читают персонажи романа Филипа Дика “Человек в высоком замке”, описывающий альтернативную им реальность.`,
+  },
+  {
+    'Sasha Shulgin': `(June 17, 1925 – June 2, 2014) was an American medicinal chemist, biochemist, organic chemist, pharmacologist, psychopharmacologist, and author. He is credited with introducing ecstasy`,
+  },
+  {
+    ' John Flamsteed': `(19 August 1646 – 31 December 1719) was an English astronomer and the first Astronomer Royal. His main achievements were the preparation of a 3,000-star catalogue, Catalogus Britannicus, and a star atlas called Atlas Coelestis, both published posthumously.`,
+  },
+  {
+    'Декларация о человеческой природе': `Following the defeat of Japan and its Occupation, the Supreme Commander for the Allied Powers, General Douglas MacArthur, did not support the concept of Japan having a supposedly divine emperor. Pressure was put on Emperor Hirohito to renounce his divinity.`,
+  },
+  {
+    JIMMU: `first emperor of Japan`,
+  },
+  {
+    'Фуми-э': `After the proscription of Christianity in 1613, suspected “hidden Christians” were obliged to step on a picture of Christ.`,
+  },
+  {
+    'Izanagi and Izanami': `founding deities of the land of Japan`,
+  },
+  {
+    Kojiki: `Japan’s earliest full chronicle, being published in 712.`,
+  },
+  {
+    'Проклятие знания': `Which term, coined in 1989, refers to the cognitive bias where people who possess a certain level of knowledge or expertise in a subject tend to assume that others have the same understanding, even when this is not the case?`,
+  },
+  {
+    Шарп: `In the historical fiction novels by Bernard Cornwell, what is the surname of the British Army officer with the Christian name Richard?`,
+  },
+  {
+    Силур: `What geologic period that immediately succeeded the Ordovician period and immediately preceded the Devonian period was named by Roderick Murchison for a Celtic tribe of Wales?`,
+  },
+  {
+    Младотурки: `The early-20th century political reform movement that led an eponymous 1908 rebellion against the monarchical system of government of the Ottoman Empire is known by what two-word name?`,
+  },
+  {
+    'Одномерный человек': `A major work of the Frankfurt School, in which 1964 book did Herbert Marcuse [mar-KOO-zuh] discuss how the “advanced industrial society” has caused critical thought to wither away and create the titular type of person?`,
+  },
+  {
+    'Теория коммуникативного действия': `Another key work by a philosopher associated with the Frankfurt School was which 1981 two-volume work by Jürgen Habermas, in which he attempted to ground the social sciences in a theory of language?`,
+  },
+  {
+    'Острова Гилберта и Эллиса': `Before gaining independence in 1976, Kiribati [KIR-ih-BASS] and Tuvalu were part of the same British Crown Colony. By what name was this Crown Colony known?`,
+  },
+  {
+    'Голливудская десятка': `Trumbo is an interesting story in his own right. One of the blacklisted BLANK`,
+  },
+  {
+    'Mariska Veres': `вокалистка Shocking Blue`,
+  },
+  {
+    'Parsley, Sage, Rosemary and Thyme': `альбом Simon and Garfunkel, Scarborough Fair`,
+  },
+  {
+    'Tom And Jerry': `First name of Art and Garfunkel`,
+  },
+  {
+    'Том Арайя': `вокалист Slayer чилиского происхождения`,
+  },
+  {
+    'American Football': `If you were lucky enough to witness the "Immaculate Reception," caught by Franco Harris of the Pittsburgh Steelers, what sport would you have been watching?`,
+  },
+  {
+    Лот: `Which airline is the flag carrier of Poland?`,
+  },
+  {
+    'Эра доброго согласия': `1817 to 1825 in US history has been dubbed the Era of what?`,
+  },
+  {
+    NaNoWriMo: `ежегодный проект, в рамках которого участники — все, кто желает — поощряются написать черновик романа длиной не менее 50 тысяч слов за один ноябрь.`,
+  },
+  {
+    BODEGÓN: `Spanish term used to denote a still life or a scene where kitchen implements or food preparation are included.`,
+  },
+  {
+    'Мальчик, укушенный ящерицей': `This work belongs to Caravaggio’s early career and demonstrates the impact of Venetian art on his style.`,
+  },
+  {
+    'St. Cecilia': `the patron saint of music. She was from a Roman patrician family who raised her as a Christian and married her off to Valerian against her will.`,
+  },
+  {
+    'CIOMPI REVOLT': `BLANK were day laborers who worked in Florence in the wool cloth industry. In 1378, they revolted for not being allowed to form a guild and hence were being deprived of political representation.`,
+  },
+  {
+    'Looking Backward: 2000-1887 (Через сто лет)': `утопический роман христианского социалиста Эдварда Беллами. Пользовался огромной популярностью в XIX веке`,
+  },
+  {
+    'Eliezer Ben Yehuda': `(1858-1922) is known as the father of spoken Hebrew. He revived the Hebrew language and forged it into a modern and viable instrument of communication.`,
+  },
+  {
+    'Новая венская школа': `Alban Berg, Arnold Schoenberg, and Anton Webern have often been called BLANK`,
+  },
+  {
+    'Edward L. Bernays': `(1891-1995), American consultant to business and government, labored to bring public relations to the status of a profession.`,
+  },
+  {
+    '4000': `What 4-digit number follows 'X-Seed' in the name of the conceptual megatall skyscraper proposed by the Taisei Corporation, which theoretically could house up to a million people?`,
+  },
+  {
+    'Каспер Рууд': `Which man, the top Norwegian tennis player (as his father was in the 1990s), lost the 2023 and 2022 French Open finals?`,
+  },
+  {
+    'Небраска и Мэн': `In the US Presidential election, only two States award Electoral College votes by Congressional district, instead of automatically giving all their votes to whoever wins the statewide contest. One of them is which Great Plains State?`,
+  },
+  {
+    'Ирвинг Тальберг (награда лучшему продюсеру на Оскаре)': `The F.Scott Fitzgerald unfinished novel The Last Tycoon, was a fictionalised biography of which American film producer who was nicknamed "The boy wonder"?`,
+  },
+  {
+    'Альфред Ньюман': `The scores to All About Eve, Wuthering Heights, How Green Was My Valley, How The West Was Won and The Song of Bernadette were amongst the most famous works of which American film composer?`,
+  },
+  {
+    'Томас Диксон': `Often referred to as a "professional racist". Which American white supremacist wrote the 1905 novel and play The Clansman?`,
+  },
+  {
+    'Сын Сэма': `nickname of serial killer David Berkowitz`,
+  },
+  {
+    'Генри Холмс': `первый официально зарегистрированный американский серийный убийца. Послужил прототипом Джона Крамера благодаря своему дому с многочисленными ловушками и пыточными камерами. Построил замок убийств в Чикаго
+
+`,
+  },
+  {
+    'Мэри Энн Николс': `Killed on the 31 August, 1888. Which prostitute was the first of the five Canonical victims of Jack The Ripper?`,
+  },
+  {
+    Ракуго: `In which form of traditional Japanese entertainment does a lone storyteller sit on stage and recount comical folktales using only a hand fan (sensu) and hand cloth (tenugui) as props?`,
+  },
+  {
+    'Цутому Ямагути': `Является единственным человеком, чьё нахождение в Хиросиме и Нагасаки во время бомбардировок официально признано.`,
+  },
+  {
+    Пиквик: `The humorous character of Sam Weller appears in which Charles Dickens novel?`,
+  },
+  {
+    Прокаженный: `One of the best known crusader kings, Baldwin IV, who ruled the Kingdom of Jerusalem between 1174 to 1185 was known under what sobriquet, inspired by the disease he suffered from his entire life?`,
+  },
+  {
+    Один: `Vili and Vé are the brothers of what mythological character?`,
+  },
+  {
+    Нанди: `Depicted in statues at many Hindu temples, what is the name of the bull who was the main mount of Shiva?`,
+  },
+  {
+    '​King Minos': `Along with Aeacus (Эак) and Radamanthys, he became one of the three judges of the dead.`,
+  },
+  {
+    Эритрея: `The Dahlak Archipelago, famous for pearl fishing, belongs to which country?`,
+  },
+  {
+    Франкфурт: `In which city are the headquarters of the European Central Bank?`,
+  },
+  {
+    Осло: `In which capital city is famous athletics venue, Bislett Stadium?`,
+  },
+  {
+    Дельмарва: `What portmanteau - technically a clipped compound word - is given to the peninsula on the USA's east coast that is shared by the states of Delaware, Maryland and Virginia?`,
+  },
+  {
+    'Новый Орлеан': `Depicting a scene in his uncle Michel Musson's cotton brokerage business. Which US city completes the title of Edgar Degas's 1873 painting "A Cotton Office in BLANK"`,
+  },
+  {
+    'Кунта Кинте (Roots: The Saga of an American Family)': `According to a book detailing his life (although it is now widely accepted that much of the account was fictionalised). Which man was born circa 1750 in the Mandinka village of Juffure, in the Gambia and raised in a Muslim family?`,
+  },
 ];

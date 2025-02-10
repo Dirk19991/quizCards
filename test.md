@@ -1,89 +1,114 @@
-oneDay (Дмитрий)
-– Ваш выделенный отрывок на странице 1427 | Место 1999–2003 | Добавлено: четверг, 30 мая 2024 г. в 9:29:55
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3490–3492 | Добавлено: вторник, 28 января 2025 г. в 08:17:16
 
-# The Sonoran Desert is full of sharp objects, both plant and animal.  Probably its most famous flora is the distinctive cactus pictured here.  These are extremely long-lived cacti which are only found naturally in the Sonoran Desert, and the iconic arms for which they are famous do not even begin to grow until they are 50-75 years old.  What is the common name for this species of cactus?   [Log in to access media] SAGUARO
+# According to a book detailing his life (although it is now widely accepted that much of the account was fictionalised). Which man was born circa 1750 in the Mandinka village of Juffure, in the Gambia and raised in a Muslim family?
 
-oneDay (Дмитрий)
-– Ваш выделенный отрывок на странице 1464 | Место 2077–2081 | Добавлено: четверг, 30 мая 2024 г. в 9:32:09
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3492 | Добавлено: вторник, 28 января 2025 г. в 08:17:24
 
-# What was the shared name of several 18th and 19th century British social clubs, including two founded respectively in 1719 (by Philip, Duke of Wharton) and 1746 (by Francis Dashwood), that were dedicated to debauchery and hedonism? Contemporary popular imagination (combined with the groups' evocative name) led many to believe satanic activity was afoot at their meetings. Probably not coincidentally, the name was later used on Stranger Things for a Dungeons & Dragons group who was similarly accused of being satanic. HELLFIRE CLUB
+# Кунта Кинте
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 20 | Место 88–91 | Добавлено: вторник, 4 июня 2024 г. в 19:56:40
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3557–3558 | Добавлено: вторник, 28 января 2025 г. в 08:18:55
 
-# 2a ​Nigeria was suspended from the commonwealth following the execution of which environmental campaigner and advocate for the rights of the Ogoni people in 1995? ​Ken SARO-WIWA
+# Depicting a scene in his uncle Michel Musson's cotton brokerage business. Which US city completes the title of Edgar Degas's 1873 painting "A Cotton Office in **\_\_** **\_\_\_**"?
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 31 | Место 130–134 | Добавлено: вторник, 4 июня 2024 г. в 19:59:17
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3558 | Добавлено: вторник, 28 января 2025 г. в 08:19:03
 
-# 3b ​What was the name of the Soviet spaceflight programme that competed with the NASA Mercury missions to put humans into low earth orbit and return them safely? Yuri Gagarin and Valentina Tereshkova were cosmonauts involved in this programme. VOSTOK
+# Новый Орлеан
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 159 | Место 643–646 | Добавлено: вторник, 4 июня 2024 г. в 20:18:31
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3653–3654 | Добавлено: вторник, 28 января 2025 г. в 19:33:17
 
-# 3b ​One of the few national flags that contains the colour purple, which country’s flag features the Sisserou parrot inside a red circle? This is also the national bird of this Caribbean island nation.  DOMINICA
+# What portmanteau - technically a clipped compound word - is given to the peninsula on the USA's east coast that is shared by the states of Delaware, Maryland and Virginia?
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 164 | Место 661–665 | Добавлено: вторник, 4 июня 2024 г. в 20:19:21
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3654 | Добавлено: вторник, 28 января 2025 г. в 19:33:25
 
-# ​Considered a founder of cognitive science, which American psychologist postulated in his highly-cited 1956 work that the average number of objects a human can hold in short term memory is “The Magical Number Seven, Plus or Minus Two”? ​George Armitage MILLER
+# Дельмарва
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 270 | Место 1058–1061 | Добавлено: среда, 5 июня 2024 г. в 8:20:30
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3668–3669 | Добавлено: вторник, 28 января 2025 г. в 19:34:16
 
-# ​In the Mesopotamian poem The Epic of Gilgamesh, the story of King Ut-Napishtim of Shuruppak bears a striking similarity to that of which biblical character? ​Noah 4b
+# In which capital city is famous athletics venue, Bislett Stadium?
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 273 | Место 1072–1073 | Добавлено: среда, 5 июня 2024 г. в 19:17:31
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3669 | Добавлено: вторник, 28 января 2025 г. в 19:34:20
 
-# by which piano-playing mathematics teacher? ​Tom Lehrer
+# Осло
 
-uk13 (Дмитрий)
-– Ваш выделенный отрывок на странице 418 | Место 1642–1644 | Добавлено: среда, 5 июня 2024 г. в 19:48:49
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3683–3683 | Добавлено: вторник, 28 января 2025 г. в 19:34:47
 
-# ​The island of São Miguel is the largest and most populous of which island group in the Atlantic? ​AZOREs 3a
+# In which city are the headquarters of the European Central Bank?
 
-qql1 (Дмитрий)
-– Ваш выделенный отрывок на странице 63 | Место 244–248 | Добавлено: четверг, 6 июня 2024 г. в 6:21:50
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3683 | Добавлено: вторник, 28 января 2025 г. в 19:34:54
 
-# ​BARCELONA 3a ​In which exploration video game, originally released on PS4 and Windows in 2016, can players theoretically visit over 18 quintillion planets? The subsequent implementation of virtual reality technology has helped improve the game's initially poor reputation. NO MAN’S SKY
+# Франкфурт
 
-qql1 (Дмитрий)
-– Ваш выделенный отрывок на странице 231 | Место 868–871 | Добавлено: четверг, 6 июня 2024 г. в 6:58:13
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3743–3744 | Добавлено: вторник, 28 января 2025 г. в 19:37:46
 
-# ​MICHIGAN 3b ​Which artist painted the 1796 portrait of George Washington that is known as the Lansdowne portrait? ​Gilbert STUART
+# One of the largest cities in the Roman Empire, and important in both Early Christianity & the Byzantine Empire, what is the name - traditional or modern - of the capital of the southernmost Turkish province of Hatay?
 
-qb1 (Дмитрий)
-– Ваш выделенный отрывок на странице 1 | Место 8–14 | Добавлено: четверг, 6 июня 2024 г. в 11:02:49
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3744 | Добавлено: вторник, 28 января 2025 г. в 19:37:53
 
-# Classical Japanese theater inspired the ridiculously large suit worn by this man during the song “Girlfriend Is Better” in a Jonathan Demme film. For 10 points, name this singer who appears in the concert film Stop Making Sense. ANSWER: David Byrne (The first clue is about Spike Lee’s concert film American Utopia.)
+# Антиох
 
-wqc prep (User Windows)
-– Ваш выделенный отрывок на странице 498 | Место 1281–1283 | Добавлено: пятница, 7 июня 2024 г. в 8:15:26
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3818–3818 | Добавлено: вторник, 28 января 2025 г. в 19:39:53
 
-# "Askia Muhammad I, also known as Askia the Great, reigned from 1493 to 1528 as the ruler of which Empire, the largest in the history of West Africa?», SONGHAI empire
+# The Dahlak Archipelago, famous for pearl fishing, belongs to which country?
 
-wqc prep (User Windows)
-– Ваш выделенный отрывок на странице 509 | Место 1317–1319 | Добавлено: пятница, 7 июня 2024 г. в 13:32:46
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3818 | Добавлено: вторник, 28 января 2025 г. в 19:40:00
 
-# "At the turn of the year, the Sheikh Zayed Festival broke the world record with an hour long fireworks display. In which country did this take place?», UAE
+# Эритрея
 
-wqc prep (User Windows)
-– Ваш выделенный отрывок на странице 523 | Место 1349–1353 | Добавлено: пятница, 7 июня 2024 г. в 13:34:47
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3874–3875 | Добавлено: вторник, 28 января 2025 г. в 19:41:26
 
-# """A Gift to Those Who Contemplate the Wonders of Cities and the Marvels of Travelling"«, commonly known as The Rihla, was the account of the journey of which Mahgrebi explorer? His journeys to South East Asia and China surpassed Marco Polo», IBN BATTUTA
+# Along with Aeacus and Radamanthys, he became one of the three judges of the dead.​King Minos
 
-wqc prep (User Windows)
-– Ваш выделенный отрывок на странице 527 | Место 1357–1360 | Добавлено: пятница, 7 июня 2024 г. в 13:35:35
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3888–3889 | Добавлено: вторник, 28 января 2025 г. в 19:42:11
 
-# "What was the name of the Austrian mountaineer who was a member of the team that made the first ascent of the North Face of the Eiger? He wrote the book ""Seven Years in Tibet"" and Brad Pitt played him in the subsequent movie», Heinrich HARRER
+# The son of nine mothers, which deity was said to be able to hear grass growing?
 
-wqc prep (User Windows)
-– Ваш выделенный отрывок на странице 534 | Место 1378–1381 | Добавлено: пятница, 7 июня 2024 г. в 13:37:15
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3889 | Добавлено: вторник, 28 января 2025 г. в 19:42:19
 
-# William DAMPIER "Which Japanese mountaineer was the first woman to reach the summit of Mount Everest and the first woman to ascend the Seven Summits, climbing the highest peak on every continent?», Junko TABEI
+# Хеймдалль
 
-wqc prep (User Windows)
-– Ваш выделенный отрывок на странице 548 | Место 1412–1414 | Добавлено: пятница, 7 июня 2024 г. в 13:43:57
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 3957–3958 | Добавлено: вторник, 28 января 2025 г. в 19:44:09
 
-# "Which Canadian child actor, born 2006, was the star of both ""Room"" and ""Wonder""?», Jacob TREMBLAY
+# Depicted in statues at many Hindu temples, what is the name of the bull who was the main mount of Shiva?
+
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 3958 | Добавлено: вторник, 28 января 2025 г. в 19:44:16
+
+# Нанди
+
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 4082–4082 | Добавлено: вторник, 28 января 2025 г. в 19:46:23
+
+# Vili and Vé are the brothers of what mythological character?
+
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 4082 | Добавлено: вторник, 28 января 2025 г. в 19:46:27
+
+# Один
+
+wikiquiz-march2020 (User Windows)
+– Ваш выделенный отрывок в месте 4149–4150 | Добавлено: вторник, 28 января 2025 г. в 19:47:58
+
+# One of the best known crusader kings, Baldwin IV, who ruled the Kingdom of Jerusalem between 1174 to 1185 was known under what sobriquet, inspired by the disease he suffered from his entire life?
+
+wikiquiz-march2020 (User Windows)
+– Ваша заметка в месте 4150 | Добавлено: вторник, 28 января 2025 г. в 19:48:08
+
+# Прокаженный
